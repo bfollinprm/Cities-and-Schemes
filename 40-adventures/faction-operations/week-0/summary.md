@@ -2,20 +2,32 @@
 
 ## What This Is
 
-A digest of every faction quest recorded for week 0, collected from the shared CSV. Use this as a launchpad whenever you need to know who is moving this week and what the stakes are.
+A weekly overview of faction activity. This page is intentionally short; the detailed writeups live in the faction-first notes.
 
-## High-Level Themes
+## At A Glance
 
-- The week is defined by aggressive guild politics, refugee backlash, and cult escalation.
-- Several factions are using public-facing events (gala, sermons, rumors) to influence opinion, while others are secretly undermining rivals through sabotage or assassination.
-- The Flaming Fist, The Guild, and the major mercantile blocs are already clashing with the newcomers to keep control of trade routes.
+- Total operations: 51
+- Successful operations: 31
+- Failed operations: 20
+- Pending operations: 0
+- Public operations: 20
 
-## How To Drill Deeper
+## Factions To Watch
 
-- `quests-a-e.md`
-- `quests-f-k.md`
-- `quests-l-p.md`
-- `quests-q-v.md`
-- `quests-w-z.md`
+- [Baldur's Mouth](../factions/baldur-s-mouth.md): Print a Pro-Consortium Puff Piece (FALSE, TRUE)
+- [Chionthar Consortium](../factions/chionthar-consortium.md): Secure Exclusive Warehousing Contract (TRUE, TRUE)
+- [Circle of the Inner Grove](../factions/circle-of-the-inner-grove.md): Perform a Ritual of Warding (TRUE, TRUE)
+- [Followers of the Phoenix](../factions/followers-of-the-phoenix.md): Hold a Sermon in New Elturel (TRUE, TRUE)
+- [Free Traders of the Outskirts](../factions/free-traders-of-the-outskirts.md): Establish a Mutual Protection Pact (TRUE, TRUE)
+- [Harpers](../factions/harpers.md): Plant an Agent in the Masons' Guild (TRUE, TRUE)
+- [Hellriders of New Elturel](../factions/hellriders-of-new-elturel.md): Submit Petition for Citizenship to the High Hall (TRUE, TRUE)
+- [Peerage of Blood](../factions/peerage-of-blood.md): Block the 'New Kontor Wayleave' Proposal (TRUE, TRUE)
+- [Remnant Costers (Iron Throne](../factions/remnant-costers-iron-throne.md): Sponsor an Adventuring Party (TRUE, TRUE)
+- [Sembian Kontor (The Iron Ledger)](../factions/sembian-kontor-the-iron-ledger.md): Broker a Mercenary Contract for the Western Gate Trading Company (TRUE, TRUE)
+- [The Elturel Remembrance Society](../factions/the-elturel-remembrance-society.md): Declare a Baldurian Merchant 'Infernal' (TRUE, TRUE)
+- [The Gilded Vein](../factions/the-gilded-vein.md): Poison a Consortium's Carrier Pigeons (TRUE, TRUE)
 
-Use those files when you need the detail for a specific faction, because each batch splits the CSV into an easier-to-read subset of notes.
+## Dig Deeper
+
+- `../factions/content.md`
+

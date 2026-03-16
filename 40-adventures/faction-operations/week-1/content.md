@@ -1,4 +1,4 @@
-# Week 0 Contents
+# Week 1 Contents
 
 ## What Lives Here
 
