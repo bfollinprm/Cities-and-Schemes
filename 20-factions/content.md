@@ -17,3 +17,8 @@ Each faction note should stay compact and gameable. It should explain what the f
 - public face
 - hidden methods
 - adventure hooks
+
+## Subfolders
+
+- `conspiracists/` for the conspiracy cells targeting politics and rumor
+- `cults/` for apocalyptic and occult sects that stir crisis through faith, magic, or finance
