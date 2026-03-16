@@ -1,4 +1,4 @@
-# Quests W–Z
+# Quests W-Z
 
 ## How To Use This File
 

@@ -1,4 +1,4 @@
-# Quests Q–V
+# Quests Q-V
 
 ## How To Use This File
 
