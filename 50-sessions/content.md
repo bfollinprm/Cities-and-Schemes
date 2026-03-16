@@ -10,3 +10,4 @@ This folder stores the actual campaign record: session prep, recaps, unresolved 
 - one recap note per played session
 - one forward-looking prep note for the next session
 - update `recurring-threads.md` when new long-term consequences appear
+- use `week-0/` through `week-7/` for pre-session faction-operation fallout tied to the workbook pass

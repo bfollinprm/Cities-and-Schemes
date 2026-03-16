@@ -15,3 +15,4 @@ Setting notes describe the world. Adventure notes describe what is happening now
 - `mysteries/`
 - `hooks-and-rumors/`
 - `locations-in-play/`
+- `faction-operations/`
