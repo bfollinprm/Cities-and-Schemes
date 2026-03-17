@@ -14,6 +14,7 @@ This repository stores campaign lore, game prep, session history, and player-fac
 - `50-sessions/` records what happened at the table.
 - `60-player-handouts/` contains shareable documents.
 - `90-templates/` defines the formatting standard for future notes.
+- `sources/` stores raw imported source documents for reference.
 
 ## Design Rules
 
