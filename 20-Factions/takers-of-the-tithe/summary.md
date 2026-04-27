@@ -15,12 +15,17 @@ The Takers hold that Bhaal's resurrection was a crude rehearsal, and that Myrkul
 
 Cultists work in hunting parties of three: a **Spotter** identifies and shadows the target, a **Reaper** kills with a soul-trapping weapon, and a **Keeper** guards the captured soul gem. Above them sits a cell-leader called "**The Bishop**" who receives target names by Bhaalist revelation. The Collector is rumored to be either a minor patriar of necromantic descent or a survivor of Myrkul's ancient clergy. Murder is framed as "debt collection"; the cult keeps a literal **Tithe Ledger**. (See [The Collector](people/the-collector.md) for the full manifesto.)
 
+Confirmed Bishops:
+
+- **[Singa](people/singa.md)** — ran the cell on the north face of [Dusthawk Hill](../../30-Places/sword-coast/baldurs-gate/lower-city/heapside.md) until [the party broke it in week 6](../party/activity/week_6/storm-dusthawk-hill.md). Killed in her own auditor-styled Counting House sanctum at the Hill's summit. Her cell maintained a paid mole in the Hellrider supply line at the High Rider's Stand.
+
 ## Methods
 
 - Methodical multi-week stalking, then a clean kill with a soul-trapping weapon.
 - Failed attempt on master goldsmith **Elara Varrin** — bodyguards drove off the Reaper; she is now under the [Worshipful Company of Goldsmiths & Jewelers](../wc-goldsmiths-jewelers/summary.md)' protection.
 - Pivoted to **The Ember** (Alfira) of the [Followers of the Phoenix](../followers-of-the-phoenix/summary.md). The Phoenix Gate strike failed; the Reaper was captured by refugees. A follow-up assassin was driven off; a corrupt stockade guard was then paid to feed the prisoner necrotic poison, silencing him for good — his soul trapped in a gem and smuggled out.
-- The **Tithe Ledger** documenting patriar payments was lost to adventurers, escalating the cult to "Tier-1 threat" status against them.
+- The **Tithe Ledger** documenting patriar payments was lost to adventurers, then [traded back to the Skittering Beetle (a Bhaal-bound soul-broker entity)](people/the-skittering-beetle.md) at the Counting House summit in exchange for the party's lives. **The ledger now sits with the Beetle, not the cult.** The cult counts the recovery as a partial win — the patriar payment-list is no longer in adventurer hands and cannot be testified against the Council. The party is escalated to "Tier-1 threat."
+- [Singa's Dusthawk Hill cell is broken](../party/activity/week_6/storm-dusthawk-hill.md); the Counting House sanctum is rubble. The Collector is reorganizing.
 - A Hunter-Killer cell now hunts those adventurers in Rivington.
 
 ## Hooks and Relationships

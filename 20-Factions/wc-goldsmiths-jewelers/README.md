@@ -6,4 +6,4 @@ Regulators of precious metals and gems; the city's unofficial mint and assay off
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: theronius-goldhand.
-- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3, week_4, week_5).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3, week_4, week_5, week_6).

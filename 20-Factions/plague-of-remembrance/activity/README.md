@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — a-new-vector.
 - [week_4/](week_4/) — the-rot-from-within.
 - [week_5/](week_5/) — the-serpents-kiss.
+- [week_6/](week_6/) — the-false-flag.

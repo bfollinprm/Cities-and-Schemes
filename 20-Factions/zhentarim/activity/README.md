@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — an-offer-you-cant-refuse.
 - [week_4/](week_4/) — the-smokepowder-plot.
 - [week_5/](week_5/) — the-financial-front.
+- [week_6/](week_6/) — the-ledger-logic.

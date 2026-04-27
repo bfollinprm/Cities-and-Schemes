@@ -270,6 +270,66 @@ description: What happened in the [Lower City](README.md) districts by in-game w
 - **Alchemists initiate full vault lockdown.** [Master Droog](../../../../20-Factions/wc-alchemists-apothecaries/people/phineas-droog.md) hires dwarven masons and Sembian mercenaries to reinforce the guild's primary vault and replace its magical locks. See [activity](../../../../20-Factions/wc-alchemists-apothecaries/activity/week_5/the-vault-lockdown.md).
 - **Baldur's Mouth Githyanki Garrison cover.** [Ettvard Needle's](../../../../20-Factions/baldurs-mouth/people/ettvard-needle.md) lurid woodcut of K'liir warriors atop Wyrm's Rock sells record copies while questioning Marshal Flint's judgment. See [activity](../../../../20-Factions/baldurs-mouth/activity/week_5/the-githyanki-garrison.md).
 
+## Week 6
+
+### Heapside
+
+- **The Baldur's Mouth Siege Edition.** [Editor Ettvard Needle](../../../../20-Factions/baldurs-mouth/people/ettvard-needle.md) runs starving-children sketches on the front page and Kaelan's *Insurance Scam* exposé inside; the print run sells out three times. See [Baldur's Mouth activity](../../../../20-Factions/baldurs-mouth/activity/week_6/the-siege-edition.md).
+- **The Hands of the Absolute's botched transfusion.** A kidnapped psi-sensitive dies on the slab; the city-wide psionic shockwave is detected by the K'liir, the Sodality, and the Whispering Stone. The cult is psychically blind, deaf, and tagged. See [Hands activity](../../../../20-Factions/hands-of-the-absolute/activity/week_6/the-silent-scream.md).
+- **The Baldur's Mouth print shop ransacked.** [Ettvard Needle](../../../../20-Factions/baldurs-mouth/people/ettvard-needle.md) is missing; a hidden note hints he has fled to the crypts under Tumbledown. **The Mouth's editorial line is one week from a pro-Consortium pivot.** See [Session 27](../../../../50-Sessions/session_27/player_summary.md), [party activity](../../../../20-Factions/party/activity/week_6/split-leads-after-the-counting-house.md).
+- **Storm Dusthawk Hill.** The party ascends the north face of the Hill under the captured Spotter's guidance, navigates the [Four Cairns and the Skittering Beetle's debt-trades](../../../../20-Factions/takers-of-the-tithe/people/the-skittering-beetle.md), kills [Singa](../../../../20-Factions/takers-of-the-tithe/people/singa.md) at the summit Counting House, surrenders the **Tithe Ledger** to the Beetle, and revives [Alfira](../../../../20-Factions/followers-of-the-phoenix/people/the-ember.md) with a diamond from the obsidian pit. The Bhaalist cell on the Hill is broken. See [Sessions 25–26](../../../../50-Sessions/session_25/player_summary.md), [party activity](../../../../20-Factions/party/activity/week_6/storm-dusthawk-hill.md).
+- **The Gravekeepers' silent corpse caravan.** [Old Man Hemlock](../../../../20-Factions/gravekeepers/people/hemlock.md) moves the order's stockpile of consecrated corpses from Tumbledown to a deeper vault in Cliffside Cemetery in absolute silence. See [Gravekeepers activity](../../../../20-Factions/gravekeepers/activity/week_6/the-corpse-caravan.md).
+
+### Twin Songs / Penumbra Playhouse
+
+- **The Night Mother's price.** [Mother Nocturne](../../../../20-Factions/silent-shroud/people/mother-nocturne.md) accepts Bror's secret but demands the **physical sentient source** for the debt to be paid in full; the debt remains. See [Session 27](../../../../50-Sessions/session_27/player_summary.md), [Silent Shroud activity](../../../../20-Factions/silent-shroud/activity/week_6/the-blind-eye.md).
+- **The Mother Nocturne purge.** Mother Nocturne runs a painful Purge of the Blind on her own cell after losing track of Bror; she finds no traitor. The cell's morale will take weeks to recover. See [Silent Shroud activity](../../../../20-Factions/silent-shroud/activity/week_6/the-blind-eye.md).
+
+### Gray Harbour
+
+- **The Drydock Lockout.** [Master Helma Tallowshand](../../../../20-Factions/wc-shipwrights-calkers/people/helma-tallowshand.md) bars all non-guild vessels from drydock access. Independent captains beach their ships on the mudflats; harbor traffic snarls. See [Shipwrights activity](../../../../20-Factions/wc-shipwrights-calkers/activity/week_6/the-drydock-lockout.md).
+- **The Fishmongers' harbor militia.** [Matron Marga Saltwind's](../../../../20-Factions/wc-fishmongers/people/marga-saltwind.md) net-knife-and-gaff patrols hurl petty thieves into the bay. Petty-theft rate plummets. See [Fishmongers activity](../../../../20-Factions/wc-fishmongers/activity/week_6/the-harbor-patrol.md).
+- **The Wharf Rats' counter-punch.** [One-Eyed Jack's](../../../../20-Factions/wharf-rats/people/one-eyed-jack.md) crew torches a Zhentarim warehouse, burning ~4,000 gp of [Roah Moonglow's](../../../../20-Factions/zhentarim/people/roah-moonglow.md) cargo. See [Wharf Rats activity](../../../../20-Factions/wharf-rats/activity/week_6/the-counter-punch.md).
+- **The Hostile Takeover.** [Consul Athar](../../../../20-Factions/amnian-kontor/people/vorlamin-athar.md) closes a hostile takeover on Brindlestone & Sons; Amnian flag flies over the Gray Harbour warehouse by sundown. The Consortium's river monopoly is now formally broken. See [Amnian activity](../../../../20-Factions/amnian-kontor/activity/week_6/the-hostile-takeover.md).
+- **Silas's failed wreck-dive.** [Silas the Eel](../../../../20-Factions/river-rats/people/silas-the-eel.md) loses another swimmer and his last credibility on a Consortium salvage contract for a lockbox the Amnians had already pulled. See [River-Rats activity](../../../../20-Factions/river-rats/activity/week_6/the-river-retrieval.md).
+
+### Counting House
+
+- **The Peerage of Coin's private security.** Sembian-livery guards appear at every patriar bank and Counting House door, answering only to the coin lords; **the Fist's monopoly on legitimate force has been quietly dissolved on the coin row.** See [Peerage of Coin activity](../../../../20-Factions/peerage-of-coin/activity/week_6/the-private-security.md).
+- **The Goldsmiths' open-vault audit.** [Master Goldhand](../../../../20-Factions/wc-goldsmiths-jewelers/people/theronius-goldhand.md) walks outside auditors through every coin chest in the strongroom; the city's bankers are reassured; bankruptcy rumors die. See [Goldsmiths activity](../../../../20-Factions/wc-goldsmiths-jewelers/activity/week_6/the-gold-standard.md).
+- **The Zhentarim's Ledger Logic.** [Roah Moonglow's](../../../../20-Factions/zhentarim/people/roah-moonglow.md) clerks alter the city tax records of Guild-aligned businesses, triggering automated audits and asset freezes; ~8,000 gp of Guild working capital frozen. See [Zhentarim activity](../../../../20-Factions/zhentarim/activity/week_6/the-ledger-logic.md), [Guild internal audit](../../../../20-Factions/guild/activity/week_6/the-financial-audit.md).
+- **The Gilded Vein's emergency liquidation.** [Valerius Thorne's](../../../../20-Factions/gilded-vein/people/valerius-thorne.md) agents pull five accounts, lose four to freezes, lose eight to seals; one agent dead in an alley. See [Gilded Vein activity](../../../../20-Factions/gilded-vein/activity/week_6/the-liquidated-assets.md).
+
+### Brampton
+
+- **The Chandlers' "maintenance blackout."** [Mistress Anya Brightwood](../../../../20-Factions/wc-chandlers-lamplighters/people/anya-brightwood.md) is forced to disable Brampton's Zhentarim-corridor lamplighting under Guild pressure; a Zhent courier is found dead in an alley after two consecutive blackout nights. See [Chandlers activity](../../../../20-Factions/wc-chandlers-lamplighters/activity/week_6/the-dark-streets.md).
+- **The Alchemists' three-way poison-analysis trade.** [Master Phineas Droog](../../../../20-Factions/wc-alchemists-apothecaries/people/phineas-droog.md) confirms a Zhentarim signature in the Vintners' poisoned ale and sells antidotes to the Sembian camps. See [Alchemists activity](../../../../20-Factions/wc-alchemists-apothecaries/activity/week_6/the-poison-analysis.md).
+
+### Sorcerous Sundries
+
+- **The system-reboot backlash.** A Sodality reset ritual on the corrupted scrying censers backlashes catastrophically — windows blow out for a block, the central crystal cracks, three apprentices unconscious. The Sodality has lost its information edge for at least a fortnight. See [Sodality activity](../../../../20-Factions/wc-sorcerous-sodality/activity/week_6/the-system-reboot.md).
+
+### Bloomridge
+
+- **Mercer "siege chic."** [Mistress Vance's](../../../../20-Factions/wc-mercers-clothiers/people/elethra-vance.md) fur-lined patriar coats and silvered walking-canes sell out in 48 hours. *Vanity survives the siege.* See [Mercers activity](../../../../20-Factions/wc-mercers-clothiers/activity/week_6/the-winter-collection.md).
+
+### Eastway
+
+- **The Vintners' total ale embargo on the mercenary camps.** [Master Quickfoot](../../../../20-Factions/wc-vintners-brewers/people/belba-quickfoot.md) declares the embargo after the previous week's Zhent poisoning; mercenaries dry by Tendays' day three; riot rumors begin. See [Vintners activity](../../../../20-Factions/wc-vintners-brewers/activity/week_6/the-ale-embargo.md).
+
+### Iron Ledger
+
+- **The Sembian price hike.** [Bursar Korgan Ironhand](../../../../20-Factions/sembian-kontor/people/korgan-ironhand.md) triggers a 20% supply-cost increase under siege-conditions clause; the Council draws against Counting House reserves to pay it. See [Sembian activity](../../../../20-Factions/sembian-kontor/activity/week_6/the-price-of-steel.md).
+
+### Cogwork Quay
+
+- **The Lantaner prototype assembly.** [Glim-Nimblewhiz](../../../../20-Factions/lantaner-concession/people/glim-nimblewhiz.md) and his artificers assemble the new defensive prototype from [Steel Watch Foundry alloys](../../../../20-Factions/lantaner-concession/activity/week_5/the-foundry-scavenge.md); a Sembian thief is drowned at the perimeter on day six. See [Lantaner activity](../../../../20-Factions/lantaner-concession/activity/week_6/the-prototype-assembly.md).
+
+### Blushing Mermaid
+
+- **The Iron Throne's double-cross.** [The Anonymous Throne's](../../../../20-Factions/iron-throne/people/the-anonymous-throne.md) agents sell Sembian patrol routes to the Free Traders and Free-Trader weak points to the Sembians from the same tavern, two nights running. See [Iron Throne activity](../../../../20-Factions/iron-throne/activity/week_6/the-double-cross.md).
+- **The Carnival's alley circus.** [Mister Smiles](../../../../20-Factions/carnival-of-whispers/people/mister-smiles.md) sets up a guerrilla circus behind the Mermaid; the audience is the Lower City's drunks and broken sewer jacks; the patron feeds on despair. See [Carnival activity](../../../../20-Factions/carnival-of-whispers/activity/week_6/the-whispering-alley.md).
+
 ## See also
 
 - [README.md](README.md) — Lower City overview.

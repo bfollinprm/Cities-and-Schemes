@@ -29,3 +29,9 @@ description: Bidirectional mapping between session number and in-game week.
 | [19](session_19/README.md) | 5 | 2025-11-17 | Relief caravan to the Basilisk Gate; Finn turns it into a free feast at Eastway. |
 | [20](session_20/README.md) | 5 | 2025-11-24 | The Rivington Gambit; the Triple Monopoly; Errinthal's shadow funding; the Whispering Stone hums. |
 | [21](session_21/README.md) | 5 | 2025-12-01 | Finneas's Plowman office hours; Kaelan earns the Credential of Balduran; Heapside landmarks scouted. |
+| [22](session_22/README.md) | 6 | 2025-12-08 | Reading the Siege Edition; Spark's Reverse Siege pitch; recruiting the Ember at the Foundation Stone ceremony. |
+| [23](session_23/README.md) | 6 | 2025-12-15 | Jaredith returns; Takers of the Tithe alley ambush; the Tithe Ledger names the party. |
+| [24](session_24/README.md) | 6 | 2025-12-22 | High Rider's Stand interrogation; the unkillable ruse; the Reaper poisoned mid-confession; Eric the imprisoned patriarch. |
+| [25](session_25/README.md) | 6 | 2025-12-29 | Alfira abducted; the Four Cairns of Dusthawk Hill; the Skittering Beetle's debt-trades. |
+| [26](session_26/README.md) | 6 | 2026-01-05 | Battle at the Counting House; Singa killed; Alfira revived; Tithe Ledger surrendered to the Beetle. |
+| [27](session_27/README.md) | 6 | 2026-01-12 | Aftermath; Alfira at the Plowman; Jaredith stays in New Elturel; Bror owes the Night Mother a sentient source; Ettvard Needle is missing. |

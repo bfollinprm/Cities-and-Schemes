@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — identify-the-assassins-patron.
 - [week_4/](week_4/) — hostile-takeover.
 - [week_5/](week_5/) — retaliatory-asset-seizure.
+- [week_6/](week_6/) — the-hostile-takeover.

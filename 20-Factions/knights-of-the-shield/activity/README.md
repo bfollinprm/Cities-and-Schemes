@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — a-friend-in-the-coin.
 - [week_4/](week_4/) — a-deal-in-the-gutters.
 - [week_5/](week_5/) — a-desperate-bargain.
+- [week_6/](week_6/) — the-infernal-ledger.

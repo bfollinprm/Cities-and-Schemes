@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — a-taste-of-gratitude.
 - [week_4/](week_4/) — a-new-patron.
 - [week_5/](week_5/) — securing-the-supply-line.
+- [week_6/](week_6/) — the-ale-embargo.

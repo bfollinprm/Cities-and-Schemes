@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — circle-the-wagons.
 - [week_4/](week_4/) — an-alliance-of-steel-and-silver.
 - [week_5/](week_5/) — the-integration-drills.
+- [week_6/](week_6/) — the-officers-dilemma.

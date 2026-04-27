@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — follow-the-resonance.
 - [week_4/](week_4/) — the-scrying-censors.
 - [week_5/](week_5/) — analyze-the-arcane-traffic.
+- [week_6/](week_6/) — the-system-reboot.

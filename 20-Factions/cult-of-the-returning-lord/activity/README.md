@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — consecrate-the-blockade-with-blood.
 - [week_4/](week_4/) — an-offering-in-the-dark.
 - [week_5/](week_5/) — relocate-the-sanctum.
+- [week_6/](week_6/) — the-gutter-prayer.

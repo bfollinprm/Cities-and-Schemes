@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — the-undercellar-run.
 - [week_4/](week_4/) — a-favor-for-a-friend.
 - [week_5/](week_5/) — the-smokepowder-run.
+- [week_6/](week_6/) — the-river-retrieval.

@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — whip-the-votes.
 - [week_4/](week_4/) — the-emergency-levy.
 - [week_5/](week_5/) — the-emergency-tax.
+- [week_6/](week_6/) — the-private-security.
