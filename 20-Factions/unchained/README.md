@@ -1,0 +1,7 @@
+# The Unchained *(aka K'liir)*
+
+Githyanki exiles loyal to Prince Orpheus, training in the Outer City for war against Vlaakith.
+
+## Index
+
+- [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
