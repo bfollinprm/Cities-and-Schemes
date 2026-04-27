@@ -31,6 +31,20 @@ Titania convened the [Court of Stars](../10-Setting/cosmology/fey-courts/court-o
 
 The bards have begun calling this conclave the **"Conclave of Mirrors,"** for the moment when each court came face-to-face with its rival and saw equally terrified eyes staring back.
 
+## 1492–1502 DR — The Sea of Swords, decade of churn
+
+Western-water events recorded by Greywake's dossier. World-visible only; deep-water horrors are rumor unless otherwise noted.
+
+- **1492 DR — Year of Three Ships Sailing.** Half-orc corsair **Ghorin Bloodwave** forges the **Black Flag Fleet** in the Nelanther; the Storm Maiden tightens her grip on Norland and Oman; Amnian soldiery entrenches on **Snowdown**.
+- **1494 DR — Battle of Gull Rock.** Bloodwave's fleet smashes an Amnian convoy off the Nelanther, seizing enough coin to buy a hundred new ships. The Northlanders raid Callidyrr's coasts under the Storm Maiden; High King Derid's dragoons cannot hold the shore.
+- **1495 DR — Waterdeep cancels its Mintarn contract.** Laeral Silverhand ends Dagult Neverember–era leases of Mintarn's mercenary navy. Mintarn's coffers thin just as Hoondarrh demands greater tribute; the Tyrant's bind begins.
+- **1496 DR — Lords' Alliance push into the Nelanther.** Waterdeep and Baldur's Gate force the Alliance fleet into the pirate isles. **Kraken Society** glyphs surface in Luskan, Gundbarg, and Baldur's Gate's docks. The Society tries to seed a cult on Ruathym; cultists found drowned. Bloodwave's reavers threaten **Orlumbor** before Waterdeep's navy intercepts.
+- **1498 DR — Battle of Asavir's Channel.** Combined Lords' Alliance fleets crush Bloodwave's Black Flag Fleet at the Nelanther bottleneck. Many pirate lords die; Bloodwave's body never found. **Ruathym closes its ports** by decree of the First Axe **Vok Dorrg**: *"Let the south bleed; we will guard our own fjords."* **Hoondarrh attacks Castle Mintarn**, toppling two towers to demand more tribute.
+- **1499 DR — Green-comet impact.** A green comet plunges into the ocean west of Evermeet (summer). Captains afterward report unnatural lights beneath the water and dreamings; sages whisper of **starspawn**.
+- **1500 DR — Trade boom.** Baldur's Gate's reconstruction drives caravan and galleon traffic to a peak. Zhentarim fattens on smokepowder and spices across the Chionthar and [Sea of Swords](../10-Setting/regions/sea-of-swords.md). The Storm Maiden vanishes for a season, returning with eyes like lightning. A night of three moons over Gwynneth seen by twenty crews.
+- **1501 DR — Year of the Awakened Kraken.** Whole caravels vanish in the Trackless Sea. A Harper missive reports unusual tides around the **Purple Rocks**; **Ascarle** may be stirring. **Admiral Austarl Blackmane** consolidates the Nelanther under the *Brine Hydra*. Ruathym nearly starves; saved by a bumper whale catch.
+- **1502 DR (present) — Year of the Pox Plague.** Pestilence creeps through southern ports. Blackmane sinks two Amnian frigates in open battle, announcing his reign of fear. The Tyrant of Mintarn quietly petitions the Lords' Alliance for loans and a dragonslayer. The Alliance proclaims sea lanes secure; sailors laugh in every tavern.
+
 ## 1492–1497 DR — The Crisis and the Decade of Reconstruction in Baldur's Gate
 
 - **1492 DR — Absolute Crisis (BG3).** The Cult of the Absolute, run by Chosen of the Dead Three and a Netherbrain, nearly conquers Baldur's Gate. Heroes destroy the Brain. See [absolute-crisis](../10-Setting/history/absolute-crisis.md).
@@ -42,7 +56,7 @@ The bards have begun calling this conclave the **"Conclave of Mirrors,"** for th
 ## c. 1491 DR — The Shadow War begins
 
 - **The Masked Lord Murders.** A faction inside the [Masked Lords of Waterdeep](../10-Setting/polities/waterdeep-government.md) assassinates nearly half the council in a coup attempt. Plot foiled; council paranoia institutionalized.
-- **The Zhentarim Schism.** A clone of Manshoon arrives in Waterdeep and fractures the Black Network; the **Shadow War** with the Xanathar Guild begins. See [Waterdeep — Factions](../30-Places/sword-coast/waterdeep/factions.md).
+- **The Zhentarim Schism.** A clone of Manshoon arrives in Waterdeep and fractures the Black Network (the [Zhentarim](../20-Factions/zhentarim/summary.md)); the **Shadow War** with the [Xanathar Guild](../20-Factions/xanathars-guild/summary.md) begins. See [Waterdeep — Factions](../30-Places/sword-coast/waterdeep/factions.md).
 
 ## c. 1489 DR — Neverember ousted; Laeral ascends
 
@@ -80,7 +94,7 @@ The adventurer **Balduran** returns from Anchorome and walls the fishing village
 
 ## Older — Foundational Waterdhavian events
 
-- **1314 DR — The Lords' Alliance founded.** Waterdeep establishes the confederation of northern powers; cements its position as political center of the Sword Coast North.
+- **1314 DR — The [Lords' Alliance](../10-Setting/polities/lords-alliance.md) founded.** Waterdeep establishes the confederation of northern powers; cements its position as political center of the Sword Coast North.
 - **1273 DR — The Lords' Rule revived.** Lords Baeron and Shilarn Silmaeril restore the Masked Lords system, which has held continuously since.
 - **1256 DR — Guildmasters' Folly.** Ahghairon dies; the Guildmasters seize the city; their corrupt rule is overthrown. Origin of the Lords-vs-Guilds tension.
 - **1248 DR — Nobility formalized.** The Lords grant the eighty-five noble houses the rights to bear arms and maintain private armies up to seventy soldiers.

@@ -24,7 +24,7 @@ The city's most skilled alchemists, apothecaries, and (off the books) poisoners.
 
 ## Hooks and Relationships
 
-**Enemies.** Legendary cold war with the un-chartered **Poisoners' Guild**, which operates as the Company's illegal black-market mirror. Distrust from the city's temples — particularly the Open Hand — who see the Alchemists as amoral profiteers. Hostile gaze from [The Purified](../purified/summary.md), whose conspiracy theory holds that the Alchemists secretly supply chemical binders for Lantaner nano-cogs. The current apprentice scandal threatens to put guild secrets directly in [the Guild](../guild/summary.md)'s hands, a potentially catastrophic leak.
+**Enemies.** Legendary cold war with the un-chartered [Poisoners' Guild](../poisoners-guild/summary.md), which operates as the Company's illegal black-market mirror. Distrust from the city's temples — particularly the Open Hand — who see the Alchemists as amoral profiteers. Hostile gaze from [The Purified](../purified/summary.md), whose conspiracy theory holds that the Alchemists secretly supply chemical binders for Lantaner nano-cogs. The current apprentice scandal threatens to put guild secrets directly in [the Guild](../guild/summary.md)'s hands, a potentially catastrophic leak.
 
 ## See also
 

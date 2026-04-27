@@ -6,3 +6,4 @@ Dockside smuggling crew under One-Eyed Jack, working the [Gray Harbour](../../30
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: one-eyed-jack.
+- [activity/](activity/) — Ongoing actions by week (week_0).

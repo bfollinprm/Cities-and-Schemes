@@ -18,7 +18,7 @@ The **Jhasso family** itself, plus the few factors and house guards still on the
 ## Methods
 
 - **Specialty trading** in rare silks, spices, and luxury imports from Calimshan — the niche that has kept the manor lit.
-- **Recent expedition lost at sea.** A Calimshan silk run was lost to weather and piracy on the [Sea of Swords](../../30-Places/sword-coast/sea-of-swords.md), a major financial blow to the family's already dwindling fortunes. The cargo was uninsured at full value; the family is quietly canvassing for a creditor who will not foreclose.
+- **Recent expedition lost at sea.** A Calimshan silk run was lost to weather and piracy on the [Sea of Swords](../../10-Setting/regions/sea-of-swords.md), a major financial blow to the family's already dwindling fortunes. The cargo was uninsured at full value; the family is quietly canvassing for a creditor who will not foreclose.
 - **Manor-as-collateral.** Increasingly, the Jhassos host private buyers in the manor's salons and use family heirlooms — paintings, plate, bound books — as informal credit against the next shipment that might come in.
 
 ## Hooks and Relationships

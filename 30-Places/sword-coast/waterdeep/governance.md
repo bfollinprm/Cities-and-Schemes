@@ -6,7 +6,7 @@ type: city-governance
 
 # Waterdeep — Governance (as the city sees it)
 
-The system itself — Open Lord, Masked Lords, Lords' Alliance node — lives in [10-Setting/polities/waterdeep-government.md](../../../10-Setting/polities/waterdeep-government.md). This file is the city's-eye view: the lived institutions a Waterdhavian touches.
+The system itself — Open Lord, Masked Lords, [Lords' Alliance](../../../10-Setting/polities/lords-alliance.md) node — lives in [10-Setting/polities/waterdeep-government.md](../../../10-Setting/polities/waterdeep-government.md). This file is the city's-eye view: the lived institutions a Waterdhavian touches.
 
 ## The Watch and the Guard
 
@@ -26,7 +26,7 @@ The city's elite reserve — adventurers and high-magic specialists led by the *
 
 ## Guild Law
 
-The Guilds enforce their own laws — distinct from city law, blessed by the Lords. Practicing a regulated trade without guild membership is illegal and harshly punished by the relevant guild's enforcers. The Guild of Watermen and the Fellowship of Carters and Coachmen can each, by themselves, halt the city's trade. Negotiations with the Lords over taxes or regulation always run under the implicit threat of a strike.
+The Guilds enforce their own laws — distinct from city law, blessed by the Lords. Practicing a regulated trade without guild membership is illegal and harshly punished by the relevant guild's enforcers. The [Guild of Watermen](../../../20-Factions/guild-of-watermen/summary.md) and the [Fellowship of Carters and Coachmen](../../../20-Factions/fellowship-of-carters-and-coachmen/summary.md) can each, by themselves, halt the city's trade. Negotiations with the Lords over taxes or regulation always run under the implicit threat of a strike.
 
 ## The "Open Rulers"
 
@@ -34,7 +34,7 @@ A growing reformist political movement, not yet a campaign faction. Argument: se
 
 ## The compromised seats
 
-Two Masked Lords, **Corylus Thann** and **Jelenn Urmbrusk**, are both blackmailed by Manshoon's Zhentarim — financial ruin and a lever, respectively. Manshoon already has votes inside the council, and no one in the council knows which votes those are.
+Two Masked Lords, **Corylus Thann** and **Jelenn Urmbrusk**, are both blackmailed by Manshoon's [Zhentarim](../../../20-Factions/zhentarim/summary.md) — financial ruin and a lever, respectively. Manshoon already has votes inside the council, and no one in the council knows which votes those are.
 
 ## See also
 

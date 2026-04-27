@@ -6,3 +6,4 @@ Reformed [Sorcerous Sundries](../../30-Places/sword-coast/baldurs-gate/lower-cit
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: lorroakan.
+- [activity/](activity/) — Ongoing actions by week (week_0).

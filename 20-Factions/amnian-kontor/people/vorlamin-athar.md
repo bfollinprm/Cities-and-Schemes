@@ -13,7 +13,7 @@ Consul of the [Amnian Kontor](../summary.md) and de-facto director of the Gold-G
 
 ## Role
 
-In the desperate years after the Absolute Crisis, Baldur's Gate's Emergency Council struck **The Great Bargain**: foreign powers were invited to fund the city's reconstruction in exchange for self-governing commercial enclaves on prime real estate. Athar's Amn responded with massive infusions of gold and materials and was granted the charter for what became the **[Gold-Gable Hall](../summary.md)** — the largest and most powerful of the Kontors. He runs it as both consul and chief financier.
+In the desperate years after the [Absolute Crisis](../../../10-Setting/history/absolute-crisis.md), Baldur's Gate's Emergency Council struck **The Great Bargain**: foreign powers were invited to fund the city's reconstruction in exchange for self-governing commercial enclaves on prime real estate. Athar's Amn responded with massive infusions of gold and materials and was granted the charter for what became the **[Gold-Gable Hall](../summary.md)** — the largest and most powerful of the Kontors. He runs it as both consul and chief financier.
 
 He sits in the [Peerage of Coin](../../peerage-of-coin/summary.md) as one of its most heavily-weighted voices and treats the [Council of Four](../../council-of-four/summary.md) as a board of debtors yet to fully understand their position.
 

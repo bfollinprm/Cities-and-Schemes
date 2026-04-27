@@ -8,7 +8,7 @@ type: city-neighbors
 
 ## Lords' Alliance interior
 
-Waterdeep is the **de facto capital** of the Lords' Alliance and chairs it through the Open Lord. The Alliance is a confederation of northern powers — diplomacy, trade agreements, mutual defense. Membership matters: it is the difference between being inside the system that runs the North and being outside it.
+Waterdeep is the **de facto capital** of the [Lords' Alliance](../../../10-Setting/polities/lords-alliance.md) and chairs it through the Open Lord. The Alliance is a confederation of northern powers — diplomacy, trade agreements, mutual defense. Membership matters: it is the difference between being inside the system that runs the North and being outside it.
 
 Recent move: Laeral has begun **constructing a new line of forts along the High Road**, a project intended to quell banditry and project Waterdhavian military power beyond the walls for the first time in years. Read this as a shift from internal preoccupation to renewed Alliance-wide projection.
 

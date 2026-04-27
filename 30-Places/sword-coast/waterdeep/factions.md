@@ -12,7 +12,7 @@ Cross-link table only. Faction prose lives in [`20-Factions/`](../../../20-Facti
 
 | Faction | Role in Waterdeep |
 | --- | --- |
-| Lords' Alliance | Formal political/military confederation; chaired from here. See [governance.md](governance.md). |
+| [Lords' Alliance](../../../10-Setting/polities/lords-alliance.md) | Formal political/military confederation; chaired from here. See [governance.md](governance.md). |
 | [Waterdhavian Kontor](../../../20-Factions/waterdhavian-kontor/summary.md) | Home institution. The Splendid Yard in Baldur's Gate is *their* outpost, not the other way around. |
 | [Harpers](../../../20-Factions/harpers/summary.md) | Major hub. Local council of "Wise Owls" — Lord Vescaras Ammakyl (spymaster), Lady Remallia Haventree (cells coordinator). Primary target: Zhentarim. |
 
@@ -31,7 +31,7 @@ Cross-link table only. Faction prose lives in [`20-Factions/`](../../../20-Facti
 | --- | --- |
 | [Zhentarim — Doom Raiders](../../../20-Factions/zhentarim/summary.md) | Modern Black Network: profit-first smuggling and money-lending. Led by half-elf **Davil Starsong**; alchemist **Skeemo Weirdbottle** being turned by Manshoon. |
 | Zhentarim — Manshoon's faction | Brutal purist split. Manshoon clone aims to install himself as Open Lord; suborned two Masked Lords; incites street violence. |
-| Xanathar Guild | Beholder-led empire under the city. Distributes addictive **Black Lilly**; slave trade, protection rackets. Mind-flayer **Nihiloor** plants intellect devourers in citizens (e.g., Meloon Wardragon). Linked to Skullport. |
+| [Xanathar Guild](../../../20-Factions/xanathars-guild/summary.md) | Beholder-led empire under the city. Distributes addictive **Black Lilly**; slave trade, protection rackets. Mind-flayer **Nihiloor** plants intellect devourers in citizens (e.g., Meloon Wardragon). Linked to Skullport. |
 
 ## Major nobility (Throne and Court)
 

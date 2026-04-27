@@ -9,7 +9,7 @@ The economic devastation of the [Absolute Crisis](../history/absolute-crisis.md)
 
 ## What it is — and isn't
 
-Not a formal, chartered alliance like the **Lords' Alliance**. The Hansa is an informal but powerful, Baldur's-Gate-centric trading bloc held together by:
+Not a formal, chartered alliance like the [Lords' Alliance](lords-alliance.md). The Hansa is an informal but powerful, Baldur's-Gate-centric trading bloc held together by:
 
 - **Standardized tariffs.** Member cities apply consistent customs schedules across the region.
 - **Shared commercial law.** Member courts recognize each other's contracts, judgments, and registered Worshipful Company seals.
@@ -19,7 +19,7 @@ The Hansa is in this sense a project of the [Council of Four](../../20-Factions/
 
 ## Why it works
 
-- **Geography.** The Chionthar is the natural east-west spine for the western Heartlands; the [Sea of Swords](../../30-Places/sword-coast/sea-of-swords.md) is the natural north-south spine for the western coast. Baldur's Gate sits at the intersection.
+- **Geography.** The Chionthar is the natural east-west spine for the western Heartlands; the [Sea of Swords](../regions/sea-of-swords.md) is the natural north-south spine for the western coast. Baldur's Gate sits at the intersection.
 - **Capital.** Amnian banking (issued through the [Gold-Gable Hall](../../20-Factions/amnian-kontor/summary.md)) underwrites cross-city contracts and currency exchange across the bloc.
 - **Demand.** Lantaner smokepowder, Waterdhavian magical goods, and Sembian bulk logistics each create supply-chain pressures that none of the smaller polities can fulfill alone.
 

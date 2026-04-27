@@ -5,4 +5,5 @@ Guild forging arms and armor for the city's guards, soldiers, and adventurers.
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
-- [people/](people/) — Named figures: tor-keg-silverhand.
+- [people/](people/) — Named figures: dammon, tor-keg-silverhand.
+- [activity/](activity/) — Ongoing actions by week (week_0).

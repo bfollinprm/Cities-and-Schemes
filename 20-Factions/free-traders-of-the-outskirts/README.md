@@ -6,3 +6,4 @@ Independent caravan masters of the [Outer City](../../30-Places/sword-coast/bald
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: mad-meggan.
+- [activity/](activity/) — Ongoing actions by week (week_0).

@@ -9,7 +9,7 @@ A stoic, alien military encampment of **Githyanki exiles** loyal to the rebel **
 
 ## Ideology
 
-To **survive, train, and prepare** for the war that matters. The Unchained regard Baldur's Gate as a stepping stone — useful, owed to them after Orpheus's role in the Absolute Crisis, but not their concern. They remain aloof from city politics by choice. Their watchword: *Tsk'va.* You see this world. We see the next.
+To **survive, train, and prepare** for the war that matters. The Unchained regard Baldur's Gate as a stepping stone — useful, owed to them after Orpheus's role in the [Absolute Crisis](../../10-Setting/history/absolute-crisis.md), but not their concern. They remain aloof from city politics by choice. Their watchword: *Tsk'va.* You see this world. We see the next.
 
 ## Membership
 

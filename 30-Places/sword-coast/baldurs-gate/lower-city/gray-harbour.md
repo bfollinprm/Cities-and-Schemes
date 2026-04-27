@@ -19,7 +19,7 @@ The [Lower City](README.md)'s working waterfront — piers bristling with masts,
 Four walled compounds line the waterfront, each operating under home-nation law:
 
 - **The Gold-Gable Hall** — [Amnian Kontor](../../../../20-Factions/amnian-kontor/summary.md). Banking, southern luxuries, currency exchange. Coin-Swords on the walls.
-- **The Splendid Yard** — [Waterdhavian Kontor](../../../../20-Factions/waterdhavian-kontor/summary.md). Magical goods, finished textiles, and (unofficially) Lords' Alliance and Harper intelligence. Griffin Guard.
+- **The Splendid Yard** — [Waterdhavian Kontor](../../../../20-Factions/waterdhavian-kontor/summary.md). Magical goods, finished textiles, and (unofficially) [Lords' Alliance](../../../../10-Setting/polities/lords-alliance.md) and Harper intelligence. Griffin Guard.
 - **The Iron Ledger** — [Sembian Kontor](../../../../20-Factions/sembian-kontor/summary.md). Bulk goods, mercenary contracts, logistics. Iron Guard.
 - **The Cogwork Quay** — [Lantaner Concession](../../../../20-Factions/lantaner-concession/summary.md). Smokepowder, mechanical devices, invention. Gnomish sentinels and stranger countermeasures.
 

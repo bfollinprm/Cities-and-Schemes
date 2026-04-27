@@ -20,7 +20,7 @@ His current crises:
 - A **price-gouging vote** to triple antitoxin prices during a Sewer Plague outbreak was bypassed when adventurers diverted [Chionthar Consortium](../../chionthar-consortium/summary.md) supplies to the [Open Hand Temple](../../../30-Places/sword-coast/baldurs-gate/outer-city/open-hand-temple.md). The guild's public reputation took a sharp hit; Droog took the rebuff personally.
 - A **theft from the Company's own stores** of dangerous reagents was covered up by publicly framing a recently-fired apprentice and posting a bounty for him. The plan has now collapsed: the apprentice has reached out to [the Guild](../../guild/summary.md) offering three valuable formulas in exchange for protection and safe passage.
 
-He maintains the Company's legendary cold war with the un-chartered **Poisoners' Guild**, but the immediate threat to his position now comes from inside his own walls. He is, predictably, hunting harder for traitors and trusting fewer of his Wardens.
+He maintains the Company's legendary cold war with the un-chartered [Poisoners' Guild](../../poisoners-guild/summary.md), but the immediate threat to his position now comes from inside his own walls. He is, predictably, hunting harder for traitors and trusting fewer of his Wardens.
 
 ## See also
 

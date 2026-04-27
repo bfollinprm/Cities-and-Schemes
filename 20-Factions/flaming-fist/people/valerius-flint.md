@@ -13,7 +13,7 @@ Marshal of the [Flaming Fist](../summary.md). A grim veteran competent at soldie
 
 ## Role
 
-Flint inherited a force decimated by the Absolute Crisis and discredited by its leadership during the same. The decade since has been one long managed retreat: downsizing, defunding, repurposing as customs muscle, and watching the Kontor Guards and Worshipful Company Wardens carve up the jurisdictions the Fist used to own.
+Flint inherited a force decimated by the [Absolute Crisis](../../../10-Setting/history/absolute-crisis.md) and discredited by its leadership during the same. The decade since has been one long managed retreat: downsizing, defunding, repurposing as customs muscle, and watching the Kontor Guards and Worshipful Company Wardens carve up the jurisdictions the Fist used to own.
 
 His current play is a recall of loyalists to **[Wyrm's Rock](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-rock.md) Fortress** — a defensive consolidation that has left other [Upper City](../../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) beats dangerously thin and forced [the Watch](../../watch/summary.md) to cover only the [Temples District](../../../30-Places/sword-coast/baldurs-gate/upper-city/temples-district.md) and Manorborn. Ambitious subordinates like **Blaze Liara Portyr** are quietly positioning to succeed (or supplant) him.
 

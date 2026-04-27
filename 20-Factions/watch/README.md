@@ -5,3 +5,4 @@ Patriar-funded watch policing the [Upper City](../../30-Places/sword-coast/baldu
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [activity/](activity/) — Ongoing actions by week (week_0).

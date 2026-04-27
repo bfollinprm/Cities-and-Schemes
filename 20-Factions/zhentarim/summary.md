@@ -31,8 +31,12 @@ The local network is overseen by the cunning trader **Roah Moonglow**. The organ
 
 **Hooks.** The Brampton arson and the Velvet Hand are explicit provocations to Nine-Fingers Keene, intended to draw the Guild into an overreaction. Roah is currently scouting any newly-outlawed adventuring party as potential muscle.
 
+## At Sword Coast scale
+
+The Black Network's largest line of business is **sea-borne smuggling**. In Luskan it fronts the **Red Dragon Trading Post** and runs the city's biggest gunpowder ring; Zhent cutters work the Sword Coast Run with hidden swivels and multiple flag-sets. Mainland-side, agents ferry contraband across the Chionthar to bypass the Gate's inspectors. Bregan D'aerthe and the Hosttower Brotherhood actively contest Zhent influence in Luskan. See [30-Places/sword-coast/luskan/](../../30-Places/sword-coast/luskan/README.md).
+
 ## See also
 
 - [Roah Moonglow](people/roah-moonglow.md) — local director.
 - [Waterdeep — Factions](../../30-Places/sword-coast/waterdeep/factions.md) — the Doom Raiders (Davil Starsong, Skeemo Weirdbottle) vs. Manshoon's clone faction; the Shadow War.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `faction-quests.xlsx`; `dossier-waterdeep-1502-dr-a-city-of-veiled-threats.docx`.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `faction-quests.xlsx`; `dossier-waterdeep-1502-dr-a-city-of-veiled-threats.docx`; `dossier-sea-of-swords.md` (Luskan; Trade Routes).

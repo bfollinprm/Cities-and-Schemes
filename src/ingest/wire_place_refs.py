@@ -68,7 +68,7 @@ TARGETS: list[tuple[str, str]] = [
     ("Misty Forest", "30-Places/sword-coast/misty-forest.md"),
     ("Neverwinter Wood", "30-Places/sword-coast/neverwinter-wood.md"),
     ("Moonshae Isles", "30-Places/sword-coast/moonshae-isles.md"),
-    ("Sea of Swords", "30-Places/sword-coast/sea-of-swords.md"),
+    ("Sea of Swords", "10-Setting/regions/sea-of-swords.md"),
     ("House of Wonder", "30-Places/sword-coast/waterdeep/sea-ward/house-of-wonder.md"),
     ("Vault of Dragons", "30-Places/sword-coast/waterdeep/vault-of-dragons.md"),
     ("Astral Sea", "30-Places/astral-sea.md"),
