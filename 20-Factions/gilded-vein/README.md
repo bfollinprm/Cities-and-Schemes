@@ -5,3 +5,4 @@ Cult of economic assassins worshipping 'Axiom,' purifying the economy through ta
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: valerius-thorne.

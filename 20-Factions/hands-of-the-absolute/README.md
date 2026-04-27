@@ -5,3 +5,4 @@ Splinter cult listening for the 'Echo' of the Netherbrain in the city's psychic 
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: the-voice-in-the-choir.
