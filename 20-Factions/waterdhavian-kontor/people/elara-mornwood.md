@@ -5,7 +5,7 @@ description: Half-elf Factor of the Splendid Yard; Lords' Alliance plenipotentia
 
 # Factor Elara Mornwood
 
-Factor of the [Waterdhavian Kontor](../summary.md), a high-ranking half-elf member of the Lords' Alliance, and the senior Waterdhavian intelligence officer south of the Trollclaws.
+Factor of the [Waterdhavian Kontor](../summary.md), a high-ranking half-elf member of the Lords' Alliance, and the senior Waterdhavian intelligence officer south of the [Trollclaws](../../../30-Places/sword-coast/trollclaws.md).
 
 ## Manifesto
 

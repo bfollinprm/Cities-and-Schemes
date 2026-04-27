@@ -5,7 +5,7 @@ description: The rare all-court convocation at Senaliesse; first jointly attende
 
 # The Court of Stars
 
-A parliament of the Feywild called only in times of greatest need, traditionally hosted by **Titania at Senaliesse** beneath the Tree of Stars. Seelie, Unseelie, and Wild Archfey sit beneath the same boughs — an event so rare that bards count centuries between sittings.
+A parliament of the Feywild called only in times of greatest need, traditionally hosted by [**Titania**](titania.md) at [**Senaliesse**](senaliesse.md) beneath the Tree of Stars. Seelie, Unseelie, and Wild Archfey sit beneath the same boughs — an event so rare that bards count centuries between sittings.
 
 ## The 1501 DR convocation
 

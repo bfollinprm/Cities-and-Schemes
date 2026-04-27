@@ -4,6 +4,7 @@ The cosmic and planar scaffolding of the campaign: the courts of the immortal, t
 
 ## Index
 
+- [deities/](deities/) — Gods and archfiends the dossier names: Asmodeus, Bhaal, Lathander, Mystra, Torm.
 - [far-realm.md](far-realm.md) — The plane of madness whose intrusions twist living things into aberrations; the threat unifying the fey courts in 1501–1502 DR.
 - [fey-courts/](fey-courts/) — The Seelie, Unseelie, and Wild Archfey, plus the rare Court of Stars and the mortal Green Masquerade that brokers between them and Waterdeep.
-- [realms/](realms/) — Non-Material planes treated as places. Currently: the Feywild.
+- [realms/](realms/) — Non-Material planes treated as places. Currently: the Feywild, plus Avernus and Toril.

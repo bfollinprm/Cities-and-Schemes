@@ -11,7 +11,7 @@ The [Baldur's Mouth](../summary.md)'s only physical seat: a single chaotic print
 
 - **Two presses** (one main, one for leaflets and ad inserts), heavy iron, fed by hand.
 - **A wall of woodcut blocks** — staged sketches for the *Siege Edition*, the *Githyanki Garrison* plate, the spoiled-meat plates Goodman Borlu paid to kill (cross-reference [Worshipful Company of Butchers & Tanners](../../wc-butchers-tanners/summary.md)).
-- **A morgue of stringer notes** — Kaelan's insurance-fraud working files, source statements for the Consortium hit piece, an unprinted manuscript of Mad' Meggan's cultist-captive bombshell that Needle wouldn't run "without verifiable proof."
+- **A morgue of stringer notes** — [Kaelan](../people/kaelan.md)'s insurance-fraud working files, source statements for the Consortium hit piece, an unprinted manuscript of Mad' Meggan's cultist-captive bombshell that Needle wouldn't run "without verifiable proof."
 - **Needle's office,** kept locked. Includes the off-the-books ledger of who paid for which front page (the *patron book*), and his draft of the next *Obulus*.
 
 ## Who's there now

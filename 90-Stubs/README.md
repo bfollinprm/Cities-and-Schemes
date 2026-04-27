@@ -14,11 +14,11 @@ Auto-generated proper-noun stubs. Each file is a one-line **stub** for a person,
 - **people:** 238
 - **factions:** 52
 - **places:** 90
-- **unknown:** 67
+- **unknown:** 0 *(all triaged — see [unknown/README.md](unknown/README.md))*
 
 ## Subfolders
 
 - [people/](people/) — 238 stubs
 - [factions/](factions/) — 52 stubs
 - [places/](places/) — 90 stubs
-- [unknown/](unknown/) — 67 stubs
+- [unknown/](unknown/) — empty; rough-pass batch fully triaged.

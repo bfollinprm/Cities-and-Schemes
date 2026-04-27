@@ -11,7 +11,7 @@ Discrete dated events are listed in [40-Timeline/history.md](../../../40-Timelin
 ## The founding myths
 
 - **936 DR — Founding.** The town grew from **Nimoar's Hold**, a military settlement on the cliffs.
-- **1032 DR — Ahghairon and the Lords' Rule.** The warlord **Raurlor** declared himself emperor; the mage **Ahghairon** killed him and established the **Masked Lords**. Ahghairon is the city's foundational figure; "Ahghaironism" — anonymous council rule — remains the city's official political philosophy.
+- **1032 DR — Ahghairon and the Lords' Rule.** The warlord **Raurlor** declared himself emperor; the mage **[Ahghairon](../../../20-Factions/masked-lords/people/ahghairon.md)** killed him and established the **[Masked Lords](../../../20-Factions/masked-lords/summary.md)**. Ahghairon is the city's foundational figure; "Ahghaironism" — anonymous council rule — remains the city's official political philosophy.
 
 ## The bargains struck
 
@@ -25,10 +25,10 @@ Discrete dated events are listed in [40-Timeline/history.md](../../../40-Timelin
 
 ## The modern wounds
 
-- **c. 1482–1487 DR — Second Sundering.** Mystra's withdrawal cost Laeral Silverhand the bulk of her Chosen-of-Mystra power. She has concealed it for two decades.
-- **c. 1489 DR — Neverember ousted; Laeral ascends.** The Masked Lords forced Open Lord **Dagult Neverember** out of office for corruption (he had been selling noble titles to wealthy merchants, fueling the *new money / old money* schism), and reluctantly elevated Laeral.
+- **c. 1482–1487 DR — [Second Sundering](../../../10-Setting/cosmology/sundering.md).** [Mystra's](../../../10-Setting/cosmology/deities/mystra.md) withdrawal cost [Laeral Silverhand](../../../20-Factions/masked-lords/people/laeral-silverhand.md) the bulk of her Chosen-of-Mystra power. She has concealed it for two decades.
+- **c. 1489 DR — Neverember ousted; Laeral ascends.** The [Masked Lords](../../../20-Factions/masked-lords/summary.md) forced Open Lord **[Dagult Neverember](../../../20-Factions/masked-lords/people/dagult-neverember.md)** out of office for corruption (he had been selling noble titles to wealthy merchants, fueling the *new money / old money* schism), and reluctantly elevated [Laeral](../../../20-Factions/masked-lords/people/laeral-silverhand.md).
 - **c. 1491 DR — The Masked Lord Murders.** A faction inside the Masked Lords assassinated nearly half the council in an attempted coup. The plot was foiled, but the council has not recovered: paranoia about any new concentration of power, including Laeral's, is institutional now.
-- **c. 1491 DR — The Zhentarim Schism.** A clone of **Manshoon** arrived in Waterdeep, fractured the Black Network, and ignited the **Shadow War** with the Xanathar Guild. The war still burns through the Dock and Trades Wards.
+- **c. 1491 DR — The Zhentarim Schism.** A clone of **[Manshoon](../../../20-Factions/zhentarim/people/manshoon.md)** arrived in Waterdeep, fractured the Black Network, and ignited the **Shadow War** with the [Xanathar Guild](../../../20-Factions/xanathar-guild/summary.md). The war still burns through the Dock and Trades Wards.
 
 ## The present (1502 DR)
 

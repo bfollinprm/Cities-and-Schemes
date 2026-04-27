@@ -5,7 +5,7 @@ description: The Baldur's Mouth's official press signet — a "golden ticket" th
 
 # The Credential of Balduran
 
-A heavy signet ring stamped with the Mouth's masthead and the city's foundational seal — issued by [Ettvard Needle](../people/ettvard-needle.md) to a small number of trusted stringers. Per `dm-notes`, it is *"a golden ticket forcing high-level NPCs to interact with the bearer."* Kaelan (PC) holds one; whether others were issued, and to whom, is not on the page.
+A heavy signet ring stamped with the Mouth's masthead and the city's foundational seal — issued by [Ettvard Needle](../people/ettvard-needle.md) to a small number of trusted stringers. Per `dm-notes`, it is *"a golden ticket forcing high-level NPCs to interact with the bearer."* [Kaelan](../people/kaelan.md) (PC) holds one; whether others were issued, and to whom, is not on the page.
 
 ## What the Credential does
 

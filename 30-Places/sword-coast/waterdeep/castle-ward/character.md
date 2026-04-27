@@ -20,13 +20,13 @@ Stately. Stone. Heraldry. Watch patrols are large, uniformed, and visibly drille
 
 ## Faction layer
 
-Both **Harpers** and **Zhentarim** are described as "undoubtedly seeking to place agents and informants" close to the levers of power — that means the Castle Ward. The Cassalanters host functions here in their official Throne capacity; Manshoon's people work the Magisters and the secretariat. Force Grey's headquarters falls under the Blackstaff's authority somewhere within this ward; Vajra Safahr's strained relationship with Laeral plays out in adjacent rooms of the same building.
+Both **Harpers** and **Zhentarim** are described as "undoubtedly seeking to place agents and informants" close to the levers of power — that means the Castle Ward. The [Cassalanters](../noble-houses/cassalanter.md) host functions here in their official Throne capacity; [Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) people work the Magisters and the secretariat. Force Grey's headquarters falls under the Blackstaff's authority somewhere within this ward; [Vajra Safahr's](../../../../20-Factions/masked-lords/people/vajra-safahr.md) strained relationship with [Laeral](../../../../20-Factions/masked-lords/people/laeral-silverhand.md) plays out in adjacent rooms of the same building.
 
 ## Notable locations
 
 - **Palace of Waterdeep** — Open Lord's residence and the public face of government.
 - **Castle Waterdeep** — City Guard's fortress and the military spine of the city.
-- **Yawning Portal** — famed inn whose well descends into Undermountain; the city's most dangerous tourist attraction.
+- **Yawning Portal** — famed inn whose well descends into [Undermountain](../undermountain.md); the city's most dangerous tourist attraction.
 
 ## See also
 

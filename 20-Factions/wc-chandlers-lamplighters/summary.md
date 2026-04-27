@@ -18,7 +18,7 @@ Candlemakers, oil merchants, and the organized crews of lamplighters. The Master
 ## Methods
 
 - Controls the supply of lamp oil and high-quality wax, and the city's standing **lamplighting contract** with the [Council of Four](../council-of-four/summary.md) — recently renewed for five years, locking in profits and civic relevance.
-- Lamplighter crews function as an informal intelligence network: under a recent expansion contract for **Norchapel** in the Outer City, the crews are quietly reporting unusual activity from their nightly rounds.
+- Lamplighter crews function as an informal intelligence network: under a recent expansion contract for [**Norchapel**](../../30-Places/sword-coast/baldurs-gate/outer-city/norchapel.md) in the Outer City, the crews are quietly reporting unusual activity from their nightly rounds.
 - Has cut a dirty side deal with [the Guild](../guild/summary.md): in exchange for protection of lamplighter crews in dangerous neighborhoods, Brightwood provides a Guild Ward-Boss with a list of "malfunctioning" streetlamps — pre-fabricated **dark zones** ideal for ambush or smuggling.
 - That arrangement is now compromised: a sharp-eyed [Zhentarim](../zhentarim/summary.md) agent in Eastway noticed the unusual scrutiny from one crew, ambushed and interrogated a lamplighter, and the network's allegiance is now exposed. The Zhentarim can — and will — feed the Guild false intelligence through it.
 

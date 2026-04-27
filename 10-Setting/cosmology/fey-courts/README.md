@@ -9,6 +9,9 @@ The political structure of the Feywild as it touches the Sword Coast. Three cour
 - [wild-archfey.md](wild-archfey.md) — Independent powers loyal to neither court; Oberon, the Huntsman, the Lady of Twilight.
 - [court-of-stars.md](court-of-stars.md) — The 1501 DR all-court conclave at Senaliesse; first joint convocation since antiquity.
 - [green-masquerade.md](green-masquerade.md) — Waterdhavian secret society that mediates mortal–fey dealings via masks, ledgers, and favors.
+- [titania.md](titania.md) — The Summer Queen; sovereign of the Seelie.
+- [senaliesse.md](senaliesse.md) — Titania's living palace.
+- [aurelia-thorne.md](aurelia-thorne.md) — Reveler of the Green Masquerade ("Northwind"); eyewitness to the Howling Masks.
 
 ## See also
 

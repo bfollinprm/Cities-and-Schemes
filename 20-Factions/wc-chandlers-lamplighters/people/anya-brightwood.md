@@ -16,7 +16,7 @@ Master of the [Worshipful Company of Chandlers & Lamplighters](../summary.md). C
 Brightwood runs both halves of the Company — wax and oil supply, and the contracted lamplighter crews — as a single integrated operation. Her current operations:
 
 - **Renewed the standing five-year city lamplighting contract** with the [Council of Four](../../council-of-four/summary.md), locking in profits and civic relevance for the foreseeable future.
-- **Won a Norchapel expansion contract** for the Outer City, and quietly tasked her crews to act as a low-level intelligence network — discreetly reporting unusual activity from their nightly rounds.
+- **Won a [Norchapel](../../../30-Places/sword-coast/baldurs-gate/outer-city/norchapel.md) expansion contract** for the Outer City, and quietly tasked her crews to act as a low-level intelligence network — discreetly reporting unusual activity from their nightly rounds.
 - Cut a discreet deal with [the Guild](../../guild/summary.md): in exchange for protection of her crews in the city's roughest streets, she provides a Ward-Boss with periodic lists of "malfunctioning" lamps — manufactured **dark zones** for the Guild's ambushes and smuggling routes.
 
 That arrangement has now been blown. A [Zhentarim](../../zhentarim/summary.md) agent in Eastway caught one of her lamplighters out, interrogated him, and walked away with the network's loyalties confirmed. The Zhentarim can now feed false information through her informants directly into the Guild — a problem she has not yet solved.

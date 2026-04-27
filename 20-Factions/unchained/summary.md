@@ -5,7 +5,7 @@ description: Githyanki exiles loyal to Prince Orpheus, encamped in the Outer Cit
 
 # The Unchained *(aka K'liir)*
 
-A stoic, alien military encampment of **Githyanki exiles** loyal to the rebel **Prince Orpheus**, gathering their strength in the Outer City before continuing their war against the Lich-Queen Vlaakith. Led by the pragmatic [Commander K'laar, the Unshackled](people/k-laar.md). The camp itself is called **the K'liir** — *Camp of the Unchained* — and has hardened into a permanent, bizarre enclave on Baldurian soil.
+A stoic, alien military encampment of **Githyanki exiles** loyal to the rebel **Prince Orpheus**, gathering their strength in the Outer City before continuing their war against the Lich-Queen [Vlaakith](associations/vlaakith.md). Led by the pragmatic [Commander K'laar, the Unshackled](people/k-laar.md). The camp itself is called **the K'liir** — *Camp of the Unchained* — and has hardened into a permanent, bizarre enclave on Baldurian soil.
 
 ## Ideology
 

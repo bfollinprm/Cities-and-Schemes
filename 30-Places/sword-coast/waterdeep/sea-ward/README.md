@@ -16,4 +16,4 @@ The northwesternmost ward, perched on the cliffs overlooking the ocean. The excl
 ## See also
 
 - [../character.md](../character.md) — the Great Game's tier structure.
-- [../factions.md](../factions.md) — major Sea Ward houses (Cassalanter, Amcathra, Tesper).
+- [../factions.md](../factions.md) — major Sea Ward houses ([Cassalanter](../noble-houses/cassalanter.md), [Amcathra](../noble-houses/amcathra.md), [Tesper](../noble-houses/tesper.md)).

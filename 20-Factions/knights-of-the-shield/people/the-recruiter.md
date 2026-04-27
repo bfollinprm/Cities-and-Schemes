@@ -11,7 +11,7 @@ The [Knights of the Shield](../summary.md)'s rebuild is being run by a single re
 
 The recruiter targets people who have **just lost something they thought was safe** — an estate, a fortune, a sense of personal security — and offers a pact priced in souls and family secrets.
 
-- **Lord Hlath**, dispossessed by the Amnian foreclosure. Refused the oaths and tipped off a priest at the **Watchful Shield Shrine**. Failure.
+- [**Lord Hlath**](../../peerage-of-blood/associations/house-hlath.md), dispossessed by the Amnian foreclosure. Refused the oaths and tipped off a priest at the **Watchful Shield Shrine**. Failure.
 - **Marshal Valerius Flint** at the Basilisk Gate Barracks. Refused. Failure.
 - **A junior Chionthar Consortium member** at a private room in the Blushing Mermaid. Reported it; the [Chionthar Consortium](../../chionthar-consortium/summary.md) is now on infernal-influence alert.
 - **A Guild Ward Boss** at the Salt-Cellar in Brampton. Reported it; the [Guild](../../guild/summary.md) is now on alert.

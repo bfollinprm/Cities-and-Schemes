@@ -9,7 +9,7 @@ Patriar family who still cling to the leadership of the [High Moon Coster](../su
 
 ## Standing
 
-- **Hereditary seat** in the [Peerage of Blood](../../peerage-of-blood/summary.md) — listed in the dossier alongside Durinbold, Jannath, and Hlath as one of the old patriar houses.
+- **Hereditary seat** in the [Peerage of Blood](../../peerage-of-blood/summary.md) — listed in the dossier alongside Durinbold, [Jannath](../../peerage-of-blood/associations/house-jannath.md), and [Hlath](../../peerage-of-blood/associations/house-hlath.md) as one of the old patriar houses.
 - **Manor** retained in the Upper City; staff and stables long since reduced.
 - **Strategy.** Where the [Jhassos](../../seven-suns/people/jhasso-family.md) trade on luxury taste and the [Iron Throne](../../iron-throne/people/the-anonymous-throne.md) brokers high-risk contracts, the Oberons sponsor **adventuring parties** for a share of whatever comes back. The Cloakwood ruin expedition is the current bet.
 

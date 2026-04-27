@@ -23,13 +23,17 @@ The **Coast Way** and the **Trade Way** are the great north–south arteries; th
 - [berdusk/](berdusk/README.md) — Western Heartlands city on the upper Chionthar; Harper redoubt under Zhentarim pressure.
 - [boareskyr-bridge/](boareskyr-bridge/README.md) — Trade Way crossing of the River Winding Water, held by Elturgardian paladins.
 - [candlekeep/](candlekeep/README.md) — fortress-library on a promontory over the Sea of Swords.
+- [daggerford.md](daggerford.md) — Sword Coast town between Waterdeep and Baldur's Gate; close to the Laughing Hollow fey crossings.
 - [elturel/](elturel/README.md) — city returned from the Nine Hells, slowly rebuilding.
 - [fort-morninglord/](fort-morninglord/README.md) — abandoned Elturgardian fort on the Trade Way.
+- [luskan.md](luskan.md) — Northern port outside the Lords' Alliance; Jarlaxle's Sword Coast play.
 - [nashkel/](nashkel/README.md) — border town between the Sword Coast and Amn.
 
 ### Macro-region features
 
 - [cloakwood.md](cloakwood.md) — vast forest south of Baldur's Gate; Sword Coast timber reserve; fey-real; in active war.
+- [trollclaws.md](trollclaws.md) — hilly badland north of Baldur's Gate on the Trade Way; the dangerous middle leg of the caravan road.
+- [whisperwood.md](whisperwood.md) — forest near the Chionthar; flashpoint between Sembian capital and the Circle of the Inner Grove.
 - [wood-of-sharp-teeth.md](wood-of-sharp-teeth.md) — east of the Trade Way; severed from the natural world by the Absolute Crisis; generates psychic horror.
 
 ### Region-scope files

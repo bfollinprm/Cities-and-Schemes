@@ -20,7 +20,7 @@ Led by the dwarven Bursar Korgan Ironhand. Staffed by pragmatic Sembians and pro
 - Mastery of logistics and supply-chain management to control bulk goods.
 - The great hall of the Iron Ledger is the primary hiring hub for mercenary companies and adventuring parties in the region.
 - Mercenary contracts are infamous for their unforgiving clauses.
-- Sembian merchants brokered the contract that put Sembian mercenaries in the Whisperwood for the [Western Gate Trading Company](../western-gate-trading-company/summary.md).
+- Sembian merchants brokered the contract that put Sembian mercenaries in the [Whisperwood](../../30-Places/sword-coast/whisperwood.md) for the [Western Gate Trading Company](../western-gate-trading-company/summary.md).
 
 ## Hooks and Relationships
 

@@ -19,7 +19,7 @@ A small circle of druids and rangers who meet in a hidden grove upriver from the
 
 - **Eco-sabotage.** Guiding dangerous creatures toward logging camps; calling flesh-eating mold into polluting tanneries; spoiling industrial water supplies through ritual.
 - **Wardings.** Rituals intended to strengthen wildlife and reinforce blockades that protect the river — though the lingering infernal residue around the city has made such magic increasingly volatile.
-- **Direct raids.** Night-attacks on industrial sites; recently a raid on a Whisperwood logging camp was ambushed by Sembian mercenaries, forcing a retreat after a sharp skirmish.
+- **Direct raids.** Night-attacks on industrial sites; recently a raid on a [Whisperwood](../../30-Places/sword-coast/whisperwood.md) logging camp was ambushed by Sembian mercenaries, forcing a retreat after a sharp skirmish.
 
 ## Hooks and Relationships
 

@@ -14,7 +14,7 @@ Durinbold's signature move is the loophole. He found the obscure procedural faul
 - Block the Amnian Kontor's **New Kontor Wayleave** proposal in the Peerage.
 - File an injunction to freeze the [Amnian Kontor](../../amnian-kontor/summary.md)'s sale of the foreclosed Hlath Estate to one of Athar's allies, citing an obscure ancient property law.
 
-His attempt to publicly sponsor the dispossessed Hlath family failed — Amnian agents intercepted them first and bought (or intimidated) them into refusing his aid, making him look outmaneuvered.
+His attempt to publicly sponsor the dispossessed [Hlath family](../associations/house-hlath.md) failed — Amnian agents intercepted them first and bought (or intimidated) them into refusing his aid, making him look outmaneuvered.
 
 He commissions ostentatious gifts to cement alliances: the **gold-and-silver canary automaton** crafted for him by the [Worshipful Company of Goldsmiths & Jewelers](../../wc-goldsmiths-jewelers/summary.md) was meant to solidify the conservative-guild–patriar axis.
 

@@ -20,7 +20,7 @@ The most powerful and politically connected wizards and sorcerers in the city. T
 - Issues licenses to spellcasters-for-hire at hefty fees; unlicensed casting is a serious crime.
 - Controls the legal sale of most magical scrolls and components.
 - Routine **raids on unlicensed casters**: a recent operation seized the spellbook and components of a Bloomridge "hedge wizard" peddling charms and love potions, with a heavy fine and stern warning.
-- **Active investigation** of powerful, unlicensed magic detected at a ruined watchtower: a case file is open, and Sodality Investigators have been chasing the arcane trail of a fugitive mage named **Zora**. The trail went cold near the Phoenix Pits in New Elturel; in response, the Sodality has installed permanent **scrying censers** at Wyrm's Crossing and the Basilisk Gate to alert them to significant arcane activity passing through the checkpoints.
+- **Active investigation** of powerful, unlicensed magic detected at a ruined watchtower: a case file is open, and Sodality Investigators have been chasing the arcane trail of a fugitive mage named [**Zora**](people/zora.md). The trail went cold near the Phoenix Pits in New Elturel; in response, the Sodality has installed permanent **scrying censers** at Wyrm's Crossing and the Basilisk Gate to alert them to significant arcane activity passing through the checkpoints.
 - Currently running a **scrying ritual on Lord Corin Durinbold** of the [Peerage of Blood](../peerage-of-blood/summary.md) to gain political leverage in Parliament — a dangerous escalation if exposed.
 
 ## Hooks and Relationships

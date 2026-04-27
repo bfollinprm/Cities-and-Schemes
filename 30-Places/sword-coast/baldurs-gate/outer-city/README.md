@@ -18,6 +18,7 @@ The most significant portion lies south of the Chionthar, connected to the city 
 - [the-kliir.md](the-kliir.md) — githyanki exile encampment.
 - [tumbledown-and-floodway.md](tumbledown-and-floodway.md) — cemeteries, stonemasons, and the flood-prone tenements below.
 - [little-calimshan.md](little-calimshan.md) — walled south-Faerûn enclave; jewelers, spice, and tradition.
+- [norchapel.md](norchapel.md) — Outer City district; Chandlers & Lamplighters expansion repurposed as informal intelligence network.
 
 ## Other Outer City boroughs
 

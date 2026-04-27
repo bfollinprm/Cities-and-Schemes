@@ -32,7 +32,7 @@ The faction does **not** pledge fealty to any one court. Keeping all lines of co
 - **Lord Fox of Secomber** — Seelie-leaning; brokered the Laughing Hollow pixie envoys.
 - **Lady Duskrose** — Unseelie-aligned half-elf enchantress; Winter Court contact.
 - **Aldon Glass** — emerald-spectacled scribe, Master of the Ledger.
-- **Aurelia "Northwind" Thorne** — recent Reveler, spine-of-the-world traveler; eyewitness to the [Night of the Howling Masks](../../../40-Timeline/history.md).
+- [**Aurelia "Northwind" Thorne**](aurelia-thorne.md) — recent Reveler, spine-of-the-world traveler; eyewitness to the [Night of the Howling Masks](../../../40-Timeline/history.md).
 
 ## Internal divide
 
