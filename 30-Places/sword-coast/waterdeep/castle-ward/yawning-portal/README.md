@@ -6,7 +6,7 @@ type: location
 
 # The Yawning Portal
 
-A storied Castle Ward inn whose central feature is a wide well descending into **Undermountain**, the megadungeon below the city. Modest, clean private rooms at **5 sp/night** — a luxury for a common laborer, accessible to a careful adventurer.
+A storied Castle Ward inn whose central feature is a wide well descending into **[Undermountain](../../undermountain.md)**, the megadungeon below the city. Modest, clean private rooms at **5 sp/night** — a luxury for a common laborer, accessible to a careful adventurer.
 
 The Portal is one of the few public venues in Waterdeep where adventurers, nobles, smugglers, and Watch officers brush past one another without comment. It is therefore a useful information clearinghouse, and a default leak destination for parties who do not want to be seen meeting elsewhere.
 

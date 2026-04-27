@@ -27,7 +27,7 @@ The **Oberon family**, operating from a remaining manor in the [Upper City](../.
 
 **Patrons of the party (rejected).** The High Moon Coster has already approached and been rebuffed by the [PCs](../party/summary.md) at the [Blushing Mermaid](../../30-Places/sword-coast/baldurs-gate/lower-city/blushing-mermaid.md). They may approach again with a sweeter percentage, or they may be the patron of a *rival* fledgling party the PCs cross paths with in the Cloakwood.
 
-**Peerage of Blood.** As one of the named patriar houses (Durinbold, Jannath, Hlath, **Oberon**) the family retains a hereditary seat in the [Peerage of Blood](../peerage-of-blood/summary.md) and votes with the [Patriar Heritage Society](../patriar-heritage-society/summary.md) bloc — even if the Oberons have lately been too cash-strapped to attend galas.
+**Peerage of Blood.** As one of the named patriar houses (Durinbold, [Jannath](../peerage-of-blood/associations/house-jannath.md), [Hlath](../peerage-of-blood/associations/house-hlath.md), **Oberon**) the family retains a hereditary seat in the [Peerage of Blood](../peerage-of-blood/summary.md) and votes with the [Patriar Heritage Society](../patriar-heritage-society/summary.md) bloc — even if the Oberons have lately been too cash-strapped to attend galas.
 
 ## See also
 

@@ -27,7 +27,7 @@ The **Jhasso family** itself, plus the few factors and house guards still on the
 
 **Enemies.** A deep grudge against the [Chionthar Consortium](../chionthar-consortium/summary.md) and other consortiums that absorbed the Seven Suns' old volume trade. The recent Calimshan loss is a wound the consortiums could exploit if they noticed.
 
-**Possible patrons of adventurers.** Cargo recovery, escort of a single high-value shipment from Calimport, retrieval of a specific Jhasso heirloom from the auction floor of an [Amnian Kontor](../amnian-kontor/summary.md) creditor. They cannot pay much up front; they can pay in family connections, southern contacts, and a percent of whatever comes back.
+**Possible patrons of adventurers.** Cargo recovery, escort of a single high-value shipment from [Calimport](../../30-Places/sword-coast/calimport/README.md), retrieval of a specific Jhasso heirloom from the auction floor of an [Amnian Kontor](../amnian-kontor/summary.md) creditor. They cannot pay much up front; they can pay in family connections, southern contacts, and a percent of whatever comes back.
 
 ## See also
 

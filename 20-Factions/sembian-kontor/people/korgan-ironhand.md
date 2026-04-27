@@ -15,7 +15,7 @@ Dwarven Bursar of the [Sembian Kontor](../summary.md) and chief of the Iron Ledg
 
 The Sembians saw the Great Bargain not as charity but as the single greatest business opportunity of the decade. Ironhand built the Iron Ledger to be brutally utilitarian and brutally efficient — a fortress of commerce known for harsh contracts and unforgiving practices. He runs the mercenary brokerage personally and prides himself on being the most reliably amoral counterparty on the Sword Coast.
 
-His most consequential current client is [Matron Lyra Silvershield](../../western-gate-trading-company/people/lyra-silvershield.md), for whom he has brokered logging-camp protection in the Whisperwood — a contract whose terms have already drawn first blood from the [Circle of the Inner Grove](../../circle-of-the-inner-grove/summary.md).
+His most consequential current client is [Matron Lyra Silvershield](../../western-gate-trading-company/people/lyra-silvershield.md), for whom he has brokered logging-camp protection in the [Whisperwood](../../../30-Places/sword-coast/whisperwood.md) — a contract whose terms have already drawn first blood from the [Circle of the Inner Grove](../../circle-of-the-inner-grove/summary.md).
 
 ## See also
 

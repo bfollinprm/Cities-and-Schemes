@@ -18,11 +18,11 @@ The **Magisters** (black-robed) are appointed by the Masked Lords to interpret a
 
 ## The Palace and the Castle
 
-In **Castle Ward**: the **Palace of Waterdeep** is the Open Lord's residence and the public face of government — where Laeral Silverhand receives ambassadors and where the Masked Lords convene. **Castle Waterdeep** is the Guard's fortress, the city's military spine. The two are deliberately distinct: civilian authority and martial authority do not share a roof.
+In **Castle Ward**: the **Palace of Waterdeep** is the Open Lord's residence and the public face of government — where [Laeral Silverhand](../../../20-Factions/masked-lords/people/laeral-silverhand.md) receives ambassadors and where the [Masked Lords](../../../20-Factions/masked-lords/summary.md) convene. **Castle Waterdeep** is the Guard's fortress, the city's military spine. The two are deliberately distinct: civilian authority and martial authority do not share a roof.
 
 ## Force Grey
 
-The city's elite reserve — adventurers and high-magic specialists led by the **Blackstaff** (Vajra Safahr). Sworn to defend the city. Currently **detached** from the Open Lord's chain of command: Vajra runs sanctioned operations and unsanctioned ones, and Laeral's spies confirm she is doing so deliberately. In a major crisis, Force Grey may or may not answer the Open Lord's call. This is the single most dangerous fact about the city's defenses.
+The city's elite reserve — adventurers and high-magic specialists led by the **Blackstaff** ([Vajra Safahr](../../../20-Factions/masked-lords/people/vajra-safahr.md)). Sworn to defend the city. Currently **detached** from the Open Lord's chain of command: Vajra runs sanctioned operations and unsanctioned ones, and Laeral's spies confirm she is doing so deliberately. In a major crisis, Force Grey may or may not answer the Open Lord's call. This is the single most dangerous fact about the city's defenses.
 
 ## Guild Law
 
@@ -30,11 +30,11 @@ The Guilds enforce their own laws — distinct from city law, blessed by the Lor
 
 ## The "Open Rulers"
 
-A growing reformist political movement, not yet a campaign faction. Argument: secrecy is itself tyranny; the Masked Lord murders prove anonymity shields treason as well as justice. The traditionalist response (the **Ahghaironians**) is that the alternative is Neverember — a corrupt face visible to all and unstoppable. The argument is unsettled and live.
+A growing reformist political movement, not yet a campaign faction. Argument: secrecy is itself tyranny; the Masked Lord murders prove anonymity shields treason as well as justice. The traditionalist response (the **Ahghaironians**) is that the alternative is [Neverember](../../../20-Factions/masked-lords/people/dagult-neverember.md) — a corrupt face visible to all and unstoppable. The argument is unsettled and live.
 
 ## The compromised seats
 
-Two Masked Lords, **Corylus Thann** and **Jelenn Urmbrusk**, are both blackmailed by Manshoon's [Zhentarim](../../../20-Factions/zhentarim/summary.md) — financial ruin and a lever, respectively. Manshoon already has votes inside the council, and no one in the council knows which votes those are.
+Two Masked Lords, **[Corylus Thann](../../../20-Factions/masked-lords/people/corylus-thann.md)** and **[Jelenn Urmbrusk](../../../20-Factions/masked-lords/people/jelenn-urmbrusk.md)**, are both blackmailed by [Manshoon's](../../../20-Factions/zhentarim/people/manshoon.md) [Zhentarim](../../../20-Factions/zhentarim/summary.md) — financial ruin and a lever, respectively. Manshoon already has votes inside the council, and no one in the council knows which votes those are.
 
 ## See also
 

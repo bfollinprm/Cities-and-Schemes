@@ -11,7 +11,7 @@ An exclusive, invitation-only gala hosted by [Lord Corin Durinbold](../../peerag
 
 Per `dm-notes` and the [Baldur's Mouth](../../baldurs-mouth/summary.md) week-3 coverage, the gala served three functions:
 
-- **Endorsement signal.** The full social weight of the [Peerage of Blood](../../peerage-of-blood/summary.md) — Durinbold, Jannath, Oberon, and others — visibly backed Marshal Flint as the *symbol of the old Baldurian order*, after the Archduke moved to remove him.
+- **Endorsement signal.** The full social weight of the [Peerage of Blood](../../peerage-of-blood/summary.md) — Durinbold, [Jannath](../../peerage-of-blood/associations/house-jannath.md), Oberon, and others — visibly backed Marshal Flint as the *symbol of the old Baldurian order*, after the Archduke moved to remove him.
 - **Counter-narrative.** The slogan "Baldurian Purity" was deployed as a respectable wrapper for a politics targeting the foreign Kontors, the Merchant Consortiums, and the Archduke personally. Toasts named names; the [Amnian Kontor](../../amnian-kontor/summary.md) and the [Western Gate Trading Company](../../western-gate-trading-company/summary.md) were singled out.
 - **Conspicuous absence list.** Who *wasn't* invited mattered as much as who was: no Coin members, no Kontor consuls, no Council of Four representatives. The exclusion was intentional and broadcast.
 

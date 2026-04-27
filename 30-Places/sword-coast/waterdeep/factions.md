@@ -20,31 +20,31 @@ Cross-link table only. Faction prose lives in [`20-Factions/`](../../../20-Facti
 
 | Faction | Role |
 | --- | --- |
-| Masked Lords | Anonymous council of ≥12 ruling in disguise; one murdered several others in 1491 DR. **Corylus Thann** and **Jelenn Urmbrusk** currently blackmailed by Manshoon. |
-| Open Lord (Laeral Silverhand) | Public executive; magic diminished post-Sundering. |
-| Blackstaff (Vajra Safahr) | Lord Mage; commands **Force Grey**. Estranged from the Open Lord; runs unsanctioned missions. |
+| [Masked Lords](../../../20-Factions/masked-lords/summary.md) | Anonymous council of ≥12 ruling in disguise; one murdered several others in 1491 DR. **[Corylus Thann](../../../20-Factions/masked-lords/people/corylus-thann.md)** and **[Jelenn Urmbrusk](../../../20-Factions/masked-lords/people/jelenn-urmbrusk.md)** currently blackmailed by [Manshoon](../../../20-Factions/zhentarim/people/manshoon.md). |
+| Open Lord ([Laeral Silverhand](../../../20-Factions/masked-lords/people/laeral-silverhand.md)) | Public executive; magic diminished post-[Sundering](../../../10-Setting/cosmology/sundering.md). |
+| Blackstaff ([Vajra Safahr](../../../20-Factions/masked-lords/people/vajra-safahr.md)) | Lord Mage; commands **Force Grey**. Estranged from the Open Lord; runs unsanctioned missions. |
 | Magisters | Black-robed judiciary, appointed by the Masked Lords. |
 
 ## Underworld — the Shadow War
 
 | Faction | Role |
 | --- | --- |
-| [Zhentarim — Doom Raiders](../../../20-Factions/zhentarim/summary.md) | Modern Black Network: profit-first smuggling and money-lending. Led by half-elf **Davil Starsong**; alchemist **Skeemo Weirdbottle** being turned by Manshoon. |
-| Zhentarim — Manshoon's faction | Brutal purist split. Manshoon clone aims to install himself as Open Lord; suborned two Masked Lords; incites street violence. |
-| [Xanathar Guild](../../../20-Factions/xanathars-guild/summary.md) | Beholder-led empire under the city. Distributes addictive **Black Lilly**; slave trade, protection rackets. Mind-flayer **Nihiloor** plants intellect devourers in citizens (e.g., Meloon Wardragon). Linked to Skullport. |
+| [Zhentarim — Doom Raiders](../../../20-Factions/zhentarim/summary.md) | Modern Black Network: profit-first smuggling and money-lending. Led by half-elf **Davil Starsong**; alchemist **Skeemo Weirdbottle** being turned by [Manshoon](../../../20-Factions/zhentarim/people/manshoon.md). |
+| Zhentarim — [Manshoon's](../../../20-Factions/zhentarim/people/manshoon.md) faction | Brutal purist split. Manshoon clone aims to install himself as Open Lord; suborned two Masked Lords; incites street violence. |
+| [Xanathar Guild](../../../20-Factions/xanathars-guild/summary.md) | Beholder-led empire under the city. Distributes addictive **Black Lilly**; slave trade, protection rackets. Mind-flayer **[Nihiloor](../../../20-Factions/xanathars-guild/people/nihiloor.md)** plants intellect devourers in citizens (e.g., Meloon Wardragon). Linked to [Skullport](skullport.md). |
 
 ## Major nobility (Throne and Court)
 
 | House | Tier | Notable |
 | --- | --- | --- |
-| Cassalanter | Throne | Banking; **secretly worships Asmodeus**. |
-| Amcathra | Throne | Politics, fine wine, sword-smithing. |
-| Tesper | Throne | Martial spectacle, public duels. |
-| Adarbrent | Court | Shipping and exploration. |
-| Thann | Court | *Corylus Thann blackmailed by Manshoon.* |
-| Urmbrusk | Court | *Jelenn Urmbrusk blackmailed by Manshoon.* |
-| Agundar | Court | Mercenary house. |
-| Husteem / Maerklos / Zun | Dregs | Scorned for scandal, miscalculation, or rejection of the Game. |
+| [Cassalanter](../../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md) | Throne | Banking; **secretly worships [Asmodeus](../../../10-Setting/cosmology/deities/asmodeus.md)**. |
+| [Amcathra](../../../20-Factions/waterdeep-noble-houses/associations/house-amcathra.md) | Throne | Politics, fine wine, sword-smithing. |
+| [Tesper](../../../20-Factions/waterdeep-noble-houses/associations/house-tesper.md) | Throne | Martial spectacle, public duels. |
+| [Adarbrent](../../../20-Factions/waterdeep-noble-houses/associations/house-adarbrent.md) | Court | Shipping and exploration. |
+| [Thann](../../../20-Factions/waterdeep-noble-houses/associations/house-thann.md) | Court | *[Corylus Thann](../../../20-Factions/masked-lords/people/corylus-thann.md) blackmailed by [Manshoon](../../../20-Factions/zhentarim/people/manshoon.md).* |
+| [Urmbrusk](../../../20-Factions/waterdeep-noble-houses/associations/house-urmbrusk.md) | Court | *[Jelenn Urmbrusk](../../../20-Factions/masked-lords/people/jelenn-urmbrusk.md) blackmailed by Manshoon.* |
+| [Agundar](../../../20-Factions/waterdeep-noble-houses/associations/house-agundar.md) | Court | Mercenary house. |
+| [Husteem](../../../20-Factions/waterdeep-noble-houses/associations/house-husteem.md) / [Maerklos](../../../20-Factions/waterdeep-noble-houses/associations/house-maerklos.md) / Zun | Dregs | Scorned for scandal, miscalculation, or rejection of the Game. |
 
 See [character.md](character.md) for the Great Game's tier structure.
 
@@ -52,7 +52,7 @@ See [character.md](character.md) for the Great Game's tier structure.
 
 | Faction | Role |
 | --- | --- |
-| Bregan D'aerthe | Drow mercenary company under **Jarlaxle Baenre**, fronting as the **Sea Maidens Faire**. Goal: recover Vault-of-Dragons gold to buy Luskan a Lords' Alliance seat. Pragmatist; allies with anyone whose interests align. |
+| Bregan D'aerthe | Drow mercenary company under **Jarlaxle Baenre**, fronting as the **Sea Maidens Faire**. Goal: recover Vault-of-Dragons gold to buy [Luskan](../luskan.md) a Lords' Alliance seat. Pragmatist; allies with anyone whose interests align. |
 
 ## See also
 

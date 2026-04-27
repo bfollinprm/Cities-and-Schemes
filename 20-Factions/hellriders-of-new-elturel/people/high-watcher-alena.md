@@ -5,7 +5,7 @@ description: Priestess of Torm and informal government of New Elturel; leader of
 
 # High Watcher Alena
 
-A priestess of Torm who became a respected community organizer and spiritual guide for the Elturian refugees in the wake of the Fall and the Avernus crisis. Now leader of the [Hellriders of New Elturel](../summary.md) and the Elturians' chief political voice in Baldur's Gate.
+A priestess of [Torm](../../../10-Setting/cosmology/deities/torm.md) who became a respected community organizer and spiritual guide for the Elturian refugees in the wake of the Fall and the [Avernus](../../../10-Setting/cosmology/realms/avernus.md) crisis. Now leader of the [Hellriders of New Elturel](../summary.md) and the Elturians' chief political voice in Baldur's Gate.
 
 ## Manifesto
 

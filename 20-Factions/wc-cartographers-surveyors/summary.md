@@ -20,7 +20,7 @@ The city's most meticulous cartographers, surveyors, and architects, organized a
 - Every land deed in Baldur's Gate carries a Cartographers' seal — the legal requirement gives them quiet veto over real estate.
 - Sells maps of trade routes to merchant consortiums at premium prices, including, by reputation, the most detailed sewer and undercity maps in the city. The sewer maps are a closely guarded secret and a constant target.
 - Routine fraud as policy:
-  - **Sold "exclusive" Trollclaws maps** of a "newly discovered, safe passage" to two competing caravan masters, pocketing both fees. The route is notoriously dangerous.
+  - **Sold "exclusive" [Trollclaws](../../30-Places/sword-coast/trollclaws.md) maps** of a "newly discovered, safe passage" to two competing caravan masters, pocketing both fees. The route is notoriously dangerous.
   - **Tactical maps of the Basilisk Gate blockade and [Wyrm's Rock](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-rock.md)**, drawn by Vancroft's surveyors, are now being sold to every interested party — the Archduke's forces and Mad Meggan's lieutenants alike.
 - A **failed deed manipulation** for the [Western Gate Trading Company](../western-gate-trading-company/summary.md) — silencing a minor patriar and "losing" an inconvenient deed — collapsed when the patriar avoided the planned accident and filed the deed publicly. The Trading Company now faces a major property-claim crisis, and the Cartographers' role in the affair is increasingly visible.
 

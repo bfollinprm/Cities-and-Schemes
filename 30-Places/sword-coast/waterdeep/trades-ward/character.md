@@ -22,7 +22,7 @@ The dossier's most concrete economic worry plays out here. Skilled artisans — 
 
 ## Faction layer
 
-The Doom Raiders ([Zhentarim](../../../../20-Factions/zhentarim/summary.md)) work the Trades Ward primarily as an economic operation — money-lending, smuggling, mercenary placements through [Virgin's Square](virgins-square.md) — and avoid the visible street violence that Manshoon's faction inflicts on the Dock Ward. The Trades Ward is also where the Shadow War's *cost* is most acutely felt: when the war spills into the cellars and alleys, the people who lose their inventory or their workshop are guild members.
+The Doom Raiders ([Zhentarim](../../../../20-Factions/zhentarim/summary.md)) work the Trades Ward primarily as an economic operation — money-lending, smuggling, mercenary placements through [Virgin's Square](virgins-square.md) — and avoid the visible street violence that [Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) faction inflicts on the Dock Ward. The Trades Ward is also where the Shadow War's *cost* is most acutely felt: when the war spills into the cellars and alleys, the people who lose their inventory or their workshop are guild members.
 
 ## Notable
 

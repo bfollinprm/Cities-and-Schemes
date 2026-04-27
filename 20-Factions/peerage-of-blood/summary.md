@@ -13,7 +13,7 @@ Baldur's Gate has a soul, etched in the stones of its manors and flowing in the 
 
 ## Membership
 
-Fifty hereditary seats, occupied by the oldest and wealthiest patriar families: **Durinbold, Jannath, Hlath, Oberon**, and others. The bloc is unofficially organized through the [Patriar Heritage Society](../patriar-heritage-society/summary.md). Eligibility is restricted to patriar lineage, but since the **1497 DR reformation**, all confirmed citizens within the walls now vote to fill the seats — tying patriar interests to the common Baldurian for the first time.
+Fifty hereditary seats, occupied by the oldest and wealthiest patriar families: **Durinbold, [Jannath](associations/house-jannath.md), [Hlath](associations/house-hlath.md), Oberon**, and others. The bloc is unofficially organized through the [Patriar Heritage Society](../patriar-heritage-society/summary.md). Eligibility is restricted to patriar lineage, but since the **1497 DR reformation**, all confirmed citizens within the walls now vote to fill the seats — tying patriar interests to the common Baldurian for the first time.
 
 ## Methods
 

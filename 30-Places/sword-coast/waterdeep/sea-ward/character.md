@@ -12,7 +12,7 @@ The Sea Ward is the city's **gilded cage at the top of the cliffs**. Its streets
 
 The **Throne** of the Great Game — the two-to-five houses currently dominating the social scene — and the cream of the **Court**. Old money: families ennobled centuries ago whose privileges and contempt are inherited rather than earned. Magic-using elites likewise: senior archmages keep towers here, and the city's most prestigious cathedrals stand among the villas.
 
-Throne houses with Sea Ward seats include **House Cassalanter** (banking, secretly Asmodean) and **House Amcathra** (politics, fine wine, sword-smithing). House **Adarbrent** (shipping, exploration) is a rising Court family with cliff-top ambitions.
+Throne houses with Sea Ward seats include **[House Cassalanter](../../../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md)** (banking, secretly [Asmodean](../../../../10-Setting/cosmology/deities/asmodeus.md)) and **[House Amcathra](../../../../20-Factions/waterdeep-noble-houses/associations/house-amcathra.md)** (politics, fine wine, sword-smithing). [House **Adarbrent**](../../../../20-Factions/waterdeep-noble-houses/associations/house-adarbrent.md) (shipping, exploration) is a rising Court family with cliff-top ambitions.
 
 ## Atmosphere
 
@@ -20,7 +20,7 @@ Quiet streets, walled estates, gardens you cannot see into. Servants in livery. 
 
 ## What runs underneath
 
-Sea Ward respectability is the campaign's archetype of **veiled power**. The Cassalanters host charity galas while their devil-bound bargain devours souls in the cellar. Other Throne houses operate matrimonial alliances and inheritance tactics that are functionally indistinguishable from intelligence operations. The dossier identifies the *pro-aristocracy* tendency (power as birthright) as concentrated up here, in conscious opposition to the *pro-plutocracy* faction in the North Ward.
+Sea Ward respectability is the campaign's archetype of **veiled power**. The [Cassalanters](../../../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md) host charity galas while their devil-bound bargain devours souls in the cellar. Other Throne houses operate matrimonial alliances and inheritance tactics that are functionally indistinguishable from intelligence operations. The dossier identifies the *pro-aristocracy* tendency (power as birthright) as concentrated up here, in conscious opposition to the *pro-plutocracy* faction in the North Ward.
 
 ## The "social season"
 

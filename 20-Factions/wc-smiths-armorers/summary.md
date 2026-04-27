@@ -5,7 +5,7 @@ description: Guild forging arms and armor for the city's guards, soldiers, and a
 
 # Worshipful Company of Smiths & Armorers
 
-The Worshipful Company that arms Baldur's Gate. With constant demand from the [Flaming Fist](../flaming-fist/summary.md), Kontor Guards, Guild Wardens, and the post-crisis adventurer surge, the Smiths have become wealthier and more vital than at any point in living memory. Led by [Master Tor-keg Silverhand](people/tor-keg-silverhand.md), with the famed infernal mechanic **Dammon** at the **Forge of the Nine** as the guild's most prominent — and most unmanageable — independent member.
+The Worshipful Company that arms Baldur's Gate. With constant demand from the [Flaming Fist](../flaming-fist/summary.md), Kontor Guards, Guild Wardens, and the post-crisis adventurer surge, the Smiths have become wealthier and more vital than at any point in living memory. Led by [Master Tor-keg Silverhand](people/tor-keg-silverhand.md), with the famed infernal mechanic [**Dammon**](people/dammon.md) at the **Forge of the Nine** as the guild's most prominent — and most unmanageable — independent member.
 
 ## Ideology
 

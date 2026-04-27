@@ -1,6 +1,6 @@
 # 90-Stubs/factions
 
-All 52 faction stubs have been triaged (issue #44). The folder is empty.
+All 52 faction stubs from the rough pass were triaged in issue #44. A post-#44 refill (during the #45 places triage) returned 10 stubs to this folder; #46 resolved 4 of those — the Waterdhavian noble houses — leaving 6 still pending.
 
 ## Outcome
 
@@ -18,3 +18,7 @@ All 52 faction stubs have been triaged (issue #44). The folder is empty.
   - *Winter Court* → [10-Setting/cosmology/fey-courts/unseelie.md](../../10-Setting/cosmology/fey-courts/unseelie.md).
   - *Alliance* → folded into *Lords' Alliance* above.
 - **37 deleted as junk:** common-noun plurals (*Worshipful Companies*, *Foreign Kontors*, *Native Consortiums*, *Merchant Consortiums*, *Public Factions*, *Secret Factions*, *Societies*, *Remnant Costers*), section-header fragments (*Chapter*, *Faction*, *Worshipful Company*, *Court of Assistants*), generic role names (*Guild Wardens*, *Guild Lieutenant*, *Watch Captain*, *Sodality Investigators*), and sentence fragments (*A junior Chionthar Consortium member*, *Both Harpers and Zhentarim*, *Following the Council*, *Whether the Alliance*, *Exploiting the Flaming Fist*, *Other Throne*, etc.).
+
+## Post-#44 refill resolved by #46
+
+- *House Adarbrent / Amcathra / Cassalanter / Tesper* → [20-Factions/waterdeep-noble-houses/associations/](../../20-Factions/waterdeep-noble-houses/) — promoted to a single Waterdhavian noble-houses faction with one association file per house.

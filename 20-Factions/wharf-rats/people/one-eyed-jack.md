@@ -17,7 +17,7 @@ Jack runs the [Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-c
 
 ## Current pressures
 
-- **The "lost" Lantaner crate.** Jack's crew "accidentally" dropped a [Lantaner Concession](../../lantaner-concession/summary.md) crate of mechanical parts during unloading. The Concession's countermove — an anonymous bounty through a fence at the Elfsong — has put pressure on him to recover, sell, or quietly dispose of the contents.
+- **The "lost" Lantaner crate.** Jack's crew "accidentally" dropped a [Lantaner Concession](../../lantaner-concession/summary.md) crate of mechanical parts during unloading. The Concession's countermove — an anonymous bounty through a fence at the [Elfsong](../../../30-Places/sword-coast/baldurs-gate/lower-city/elfsong.md) — has put pressure on him to recover, sell, or quietly dispose of the contents.
 - **The botched weapons misdirection.** An attempt to divert a Flaming Fist weapons shipment failed when security proved tighter than expected and a dockside contact failed to create the necessary opening. The crossbows reached the Fist barracks; Jack now suspects a leak in his own informants.
 - **The successful labor slowdown.** A long, well-managed slowdown at the [Chionthar Consortium](../../chionthar-consortium/summary.md)'s docks forced the company to concede higher wages — cementing his control over Consortium harbor labor and giving the Guild a public win.
 - **The "solidarity tax" disaster.** Jack overplayed his hand a second time, levying a "solidarity tax" on Consortium docks. The Consortium hired a small Zhentarim squad to break it; the resulting pier-side brawl shattered Guild control over Consortium docks and cost Jack credibility with Keene.
