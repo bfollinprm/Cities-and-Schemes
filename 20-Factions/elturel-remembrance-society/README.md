@@ -5,3 +5,4 @@ Elturian-survivor support group radicalized into hunting 'infernal' Baldurian me
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: perrine-hhune.
