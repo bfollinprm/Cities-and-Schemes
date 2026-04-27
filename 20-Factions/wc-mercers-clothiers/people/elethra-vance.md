@@ -1,11 +1,11 @@
 ---
 name: elethra-vance
-description: Mistress of the Worshipful Company of Mercers & Clothiers; arbiter of patriar fashion and broker of the gossip that comes with it.
+description: Master of the Mercers' Company; sells appearance as power, gossip as currency.
 ---
 
 # Mistress Elethra Vance
 
-Mistress of the [Worshipful Company of Mercers & Clothiers](../summary.md). Politically savvy, perfectly tailored, and dangerous to underestimate.
+Master of the [Worshipful Company of Mercers & Clothiers](../summary.md). Impeccably dressed, politically savvy, and quietly the best-informed person in any patriar drawing room.
 
 ## Manifesto
 
@@ -13,7 +13,16 @@ Mistress of the [Worshipful Company of Mercers & Clothiers](../summary.md). Poli
 
 ## Role
 
-Vance built the modern Mercers' Company by leveraging post-crisis status anxiety: every new-money family had to look like old money, and only her workshops could deliver. She holds a seat in the [Peerage of Coin](../../peerage-of-coin/summary.md) and personally cultivates relationships with the Factor of the Waterdhavian Kontor and the Consul of the Amnian Kontor for textile imports. Information from her fitting rooms is, depending on the buyer, gift, weapon, or commodity.
+Vance built the modern Mercers' Company on the post-crisis flood of new wealth. The plutocrats wanted to *look* like patriars; her tailors made it possible, and her seal made it credible. Today the guild controls the high-end clothing market and uses its access to the city's elite as a parallel intelligence service.
+
+Her current operations:
+
+- Locked an **exclusive Waterdhavian silk** import contract for the patriar winter festival, denying every rival access to the season's most-wanted fabric.
+- Tripled the price of black silks and velvets to capitalize on a string of high-profile deaths — "the business of grief."
+- Designed [Flaming Fist](../../flaming-fist/summary.md) dress uniforms whose details quietly signal alignment with the [Peerage of Blood](../../peerage-of-blood/summary.md), a political statement aimed at the traditionalist bloc.
+- Identified and quietly fired a journeyman tailor who was selling design sketches to a Bloomridge rival; he is now blacklisted from the trade.
+
+She is locked in a leather rivalry with [Goodman Borlu](../../wc-butchers-tanners/people/borlu.md) of the Butchers' Company, who insists fine hides belong to *his* guild's trade.
 
 ## See also
 

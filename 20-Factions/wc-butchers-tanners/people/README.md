@@ -4,4 +4,4 @@ Named figures.
 
 ## Index
 
-- [goodman-borlu.md](goodman-borlu.md)
+- [borlu.md](borlu.md)

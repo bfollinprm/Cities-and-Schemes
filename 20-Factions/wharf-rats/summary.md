@@ -1,37 +1,42 @@
 ---
 name: wharf-rats
-description: Dockside smuggling crew under One-Eyed Jack working the Gray Harbour; doubles as the Fishmongers' strike-breaking labor force.
+description: Guild-controlled dockworkers' union at Gray Harbour under One-Eyed Jack; runs labor, intelligence, and contraband at the port.
 ---
 
 # Wharf Rats
 
-A dockside smuggling crew working the Gray Harbour quays and warehouses, run by [One-Eyed Jack](people/one-eyed-jack.md). Operationally a [Guild](../guild/summary.md) cell, but with deep crossover into the [Worshipful Company of Fishmongers'](../wc-fishmongers/summary.md) unionized dock labor — Wharf Rats both pilfer from Kontor cargoes and provide muscle behind dockworker actions.
+A [Guild](../guild/summary.md)-controlled dockworkers' union and smuggling cell working the **Gray Harbour**. Led by ["One-Eyed" Jack](people/one-eyed-jack.md). The Wharf Rats are not just a smuggling crew — they are the de facto labor union of the port, used to control wages, gather intelligence on every ship that docks, and quietly move contraband off of legitimate cargo.
 
 ## Ideology
 
-None. Pay the crew, get the cargo. Loyalty runs to One-Eyed Jack first, the Fishmongers' Matron second, the Guild third, and a paying patron last.
+Like their cousin cell the [River-Rats](../river-rats/summary.md), the Wharf Rats do not have an ideology of their own — they are an arm of the Guild. Their working principle: **no crate is loaded or unloaded in Gray Harbour without us, and what we do not see did not happen.**
 
 ## Membership
 
-Dockworkers, longshoremen, and a small fleet of small craft used for cargo-shifting between Gray Harbour and the Chionthar. Most members hold double affiliation with the Fishmongers' union.
+A Guild-affiliated dockworkers' association whose membership encompasses much of Gray Harbour's longshoreman population — bargemen, stevedores, crane operators, harbor clerks. Officially loose, they answer to a Guild Lieutenant via Jack himself. The "Rats" are the Guild's eyes on every legitimate cargo manifest in Gray Harbour.
 
 ## Methods
 
-- Cargo skimming. Week 0: Wharf Rats "accidentally" dropped a crate of Lantaner mechanical parts during unloading; valuable contents pilfered before the crate was reported as a damage loss. The [Lantaner Concession](../lantaner-concession/summary.md) responded by posting an anonymous third-party bounty for "lost clockwork mechanisms" at the Elfsong Tavern.
-- Dockworker collective action. The week-0 strike attempt collapsed when [Chionthar Consortium](../chionthar-consortium/summary.md) brought Elturian refugee strikebreakers — leaving the Wharf Rats with bitter feelings toward [New Elturel](../hellriders-of-new-elturel/summary.md) and toward Matron Saltwind for not protecting them harder.
-- Smuggling of small-package luxury goods past customs.
+- **Labor control.** Slowdowns, walkouts, and "solidarity taxes" used as leverage against employers — most recently a successful slowdown at the [Chionthar Consortium](../chionthar-consortium/summary.md)'s docks that forced higher wages.
+- **Discreet pilferage.** Crates conveniently "dropped" during unloading; goods damaged into oblivion before paperwork; missing inventory blamed on accidents.
+- **Intelligence.** A constant stream of cargo manifests, captain gossip, and crew rumors, fed back to the Guild.
+- **Strikebreaking-as-extortion.** Threatening to walk out at critical moments to extract concessions from the [Worshipful Company of Shipwrights & Calkers](../wc-shipwrights-calkers/summary.md), the [Worshipful Company of Fishmongers](../wc-fishmongers/summary.md), and the Consortium.
 
 ## Hooks and Relationships
 
-**Parent organizations.** [The Guild](../guild/summary.md) (operational) and the [Worshipful Company of Fishmongers](../wc-fishmongers/summary.md) (labor).
+**Parent organization.** [The Guild](../guild/summary.md) — sister to the [River-Rats](../river-rats/summary.md).
 
-**Enemies.** The [Chionthar Consortium](../chionthar-consortium/summary.md) for the strike-breaking. The [Flaming Fist](../flaming-fist/summary.md) for customs enforcement at the harbor. The [Lantaner Concession](../lantaner-concession/summary.md) for the cargo skim.
+**Enemies.** [Flaming Fist](../flaming-fist/summary.md) customs. [Worshipful Company of Shipwrights & Calkers](../wc-shipwrights-calkers/summary.md), who resent Wharf-Rat control of dock labor. The [Chionthar Consortium](../chionthar-consortium/summary.md) — recently hostile after the Wharf Rats overplayed their hand.
 
-**Tensions.** With [New Elturel](../hellriders-of-new-elturel/summary.md) refugees over the strike-breaking; with [Matron Saltwind](../wc-fishmongers/people/marga-saltwind.md) over her week-1 levy-exemption deal that traded their leverage away.
+**Hooks.** The Wharf Rats recently "lost" a [Lantaner Concession](../lantaner-concession/summary.md) crate of mechanical parts during unloading. The Concession's response was to post an **anonymous bounty** through a third-party fence at the Elfsong Tavern for the recovery of "lost clockwork mechanisms."
+
+A **misdirection of a Flaming Fist weapons shipment** failed when security on the transport proved unexpectedly tight — the shipment of crossbows reached the Fist barracks intact, and the Wharf-Rat informant network is now potentially compromised.
+
+The crew's most recent overreach — a "solidarity tax" levied on Consortium docks — was broken when the Consortium hired a small Zhentarim squad to "clear the air." A bloody pier-side brawl shattered the tax and broke Guild control over Consortium docks.
 
 ## See also
 
-- [One-Eyed Jack](people/one-eyed-jack.md) — crew leader.
-- [The Guild](../guild/summary.md).
-- [Worshipful Company of Fishmongers](../wc-fishmongers/summary.md).
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`.
+- ["One-Eyed" Jack](people/one-eyed-jack.md) — leader.
+- [The Guild](../guild/summary.md) — parent organization.
+- [River-Rats](../river-rats/summary.md) — sister cell.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dossier-baldurs-gate-1502-dr-a-city-reborn.md` Chapter 12; `faction-quests.xlsx`.

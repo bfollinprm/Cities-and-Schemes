@@ -1,36 +1,40 @@
 ---
 name: river-rats
-description: Sewer-and-river smuggling crew operating beneath the Brampton district under Silas the Eel; recently burned as collateral in a Guild cleanup.
+description: Sewer-and-river smuggling crew operating beneath Brampton under Silas the Eel; specialist arm of The Guild bypassing Flaming Fist customs.
 ---
 
 # River-Rats
 
-A smuggling crew that runs cargo through the sewer-canal network beneath the Brampton district and out to the Chionthar. Operationally they are a Guild cell, run by [Silas the Eel](people/silas-the-eel.md) and reporting up through the Eastway Ward Boss *Farlin* to Nine-Fingers Keene. As of week 6, the crew has been burned: [The Guild](../guild/summary.md) used Silas's run as the delivery vehicle for the smokepowder that destroyed the [Zhentarim](../zhentarim/summary.md) Velvet Hand safehouse, intending to wipe out both the rivals and the failing crew in one "tragic accident" — the party intercepted Silas in the sewers before it detonated.
+A specialized smuggling cell of [The Guild](../guild/summary.md), led by [Silas "the Eel"](people/silas-the-eel.md). Operates the city's **sewer tunnels and hidden river coves** to bypass [Flaming Fist](../flaming-fist/summary.md) customs at Wyrm's Crossing.
 
 ## Ideology
 
-None. The River-Rats are a smuggling crew, paid by the run, loyal to Silas and beyond him to The Guild. Recent failed runs and Silas's Ward Boss kompromat (Farlin had been covering Silas's skimming) had eroded their value, and Keene cut them.
+The River-Rats do not have an ideology of their own — they are the smuggling arm of the Guild, sharing its self-image as the people's protector but caring far more about the next run than about politics. Their working philosophy: **the river is older than the city, and the sewers older than the river. Both belong to the Eel.**
 
 ## Membership
 
-Silas the Eel, his crew of sewer-runners, and a network of Brampton sympathizers. Operations on the Eastway Ward Boss's nominal protection — Farlin himself was being blackmailed by the Guild operative Vex over the Silas skim.
+A loose, tight-knit crew of sewer-divers, fence-runners, and small-boat smugglers — perhaps two dozen on a given run, drawn from the deep Lower City and Outer City. They answer directly to one of the Guild's Lieutenants ("Sachems") through Silas himself, who is well-known enough in the Brampton underworld that his nickname does most of his work for him.
 
 ## Methods
 
-- Sewer-canal smuggling between Brampton, Gray Harbour, and the Chionthar.
-- Unregistered vessels through the sewer outflows — a perpetual grievance for the [Worshipful Company of Shipwrights & Calkers](../wc-shipwrights-calkers/summary.md).
-- New caches when patrols tighten. Week 0: Silas's crew tried to secure a defensible sewer nexus beneath Brampton to bypass Flaming Fist patrols on Wyrm's Crossing — the attempt failed (DC 10 vs 20).
+- **Sewer routes.** Cargo moves through the **Undercity tunnels** — drainage sluices, forgotten cellars, and the back of the Undercellar.
+- **River coves.** Hidden inlets along the Chionthar bank, used to off-load before reaching Flaming Fist customs.
+- **Defensible caches.** Recently established a new sewer nexus beneath the **Brampton district** as a hidden cache, deliberately bypassing the heightened Wyrm's Crossing patrols.
+- **Bribery and intel.** Tipped off by Guild informants in the Flaming Fist as to which patrols can be paid and which cannot.
 
 ## Hooks and Relationships
 
-**Parent organization.** [The Guild](../guild/summary.md) — and as of week 6, an actively hostile parent. Silas was sent on a "suicide run" with unstable smokepowder.
+**Parent organization.** [The Guild](../guild/summary.md) — they share its allies and enemies. They are extensions of the [Wharf Rats](../wharf-rats/summary.md)' cousin operation: the Wharf Rats handle dockside intake; the River-Rats handle the river and sewers below.
 
-**Enemies.** [Worshipful Company of Shipwrights & Calkers](../wc-shipwrights-calkers/summary.md) over unregistered vessels. The [Flaming Fist](../flaming-fist/summary.md) at the Wyrm's Crossing patrols. The [Zhentarim](../zhentarim/summary.md) (target of the burned run).
+**Enemies.** [Flaming Fist](../flaming-fist/summary.md) customs patrols at Wyrm's Crossing and along the Coast Way. The [Worshipful Company of Shipwrights & Calkers](../wc-shipwrights-calkers/summary.md), who resent the use of unregistered vessels.
 
-**Recent developments.** Crew burned in Guild cleanup; Silas's status unclear post-interception by the party.
+**Clients.** A [Bibliophile](../bibliophile/summary.md) network on retainer; occasional patriar clients (recently a disgraced patriar's son they tried to spirit out of the city); the [Harpers](../harpers/summary.md) sometimes use the same routes when discretion is paramount.
+
+**Hooks.** The smuggling run for the patriar's son **failed** — Flaming Fist patrols ambushed the crew on an anonymous tip. The boy was captured; Silas escaped; the family is now scandalized. A subsequent run for a powerful patriar's wine shipment ran into a **ghoul ambush** in the Undercellar, costing half the crew. Conversely, exploiting the Flaming Fist's distraction with the Wyrm's Crossing crisis, the Rats successfully moved a major contraband shipment up the Chionthar — the so-called "Blockade Boom" — netting the Guild a windfall.
 
 ## See also
 
-- [Silas the Eel](people/silas-the-eel.md) — crew leader.
+- [Silas the Eel](people/silas-the-eel.md) — leader.
 - [The Guild](../guild/summary.md) — parent organization.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dm-notes.docx` Sessions 13–17; `faction-quests.xlsx`.
+- [Wharf Rats](../wharf-rats/summary.md) — sister cell.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dossier-baldurs-gate-1502-dr-a-city-reborn.md` Chapter 12 ("Directory of Influence"); `faction-quests.xlsx`.

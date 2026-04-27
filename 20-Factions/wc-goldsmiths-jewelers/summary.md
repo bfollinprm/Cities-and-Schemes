@@ -1,34 +1,35 @@
 ---
 name: wc-goldsmiths-jewelers
-description: Regulators of precious metals and gems; the city's unofficial mint and assay office, and the vault for much of its private wealth.
+description: Regulators of precious metals and gems; the city's unofficial mint and assay office.
 ---
 
 # Worshipful Company of Goldsmiths & Jewelers
 
-The guild that weighs the city's faith in itself. In a Baldur's Gate flooded with foreign currency and a half-dozen Kontor coinages, the Goldsmiths' assay seal is the only thing that turns metal into money. Their vaults hold a substantial fraction of the city's private wealth. Led by the meticulous [Master Theronius Goldhand](people/theronius-goldhand.md).
+The Worshipful Company that decides what coin is worth in Baldur's Gate. In a city flooded with foreign currencies and reliant on stable markets, the Goldsmiths' assay seal is the closest thing to a standard. Their vaults hold a substantial fraction of the city's private wealth. Led by [Master Theronius Goldhand](people/theronius-goldhand.md).
 
 ## Ideology
 
-To be the incorruptible arbiters of wealth and value in the city. They believe trust in their seal is the load-bearing element of Baldur's Gate's economy — and they price that trust accordingly.
+To be the incorruptible arbiters of value. The Company sees its credibility as the foundation of post-crisis commerce — every patriar loan, every Kontor letter of credit, every market trade depends on faith in their seal.
 
 ## Membership
 
-The most respected dwarven and human jewelers, minters, and bankers. The Court of Assistants overlaps heavily with the city's largest private banks. Apprenticeship is long, vetting is invasive, and expulsion from the guild ends a career permanently.
+The most respected dwarven and human jewelers, minters, and bankers in the city. The Master / Wardens / Court of Assistants framework is unusually conservative here; reputation is the asset, and discipline of members is severe. Goldhand himself is meticulous, stern, and deeply allergic to scandal.
 
 ## Methods
 
-- Sole legally-sanctioned assay offices for gold and silver; their seal is required for any high-value transaction.
-- Vaulting and lending services — the closest thing the city has to a public bank, second only to the [Amnian Kontor](../amnian-kontor/summary.md).
-- Cooperation with [The Guild](../guild/summary.md) on counterfeit cases. Week 0: a small Undercellar counterfeiter was identified by Goldsmith agents and handed to The Guild — Goldsmiths protect their seal's integrity, The Guild profits from the criminal's holdings.
-- Patronage masterworks. Week 1: Goldhand personally crafted a gold-and-silver canary automaton for Lord Durinbold, sealing the guild's alliance with the [Peerage of Blood](../peerage-of-blood/summary.md).
+- Operates the only legally sanctioned assay offices in Baldur's Gate; certifies the purity of every gold and silver bar moving through the city.
+- Close ties to the [Amnian Kontor](../amnian-kontor/summary.md) and the city's major banks; effectively functions as the unofficial mint.
+- Quiet cooperation with [the Guild](../guild/summary.md) on counterfeit and laundering cases — Goldhand's agents handed a small-time Undercellar counterfeiter to the Guild in exchange for the Guild policing forgeries against the Goldsmiths' seal.
+- A standing **patriar canary commission**: Goldhand personally oversaw the creation of a magnificent gold-and-silver canary automaton for **Lord Durinbold**, cementing the guild's alliance with the [Peerage of Blood](../peerage-of-blood/summary.md).
+- When official channels fail to trace suspicious wealth — for instance, the source of a recent windfall on a particular adventuring party's books — Goldhand puts a quiet, high-paying bounty out through the criminal underworld for any fence willing to talk.
 
 ## Hooks and Relationships
 
-**Enemies.** Counterfeiters, gilders, and the few [Guild](../guild/summary.md) cells that try to launder stolen jewelry past the assay seal.
+**Allies.** [Amnian Kontor](../amnian-kontor/summary.md), city banks, [Peerage of Blood](../peerage-of-blood/summary.md) traditionalists (via the Durinbold canary commission), and a transactional working relationship with [the Guild](../guild/summary.md) against shared counterfeit threats.
 
-**Allies of convenience.** The [Amnian Kontor](../amnian-kontor/summary.md) for currency-exchange operations; the [Peerage of Blood](../peerage-of-blood/summary.md) by virtue of patriar masterwork commissions; selective cooperation with [The Guild](../guild/summary.md) when its interests align.
+**Enemies.** Counterfeiters and gilded-fake fences (often Guild-adjacent operators acting outside the truce); the [Takers of the Tithe](../takers-of-the-tithe/summary.md), who recently abandoned a hunt on a master jeweler after their Spotter ran into the guild's bodyguard cordon.
 
 ## See also
 
 - [Master Theronius Goldhand](people/theronius-goldhand.md) — Master of the Company.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`; dossier ch. 8.

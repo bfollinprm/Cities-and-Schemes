@@ -1,34 +1,43 @@
 ---
 name: silent-shroud
-description: Sharran cult seeking the lost sanctums of the Lady of Loss beneath the city; trades secrets and recruits the grieving.
+description: Sharran cult that brokers secrets and grief; seeks the Lady of Loss's lost sanctums beneath the city.
 ---
 
 # The Silent Shroud *(aka Shar)*
 
-The local Sharran cell, dedicated to the Lady of Loss. They are searching for hidden Sharran sanctums beneath Baldur's Gate — believed to date to before the city's founding — and run an active intelligence brokerage based on grief and secrets. Led locally by [Mother Nocturne](people/mother-nocturne.md). Bror's relationship with the cult, established in Session 9, gives the party a back-channel access point.
+A clandestine Sharran cell operating beneath Baldur's Gate. Its public face is the **House of Grief** sanatorium for the bereaved; its private business is intelligence brokerage and the recovery of forgotten Sharran sanctums lost beneath the modern streets. The source material names no individual cult head; field operations run through [Mother Nocturne](people/mother-nocturne.md) (also called the **Night Mother**).
 
 ## Ideology
 
-Loss is the only constant. Memory is the wound that, properly attended, becomes power. Shar's lost sanctums beneath the city are doors to her older mysteries; recovering them is sacred work. In the meantime, the cult survives by trading on the secrets of the grieving.
+Loss is not absence — it is the truest intimacy with the Lady. Memory is the first chain. The Shroud tends the city's grief and harvests its secrets; both feed Shar. They view the modern [Cult of the Returning Lord](../cult-of-the-returning-lord/summary.md) as a catastrophic threat that Shar would prefer suppressed in order to preserve the status quo of slow, private despair.
 
 ## Membership
 
-The grieving and the dispossessed, drawn to the cult through trauma counseling at the **House of Grief** sanatorium (a public-facing front) and through more private outreach. Mother Nocturne presides over recruitment and the cult's intelligence operations. Bror has been in transactional contact since Session 9 — Mother Nocturne provided assistance in exchange for a direct line into the party's discoveries.
+- **Mother Nocturne** — field commander; runs the cell from a cellar beneath the Helm and Cloak.
+- **Sanatorium clerics** at the **House of Grief** — counsel and magically monitor the bereaved.
+- **Sharran agents and shadows** — intelligence operatives.
+- **Coerced assets** — most recently, the dwarf monk **Bror**, leveraged through his secret-trading bargain.
 
 ## Methods
 
-- Sanctum search. Active expeditions into the undercity to locate Shar's hidden temples.
-- Secrets-as-currency. The cult sells intelligence and warding to clients in exchange for personal secrets — a transaction that doubles as recruitment.
-- Failed infiltration. Week 0: an agent's "grieving noble" cover at the House of Grief sanatorium was *too* convincing — the head cleric subjected the agent to constant heartfelt counseling and magical monitoring, making sanctum-scouting impossible without exposure. Mission failed; agent stuck in therapy.
-- Pact with Bror. Session 9: Mother Nocturne completed a transactional ritual with Bror — assistance in exchange for ongoing intelligence access through his obsidian stone (which is Shadowfell-tied and resonates with both Sharran and circus magic).
+- Information brokerage: secrets bought and sold for Sharran favor. Mother Nocturne extracted a full report on the Bhaalist sewer cult, **Zora**, and the party's political entanglements as the price for early aid.
+- Magical surveillance of Bror and the **Whispering Stone**; an attempt to influence the stone backfired and revealed the Sharran interference to Bror's own patron.
+- Infiltration of patriar venues. Bror was sent to the **Helm and Cloak** to listen for political secrets. Mother Nocturne now plans a follow-up Helm and Cloak infiltration after a "purge of the blind" inside her own cell.
+- Sanctum recovery: a cleansing ritual fizzled against ancient wards; a House of Grief infiltration ran aground when the head cleric became too interested in the "grieving noble" cover and trapped the agent in counseling.
 
 ## Hooks and Relationships
 
-**Enemies.** The [Harpers](../harpers/summary.md) by doctrine. The [Cult of the Returning Lord](../cult-of-the-returning-lord/summary.md) — Sharrans treat Bhaalist resurrection projects as both rival and existential threat (the DM has framed the Sharrans as among the non-evil-by-Sharran-standards factions willing to suppress a renewed Cult of the Dead Three to maintain status quo). The [Sorcerous Sodality](../wc-sorcerous-sodality/summary.md) for unlicensed magic and warlock pacts.
+**Sworn enemies.** The [Harpers](../harpers/summary.md) — fellow secret-keepers, but on opposite sides of the moral ledger.
 
-**Allies of accident.** Whoever brings them better intelligence than they had — including, at present, the party through Bror.
+**Long-running rivalry.** The [Cult of the Returning Lord](../cult-of-the-returning-lord/summary.md) — Sharrans actively work to suppress Bhaalist resurgence in the Undercity to keep the city's despair quiet and harvestable.
+
+**Public face.** The **House of Grief** sanatorium acts as the cult's recruitment funnel; targets are clergy-monitored under the cover of bereavement counseling.
+
+**Coerced asset.** **Bror** of the party — given the Whispering Stone errand to the Helm and Cloak as his first tithe.
+
+**Internal paranoia.** After losing track of Bror, Mother Nocturne suspects a mole and has begun a "Purge of the Blind," interrogating her own agents in the dark.
 
 ## See also
 
-- [Mother Nocturne](people/mother-nocturne.md) — local cell leader.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dm-notes.docx` Sessions 9, 18; `faction-quests.xlsx`.
+- [Mother Nocturne](people/mother-nocturne.md) — field commander (codename only).
+- Source: `dm-notes.docx` (Mother Nocturne / Night Mother passages); `faction-quests.xlsx`.

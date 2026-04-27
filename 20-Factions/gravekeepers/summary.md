@@ -1,33 +1,43 @@
 ---
 name: gravekeepers
-description: Undead-cleansing cult under Hemlock, warding the city's graveyards against the psychic intrusions of the post-crisis era.
+description: Undead-cleansing cult based at Tumbledown Graveyard; divine casters who patrol the cemeteries and ward the city's dead against Bhaalist intrusion.
 ---
 
 # The Gravekeepers
 
-A small but determined cult-of-stewards focused on warding the city's cemeteries — particularly the **Tumbledown** graveyard — against the psychic and necromantic intrusions that have proliferated since the Absolute Crisis. Led by [Hemlock](people/hemlock.md). Practical opponents of every other Cult-of-the-Dead-Three cell, every necromancer, and every pact-warlock who treats the dead as raw material.
+A cult of consecrated grave-tenders, divine casters, and silent warders dedicated to Baldur's Gate's burial grounds. They patrol Tumbledown and the other cemeteries, suppress undead manifestations before they become public, and have positioned themselves as the front line against Bhaalist desecration. Founded and led by [Old Man Hemlock](people/hemlock.md).
 
 ## Ideology
 
-The dead are owed peace. The post-crisis psychic substrate has made simple cemetery work into open spiritual warfare; the Gravekeepers see themselves as line-holders against the cults of the Dead Three, the Hands of the Absolute, and any other group that would use a corpse as a tool.
+The dead are owed silence. Necromancy, soul-trapping, and the Bhaalist habit of murdering on consecrated ground are all theft from the grave. The Gravekeepers maintain wards, perform cleansings, and — when public order fails them — would rather collapse a tomb than let it be desecrated. The modern crisis has hardened their duty into something close to militancy.
 
 ## Membership
 
-Stewards, lay-cleansers, and a small core of trained turners-of-the-dead. Hemlock leads from Tumbledown. Recruitment is quiet — they prefer steady, unmagical workers, with a few clerics for the harder cleansings.
+Clerics, paladins, and lay grave-tenders organized in patrol-teams of five. Hemlock leads from Candulhallow's Tombstones in Tumbledown and now from the **Cliffside Cemetery**.
 
 ## Methods
 
-- Cleansing rituals. Week 0: a Tumbledown cleansing was interrupted by a powerful wraith drawn to the spiritual energy. The Gravekeepers destroyed the wraith but lost a key warding stone in the fight, leaving the graveyard more vulnerable.
-- Active hunting of necromancy in the city's cemeteries.
-- Cooperation with the [Worshipful Company of Goldsmiths & Jewelers](../wc-goldsmiths-jewelers/summary.md) and other guilds when soul-trapping artifacts surface in their assay work.
+- **Patrols** of Tumbledown and the wider cemetery network — grave robbers, smugglers, and undead.
+- **Cleansing rituals** — a recent attempt was interrupted by a wraith; the Gravekeepers destroyed the creature but lost a key warding stone.
+- **Discreet neutralization** of undead manifestations before they cause public alarm.
+- **Pattern-mapping** of sewer-entrance manifestations led to a hidden Bhaalist temple in the Undercity beneath Tumbledown.
+- **Corpse-caravan** — Hemlock moved the cult's stockpile of consecrated dead to the Cliffside Cemetery in silence.
+- **The Cliffside Consecration** — a massive in-progress ritual to create a perimeter of consecrated undead guardians against Bhaalist incursion.
+- A Bhaalist sabotage tainted Hemlock's holy water with necrotic residue, costing weeks of preparation.
 
 ## Hooks and Relationships
 
-**Enemies.** The [Cult of the Returning Lord](../cult-of-the-returning-lord/summary.md) — direct opposite ideology, multiple sewer-altar conflicts. The [Takers of the Tithe](../takers-of-the-tithe/summary.md) — soul-trapping is anathema. The [Hands of the Absolute](../hands-of-the-absolute/summary.md) — psychic resonance chambers in basements bleed into the local dead.
+**Sworn enemies.** The [Cult of the Returning Lord](../cult-of-the-returning-lord/summary.md). Hemlock has traced their rituals up through the sewers and is preparing the Cliffside Consecration as a counter-ward.
 
-**Allies of opportunity.** The [Harpers](../harpers/summary.md) on Dead Three matters. Local clergy where temple boundaries don't get in the way.
+**Failed-to-detect.** The [Hands of the Absolute](../hands-of-the-absolute/summary.md) hid a cell behind the [Unchained / K'liir](../unchained/summary.md)'s ambient psychic signature; Hemlock's patrols dismissed the disturbance as Githyanki echo.
+
+**Tumbledown standoff.** Hemlock has threatened to collapse the Tumbledown gates with black powder to stop the [Harpers](../harpers/summary.md) and the [Guild](../guild/summary.md) from running smuggled grain through the crypts to the Basilisk Gate blockade.
+
+**Reluctant neighbors.** The [Flaming Fist](../flaming-fist/summary.md) — Hemlock would rather burn the cemetery himself than let a Fist deployment do it for him.
 
 ## See also
 
-- [Hemlock](people/hemlock.md) — leader.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`.
+- [Old Man Hemlock](people/hemlock.md) — leader.
+- [Cult of the Returning Lord](../cult-of-the-returning-lord/summary.md) — the Bhaalist enemy beneath Tumbledown.
+- Tumbledown Graveyard / Cliffside Cemetery — operational ground.
+- Source: `dm-notes.docx` (Adventure: The Shadows of Tumbledown); `faction-quests.xlsx`.

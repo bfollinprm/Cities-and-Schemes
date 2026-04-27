@@ -1,36 +1,43 @@
 ---
 name: carnival-of-whispers
-description: Fey-pact cult built around the Circus of the Last Days, using illusion and abduction to harvest emotional residue for their patron.
+description: Fey-pact warlock cult built around the Circus of the Last Days; harvests intense emotion as tribute to its patron and seeks to anchor the circus permanently to the city.
 ---
 
 # The Carnival of Whispers
 
-A fey-pact cult built around the extraplanar **Circus of the Last Days**, led by the enigmatic and secretly malevolent ringmaster [Mister Smiles](people/mister-smiles.md). They seek to corrupt the circus's planar magic and anchor it permanently to Baldur's Gate, bleeding its emotional aura over the entire city until the line between performance and reality collapses.
+A fey-pact cult built around the traveling Circus of the Last Days, led by its secretly malevolent ringmaster, [Mister Smiles](people/mister-smiles.md). Their patron — named in some sources as **Lucretious** — feeds on novel and powerful mortal emotion.
 
 ## Ideology
 
-Mister Smiles and his inner circle are warlocks who believe emotions are a tangible resource — and the most delicious food for their fey patron. By erasing the line between performance and reality, they create an endless feast and elevate themselves to fey nobility.
-
-Their grand project: anchor the circus permanently to Baldur's Gate so that its emotional aura bleeds across the city, trapping every Baldurian in a waking dream of chaotic performance.
+Mister Smiles and his inner circle are warlocks who believe emotions are a tangible resource — the most delicious food for their patron. By erasing the line between performance and reality, they intend to create an endless feast and elevate themselves to fey nobility. The grand prize: corrupt the extraplanar magic of the Circus, anchor it permanently to Baldur's Gate, and let its emotional aura bleed out across the city.
 
 ## Membership
 
-The core cultists are circus performers who have entered the same fey pact. Performers use their acts to subtly influence the crowd's emotions; enforcers, disguised as clowns, kidnap citizens who display particularly strong passions. Mister Smiles holds personal pact with a Lord of the Feywild whose hunger has grown with every passing year.
+Core cultists are circus performers who have entered the pact themselves. Their acts subtly nudge the crowd's emotions while enforcers in clown disguise abduct citizens whose passions burn brightest. Mister Smiles was once a human actor desperate for fame who wandered into the Feywild and bought his charisma at the cost of an ever-deepening tribute.
 
 ## Methods
 
-- Emotional manipulation through the circus's acts.
-- Abduction of "passionate souls." Week 0: an attempt to abduct a Bloomridge poet went wrong when the poet (a skilled fencer) wounded a clown enforcer. Bloomridge is now on alert; future abductions in the area are harder.
-- Planar tampering. The cult is actively corrupting the circus's extraplanar magic to strengthen its bleed into the city. The party encountered this magic directly in Sessions 10–11 — Bror's Shadowfell-tied obsidian stone resonated with the circus's entropic energies.
-- Quiet recruitment of new performers — actors and acrobats desperate for fame are particularly susceptible to Mister Smiles's pact.
+- Public performances tuned to harvest emotional residue from the audience.
+- Targeted abductions of "passionate souls" — a Bloomridge poet fought off the clowns, putting the neighborhood on alert.
+- Refugee-dream manipulation via a familiar called the "Memory Mite" (one was intercepted and eaten by a rival fey predator).
+- A "dream-inducing" performance fizzled when the unstable fey weave produced confusion instead of catharsis.
+- Driven out of Rivington markets; relocated to a "guerrilla circus" in Lower City alleys near the Blushing Mermaid, feeding on hopelessness rather than fear.
+- Fey bargains with mortals — Mister Smiles trades in memories, secrets, and emotions.
 
 ## Hooks and Relationships
 
-**Enemies.** The [Harpers](../harpers/summary.md), most likely to notice the unnatural influence first. The [Sorcerous Sodality](../wc-sorcerous-sodality/summary.md), which would detect the planar tampering. The [Society of Baldurian Integrity](../society-of-baldurian-integrity/summary.md) sees the circus as a memetic-warfare beachhead and despises it on cultural-purity grounds.
+**Detection candidates.** The [Harpers](../harpers/summary.md) may be first to notice the unnatural influence; mages of the [Sorcerous Sodality](../wc-sorcerous-sodality/summary.md) are positioned to detect the planar tampering.
 
-**Allies of accident.** Whatever Far Realm or Shadowfell remnants are influencing the [Baldur's Mouth](../baldurs-mouth/summary.md) printing presses — different patron, same destabilizing effect.
+**Civic alert.** The [Flaming Fist](../flaming-fist/summary.md)'s Bloomridge precinct is on alert after the failed abduction skirmish.
+
+**Patron and rivals.** Mister Smiles answers to a Feywild lord; a rival fey entity has already preyed on his agents, suggesting another courtly hand at work.
+
+**Cultural enemies.** The [Society of Baldurian Integrity](../society-of-baldurian-integrity/summary.md) views the Carnival as an extraplanar invasion of Baldur's psychic territory.
 
 ## See also
 
-- [Mister Smiles](people/mister-smiles.md) — ringmaster and cult leader.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Secret Factions › The Cults); `dm-notes.docx` Sessions 10–11; `faction-quests.xlsx`.
+- [Mister Smiles](people/mister-smiles.md) — ringmaster and high warlock.
+- **Fey patron.** The dossier describes Mister Smiles' patron only as *"a Lord of [the Feywild]"* — unnamed. The appetite for harvested emotion fits the Wild or Unseelie courts; see [10-Setting/cosmology/fey-courts/wild-archfey.md](../../10-Setting/cosmology/fey-courts/wild-archfey.md) and [unseelie.md](../../10-Setting/cosmology/fey-courts/unseelie.md). Court structure overall: [fey-courts/](../../10-Setting/cosmology/fey-courts/).
+- **How fey pacts work in this campaign.** [00-Campaign-Frame/fey-bargains.md](../../00-Campaign-Frame/fey-bargains.md) — Mister Smiles is the local cautionary example of a single-patron debt that grew into bondage.
+- **Why the troupe's stagecraft is mechanically powerful.** [00-Campaign-Frame/the-masquerade-rule.md](../../00-Campaign-Frame/the-masquerade-rule.md) — performance is power.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Cults › The Carnival of Whispers); `the-fey-courts-and-the-green-masquerade-1502-dr.docx`; `dm-notes.docx`; `faction-quests.xlsx`.

@@ -1,11 +1,11 @@
 ---
 name: anya-brightwood
-description: Mistress of the Worshipful Company of Chandlers & Lamplighters; civic-minded, but she knows what every house lights up and when.
+description: Master of the Chandlers' Company; civic-minded face, runs the city's best informal night-watch network.
 ---
 
 # Mistress Anya Brightwood
 
-Mistress of the [Worshipful Company of Chandlers & Lamplighters](../summary.md). Civic-minded, ostensibly apolitical, and quietly aware that every lamplighter on her crews is also an observer.
+Master of the [Worshipful Company of Chandlers & Lamplighters](../summary.md). Civic-minded in public, practical-minded in the back room: her lamplighter crews see more of the city after dark than the [Flaming Fist](../../flaming-fist/summary.md) does, and she knows it.
 
 ## Manifesto
 
@@ -13,7 +13,15 @@ Mistress of the [Worshipful Company of Chandlers & Lamplighters](../summary.md).
 
 ## Role
 
-Brightwood renewed the five-year city lamplighting contract in week 0. She has cultivated working relationships across factional lines — the Watch, the Council, the Lower City Ward Bosses — by keeping the guild visibly neutral. The intelligence value of her crews' nightly rounds is an open secret in informed circles, but she has been disciplined about not letting any single faction monopolize it.
+Brightwood runs both halves of the Company — wax and oil supply, and the contracted lamplighter crews — as a single integrated operation. Her current operations:
+
+- **Renewed the standing five-year city lamplighting contract** with the [Council of Four](../../council-of-four/summary.md), locking in profits and civic relevance for the foreseeable future.
+- **Won a Norchapel expansion contract** for the Outer City, and quietly tasked her crews to act as a low-level intelligence network — discreetly reporting unusual activity from their nightly rounds.
+- Cut a discreet deal with [the Guild](../../guild/summary.md): in exchange for protection of her crews in the city's roughest streets, she provides a Ward-Boss with periodic lists of "malfunctioning" lamps — manufactured **dark zones** for the Guild's ambushes and smuggling routes.
+
+That arrangement has now been blown. A [Zhentarim](../../zhentarim/summary.md) agent in Eastway caught one of her lamplighters out, interrogated him, and walked away with the network's loyalties confirmed. The Zhentarim can now feed false information through her informants directly into the Guild — a problem she has not yet solved.
+
+She remains a standing target of the **Silent Choir** cult, which sees the city's lights as the obstacle to its work.
 
 ## See also
 

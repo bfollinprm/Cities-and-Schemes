@@ -1,36 +1,40 @@
 ---
 name: free-traders-of-the-outskirts
-description: Independent caravan masters of the Outer City under 'Mad' Meggan; mutual-protection pact turned military bloc at the Basilisk Gate.
+description: Outer City caravan masters and independent merchants under 'Mad' Meggan; a mutual-protection cooperative resisting both city tariffs and Guild rackets.
 ---
 
 # Free Traders of the Outskirts
 
-A pact of independent caravan masters operating outside the city's chartered consortiums and Kontors. Originally a mutual-protection arrangement against [Flaming Fist](../flaming-fist/summary.md) shakedowns at Wyrm's Crossing; by week 5 evolved into a hardened militia at the Basilisk Gate, allied with the [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md) against Sembian mercenaries hired by the Archduke. Led by ['Mad' Meggan](people/mad-meggan.md).
+An unofficial **merchants' cooperative** for the caravan masters, independent artisans, and shopkeepers of the Outer City. Their goal is to protect their members from the predatory practices of both the city's official guilds and [The Guild](../guild/summary.md)'s extortion rackets. Led by ["Mad" Meggan](people/mad-meggan.md), a tough-as-nails caravan master who has survived a dozen bandit attacks and isn't afraid of anyone from inside the walls.
 
 ## Ideology
 
-Independence from the chartered trade powers. Survival of the small operator against [Western Gate](../western-gate-trading-company/summary.md) and [Chionthar](../chionthar-consortium/summary.md) consolidation. Increasingly: open political opposition to the Council of Four.
+**The walls of Baldur's Gate are not the edge of the world.** The Free Traders insist that the Outer City is its own community with its own rights — to trade, to defend itself, and to be protected from city officials who treat the gates as a tollbooth. They are not separatists. They are organized customers who refuse to be cheated.
 
 ## Membership
 
-Independent caravan masters of the Outer City who travel in shared convoys and pool intelligence. Membership is fluid; the pact is enforced more by reputation than by oath. Operates from a command wagon at the Basilisk Gate, with militia capacity expanded since the [Hellriders](../hellriders-of-new-elturel/summary.md) alliance.
+A loose cooperative led by a **council of the most respected merchants**, operating out of the **Wyrm's Bend Market**. Membership encompasses:
+
+- Caravan masters who run goods between the city and the hinterlands.
+- Independent artisans and stall-keepers who can't afford guild dues.
+- Outer City shopkeepers who fall outside the [Worshipful Companies'](../wc-shipwrights-calkers/summary.md) jurisdiction.
 
 ## Methods
 
-- Combined convoys for mutual protection on the trade roads.
-- Refusal of [Flaming Fist](../flaming-fist/summary.md) shakedowns at Wyrm's Crossing — week 0 saw a confrontation with Mad Meggan's people erupt into a public brawl and a multi-day blockade. Marshal Flint's revenue grab became a public-relations disaster.
-- Direct economic counter-attack. Week 1: the [Chionthar Consortium](../chionthar-consortium/summary.md) used Flaming Fist enforcement to impound one of Meggan's vessels for non-payment of the Harbor Dredging Levy.
-- Week 1: a Free Trader was brutally beaten at Wyrm's Crossing by Manip Jerrol of the Flaming Fist for refusing the toll — the incident sparked widespread Outer City outrage.
-- Selling out captured prisoners. Week 6: Meggan accepted a 6,000 gp bribe from the party in exchange for handing over a captured prisoner, while the party stole a magical item from her command wagon during the negotiation.
-- Military escalation. Week 5+: formal alliance with [Hellriders](../hellriders-of-new-elturel/summary.md) at the Basilisk Gate; landmines authorized; "terror tactics" against incoming Sembian mercenaries planned.
+- **Mutual-protection convoys.** Combined caravans share intelligence on Flaming Fist patrols.
+- **Public defiance.** Open refusal to pay corrupt "tolls" at the gates.
+- **Blockade and protest.** Gate blockades — recently Wyrm's Crossing and (more violently) Basilisk Gate.
+- **Exposure.** Captured cultists are forced to publicly confess; accusations pushed via pamphlets.
 
 ## Hooks and Relationships
 
-**Enemies.** The [Western Gate Trading Company](../western-gate-trading-company/summary.md) and Archduke Silvershield (primary). The [Chionthar Consortium](../chionthar-consortium/summary.md) and the [Flaming Fist](../flaming-fist/summary.md) for shakedowns and impoundments. The [Sembian Kontor](../sembian-kontor/summary.md) by extension, since Sembian mercenaries are the spearpoint.
+**Enemies.** Constant conflict with the [Flaming Fist](../flaming-fist/summary.md) over gate tolls — Meggan has been beaten in person, and the Free Traders responded with blockades. Resist [The Guild](../guild/summary.md)'s protection rackets. Targeted by the [Chionthar Consortium](../chionthar-consortium/summary.md), which has used its Fist influence to **impound Meggan's vessel** under the Harbor Dredging Levy.
 
-**Allies.** The [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md) — formal military alliance. The [Worshipful Company of Shipwrights & Calkers](../wc-shipwrights-calkers/summary.md) hired Free Trader guards, and the resulting hostage incident (week 0+) is now leverage. The [Zhentarim](../zhentarim/summary.md) attempted to recruit Free Traders into their roadblock scheme — outcome contested.
+**Allies.** Natural allies of the [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md). Quietly reinforced by the [Circle of the Inner Grove](../circle-of-the-inner-grove/summary.md), which is warding the Basilisk Gate blockade. The [Worshipful Company of Fishmongers](../wc-fishmongers/summary.md) has begun selling salted fish at cost to the blockaders. The [Worshipful Company of Cartographers & Surveyors](../wc-cartographers-surveyors/summary.md) is selling tactical maps to both sides.
+
+**Hooks.** Meggan's pact has matured into a sustained **blockade of Wyrm's Crossing** and **Basilisk Gate**. The Basilisk blockade was violently broken by [Blaze Liara Portyr](../flaming-fist/summary.md) — but the fallout has only enraged the Outer City further. Meggan extracted a **public confession** from a captive [Plague of Remembrance](../plague-of-remembrance/summary.md) cultist naming several patriar families as backers; *Baldur's Mouth* has refused to print her unsubstantiated claims under patriar pressure. The party may have benefited from a large, untraceable payment funneled through Meggan via shell accounts that the [WC Goldsmiths](../wc-goldsmiths-jewelers/summary.md) cannot unwind.
 
 ## See also
 
-- ['Mad' Meggan](people/mad-meggan.md) — leader.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dm-notes.docx` Sessions 6, 13, 16–17; `faction-quests.xlsx`.
+- ["Mad" Meggan](people/mad-meggan.md) — leader.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dossier-baldurs-gate-1502-dr-a-city-reborn.md` Chapter 12 ("Directory of Influence"); `the-hinterlands-of-baldurs-gate-a-dossier.md`; `faction-quests.xlsx`.

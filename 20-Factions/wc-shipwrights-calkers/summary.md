@@ -1,34 +1,33 @@
 ---
 name: wc-shipwrights-calkers
-description: Most powerful guild in Baldur's Gate, controlling the shipbuilding and repair industry that sustains the city's maritime economy.
+description: Most powerful guild, controlling the city's vital shipbuilding and repair industry.
 ---
 
 # Worshipful Company of Shipwrights & Calkers
 
-The most powerful Worshipful Company, holding a near-total monopoly on shipbuilding, drydocking, and repair work in the city. The Decade of Reconstruction made them indispensable; rebuilding the merchant fleet and naval capacity placed them at the center of the recovery, and they consolidated the wealth and political muscle to keep that position. Led by [Master Helma Tallowshand](people/helma-tallowshand.md), whose word can bring Gray Harbour to a standstill.
+The most powerful Worshipful Company in Baldur's Gate, holding a near-total monopoly on shipbuilding and repair across Gray Harbour. The Decade of Reconstruction made them indispensable: rebuilding the merchant fleet and naval capacity transformed an old trade guild into a political heavyweight. Led by [Master Helma Tallowshand](people/helma-tallowshand.md).
 
 ## Ideology
 
-Absolute control over all shipbuilding and repair within the city's walls — quality at premium prices, no exceptions. They view themselves as the bedrock of Baldur's Gate's commercial power, and treat any unsanctioned dockwork as both an economic theft and an insult to the guild's chartered rights.
+Total control of every keel cut, plank fitted, and hull recaulked within the city's jurisdiction. The Company's self-image is that of "the bedrock of commerce" — without their work, no Kontor cargo moves and no Fist warship sails.
 
 ## Membership
 
-Master shipbuilders, journeymen, and apprentices bound to a grueling seven-year term. The Court of Assistants is staffed by the most established shipyard owners. Guild Wardens enforce monopoly rights along the harbor. Master Helma Tallowshand sits in the [Peerage of Coin](../peerage-of-coin/summary.md) with one of its heaviest weighted seats.
+Master shipbuilders, skilled journeymen, and apprentices serving the standard seven-year term. The hierarchy follows the Worshipful framework — Master, two Wardens, a Court of Assistants drawn from senior masters — with rough-handed Guild Wardens enforcing the charter on the docks. Tallowshand commands enough leverage that a single order can bring the harbor to a standstill.
 
 ## Methods
 
-- Chartered monopoly on drydocks, slipways, and the fine timber import trade.
-- Enforcement: Guild Wardens raid unsanctioned drydocks; vessels without a Shipwrights' seal are refused service.
-- Lobbying in the [Peerage of Coin](../peerage-of-coin/summary.md) for legislation that benefits maritime trade and disadvantages independent operators.
-- Cooperation with the [Chionthar Consortium](../chionthar-consortium/summary.md) on harbor dredging and levy enforcement, passing costs onto independents.
+- Enforces the chartered monopoly through Guild Wardens who patrol drydocks and impound non-sealed vessels.
+- Controls the finest timber imports and every legal drydock berth.
+- Holds heavily-weighted seats in the [Peerage of Coin](../peerage-of-coin/summary.md) to shape maritime legislation.
+- Currently using the new **Harbor Dredging Levy** as cover to refuse repairs on any vessel without a Shipwrights' seal — a soft press to either join or ruin independent captains.
+- When pushed, retaliates directly: agents have already sabotaged a Chionthar Consortium loading crane in revenge for undercut docking fees.
 
 ## Hooks and Relationships
 
-**Enemies.** Constant low-grade war with [The Guild's](../guild/summary.md) [River-Rats](../river-rats/summary.md), who use unregistered vessels through the sewer-canal system. Bitter rivalry with the [Sembian Kontor](../sembian-kontor/summary.md) over shipping logistics. A botched raid on a guild-less drydock saw Wardens intercepted and one captured by the [Free Traders of the Outskirts](../free-traders-of-the-outskirts/summary.md), creating a hostage incident.
-
-**Allies of convenience.** The [Chionthar Consortium](../chionthar-consortium/summary.md), whose Harbor Dredging Levy gave the Shipwrights pretext to enforce guild-only servicing.
+**Enemies.** Constant friction with [the Guild](../guild/summary.md) and its [River-Rats](../river-rats/summary.md) smuggling crew, who run unregistered vessels through their docks. Fierce logistics rivalry with the [Sembian Kontor](../sembian-kontor/summary.md) over freight contracts, and now active sabotage trading with the [Chionthar Consortium](../chionthar-consortium/summary.md). A botched raid on a guildless drydock backed by the [Free Traders of the Outskirts](../free-traders-of-the-outskirts/summary.md) left a Warden taken hostage and the conflict dangerously public.
 
 ## See also
 
 - [Master Helma Tallowshand](people/helma-tallowshand.md) — Master of the Company.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Worshipful Companies); `faction-quests.xlsx`.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Worshipful Companies); `faction-quests.xlsx`; dossier ch. 8.

@@ -4,4 +4,4 @@ Named figures.
 
 ## Index
 
-- [nine-fingers-keene.md](nine-fingers-keene.md)
+- [astele-keene.md](astele-keene.md)

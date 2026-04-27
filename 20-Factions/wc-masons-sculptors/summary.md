@@ -1,34 +1,32 @@
 ---
 name: wc-masons-sculptors
-description: Immensely wealthy guild that rebuilt Baldur's Gate post-crisis and now holds a near-monopoly on major construction.
+description: Wealthy guild that rebuilt Baldur's Gate post-crisis; near-monopoly on construction.
 ---
 
 # Worshipful Company of Masons & Sculptors
 
-The guild that literally rebuilt Baldur's Gate after the Absolute Crisis. The Decade of Reconstruction handed them unprecedented contracts — Heapside, the rebuilt Lower City wards, the new walls — and they emerged from it fabulously wealthy, politically connected, and entrenched. Led by [Master Borin Stonehand](people/borin-stonehand.md).
+The Worshipful Company that literally rebuilt Baldur's Gate after the Absolute Crisis. The sheer scale of post-crisis contracts vaulted the Masons from a respectable trade guild into one of the wealthiest and most politically wired institutions in the city. Led by [Master Borin Stonehand](people/borin-stonehand.md).
 
 ## Ideology
 
-To control all major construction in the city and ensure every project adheres to their (expensive) standards. They see themselves as the true architects of the new Baldur's Gate and demand the respect and wealth that comes with that title. Tradition for them is the right to a contract.
+Every stone laid in Baldur's Gate should be laid by — and paid through — the Masons' Company. They cast themselves as the true builders of the new city, and treat any unlicensed construction as both an insult and a tax-evasion problem.
 
 ## Membership
 
-Stonemasons, architects, and sculptors of the city, organized into lodges by trade. The Court of Assistants brokers the largest infrastructure contracts. Guild Wardens enforce licensing on all construction sites; unlicensed building is shut down with force.
+The city's finest stonemasons, architects, and sculptors, organized along the standard Worshipful framework: Master, two Wardens, a Court of Assistants, and a body of journeymen and seven-year apprentices. The Court has grown unusually paranoid under Stonehand, who survived the reconstruction years by being decisive and is increasingly extending those reflexes to internal politics.
 
 ## Methods
 
-- Influence over zoning laws and building codes through their seat in the [Peerage of Coin](../peerage-of-coin/summary.md).
-- Aggressive monopoly enforcement: Guild Wardens raid unsanctioned construction; subcontractors who skip the guild seal are blacklisted.
-- Cost-cutting and cover-up. A cracking section of the Basilisk Gate wall (week 0) was patched cosmetically overnight after a Flaming Fist inspector was bribed; their attempt to blame "Zhentarim sabotage" (week 1) was dismissed by [Baldur's Mouth](../baldurs-mouth/summary.md) as dubious, denting Stonehand's reputation.
-- Quarrying operations in the surrounding hills — a major source of [Circle of the Inner Grove](../circle-of-the-inner-grove/summary.md) hostility.
+- Uses Peerage of Coin seats to shape zoning, building codes, and inspection regimes in the Company's favor.
+- Aggressive Guild Wardens shut down — sometimes violently — any unsealed construction.
+- Quietly cuts corners on its own contracts: a recently-built wall section near the Basilisk Gate showed cracks from cost-cutting work, and Stonehand's inner circle paid off the Flaming Fist inspector and ran a hasty cosmetic repair in the dead of night to bury it.
+- Spins exposure as enemy action: when caught, Stonehand publicly blamed Zhentarim sabotage — a story [Baldur's Mouth](../baldurs-mouth/summary.md) printed but framed dubiously, denting the guild's credibility.
 
 ## Hooks and Relationships
 
-**Enemies.** Bitter rivalry with the [Circle of the Inner Grove](../circle-of-the-inner-grove/summary.md), whose druids see the quarries as a blight on the land. Resentment from the [Harpers](../harpers/summary.md), who tried to plant an agent in the guild and got him fed misinformation as a compromised double agent.
-
-**Allies of convenience.** Lord Durinbold and the [Peerage of Blood](../peerage-of-blood/summary.md) when zoning votes favor patriar property.
+**Enemies.** Bitter rivalry with the [Circle of the Inner Grove](../circle-of-the-inner-grove/summary.md), whose druids treat Masons' quarrying as ecological terrorism. Reflexively hostile to the [Zhentarim](../zhentarim/summary.md), now doubly so since they were chosen as the public scapegoat for the Basilisk Gate cover-up. The [Western Gate Trading Company](../western-gate-trading-company/summary.md) and the [Council of Four](../council-of-four/summary.md) increasingly resent guild attempts to leverage city-safety contracts for political favors. Internal dissent has produced a faction of journeymen now leaking information about the cover-up; Stonehand's loyalists have already begun expelling the disloyal.
 
 ## See also
 
 - [Master Borin Stonehand](people/borin-stonehand.md) — Master of the Company.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`; dossier ch. 8.

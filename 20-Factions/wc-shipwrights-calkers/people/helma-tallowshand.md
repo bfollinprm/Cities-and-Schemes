@@ -1,11 +1,11 @@
 ---
 name: helma-tallowshand
-description: Master of the Worshipful Company of Shipwrights & Calkers; can bring Gray Harbour to a standstill with a word.
+description: Master of the Shipwrights' Company; can bring Gray Harbour to a standstill with a single order.
 ---
 
 # Master Helma Tallowshand
 
-Master of the [Worshipful Company of Shipwrights & Calkers](../summary.md), the city's most powerful guild. Her authority over Gray Harbour is so total that any whisper of work slowdown puts every shipping faction in the city on edge.
+Master of the [Worshipful Company of Shipwrights & Calkers](../summary.md) and arguably the single most economically powerful person in Baldur's Gate after the foreign Consuls. Her word governs every legal hull launched from Gray Harbour.
 
 ## Manifesto
 
@@ -13,9 +13,11 @@ Master of the [Worshipful Company of Shipwrights & Calkers](../summary.md), the 
 
 ## Role
 
-A career shipwright who rose through a seven-year apprenticeship to master her family's yard, then leveraged the post-crisis reconstruction boom to consolidate the guild's monopoly. She holds one of the largest seats in the [Peerage of Coin](../../peerage-of-coin/summary.md) by virtue of the Company's annual tax weight.
+Tallowshand rose through the docks during the Decade of Reconstruction, when the city was desperate for hulls and willing to pay anything for them. She used that decade to consolidate every drydock, lock down the finest timber routes, and seat enough Wardens in the [Peerage of Coin](../../peerage-of-coin/summary.md) to make her Company's preferences legislative.
 
-In week 1 she announced that Shipwrights' drydocks would no longer service vessels without a guild seal — citing the new Harbor Dredging Levy, but actually a play to push independent captains into membership or ruin.
+Her current play uses the **Harbor Dredging Levy** as a wedge: any vessel without the Shipwrights' seal is refused service at her drydocks, framed as a public-safety measure. Independent captains either join the Company or watch their ships rot. When the [Chionthar Consortium](../../chionthar-consortium/summary.md) and [Sembian Kontor](../../sembian-kontor/summary.md) collude to undercut her docking fees, she answers in kind — a "malfunctioning" loading crane on Consortium docks is already on her ledger.
+
+She is acutely aware that the [Guild](../../guild/summary.md)'s [River-Rats](../../river-rats/summary.md) treat her monopoly as an irrelevance, and that the Sembian logistics arm would happily strangle her if it could. She is patient with both, but not forgiving.
 
 ## See also
 

@@ -1,37 +1,37 @@
 ---
 name: hellriders-of-new-elturel
-description: Volunteer militia and informal government of the New Elturel refugee district; transitioning from protest to military defense by week 5.
+description: Volunteer militia and informal government of the New Elturel refugee district; led by Torm-priestess High Watcher Alena.
 ---
 
 # Hellriders of New Elturel
 
-The volunteer militia and informal government of the **New Elturel** refugee borough in the Outer City. Forged from the survivors of the Fall of Elturel and modeled on the original Hellriders, they police their own streets, tend their own sick, and serve as the unified political voice of tens of thousands of displaced Elturians. Led by [High Watcher Alena](people/alena.md), priestess of Torm.
+The volunteer militia and **informal government** of the "New Elturel" refugee district, fighting for the survival, dignity, and recognition of their displaced people. Led by [High Watcher Alena](people/high-watcher-alena.md), a priestess of Torm.
 
 ## Ideology
 
-Survival, dignity, and recognition for the refugee population. Their working stance: not asking for pity, demanding rights. The community lobbies for official recognition, citizenship, and aid — and uses its unified voting bloc as continuous political pressure on the [Council of Four](../council-of-four/summary.md) and the [Parliament of Peers](../parliament-of-peers/summary.md).
+The protection and welfare of the **Elturian refugee population**. The Hellriders were forged in the fall of Elturel and the survival of Avernus; their guiding principle is that they will not be saved a second time, and will not ask to be — they will demand recognition as a community, and govern themselves until they receive it. They constantly lobby the Baldurian government for citizenship, official aid, and recognition.
 
 ## Membership
 
-Volunteer militia drawn from the refugee community, organized along old Hellriders lines. Operates out of the **High Rider's Stand**, which serves as town hall, militia headquarters, and church. Coalition includes the more militant [Followers of the Phoenix](../followers-of-the-phoenix/summary.md) — a sub-coalition Alena has worked to channel into nonviolent action.
+A militia composed entirely of **volunteers from the refugee community**. Led by **High Watcher Alena**, a priestess of Torm and respected community organizer, with **Lyra Sunstone** at her side as a senior officer. The faction operates out of **the High Rider's Stand**, which serves as both town hall and barracks. Membership is permanent, even informal — anyone who helps tend the wounded or stand a watch is a Hellrider.
 
 ## Methods
 
-- Street patrols providing the security the [Flaming Fist](../flaming-fist/summary.md) does not.
-- Political pressure through unified voting and public testimony. The week-1 hearing on the stalled Refugee Relief Act devolved into a shouting match; Alena's testimony was fiery but ignored.
-- Petition campaigns. Week 0: petition for citizenship submitted to the High Hall — leaked with falsified cost-analysis to [Baldur's Mouth](../baldurs-mouth/summary.md), turning public opinion against the refugees.
-- Deniable agents. Alena has used the party as freelance operators to handle internal political crises she cannot address publicly — most notably the Jaredith de-radicalization (resulting in the exposure of the Plague of Remembrance agent **Zora** at the Phoenix Pits).
-- Military escalation by week 5: alliance with [Free Traders of the Outskirts](../free-traders-of-the-outskirts/summary.md) at the Basilisk Gate against the Sembian mercenaries hired by Archduke Silvershield. Landmines and "terror tactics" authorized.
+- **Self-policing.** The Hellriders patrol New Elturel themselves, providing security the [Flaming Fist](../flaming-fist/summary.md) does not.
+- **Bloc politics.** Their unified population is wielded as a voting bloc and source of pressure on the [Council of Four](../council-of-four/summary.md) and [Parliament of Peers](../parliament-of-peers/summary.md).
+- **Public organizing.** Mass protests, petitions to the High Hall, and faith-based community organizing through Torm's clergy.
+- **Mutual aid.** Free clinics, community kitchens, and shared housing — funded partly by [Guild](../guild/summary.md) winter relief.
+- **Militia drills.** Following the Council's overreach, Alena has begun open brigade-formation, preparing for what she now believes is an inevitable attack.
 
 ## Hooks and Relationships
 
-**Enemies.** The [Plague of Remembrance](../plague-of-remembrance/summary.md) — primary antagonist, framing refugees for atrocities. Deep mistrust of the [Council of Four](../council-of-four/summary.md) and [Flaming Fist](../flaming-fist/summary.md) for abandonment. Nativist patriars working through the [Patriar Heritage Society](../patriar-heritage-society/summary.md). Sembian mercenaries deployed to the Whisperwood and approaching the Basilisk Gate.
+**Enemies.** Deep mistrust of the [Council of Four](../council-of-four/summary.md) and [Flaming Fist](../flaming-fist/summary.md). Targeted by the [Plague of Remembrance](../plague-of-remembrance/summary.md), which is trying to frame refugees for crimes to start a civil war. Politically opposed by the [Patriar Heritage Society](../patriar-heritage-society/summary.md).
 
-**Allies.** [The Guild](../guild/summary.md), which provides aid and protection the official city does not. The [Free Traders of the Outskirts](../free-traders-of-the-outskirts/summary.md) — formal military alliance at the Basilisk Gate. Tense but non-hostile coexistence with [The Unchained](../unchained/summary.md). Internal coalition partner: [Followers of the Phoenix](../followers-of-the-phoenix/summary.md), increasingly led by **The Ember (Alfira)** rather than Alena's moderates.
+**Allies.** Working relationship with [The Guild](../guild/summary.md). Natural allies of the [Free Traders of the Outskirts](../free-traders-of-the-outskirts/summary.md) and [Followers of the Phoenix](../followers-of-the-phoenix/summary.md). Tense but non-hostile neighbors of the [Unchained / K'liir](../unchained/summary.md).
 
-**Internal tension.** Alena's organized, disciplined approach was upstaged in week 8 by The Ember's charismatic faith-based movement. The Followers of the Phoenix's elevation has shifted internal balance and made the coalition harder to control.
+**Hooks.** The petition for citizenship was leaked alongside a falsified cost-analysis to *Baldur's Mouth*, turning public opinion against the Hellriders. Alena's testimony at the Council's "Refugee Question" hearing was ignored. A Hellrider-led protest at Wyrm's Crossing, joined by the Followers of the Phoenix, forced negotiations open — but those negotiations have since collapsed: Alena refused the Council's insulting offer rather than betray the Free Traders, and is now organizing brigades. Lady Vhage's Plague of Remembrance is trying to turn a disillusioned Hellrider officer into an informant.
 
 ## See also
 
-- [High Watcher Alena](people/alena.md) — leader.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dm-notes.docx` Sessions 1–17; `faction-quests.xlsx`.
+- [High Watcher Alena](people/high-watcher-alena.md) — leader, Torm-priestess.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `dossier-baldurs-gate-1502-dr-a-city-reborn.md` Chapter 12; `faction-quests.xlsx`.

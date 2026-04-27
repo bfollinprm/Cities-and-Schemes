@@ -1,37 +1,45 @@
 ---
 name: cult-of-the-returning-lord
-description: Bhaal-worshipping death cult consecrating sewer altars with the blood of 'nobodies'; held the kidnapped Ettvard Needle.
+description: Bhaal-worshipping death cult of the Undercity; ritualizes murder as "debt collection" and seeks to summon a Slayer or an avatar of Bhaal.
 ---
 
 # Cult of the Returning Lord *(aka Bhaal)*
 
-The Bhaalist cell of the broader Cult of the Dead Three. They believe Bhaal is returning — the previous incarnation's defeat was incomplete — and consecrate altars throughout the city's undercity with the blood of "nobodies" (the homeless, the missing, the unmissed). Active throughout the campaign as the holders of [Ettvard Needle](../baldurs-mouth/people/ettvard-needle.md) after his "Narrative Correction" kidnapping. Parallel to the [Takers of the Tithe](../takers-of-the-tithe/summary.md) (Myrkul); both are Dead Three cells.
+A scattered, cell-based death cult dedicated to the resurrection of **Bhaal**, Lord of Murder. After the Absolute Crisis the cult was scattered into the Undercity; the surviving faithful are clawing back power one consecrated death at a time. The source material names no single head — operations are run cell-by-cell, with each Bishop receiving target names by Bhaalist revelation. Where a face is needed for ritual purposes, the [Bhaal Celebrant](people/the-bhaal-celebrant.md) presides — a codename, not a person.
 
 ## Ideology
 
-Bhaal will return; sufficient sacrifice in the proper places will accelerate it. Each "nobody" killed and bled on a hidden altar consecrates the space and prepares the city for the Lord's reincarnation. The previous Bhaalspawn cycle is treated as cautionary scripture: this time the resurrection must be *finished*.
+Life is a debt to death; murder is the audit. The cult holds that Bhaal's resurrection during the Absolute Crisis was a crude rehearsal, and that a properly consecrated city — sewers, slaughterhouses, and breadlines stained with the right blood — can summon a Slayer or an avatar.
 
-## Membership
+## Structure
 
-Bhaalist cultists organized in compartmentalized cells. Some have made deals with infernal **Soul Brokers** (devil entities bound to Bhaal's service — the "Beetle" entity at Dusthawk Hill being one example). Their operations are secretive; their willingness to be used by other factions for non-cult tasks (holding kidnapped journalists for the [Western Gate Trading Company](../western-gate-trading-company/summary.md), for instance) suggests pragmatic finance.
+- **The Bishop** — cell-leader who receives names from Bhaal.
+- **Reapers, Spotters, Keepers** — three-person hunting teams (shared with the affiliated [Takers of the Tithe](../takers-of-the-tithe/summary.md)).
+- **Acolytes** — sewer-dwelling drudges who handle ritual logistics.
+- **Singa's** crew of the [Plague of Remembrance](../plague-of-remembrance/summary.md) is a sister-cell using Bhaalist sigils and ledgers.
 
 ## Methods
 
-- Hidden sewer altars, sanctified by sacrifice. Week 0: cultists kidnapped a homeless man from a Heapside alley and murdered him on a makeshift Undercity altar.
-- Service-for-hire to other factions. Held [Ettvard Needle](../baldurs-mouth/people/ettvard-needle.md) on contract during the [Western Gate](../western-gate-trading-company/summary.md) / [Chionthar Consortium](../chionthar-consortium/summary.md) "Narrative Correction" kidnapping.
-- Soul Broker contracts. The "Beetle" entity at Dusthawk Hill (Session 12) acted as a soul-bargaining devil bound to the cult, attempting to weaken intruders before they could reach the cult's holdings.
-- Captured "Reaper" agent embedded in the Followers of the Phoenix temple construction site (implied, ongoing).
+- Consecration of sewer altars with the blood of "nobodies" — most recently a homeless man taken from a Heapside alley.
+- Public murders staged to frame other factions: Outer-City killings near the Basilisk Gate initially blamed on the Free Traders.
+- Manor-row ambushes against Watch patrols. A recent attempt left a ritual dagger behind — the [Watch](../watch/summary.md)'s first concrete evidence of the cult's resurgence.
+- Botched murder of a [Flaming Fist](../flaming-fist/summary.md) informant; he survived and reported the attack.
+- Operates from the Undercity sewers; an attempt to relocate the sanctum to **Hamhock's Slaughterhouse** in Sow's Foot was briefly scattered when ritual blood drew a butchers' mob.
+- Routed polluted Chionthar floodwater into the Tumbledown crypts to break the [Gravekeepers](../gravekeepers/summary.md)' wards (the "Corrupted Tide").
+- Currently slaughtering livestock in Hamhock's cellar to mask the murders of local Sow's Foot residents.
 
 ## Hooks and Relationships
 
-**Enemies.** The [Gravekeepers](../gravekeepers/summary.md), whose entire purpose is opposing this kind of cult activity. The [Harpers](../harpers/summary.md), as standing Dead Three enemies. The [Followers of the Phoenix](../followers-of-the-phoenix/summary.md) by virtue of refugee-defense activity. The party — directly engaged at Dusthawk Hill, where they freed Singa from the cult's holdings.
+**Sworn enemies.** The [Harpers](../harpers/summary.md) and the [Gravekeepers](../gravekeepers/summary.md), who have traced the cult up through the sewers beneath Tumbledown.
 
-**Parallel cell.** [The Takers of the Tithe](../takers-of-the-tithe/summary.md) — Myrkul cell, same Dead Three umbrella, different resurrection project. The DM's framing: their factionalism is the cult network's greatest weakness.
+**Targets and witnesses.** A surviving Flaming Fist informant; the [Hellriders](../hellriders-of-new-elturel/summary.md) briefly held a captured Reaper before he was poisoned in custody.
 
-**Service relationships.** Held Ettvard Needle for the [Western Gate Trading Company](../western-gate-trading-company/summary.md) — a Bhaalist cell as paid muscle for a merchant consortium is itself a sign of how thoroughly post-crisis Baldur's Gate has commodified everything.
+**Operational allies.** The [Takers of the Tithe](../takers-of-the-tithe/summary.md) and Singa's faction of the [Plague of Remembrance](../plague-of-remembrance/summary.md). Internal factionalism among Bhaal, Myrkul, and Bane is the cult's greatest weakness.
+
+**High-profile abduction.** Editor Ettvard Needle of the [Baldur's Mouth](../baldurs-mouth/summary.md) was held in **Hamhock's Vault** by a Bhaalist cell ("**The Keeper**") as part of a silencing ritual.
 
 ## See also
 
-- Held [Ettvard Needle](../baldurs-mouth/people/ettvard-needle.md) during the Narrative Correction.
-- [The Takers of the Tithe](../takers-of-the-tithe/summary.md) — parallel Dead Three cell.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dm-notes.docx` Sessions 12, 18; `faction-quests.xlsx`.
+- [The Bhaal Celebrant](people/the-bhaal-celebrant.md) — codename for ritual leadership.
+- [The Takers of the Tithe](../takers-of-the-tithe/summary.md) — operational sister-cult.
+- Source: `dm-notes.docx` (Adventure: The Shadows of Tumbledown; Bhaal cell logistics); `faction-quests.xlsx`.

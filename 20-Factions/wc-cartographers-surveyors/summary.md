@@ -1,33 +1,34 @@
 ---
 name: wc-cartographers-surveyors
-description: Essential guild whose seal is required on every land deed; holds the most detailed maps of the city's sewers.
+description: Essential guild whose seal is required on every land deed; closely guarded sewer maps.
 ---
 
 # Worshipful Company of Cartographers & Surveyors
 
-A once-quiet guild made indispensable by the post-crisis redrawing of property lines and the explosion of new trade routes. Their seal is a legal requirement on every land deed in the city, and they hold the most detailed extant maps of the sewer and undercity systems — closely guarded as both intelligence asset and revenue stream. Led by the precise [Master Elias Vancroft](people/elias-vancroft.md).
+The Worshipful Company that defines the city, on parchment. A Cartographers' seal is legally required on every land deed in Baldur's Gate, every new trade route filed for sale, and every property-line dispute heard before the magistrates. The frantic post-crisis reconstruction made them indispensable; the new trade routes that followed gave them durable, near-invisible power. Led by [Master Elias Vancroft](people/elias-vancroft.md).
 
 ## Ideology
 
-To be the sole, trusted source of geographic and property information in the region. They treat accuracy as sacred duty — and the right to define what is accurate as the foundation of their political power.
+To be the sole, trusted source of geographic and property information in the region. The Company holds that "accuracy is a sacred duty" — and that, as a corollary, the privilege of defining accuracy belongs entirely to them.
 
 ## Membership
 
-The city's most meticulous cartographers, surveyors, and architects. The Court of Assistants includes the surveyors who certified post-crisis property reconstruction. Junior journeymen do the field work; master cartographers control the archive.
+The city's most meticulous cartographers, surveyors, and architects, organized along Master / Wardens / Court of Assistants lines. Vancroft runs the guild as a precise, politically astute operation; corruption inside the Company is plausibly deniable rather than clean.
 
 ## Methods
 
-- Mandatory seal on land deeds — a fee on every property transaction.
-- Trade-route maps sold at premium to merchant consortiums and Kontors. Week 0: Vancroft sold an "exclusive, safe passage" map through the Trollclaws to two competing caravan masters at the same time. The route is notoriously dangerous.
-- Closely-guarded sewer maps — the single most valuable trade secret in the guild's archive, repeatedly targeted by [The Guild](../guild/summary.md) for theft.
+- Every land deed in Baldur's Gate carries a Cartographers' seal — the legal requirement gives them quiet veto over real estate.
+- Sells maps of trade routes to merchant consortiums at premium prices, including, by reputation, the most detailed sewer and undercity maps in the city. The sewer maps are a closely guarded secret and a constant target.
+- Routine fraud as policy:
+  - **Sold "exclusive" Trollclaws maps** of a "newly discovered, safe passage" to two competing caravan masters, pocketing both fees. The route is notoriously dangerous.
+  - **Tactical maps of the Basilisk Gate blockade and Wyrm's Rock**, drawn by Vancroft's surveyors, are now being sold to every interested party — the Archduke's forces and Mad Meggan's lieutenants alike.
+- A **failed deed manipulation** for the [Western Gate Trading Company](../western-gate-trading-company/summary.md) — silencing a minor patriar and "losing" an inconvenient deed — collapsed when the patriar avoided the planned accident and filed the deed publicly. The Trading Company now faces a major property-claim crisis, and the Cartographers' role in the affair is increasingly visible.
 
 ## Hooks and Relationships
 
-**Enemies.** [The Guild](../guild/summary.md), which wants the sewer maps. Rival merchant consortiums seeking advantage in opening new trade routes. Caravan masters who have been sold the same "exclusive" route at full price.
-
-**Allies of convenience.** Whichever consortium is willing to pay for premium intelligence in any given week.
+**Enemies.** [The Guild](../guild/summary.md) is a permanent espionage threat — they want the secret sewer maps, and Vancroft knows it. Rival merchant consortiums treat the Company as both supplier and adversary, depending on the week. The [Western Gate Trading Company](../western-gate-trading-company/summary.md) is exposed and angry over the failed deed scheme. Mad Meggan and the [Free Traders of the Outskirts](../free-traders-of-the-outskirts/summary.md) are now buying maps that the Archduke's forces are also buying — a profitable but dangerous balancing act.
 
 ## See also
 
 - [Master Elias Vancroft](people/elias-vancroft.md) — Master of the Company.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`; dossier ch. 8.

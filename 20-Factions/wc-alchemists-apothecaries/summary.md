@@ -1,34 +1,32 @@
 ---
 name: wc-alchemists-apothecaries
-description: Secretive guild monopolizing potions, antitoxins, and exotic substances; price-gougers in a plague-prone city.
+description: Secretive guild controlling potions, antitoxins, and other exotic substances.
 ---
 
 # Worshipful Company of Alchemists & Apothecaries
 
-The guild that controls every legal potion, antitoxin, and exotic substance in Baldur's Gate. In a city rife with disease from crowding and casualty from constant low-grade conflict, demand is constant — and the guild prices accordingly. Led by the eccentric and paranoid [Master Phineas Droog](people/phineas-droog.md).
+The Worshipful Company that owns the legal pharmacopoeia of Baldur's Gate — every healing potion, antitoxin, and licensed reagent. In a crowded city plagued by sickness and violence, their charter is effectively a license to print coin. Led by [Master Phineas Droog](people/phineas-droog.md).
 
 ## Ideology
 
-To control the flow of alchemical knowledge and substances — protecting their formulas, maximizing their margins, and keeping every other alchemist either in the guild or out of business. They cast themselves as pragmatic scientists in a world of superstition; in practice they are price-gougers with a charter.
+To control the flow of alchemical substances and the secrets behind them. The Company casts itself as pragmatic scientists holding the line against superstition; in practice, it operates as a guild of monopolists who treat the city's health as a price-list to be tuned.
 
 ## Membership
 
-The city's most skilled alchemists, apothecaries, and (quietly) poisoners. The Court of Assistants meets in heavily-warded laboratories beneath the guildhall. Formulas are jealously held, and journeymen swear blood oaths against disclosure.
+The city's most skilled alchemists, apothecaries, and (off the books) poisoners. Master / Wardens / Court of Assistants framework, with an unusually paranoid security culture under Droog. Apprentices are kept on long, restrictive contracts; recent firings have not gone quietly.
 
 ## Methods
 
-- Monopoly pricing. Week 0: after a Sewer Plague outbreak in the Lower City, the Court of Assistants tripled the price of antitoxin, citing "scarcity of rare reagents."
-- Industrial espionage on rivals — and reflexive paranoia about being targeted in turn.
-- Refusal as a tool. Week 1: the guild refused antitoxin to the Open Hand Temple's Rivington clinic. The party bypassed them entirely by recovering a Chionthar Consortium shipment, earning the guild's private fury.
-- Quiet trade in untraceable poisons through guild members willing to look the other way.
+- Sets prices on every legal potion and antitoxin in the city, and is the only legal purveyor of most of them.
+- Industrial espionage to steal formulas from rivals — and brutal protection of its own.
+- Following a minor Sewer Plague outbreak in the Lower City, the **Court of Assistants voted to triple antitoxin prices**, citing reagent scarcity. The move was naked price-gouging; an adventuring party bypassed the guild entirely by routing supplies from a [Chionthar Consortium](../chionthar-consortium/summary.md) warehouse to the Open Hand Temple, earning Droog's private fury.
+- After dangerous reagents were stolen from the guild's own stores, Droog publicly accused a fired apprentice of the theft and posted a bounty — a convenient scapegoat. The framed apprentice has now opened back-channel negotiations with [the Guild](../guild/summary.md), offering three valuable potion formulas in exchange for safe passage.
 
 ## Hooks and Relationships
 
-**Enemies.** Legendary cold war with the unchartered **Poisoners' Guild**, their illegal black-market competition. Distrusted by the city's temples — especially the Open Hand — who see them as amoral profiteers. Newly antagonistic toward the party after the Rivington clinic episode.
-
-**Targets.** A subject of [Plague of Remembrance](../plague-of-remembrance/summary.md) propaganda — [Baldur's Mouth](../baldurs-mouth/summary.md) ran a hit piece accusing the Alchemists of antitoxin-hoarding, suspected to be paid for by Lady Vhage to inflame class tensions.
+**Enemies.** Legendary cold war with the un-chartered **Poisoners' Guild**, which operates as the Company's illegal black-market mirror. Distrust from the city's temples — particularly the Open Hand — who see the Alchemists as amoral profiteers. Hostile gaze from [The Purified](../purified/summary.md), whose conspiracy theory holds that the Alchemists secretly supply chemical binders for Lantaner nano-cogs. The current apprentice scandal threatens to put guild secrets directly in [the Guild](../guild/summary.md)'s hands, a potentially catastrophic leak.
 
 ## See also
 
 - [Master Phineas Droog](people/phineas-droog.md) — Master of the Company.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`; `dm-notes.docx` Session 4.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`; dossier ch. 8.

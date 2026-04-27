@@ -1,35 +1,38 @@
 ---
 name: zhentarim
-description: Ruthless profit-driven criminal network seeking to supplant the Guild; aggressive incomers running the Brampton offensive.
+description: Ruthless profit-driven criminal network seeking to supplant the Guild and seize Baldur's Gate's underworld.
 ---
 
-# Zhentarim *(aka Black Network)*
+# The Zhentarim *(aka the Black Network)*
 
-The Black Network — a long-standing criminal power in Faerûn that has used the post-crisis chaos to expand its Baldurian foothold from minor cell to direct rival of [The Guild](../guild/summary.md). Their ideology is simple: profit. Led locally by the cunning trader [Roah Moonglow](people/roah-moonglow.md), operating out of safehouses including the Velvet Hand in Brampton.
+A widespread Faerûnian criminal network — the **Black Network** — driven by pure profit, presently waging a cold war to displace [The Guild](../guild/summary.md) as the dominant power in Baldur's Gate's shadows. Local operations are overseen by [Roah Moonglow](people/roah-moonglow.md).
 
 ## Ideology
 
-Pure, unsentimental profit. They cast themselves as honest about what they are — unlike The Guild, which dresses theft and protection-rent as social services, the Zhentarim simply price every transaction.
+A single principle: **profit**. The Zhentarim regard tradition, justice, and patriotism as fairy tales the powerful tell to keep others poor. Where the Guild markets itself as the people's champion, the Black Network is honest about what it sells: loyalty, fear, and silence, all at market rate.
 
 ## Membership
 
-Compartmentalized cells of assassins, enforcers, and traders. The local network is overseen by Roah Moonglow with characteristic Zhent paranoia about cross-cell exposure — a cell taking losses learns nothing about the cell next door.
+The local network is overseen by the cunning trader **Roah Moonglow**. The organization operates in clandestine, compartmentalized cells of assassins and enforcers — no cell knows the names of the others, ensuring that the loss of one does not unravel the network.
 
 ## Methods
 
-- Bribery, intimidation, brutal efficiency.
-- Legitimate-seeming business fronts laundering criminal operations.
-- Smuggling and trade in illegal goods — slaves, poisons, untraceable weapons.
-- Aggressive territorial expansion. Week 0: enforcers burned a Guild-protected tavern in Brampton that refused to switch its protection payments. Week 1: roadblocks established outside the city to undermine The Guild's Outer City protection rackets, recruiting [Free Traders](../free-traders-of-the-outskirts/summary.md) leverage in the process.
-- Temporary alliances with anyone who serves their bottom line — including, during the Absolute Crisis, the Absolute itself.
+- **Bribery, intimidation, brutal efficiency.** Reprisals are quick, public, and proportionate to the message intended.
+- Legitimate-seeming front businesses: import-export houses, the new "Velvet Hand" social club in Brampton (a gambling den and loan-sharking operation deliberately sited across the street from the Guild tavern Zhentarim arsonists burned down).
+- Trade in goods the Guild won't touch: slaves, poisons, military-grade contraband.
+- Temporary alliances with anyone — corrupt patriars, foreign Kontors, even the cults — when it serves the bottom line.
+- Recruiting outlawed adventurers, offering to erase [Flaming Fist](../flaming-fist/summary.md) warrants in exchange for service.
 
 ## Hooks and Relationships
 
-**Enemies.** Cold war with [The Guild](../guild/summary.md), now burning hot. Sworn enemies of the [Harpers](../harpers/summary.md), who actively work to disrupt their schemes. Wiped out by The Guild's smokepowder plot at the Velvet Hand (week 6) — though Roah Moonglow's status is unclear.
+**Enemies.** **Cold war** with [The Guild](../guild/summary.md), now hot in Brampton. Natural enemies of the [Harpers](../harpers/summary.md), who actively disrupt their schemes. Hostile to anyone who threatens their fronts.
 
-**Targets.** The Guild's revenue streams in Brampton and the Outer City; any contracts the [Sembian Kontor](../sembian-kontor/summary.md) might quietly broker.
+**Allies of convenience.** Will sub-contract muscle to the [Chionthar Consortium](../chionthar-consortium/summary.md) when it suits both parties — recently breaking a Wharf Rats "solidarity tax" on Consortium docks. Used the [Worshipful Company of Cartographers & Surveyors](../wc-cartographers-surveyors/summary.md) (Master Vancroft) as a discreet broker. Has compromised at least one [Worshipful Company of Chandlers & Lamplighters](../wc-chandlers-lamplighters/summary.md) crew that was feeding intelligence to the Guild.
+
+**Hooks.** The Brampton arson and the Velvet Hand are explicit provocations to Nine-Fingers Keene, intended to draw the Guild into an overreaction. Roah is currently scouting any newly-outlawed adventuring party as potential muscle.
 
 ## See also
 
-- [Roah Moonglow](people/roah-moonglow.md) — local network overseer.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dm-notes.docx` Session 1, Session 17; `faction-quests.xlsx`.
+- [Roah Moonglow](people/roah-moonglow.md) — local director.
+- [Waterdeep — Factions](../../30-Places/sword-coast/waterdeep/factions.md) — the Doom Raiders (Davil Starsong, Skeemo Weirdbottle) vs. Manshoon's clone faction; the Shadow War.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `faction-quests.xlsx`; `dossier-waterdeep-1502-dr-a-city-of-veiled-threats.docx`.

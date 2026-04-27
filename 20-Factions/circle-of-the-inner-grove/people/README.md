@@ -4,4 +4,4 @@ Named figures.
 
 ## Index
 
-- [elion.md](elion.md)
+- [elder-elion.md](elder-elion.md)

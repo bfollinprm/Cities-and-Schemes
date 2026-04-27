@@ -29,4 +29,7 @@ A consortium of powerful patriar families and the guilds they control, all with 
 ## See also
 
 - [Matron Lyra Silvershield](people/lyra-silvershield.md) — leader and Archduke.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Native Consortiums).
+- [Cloakwood (local face)](../../30-Places/sword-coast/baldurs-gate/hinterlands/cloakwood/README.md) — the company's logging frontier and active war zone with the Circle.
+- [Wood of Sharp Teeth (local face)](../../30-Places/sword-coast/baldurs-gate/hinterlands/wood-of-sharp-teeth/README.md) — site of the Whisperwood Copse clear-cut.
+- [Coast Way (local stretch)](../../30-Places/sword-coast/baldurs-gate/hinterlands/coast-way/README.md) and [Trade Way (local stretch)](../../30-Places/sword-coast/baldurs-gate/hinterlands/trade-way/README.md) — the company's heavily-armed convoy routes.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Native Consortiums); `raw-ingest/cloaks-and-conspiracies/the-hinterlands-of-baldurs-gate-a-dossier.docx` (Parts II and V).

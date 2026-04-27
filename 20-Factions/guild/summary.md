@@ -1,43 +1,41 @@
 ---
 name: guild
-description: Sophisticated criminal syndicate evolved into the de facto government of the common folk; runs the Lower and Outer Cities through Ward Bosses.
+description: Sophisticated criminal syndicate evolved into the de facto government of the common folk under Guildmaster Astele 'Nine-Fingers' Keene.
 ---
 
 # The Guild
 
-The criminal syndicate that became a political machine. After the Absolute Crisis paralyzed the official government, [Guildmaster Astele "Nine-Fingers" Keene](people/nine-fingers-keene.md) stepped into the power vacuum and established a parallel social-services state in the Lower and Outer Cities. The Guild profits from crime, but its real business is the brokerage of power, and its real product is the loyalty of the working population.
+A sophisticated criminal syndicate that, in the decade since the Absolute Crisis, has become the indispensable political machine and de facto government for the Lower and Outer Cities. Run from the shadows by [Guildmaster Astele "Nine-Fingers" Keene](people/astele-keene.md).
 
 ## Ideology
 
-Complete control of the Lower and Outer Cities — not through overt rule, but through deeply embedded patronage and populism. The Guild positions itself as the protector of the common folk; in practice it taxes them through protection rents, smuggling profits, and political loyalty.
+The Guild's true business is not crime but **the acquisition and brokerage of power**. Where the official government in the High Hall provides only laws and walls, The Guild provides bread, work, and rough justice — and demands loyalty in return. Its self-image is that of the city's actual government: a populist counterweight to the plutocratic boardroom of the [Council of Four](../council-of-four/summary.md).
 
 ## Membership
 
-A pyramid:
+A four-tier pyramid built on patronage:
 
-- **Guildmaster Nine-Fingers Keene** at the top.
-- **Lieutenants ("Sachems")** overseeing whole districts.
-- **Ward Bosses ("Captains")** running individual neighborhoods as de facto mayor, judge, and police chief — including Eastway's *Farlin* (compromised by Vex's blackmail file recovered week 5).
-- Operatives like **Vex** running specialized assignments — including the Whispering Stone retrieval contract that turned the party from asset to active threat.
-- A base of thousands of citizens who act as informants, runners, and enforcers in exchange for the Guild's protection.
+- **The Boss.** Nine-Fingers Keene, who runs the network from a heavily-guarded townhouse rather than a sewer hideout.
+- **The Sachems** — Lieutenants who oversee a major district (Docks, Brampton, the Outskirts).
+- **The Captains** ("Ward Bosses") — neighborhood-level fixers who serve as informal mayor, judge, and police chief.
+- **The Faithful** — thousands of loyal citizens who act as informants, voters, and muscle for the machine in exchange for honest graft.
 
 ## Methods
 
-- **Ward Boss System.** Swift informal justice and social aid in exchange for protection money and political loyalty.
-- **Smuggling, gambling, loan-sharking.** River-Rats sewer routes, Wharf Rats dockside crews, and a network of fences and money-launderers.
-- **Public charity as politics.** Week 0: Keene had Ward Bosses distribute blankets and food to the New Elturel refugee camp — explicitly to outshine the Council's neglect.
-- **Cleanup and consolidation.** When a cell becomes incompetent or compromised, Keene cuts. The Brampton smokepowder plot (week 6) was a "tragic accident" intended to wipe out the [Zhentarim's](../zhentarim/summary.md) Velvet Hand safehouse *and* the failing [River-Rats](../river-rats/summary.md) crew in one stroke — the party intercepted Silas before it detonated.
-- **Coercion of independent operators.** After the party's three-week disappearance, Keene reclassified them as "unreliable" and authorized Vex to retrieve the psionic artifact "by any means necessary."
+- The **Ward Boss System**: swift informal justice and social aid in exchange for protection money and bloc votes for [Peerage of Coin](../peerage-of-coin/summary.md) and [Peerage of Blood](../peerage-of-blood/summary.md) elections.
+- City-wide control of smuggling (via the [River-Rats](../river-rats/summary.md) sewer crew and [Wharf Rats](../wharf-rats/summary.md) longshoremen), gambling, and loan-sharking.
+- A vast informant network reaching into the [Flaming Fist](../flaming-fist/summary.md), the bureaucracy, and patriar households.
+- High-profile civic charity, e.g. winter relief for [New Elturel](../hellriders-of-new-elturel/summary.md), staged to shame the city government.
 
 ## Hooks and Relationships
 
-**Enemies.** The [Zhentarim](../zhentarim/summary.md) — primary criminal rival and reckless interlopers in the Black Network's expansion. The [Council of Four](../council-of-four/summary.md) and [Flaming Fist](../flaming-fist/summary.md) at constant low-grade war over jurisdiction.
+**Enemies.** Cold war with the [Zhentarim](../zhentarim/summary.md), whose Brampton arson and the new "Velvet Hand" gambling den is a direct provocation. Adversarial-but-cooperative relationship with the [Flaming Fist](../flaming-fist/summary.md). Quietly opposed by the [Worshipful Company of Shipwrights & Calkers](../wc-shipwrights-calkers/summary.md), who resent Wharf-Rat control of dock labor.
 
-**Allies of convenience.** The [Worshipful Company of Vintners & Brewers](../wc-vintners-brewers/summary.md) at the Ward-Boss level for distribution; the [Worshipful Company of Fishmongers](../wc-fishmongers/summary.md) for harbor labor; the [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md) at arm's length, providing aid the official city does not.
+**Allies of convenience.** Working relationship with the [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md). Frequent client of the [Bibliophile](../bibliophile/summary.md). Maintains a smuggling-rivalry détente with the [Chionthar Consortium](../chionthar-consortium/summary.md) on the river.
 
-**Active operations against the party.** Vex authorized to retrieve the *Whispering Stone* by any means; [River-Rats](../river-rats/summary.md) crew under Silas burned in the Brampton plot.
+**Hooks.** Keene has authorized the Guild enforcer Vex to lead a public retaliation raid on the Velvet Hand. The Guild is currently sheltering a disgraced [WC Alchemists](../wc-alchemists-apothecaries/summary.md) apprentice who has offered three rare potion formulas in exchange for protection.
 
 ## See also
 
-- [Guildmaster Astele "Nine-Fingers" Keene](people/nine-fingers-keene.md) — Guildmaster.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dm-notes.docx` Sessions 13–17; `faction-quests.xlsx`.
+- [Astele "Nine-Fingers" Keene](people/astele-keene.md) — Guildmaster.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `dossier-baldurs-gate-1502-dr-a-city-reborn.md` Chapter 6 ("The Guild Ascendant"); `faction-quests.xlsx`.

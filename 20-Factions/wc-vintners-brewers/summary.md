@@ -1,34 +1,36 @@
 ---
 name: wc-vintners-brewers
-description: Guild controlling alcohol trade from cheap ale to imported wine; the lubricant of every social and political negotiation in the city.
+description: Guild controlling alcohol trade from cheap ale to imported wine; key to social life.
 ---
 
 # Worshipful Company of Vintners & Brewers
 
-The guild that controls the city's alcohol trade — from cheap tavern ale to the finest Amnian wines — and so holds the social-life of Baldur's Gate by the throat. Every deal is closed over their product. Led by the shrewd halfling [Master Belba Quickfoot](people/belba-quickfoot.md).
+The Worshipful Company that holds the keys to Baldur's Gate's social life — every tavern's tap, every patriar's wine cellar, every cask hauled out of a Kontor warehouse. As the city's population swelled, the guild consolidated production licensing and locked down distribution contracts on imported wines, profiting at every link in the chain. Led by [Master Belba Quickfoot](people/belba-quickfoot.md).
 
 ## Ideology
 
-A strict and profitable monopoly on production, distribution, and sale of every alcoholic beverage in the city. They see themselves as essential purveyors of civic morale; in private they treat the guild seal as a tax collector's stamp on every glass poured.
+A strict, profitable monopoly on every alcoholic beverage produced or sold inside the city. The Company casts itself as the lubricant of civic life: no deal is struck, no sorrow drowned, without a Vintners-stamped cup in hand.
 
 ## Membership
 
-Brewers, vintners, and the owners of the largest taverns. The Court of Assistants is dominated by the families that own the city's brewing guildhalls and the warehouse contracts. Guild Wardens inspect taverns for unlicensed beverages.
+Brewers, vintners, and the owners of the largest taverns. Quickfoot, a halfling and a shrewd political operator, leads from a guildhall whose Court of Assistants doubles as one of the city's most useful intelligence rooms — patrons drink, journeymen listen.
 
 ## Methods
 
-- Licensing required for all local production; Wardens raid moonshine operations (week 0: a tenement basement still in Eastway smashed to make an example).
-- Exclusive distribution contracts with the [Amnian](../amnian-kontor/summary.md) and [Waterdhavian](../waterdhavian-kontor/summary.md) Kontors for fine imported wine.
-- Backroom alliance with [The Guild's](../guild/summary.md) Ward Bosses to control distribution in the Lower City.
-- Bribery in the [Peerage of Coin](../peerage-of-coin/summary.md). Week 1: Quickfoot delivered priceless Amnian wine to a member to head off a luxury-goods tax.
+- Guild Wardens routinely inspect taverns to confiscate unlicensed product and fine the operators.
+- Sets prices on every legal cask in the city and lobbies fiercely against any reduction in liquor taxes.
+- Recently smashed a Lower City moonshine operation in Eastway — stills broken, casks confiscated, the operator made a public example.
+- Alliances with [Guild](../guild/summary.md) Ward-Bosses handle distribution in the Lower City, sidestepping the [Flaming Fist](../flaming-fist/summary.md).
+- Quickfoot has personally bribed at least one [Peerage of Coin](../peerage-of-coin/summary.md) member with priceless Amnian wine (acquired from the Undercellar) to kill a luxury-tax bill.
+- A clumsy attempt to court Lord Durinbold with "gift" ale was returned to the guildhall with a scathing public note; Quickfoot has since pivoted, sending Calishite spirits and Waterdhavian wines to the Archduke's new mercenary commander.
 
 ## Hooks and Relationships
 
-**Enemies.** Smugglers from [The Guild](../guild/summary.md) who try to bring untaxed spirits past the Wardens. Tense relationship with the [Amnian Kontor](../amnian-kontor/summary.md), which resents the guild's distribution markup on its own imported wines.
+**Allies.** Tight working alignment with the [Guild](../guild/summary.md)'s Ward-Bosses for Lower City distribution.
 
-**Allies of convenience.** [The Guild](../guild/summary.md) at the Ward-Boss level — the Vintners' wine moves through Guild networks for a cut. The [Worshipful Company of Fishmongers](../wc-fishmongers/summary.md), through shared dockside interests.
+**Enemies.** Constant friction with [Guild](../guild/summary.md) smugglers (and [Wharf Rats](../wharf-rats/summary.md) / [River-Rats](../river-rats/summary.md)) who run untaxed spirits — the alliance is real but local. Tense with the [Amnian Kontor](../amnian-kontor/summary.md), which resents the markup on its imported wines. Burned bridges with the [Peerage of Blood](../peerage-of-blood/summary.md) traditionalists after the Durinbold incident.
 
 ## See also
 
 - [Master Belba Quickfoot](people/belba-quickfoot.md) — Master of the Company.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`; dossier ch. 8.

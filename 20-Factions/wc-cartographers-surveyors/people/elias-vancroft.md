@@ -1,11 +1,11 @@
 ---
 name: elias-vancroft
-description: Master of the Worshipful Company of Cartographers & Surveyors; sells the same "exclusive" map to two competing caravans without flinching.
+description: Master of the Cartographers' Company; sells the city's geography to whoever pays the most, often twice.
 ---
 
 # Master Elias Vancroft
 
-Master of the [Worshipful Company of Cartographers & Surveyors](../summary.md). Politically astute, surgically precise with a quill, and morally flexible about who buys which map.
+Master of the [Worshipful Company of Cartographers & Surveyors](../summary.md). Precise, politically astute, and willing to sell the same map to two enemies if both are paying.
 
 ## Manifesto
 
@@ -13,7 +13,15 @@ Master of the [Worshipful Company of Cartographers & Surveyors](../summary.md). 
 
 ## Role
 
-Vancroft holds the keys to the guild archive, including the city's only complete sewer maps. He runs the seal office for land deeds and personally brokers the high-margin trade-route contracts. The Trollclaws double-sale (week 0) was characteristic: he sold the same map to two competing caravans, pocketed both fees, and let the Trollclaws sort the rest out.
+Vancroft built his reputation during the post-crisis property-line scramble, when every patriar and every merchant needed a Cartographers' seal to make their land claims real. He turned the Company's monopoly on legal cartography into a quiet but durable form of leverage: the seal is law, and the seal belongs to him.
+
+His current operations:
+
+- Sold "exclusive" Trollclaws passage maps to two rival caravan masters, pocketing both fees on a route the Company knows to be dangerous.
+- Tasked his surveyors with drawing tactical maps of the **Basilisk Gate blockade** and **Wyrm's Rock fortifications**, then began selling them to every interested party — first the Archduke's forces, then a duplicate set to **Mad Meggan**'s lieutenants of the [Free Traders of the Outskirts](../../free-traders-of-the-outskirts/summary.md). His Company is now profiting from both sides of the conflict.
+- A favor for the [Western Gate Trading Company](../../western-gate-trading-company/summary.md) — to "lose" an inconvenient land deed by silencing the minor patriar holding it — collapsed when the patriar evaded the planned accident and filed the deed publicly. The Trading Company is exposed; Vancroft is exposed with them.
+
+He treats [the Guild](../../guild/summary.md)'s ongoing interest in his sewer maps as a permanent, manageable threat, and is acutely aware that his current double-dealing across the blockade is one whisper away from getting him killed by either side.
 
 ## See also
 

@@ -1,34 +1,36 @@
 ---
 name: unchained
-description: Githyanki exiles loyal to Prince Orpheus, training in the Outer City for the war against Lich-Queen Vlaakith.
+description: Githyanki exiles loyal to Prince Orpheus, encamped in the Outer City as a permanent military enclave training for the war against Vlaakith.
 ---
 
 # The Unchained *(aka K'liir)*
 
-A stoic, alien military encampment of Githyanki exiles in the Outer City, loyal to Prince Orpheus and gathering their strength before resuming the war against Lich-Queen Vlaakith. After the Netherbrain's defeat, Orpheus's rebellion split; this faction chose Baldur's Gate — a city their prince had saved — as the place to hone blades and minds for the True War. Led by [Commander K'laar](people/k-laar.md).
+A stoic, alien military encampment of **Githyanki exiles** loyal to the rebel **Prince Orpheus**, gathering their strength in the Outer City before continuing their war against the Lich-Queen Vlaakith. Led by the pragmatic [Commander K'laar, the Unshackled](people/k-laar.md). The camp itself is called **the K'liir** — *Camp of the Unchained* — and has hardened into a permanent, bizarre enclave on Baldurian soil.
 
 ## Ideology
 
-To survive, train, and prepare for the eventual war against Vlaakith. They remain aloof from city politics by choice; their war is in the Astral Sea, and Baldur's Gate is a stepping stone, not a home. They do not ask for friendship — only tolerance.
+To **survive, train, and prepare** for the war that matters. The Unchained regard Baldur's Gate as a stepping stone — useful, owed to them after Orpheus's role in the Absolute Crisis, but not their concern. They remain aloof from city politics by choice. Their watchword: *Tsk'va.* You see this world. We see the next.
 
 ## Membership
 
-Githyanki warriors and psions, organized along strict military lines. The K'liir camp houses a permanent garrison; recruits are tested through martial and psionic trial. Commander K'laar holds absolute authority within the camp.
+Githyanki warriors and psions, organized along strict **military lines** with rigid hierarchy and daily training. The camp is led by **Commander K'laar** and her officer corps. The community is closed to outsiders by default; few non-Githyanki have set foot inside the K'liir's perimeter.
 
 ## Methods
 
-- Rigorous martial and psionic training as the daily order.
-- Selective mercenary contracts to fund operations — brokered through the [Sembian Kontor](../sembian-kontor/summary.md) or directly with wealthy patriars. Only contracts they consider honorable.
-- Refusal of dishonorable work. Week 0: K'laar publicly declined an [Amnian Kontor](../amnian-kontor/summary.md) contract for "private muscle" in a banking dispute, stating her warriors are not for rent to settle ledgers.
-- Active hunting of any mind-flayer activity. The [Hands of the Absolute](../hands-of-the-absolute/summary.md) cult is a standing target.
+- **Constant martial and psionic training.** The camp's days are structured around drills, sparring, and tactical simulations.
+- **Selective mercenary contracts.** They occasionally hire out as **elite mercenaries** to fund the encampment — usually brokered through the [Sembian Kontor](../sembian-kontor/summary.md) or directly with wealthy patriars. K'laar refuses contracts she judges dishonorable.
+- **Wyrm's Rock garrison.** Recently formalized: K'laar accepted a peacekeeping contract with [Marshal Flint](../flaming-fist/summary.md), and a phalanx of Githyanki now garrisons Wyrm's Rock alongside Flaming Fist regulars — a public spectacle that has sent shockwaves through the city's leadership.
+- **Aloof neutrality.** The Unchained do not take sides in Baldurian politics, but their presence is a permanent and enormous deterrent.
 
 ## Hooks and Relationships
 
-**Enemies.** The [Hands of the Absolute](../hands-of-the-absolute/summary.md) — total enmity, by Githyanki doctrine. The mind-flayer-related obsessions of the [Unveiled](../unveiled/summary.md) include K'liir as part of the conspiracy's "secret police" — the Unveiled view the Unchained with terror.
+**Enemies.** Implacably hostile to **mind flayers** and any trace of their activity — the [Hands of the Absolute](../hands-of-the-absolute/summary.md) cell is their natural enemy in Baldur's Gate, though K'laar's investigations have not yet found them. The [Unveiled](../unveiled/summary.md) view the Githyanki with conspiratorial terror, believing them to be secret-police of a hidden cabal — a misreading the Unchained ignore.
 
-**Allies of convenience.** The [Sembian Kontor](../sembian-kontor/summary.md) for honorable mercenary brokerage. Tense but non-hostile coexistence with the [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md), their Outer City neighbors.
+**Allies of convenience.** Tense but **non-hostile neighbors** of the [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md). Recent operational alliance with [Marshal Flint](../flaming-fist/summary.md) at Wyrm's Rock. Mercenary clientele includes patriar households and the [Sembian Kontor](../sembian-kontor/summary.md), which brokers their contracts.
+
+**Hooks.** K'laar **declined** a lucrative Amnian Kontor contract for "private muscle" on the grounds it lacked honor. Unchained patrols around the K'liir investigated **psychic echoes** they could not source — the [Hands of the Absolute](../hands-of-the-absolute/summary.md) are operating nearby and leaving no traces. K'laar **accepted** the Wyrm's Rock contract from Marshal Flint as an honorable peacekeeping role, and a Githyanki phalanx has now formally entered the fortress.
 
 ## See also
 
-- [Commander K'laar](people/k-laar.md) — camp commander.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`.
+- [Commander K'laar, the Unshackled](people/k-laar.md) — leader.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `faction-quests.xlsx`.

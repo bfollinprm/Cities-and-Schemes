@@ -1,33 +1,35 @@
 ---
 name: wc-smiths-armorers
-description: Guild forging weapons and armor for every armed faction in the city, from the Flaming Fist to private adventurers.
+description: Guild forging arms and armor for the city's guards, soldiers, and adventurers.
 ---
 
 # Worshipful Company of Smiths & Armorers
 
-The guild whose forges arm everyone — the [Flaming Fist](../flaming-fist/summary.md), the Kontor Guards, Guild Wardens, and the booming adventurer trade. With the constant low-grade conflict that defines post-crisis Baldur's Gate, the Smiths have grown wealthier and more vital than at any time in living memory. They work with rare metals, infernal iron, and any salvage that might give them a technological edge. Led by the conservative dwarven [Master Tor-keg Silverhand](people/tor-keg-silverhand.md).
+The Worshipful Company that arms Baldur's Gate. With constant demand from the [Flaming Fist](../flaming-fist/summary.md), Kontor Guards, Guild Wardens, and the post-crisis adventurer surge, the Smiths have become wealthier and more vital than at any point in living memory. Led by [Master Tor-keg Silverhand](people/tor-keg-silverhand.md), with the famed infernal mechanic **Dammon** at the **Forge of the Nine** as the guild's most prominent — and most unmanageable — independent member.
 
 ## Ideology
 
-To be the premier crafters of arms and armor on the Sword Coast — proud of tradition, but ruthlessly opportunistic about acquiring new techniques.
+To be the premier crafters of arms and armor on the Sword Coast: tradition first, innovation second, but a constant willingness to acquire useful new techniques by purchase, alliance, or theft.
 
 ## Membership
 
-The city's most respected blacksmiths and armorers, including the famed infernal mechanic **Dammon** at the Forge of the Nine. The Court of Assistants is dwarven-dominated. Apprenticeships are decade-long and brutally selective.
+The city's best blacksmiths and armorers, organized under the standard Master / Wardens / Court of Assistants framework. Tor-keg keeps the Court conservative, but the membership includes restless innovators — Dammon foremost — who pull the guild's interests into uncomfortable territory like infernal-iron salvage.
 
 ## Methods
 
-- Monopoly on high-quality arms and armor through chartered rights and lucrative contracts with the Flaming Fist, the Kontors, and the Watch.
-- Industrial espionage targeting the [Lantaner Concession](../lantaner-concession/summary.md) — they want smokepowder, and Dammon wants infernal-iron techniques.
-- Salvage and reforging. Week 0: Dammon put out a public call for armor salvaged from the Fall of Elturel, paying a premium for pieces warped by infernal energy.
+- Controls the city's forges and regulates the sale of all high-quality arms and armor; lucrative state contracts with the Flaming Fist anchor the guild's revenue.
+- The guild seal is a legal requirement on masterwork-grade arms.
+- **Currently petitioning the deadlocked Parliament** for relief: Tor-keg personally visited Marshal Flint at Wyrm's Rock, appealing to him soldier-to-soldier to break the Basilisk Gate blockade that is starving his forges of iron.
+- **Dammon at the Forge of the Nine** is running his own program: a public call to adventurers for any **infernal-iron salvage** from the Fall of Elturel, paid at premium, plus a separate private hunt for a New Elturel **infernal-contract shard** physically manifested during the Fall.
+- An attempted approach to the [Unchained](../unchained/summary.md) for an "astral bargain" — to acquire githyanki forging knowledge — was contemptuously rejected by Commander K'laar, leaving the Company viewed with disdain by the githyanki.
 
 ## Hooks and Relationships
 
-**Enemies.** Cold industrial-espionage war with the [Lantaner Concession](../lantaner-concession/summary.md). Direct competition with independent smiths like **Stormshore Armoury** in the Outer City.
+**Allies.** Lucrative supply contracts with the [Flaming Fist](../flaming-fist/summary.md); cordial dealings with the [Peerage of Blood](../peerage-of-blood/summary.md) traditionalist patriarchs.
 
-**Allies of convenience.** The [Flaming Fist](../flaming-fist/summary.md) for armament contracts; private adventurers as both customers and salvage suppliers.
+**Enemies.** Active industrial-espionage cold war with the [Lantaner Concession](../lantaner-concession/summary.md) over smokepowder secrets — a Lantaner apprentice spy was recently nearly caught inside the Cogwork Quay; a partial schematic of the smokepowder mechanism is now in Smiths' hands. Direct competition with independent smiths like the **Stormshore Armoury**. Hostile reception from the [Unchained](../unchained/summary.md) after Tor-keg's astral-bargain misstep.
 
 ## See also
 
 - [Master Tor-keg Silverhand](people/tor-keg-silverhand.md) — Master of the Company.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`; dossier ch. 8.

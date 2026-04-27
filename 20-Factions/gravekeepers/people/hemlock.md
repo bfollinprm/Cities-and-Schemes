@@ -1,17 +1,31 @@
 ---
 name: hemlock
-description: Leader of the Gravekeepers; chief warden of Tumbledown and standing line against necromantic intrusion.
+description: "Old Man" Hemlock — divine warder of Tumbledown and leader of the Gravekeepers; would sooner collapse the graveyard than let it be desecrated.
 ---
 
-# Hemlock
+# Old Man Hemlock
 
-Leader of [The Gravekeepers](../summary.md). Senior steward of the **Tumbledown** graveyard and the Gravekeepers' chief field operator. A practical figure whose authority rests on having outlived most of the things that try to walk Tumbledown at night.
+Founder and leader of the [Gravekeepers](../summary.md), based out of **Candulhallow's Tombstones** in Tumbledown and now overseeing the **Cliffside Cemetery** as the cult's new operational center. A grim, duty-bound divine caster whose patience has run out.
 
-## Role
+## Doctrine
 
-Hemlock leads the Tumbledown cleansings personally — including the week-0 ritual that destroyed an attracted wraith but cost the cult a warding stone. He treats every Cult-of-the-Dead-Three cell, every necromancer, and every soul-trapping cultist as material for the same kind of work, and pursues all of them with the same patient hostility.
+- The dead are owed silence.
+- Bhaalists are thieves: they steal from the grave when they murder on consecrated ground.
+- It is better to collapse a tomb than to let it be desecrated. (He brought black powder to the Tumbledown gates to prove it.)
+- Patrols of five. Discreet kills. Public order is a Watch problem; the dead are his.
+
+## Recent operations
+
+- Discreet neutralization of a minor undead outbreak; no public alarm.
+- A cleansing ritual interrupted by a wraith; the warding stone shattered in the fight.
+- Investigated psychic disturbances near the [Unchained](../../unchained/summary.md) camp; dismissed it as Githyanki echo and missed a [Hands of the Absolute](../../hands-of-the-absolute/summary.md) cell.
+- Mapped sewer-entrance manifestations; traced them to a Bhaalist temple in the Undercity beneath Tumbledown.
+- Holy water tainted with necrotic residue (a Bhaalist sabotage); weeks of preparation lost.
+- Organized a macabre **corpse-caravan** to move consecrated dead to the Cliffside Cemetery in silence, avoiding both the Fist and the Guild.
+- Now running the **Cliffside Consecration** — a massive ritual to create a holy perimeter of his own consecrated undead guardians against [Bhaalist](../../cult-of-the-returning-lord/summary.md) incursion.
+- Currently in a three-way standoff at the Tumbledown gates against [Harper](../../harpers/summary.md) Tilly Falkenrath and [Guild](../../guild/summary.md) smuggler Silas the Eel — both attempting to force a cart of grain through the crypts to the Basilisk Gate blockade.
 
 ## See also
 
-- [The Gravekeepers](../summary.md).
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `faction-quests.xlsx`.
+- [The Gravekeepers](../summary.md) — the cult he founded.
+- Source: `dm-notes.docx` (Adventure: The Shadows of Tumbledown); `faction-quests.xlsx`.

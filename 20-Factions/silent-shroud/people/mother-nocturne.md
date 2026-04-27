@@ -1,19 +1,28 @@
 ---
 name: mother-nocturne
-description: Local leader of the Silent Shroud Sharran cell; runs the House of Grief sanatorium as a recruitment and intelligence front.
+description: Codename for the field commander of the Silent Shroud Sharran cell; also called the Night Mother. No real name appears in source material.
 ---
 
 # Mother Nocturne
 
-Local leader of [The Silent Shroud](../summary.md). Runs the **House of Grief** sanatorium as the cult's public-facing front — a refuge for the grieving and the entry point for cult recruitment.
+A codename, not a confirmed identity. **Mother Nocturne** — also called the **Night Mother** — is the field commander of the [Silent Shroud](../summary.md) Sharran cell operating beneath Baldur's Gate. She runs operations from a cellar beneath the Helm and Cloak; the source material does not name a higher cult head.
 
-## Role
+## Operational doctrine
 
-Nocturne presides over the cult's intelligence brokerage and the search for Shar's lost sanctums beneath the city. Her transaction with Bror in Session 9 gave the cult a direct line into the party's discoveries — characteristic of her preferred technique: assistance in exchange for ongoing access. She is patient, generous on the front-end, and treats every grief as a recruitment opportunity.
+- Information first. Every transaction with the Shroud is a secrets-trade dressed up as aid.
+- Recruit through grief. The **House of Grief** sanatorium is her recruiting funnel; bereaved patriars and refugees are spiritually counseled and magically monitored.
+- Suppress the Bhaalists. The [Cult of the Returning Lord](../../cult-of-the-returning-lord/summary.md) is treated as a strategic threat to Shar's quiet harvest of city-wide despair.
 
-The week-0 House of Grief infiltration attempt was thwarted by the *opposite* problem: a Shroud agent's grieving-noble cover was so good the head cleric refused to let her stop counseling. The agent is, technically, still in therapy.
+## Recent operations
+
+- Acquired Bror's report on the Bhaalist sewer cult and **Zora** in exchange for early aid; embedded Bror as a long-term intelligence asset.
+- Magical-surveillance campaign focused on the dwarf monk **Bror** and the **Whispering Stone**; an attempt to influence the stone failed and revealed the Sharran interference to Bror's own patron.
+- Sent Bror to the **Helm and Cloak** as his first tithe, listening for patriar political weaknesses.
+- A failed sanatorium infiltration left a Sharran agent stuck in trance-counseling; a sanctum-cleansing ritual fizzled against ancient wards.
+- After losing track of Bror, ordered a **Purge of the Blind** within her own cell — painful interrogations in the dark to root out a suspected Harper or Absolute mole.
+- Now mobilizing elite Sharran spies into the Helm and Cloak to blackmail isolated patriars.
 
 ## See also
 
-- [The Silent Shroud](../summary.md).
-- Source: `dm-notes.docx` Session 9; `faction-quests.xlsx`.
+- [The Silent Shroud](../summary.md) — the cult itself.
+- Source: `dm-notes.docx`; `faction-quests.xlsx`.
