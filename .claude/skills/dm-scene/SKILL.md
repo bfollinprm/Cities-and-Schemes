@@ -17,7 +17,8 @@ The repo is large. Do not walk faction or place trees blindly. For a scene-openi
 2. **`50-Sessions/session_<N>/player_summary.md`** — what the table experienced last.
 3. **`50-Sessions/session_<N>/gm_summary.md`** — private intent / behind-the-scenes for that session (may be a stub pointing back to the player summary; that's fine).
 4. **`40-Timeline/week_<W>/events.md`** — the world's parallel motion that week.
-5. **`20-Factions/party/summary.md`** — current party leverage, debts, open threads.
+5. **`20-Factions/party/summary.md`** — narrative recap of party trajectory; current open threads at week's end.
+6. **`20-Factions/party/leverage.md`** — flat ledger of items, debts, kompromat, and allies-on-call the party currently holds. Faster lookup than scanning summary prose.
 
 Once you can name the district the scene lands in (the last session's summaries usually make it obvious), add **one** Stage-1.5 read: the matching district roll-up at `30-Places/sword-coast/baldurs-gate/<district>/events.md`. The candidates are:
 
