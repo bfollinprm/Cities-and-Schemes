@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — deface-a-kontor-funded-mural.
 - [week_2/](week_2/) — sigil-of-repulsion.
 - [week_3/](week_3/) — preserve-the-true-voice.
+- [week_4/](week_4/) — the-writing-on-the-wall.

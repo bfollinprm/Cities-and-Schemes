@@ -5,5 +5,5 @@ Semi-secret balance-keepers gathering intelligence and subtly intervening agains
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
-- [people/](people/) — Named figures: the-nightingale.
-- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3).
+- [people/](people/) — Named figures: remallia-haventree, the-nightingale, tilly-falkenrath, vescaras-ammakyl.
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3, week_4).

@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — smuggle-a-person-past-the-gates.
 - [week_2/](week_2/) — the-blockade-boom.
 - [week_3/](week_3/) — the-undercellar-run.
+- [week_4/](week_4/) — a-favor-for-a-friend.

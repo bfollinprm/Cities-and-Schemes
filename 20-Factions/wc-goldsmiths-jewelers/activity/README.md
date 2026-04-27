@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — create-a-masterwork-for-a-patriar.
 - [week_2/](week_2/) — corner-the-silver.
 - [week_3/](week_3/) — follow-the-money.
+- [week_4/](week_4/) — a-quiet-bounty.

@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — enforce-priority-storage-rates.
 - [week_2/](week_2/) — legislate-aggression.
 - [week_3/](week_3/) — whip-the-votes.
+- [week_4/](week_4/) — the-emergency-levy.

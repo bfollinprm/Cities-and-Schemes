@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — the-reaper-strikes.
 - [week_2/](week_2/) — the-grieving-genius.
 - [week_3/](week_3/) — learn-the-muses-song.
+- [week_4/](week_4/) — the-reapers-gambit.

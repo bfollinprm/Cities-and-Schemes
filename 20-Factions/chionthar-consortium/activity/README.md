@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — impound-an-independent-vessel.
 - [week_2/](week_2/) — the-public-patrons.
 - [week_3/](week_3/) — secure-the-front-lines.
+- [week_4/](week_4/) — a-warning-in-the-warehouse.

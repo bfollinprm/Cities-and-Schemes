@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — negotiate-a-levy-exemption.
 - [week_2/](week_2/) — the-herring-gouge.
 - [week_3/](week_3/) — feed-the-blockade.
+- [week_4/](week_4/) — the-solidarity-stew.

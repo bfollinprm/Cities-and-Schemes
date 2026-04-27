@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — investigate-psychic-disturbances-near-the-kliir.
 - [week_2/](week_2/) — secure-the-sepulchers.
 - [week_3/](week_3/) — a-pattern-in-the-rot.
+- [week_4/](week_4/) — the-source-of-the-sickness.

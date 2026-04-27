@@ -34,6 +34,8 @@ A **misdirection of a Flaming Fist weapons shipment** failed when security on th
 
 The crew's most recent overreach — a "solidarity tax" levied on Consortium docks — was broken when the Consortium hired a small Zhentarim squad to "clear the air." A bloody pier-side brawl shattered the tax and broke Guild control over Consortium docks.
 
+In **week 4** Jack [launches a guerilla war against the Zhent muscle on Gray Harbour piers](activity/week_4/the-pier-side-war.md). The opening ambushes succeed; the Black Network's response is professional and brutal — captured Wharf Rats are tortured and made a gruesome public example on the pier overnight. The rebellion is crushed; Jack's labor coalition fractures; visible Zhent muscle on Consortium docks is now permanent. The Wharf Rats remain a Guild asset on paper but their independent labor leverage is broken.
+
 ## See also
 
 - ["One-Eyed" Jack](people/one-eyed-jack.md) — leader.

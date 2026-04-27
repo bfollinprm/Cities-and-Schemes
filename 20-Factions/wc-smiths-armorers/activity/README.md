@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — purchase-an-infernal-contract-shard.
 - [week_2/](week_2/) — arming-the-inevitable.
 - [week_3/](week_3/) — an-appeal-to-the-marshal.
+- [week_4/](week_4/) — an-astral-bargain.

@@ -37,6 +37,8 @@ A four-tier pyramid built on patronage:
 
 In **week 2**, after the [party sold the captured cultist to Mad Meggan](../party/activity/week_2/sell-the-cultist-to-mad-meggan.md) and refused to surrender the **Whispering Stone**, Keene authorized [Vex to retrieve the stone by any means necessary](activity/week_2/retaliation-on-the-river.md) — formally ending the temporary alliance — and pivoted Vex toward [One-Eyed Jack](../wharf-rats/people/one-eyed-jack.md) at Gray Harbour as the Guild's new dock-leverage point.
 
+In **week 4** the cold war with the Zhentarim breaks open. Keene authorizes [Vex to lead a public, bloody raid on the Velvet Hand](activity/week_4/retaliation.md); Roah Moonglow's Brampton den is broken, two Zhent dealers killed, the night's takings walk out. Roah's [smokepowder counter-strike is leaked by an informant inside the Black Network's smuggling chain and the entire payload is seized intact](../zhentarim/activity/week_4/the-smokepowder-plot.md) — **the Guild now possesses both a casus belli and a working smokepowder stockpile**. Separately, [the framed Alchemists' apprentice trades three of the Worshipful Company's most valuable potion formulas to the Guild for safe passage out of the city](../wc-alchemists-apothecaries/activity/week_4/a-desperate-bargain.md) — including the politically-charged Sewer Plague antitoxin. Keene's office is now sitting on alchemical secrets the Worshipful Company has spent a decade keeping in-house.
+
 ## See also
 
 - [Astele "Nine-Fingers" Keene](people/astele-keene.md) — Guildmaster.
