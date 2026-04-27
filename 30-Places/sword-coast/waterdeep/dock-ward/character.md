@@ -14,11 +14,11 @@ Sea-rot, fish-gut, tar, and old smoke. Cobbles slick with whatever was last spil
 
 ## The Shadow War on the ground
 
-This is the front line. **Manshoon's Zhentarim** thugs and **Xanathar Guild** brutes clash openly in alleys and cellars. The **Doom Raiders** keep their preferred discreet operations elsewhere; the public street violence is Manshoon's brand. The Xanathar's people are easier to spot — directly thuggish, often visibly altered, sometimes accompanied by something worse. The dossier names the new addictive drug **Black Lilly** as a Xanathar product distributed primarily out of Dock Ward dealers.
+This is the front line. **[Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) Zhentarim** thugs and **[Xanathar Guild](../../../../20-Factions/xanathars-guild/summary.md)** brutes clash openly in alleys and cellars. The **Doom Raiders** keep their preferred discreet operations elsewhere; the public street violence is Manshoon's brand. The [Xanathar's](../../../../20-Factions/xanathars-guild/people/xanathar.md) people are easier to spot — directly thuggish, often visibly altered, sometimes accompanied by something worse. The dossier names the new addictive drug **Black Lilly** as a Xanathar product distributed primarily out of Dock Ward dealers.
 
 ## What runs underneath
 
-The Dock Ward connects to the **Undercity** and, beyond it, the subterranean port of **Skullport**, the Xanathar's major access route. The mind-flayer lieutenant **Nihiloor** and his intellect-devourer puppets are deployed across the ward as a living spy network — the Xanathar's eyes and ears. A common dungsweeper or Watch sergeant in this ward may already not be themselves.
+The Dock Ward connects to the **Undercity** and, beyond it, the subterranean port of **[Skullport](../skullport.md)**, the Xanathar's major access route. The mind-flayer lieutenant **[Nihiloor](../../../../20-Factions/xanathars-guild/people/nihiloor.md)** and his intellect-devourer puppets are deployed across the ward as a living spy network — the Xanathar's eyes and ears. A common dungsweeper or Watch sergeant in this ward may already not be themselves.
 
 ## Where to go to disappear
 

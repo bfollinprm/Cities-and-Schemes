@@ -25,4 +25,5 @@ Senior field operative of the [Plague of Remembrance](../summary.md) and one of 
 - [The Plague of Remembrance](../summary.md)
 - [Lady Emmeline Vhage](emmeline-vhage.md)
 - [Sodality — Trace the Arcane Signature](../../wc-sorcerous-sodality/activity/week_2/trace-the-arcane-signature.md)
+- [Sodality case file on Zora](../../wc-sorcerous-sodality/people/zora.md)
 - Source: `.context/converted/player-companion.md` — Week 2, Sessions 7–8; `dm-notes.md` — Week 2.

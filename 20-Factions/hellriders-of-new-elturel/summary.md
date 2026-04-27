@@ -5,11 +5,11 @@ description: Volunteer militia and informal government of the New Elturel refuge
 
 # Hellriders of New Elturel
 
-The volunteer militia and **informal government** of the "New Elturel" refugee district, fighting for the survival, dignity, and recognition of their displaced people. Led by [High Watcher Alena](people/high-watcher-alena.md), a priestess of Torm.
+The volunteer militia and **informal government** of the "New Elturel" refugee district, fighting for the survival, dignity, and recognition of their displaced people. Led by [High Watcher Alena](people/high-watcher-alena.md), a priestess of [Torm](../../10-Setting/cosmology/deities/torm.md).
 
 ## Ideology
 
-The protection and welfare of the **Elturian refugee population**. The Hellriders were forged in the fall of Elturel and the survival of Avernus; their guiding principle is that they will not be saved a second time, and will not ask to be — they will demand recognition as a community, and govern themselves until they receive it. They constantly lobby the Baldurian government for citizenship, official aid, and recognition.
+The protection and welfare of the **Elturian refugee population**. The Hellriders were forged in the fall of Elturel and the survival of [Avernus](../../10-Setting/cosmology/realms/avernus.md); their guiding principle is that they will not be saved a second time, and will not ask to be — they will demand recognition as a community, and govern themselves until they receive it. They constantly lobby the Baldurian government for citizenship, official aid, and recognition.
 
 ## Membership
 

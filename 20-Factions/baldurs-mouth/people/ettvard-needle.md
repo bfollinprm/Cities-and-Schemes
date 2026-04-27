@@ -16,7 +16,7 @@ Lurid and populist. Masthead reads ***"We Hear All, And Print Most of It!"*** He
 - **Sensational without proof** when the woodcut is good enough — *"The Githyanki Garrison,"* the staged "starving children" sketches of *"The Siege Edition."*
 - **Refuses to print** when the source is unprovable and the target is well-connected — Mad' Meggan's cultist-captive bombshell, the Harper attempt to leak Archduke dirt.
 - **Smells blood.** When Marshal Flint defied the Archduke, Needle assigned reporters to dig dirt and sell to the highest bidder.
-- **Recruits adventurers as stringers.** *The Siege Edition* enlisted Kaelan to deliver the Consortium insurance-fraud investigation.
+- **Recruits adventurers as stringers.** *The Siege Edition* enlisted [Kaelan](kaelan.md) to deliver the Consortium insurance-fraud investigation.
 
 ## The kidnapping (canonical)
 

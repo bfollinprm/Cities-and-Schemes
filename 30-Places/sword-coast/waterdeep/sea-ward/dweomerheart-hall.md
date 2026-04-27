@@ -9,7 +9,7 @@ An opulent manor-house in Waterdeep's **Sea Ward**, owned by an anonymous Green 
 
 ## Layout (as observed during the ball)
 
-- A **grand ballroom** on the third floor, draped in living ivy and faerie lights; an enchanted painted ceiling of twilight sky; large gilded **mirrors** lining the walls; floor-to-ceiling stained-glass windows (one depicting **Lathander's sunrise** — the one the eladrin knight came through).
+- A **grand ballroom** on the third floor, draped in living ivy and faerie lights; an enchanted painted ceiling of twilight sky; large gilded **mirrors** lining the walls; floor-to-ceiling stained-glass windows (one depicting **[Lathander's](../../../../10-Setting/cosmology/deities/lathander.md) sunrise** — the one the eladrin knight came through).
 - **Side halls** off the ballroom toward servants' corridors — the first attack on a maid happened here.
 - Multiple **crystal chandeliers** that can be lit to noon-bright by an arcanist (a property the Masquerade is now grateful for).
 

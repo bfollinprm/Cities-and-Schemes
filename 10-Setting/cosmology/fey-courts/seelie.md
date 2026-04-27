@@ -5,7 +5,7 @@ description: Titania's Summer Court at Senaliesse — the bright fey, patrons of
 
 # The Seelie Court
 
-The bright half of fey politics, ruled by **Titania the Summer Queen** from her living palace at **Senaliesse**, where golden boughs blossom around the **Tree of Stars**. Pixies, dryads, eladrin, and sylvan knights serve her. On the Sword Coast they patronize life, art, music, and growth — quietly.
+The bright half of fey politics, ruled by [**Titania the Summer Queen**](titania.md) from her living palace at [**Senaliesse**](senaliesse.md), where golden boughs blossom around the **Tree of Stars**. Pixies, dryads, eladrin, and sylvan knights serve her. On the Sword Coast they patronize life, art, music, and growth — quietly.
 
 ## Influence on the Sword Coast
 

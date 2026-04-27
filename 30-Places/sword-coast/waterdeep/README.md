@@ -30,9 +30,19 @@ Greater metropolitan population: in excess of one million; the walled city is fa
 - [dock-ward/](dock-ward/README.md) — Oldest, dirtiest, most dangerous; primary battleground of the Shadow War.
 - [field-ward/](field-ward/README.md) — Officially nonexistent extramural slum; the city's greatest social vulnerability.
 
+### Underneath
+
+- [undermountain.md](undermountain.md) — The megadungeon below; entered through the Yawning Portal.
+- [skullport.md](skullport.md) — Subterranean port; Xanathar territory; slave market.
+
 ### City-spanning sites
 
 - [vault-of-dragons.md](vault-of-dragons.md) — half-mythic Lords' gold cache; Jarlaxle Baenre's current obsession.
+
+### See also (people and houses)
+
+- [Waterdeep noble houses](../../../20-Factions/waterdeep-noble-houses/summary.md) — the named families of the Great Game (faction-side: Cassalanter, Amcathra, Tesper, Adarbrent, Thann, Urmbrusk, Agundar, Husteem, Maerklos).
+- [Masked Lords](../../../20-Factions/masked-lords/summary.md) — the anonymous council and its named members.
 
 ## See also
 

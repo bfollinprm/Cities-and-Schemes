@@ -30,7 +30,7 @@ Sycophantic where Needle was lurid. Bureaucratic euphemism where Needle was dire
 
 ## Vulnerabilities
 
-- The Board is **not an editor**, and it shows. Its by-lines are inconsistent, its facts are checkable against Kaelan's surviving morgue (see [Heapside print shop](../associations/heapside-print-shop.md)), and the original presses' stringers know exactly what is being suppressed.
+- The Board is **not an editor**, and it shows. Its by-lines are inconsistent, its facts are checkable against [Kaelan](kaelan.md)'s surviving morgue (see [Heapside print shop](../associations/heapside-print-shop.md)), and the original presses' stringers know exactly what is being suppressed.
 - The Board cannot **publicly revoke** outstanding Credentials of Balduran without confirming Needle's removal was hostile (see [credential-of-balduran.md](../associations/credential-of-balduran.md)).
 - The week-7 lockdown of "unvetted independent printing" is unenforced in the [Outer City](../../../30-Places/sword-coast/baldurs-gate/outer-city/README.md); pamphlets there directly contradict the front page.
 

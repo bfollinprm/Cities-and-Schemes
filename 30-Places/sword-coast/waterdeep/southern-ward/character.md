@@ -18,7 +18,7 @@ Of all the working wards, the Southern Ward is where the dossier's **"artisan dr
 
 ## Faction layer
 
-The **Doom Raiders** ([Zhentarim](../../../../20-Factions/zhentarim/summary.md)) operate caravan-side smuggling and money-lending here, with Davil Starsong's people quietly seeded into routes that pass through Baldur's Gate. The Southern Ward is also a recruitment ground for **Manshoon's** rougher faction — disenchanted laborers and unemployed caravan guards are easy to weaponize. The **Watch** patrols visibly but is over-stretched; their priority is the gates and the warehouse district, not the tenements.
+The **Doom Raiders** ([Zhentarim](../../../../20-Factions/zhentarim/summary.md)) operate caravan-side smuggling and money-lending here, with Davil Starsong's people quietly seeded into routes that pass through Baldur's Gate. The Southern Ward is also a recruitment ground for **[Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md)** rougher faction — disenchanted laborers and unemployed caravan guards are easy to weaponize. The **Watch** patrols visibly but is over-stretched; their priority is the gates and the warehouse district, not the tenements.
 
 ## Population pressure
 

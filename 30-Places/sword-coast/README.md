@@ -52,6 +52,8 @@ The **Coast Way** and the **Trade Way** are the great north–south arteries; th
 - [moonshae-isles.md](moonshae-isles.md) — crown-and-fey island chain on the [Sea of Swords](../../10-Setting/regions/sea-of-swords.md)' northwestern rim.
 - [nelanther-isles.md](nelanther-isles.md) — pirate archipelago south of the Moonshaes.
 - [purple-rocks.md](purple-rocks.md) — small Northlander archipelago northwest of Ruathym; surface settlement, drowned Ascarle below.
+- [trollclaws.md](trollclaws.md) — hilly badland north of Baldur's Gate on the Trade Way; the dangerous middle leg of the caravan road.
+- [whisperwood.md](whisperwood.md) — forest near the Chionthar; flashpoint between Sembian capital and the Circle of the Inner Grove.
 - [wood-of-sharp-teeth.md](wood-of-sharp-teeth.md) — east of the Trade Way; severed from the natural world by the Absolute Crisis; generates psychic horror.
 - [ardeep-forest.md](ardeep-forest.md) — close old forest south of Waterdeep; weirwood circle and Lady of Twilight; an active Feywild crossing.
 - [misty-forest.md](misty-forest.md) — woodland east of Daggerford; Feywild crossing turned uncanny under Far Realm pressure.

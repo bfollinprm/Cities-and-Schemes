@@ -27,7 +27,7 @@ The cell uses the [Waterdhavian Kontor](../waterdhavian-kontor/summary.md)'s **S
 - **Espionage** and information brokerage.
 - **Subtle intervention** rather than open confrontation: planted agents, double-blind dossiers, leaked tips.
 - Strategic leaks to *Baldur's Mouth* (when [Ettvard Needle](../baldurs-mouth/people/ettvard-needle.md) will print them) to shape public opinion against corrupt officials.
-- Active disruption of dark cults (Bhaal, Shar) and Zhentarim operations.
+- Active disruption of dark cults ([Bhaal](../../10-Setting/cosmology/deities/bhaal.md), Shar) and Zhentarim operations.
 
 ## Hooks and Relationships
 

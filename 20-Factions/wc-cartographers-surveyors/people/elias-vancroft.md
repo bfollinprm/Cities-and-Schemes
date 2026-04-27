@@ -17,7 +17,7 @@ Vancroft built his reputation during the post-crisis property-line scramble, whe
 
 His current operations:
 
-- Sold "exclusive" Trollclaws passage maps to two rival caravan masters, pocketing both fees on a route the Company knows to be dangerous.
+- Sold "exclusive" [Trollclaws](../../../30-Places/sword-coast/trollclaws.md) passage maps to two rival caravan masters, pocketing both fees on a route the Company knows to be dangerous.
 - Tasked his surveyors with drawing tactical maps of the **Basilisk Gate blockade** and **[Wyrm's Rock](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-rock.md) fortifications**, then began selling them to every interested party — first the Archduke's forces, then a duplicate set to **Mad Meggan**'s lieutenants of the [Free Traders of the Outskirts](../../free-traders-of-the-outskirts/summary.md). His Company is now profiting from both sides of the conflict.
 - A favor for the [Western Gate Trading Company](../../western-gate-trading-company/summary.md) — to "lose" an inconvenient land deed by silencing the minor patriar holding it — collapsed when the patriar evaded the planned accident and filed the deed publicly. The Trading Company is exposed; Vancroft is exposed with them.
 

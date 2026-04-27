@@ -5,7 +5,7 @@ description: Beholder-led criminal empire under Waterdeep — addiction, slavery
 
 # The Xanathar Guild *(aka Xanathar's Guild)*
 
-A **beholder-led criminal empire** rooted in the Undercity beneath [Waterdeep](../../30-Places/sword-coast/waterdeep/README.md), reaching down through the Skullport corridor and up through the Dock Ward. Distinct from any single guildmaster: the **Xanathar** is an ancient and paranoid eye tyrant who has held the throne — through clones, successors, and bloody internal coups — for generations. Half of the **Shadow War** that defines the city's underworld in 1502 DR; the other half is [Manshoon's Zhentarim](../zhentarim/summary.md).
+A **beholder-led criminal empire** rooted in the Undercity beneath [Waterdeep](../../30-Places/sword-coast/waterdeep/README.md), reaching down through the Skullport corridor and up through the Dock Ward. Distinct from any single guildmaster: the **[Xanathar](people/xanathar.md)** is an ancient and paranoid eye tyrant who has held the throne — through clones, successors, and bloody internal coups — for generations. Half of the **Shadow War** that defines the city's underworld in 1502 DR; the other half is [Manshoon's](../zhentarim/people/manshoon.md) Zhentarim.
 
 A Waterdhavian faction with no Baldurian cell; mentioned alongside Bregan D'aerthe and House Cassalanter in the city's [factions table](../../30-Places/sword-coast/waterdeep/factions.md) as the underworld powers Waterdeep contends with.
 
@@ -13,7 +13,7 @@ A Waterdhavian faction with no Baldurian cell; mentioned alongside Bregan D'aert
 
 - **Black Lilly.** A new, fiercely addictive drug distributed primarily through Dock Ward dealers. Volume has grown sharply in the last year and is the visible front of the Guild's economic push.
 - **Slave trade and protection rackets.** Pre-existing revenue lines, kept in motion through brutal enforcement.
-- **Mind-flayer espionage.** The lieutenant **Nihiloor**, an illithid, plants intellect devourers into Waterdhavian citizens — the Watch sergeant Meloon Wardragon is the named example. A common dungsweeper or dock clerk in the wrong ward may already not be themselves.
+- **Mind-flayer espionage.** The lieutenant **[Nihiloor](people/nihiloor.md)**, an illithid, plants intellect devourers into Waterdhavian citizens — the Watch sergeant Meloon Wardragon is the named example. A common dungsweeper or dock clerk in the wrong ward may already not be themselves.
 - **Open street violence.** The Guild's enforcers are visibly altered, often grafted with beholder kin or worse, and clash openly with Zhentarim thugs in the Dock Ward.
 
 ## Hooks and Relationships

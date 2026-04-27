@@ -13,7 +13,7 @@ The administrative and geographical heart of the city. Contains the **Palace of 
 - [character.md](character.md) — Tone and the day-to-day of being where the city governs itself.
 - [palace-of-waterdeep/README.md](palace-of-waterdeep/README.md) — The Open Lord's residence; the public face of government.
 - [castle-waterdeep/README.md](castle-waterdeep/README.md) — The City Guard's fortress; military spine.
-- [yawning-portal/README.md](yawning-portal/README.md) — Famed inn over the entrance to Undermountain.
+- [yawning-portal/README.md](yawning-portal/README.md) — Famed inn over the entrance to [Undermountain](../undermountain.md).
 
 ## See also
 

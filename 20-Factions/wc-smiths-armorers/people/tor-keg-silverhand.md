@@ -15,7 +15,7 @@ Master of the [Worshipful Company of Smiths & Armorers](../summary.md). A conser
 
 Tor-keg runs the Company on classical dwarven Worshipful lines: long apprenticeships, rigorous masterpiece reviews, conservative pricing, and lucrative state contracts with the [Flaming Fist](../../flaming-fist/summary.md). His current crisis is not internal but supply-chain: the **Basilisk Gate blockade** is choking his forges' iron supply. He has personally petitioned **Marshal Valerius Flint** at [Wyrm's Rock](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-rock.md), soldier-to-soldier, to find a political opening.
 
-His harder problem is that the Company's most famous member is barely a member at all. **Dammon at the Forge of the Nine** runs his own infernal-iron salvage program, has put out a public call for Hell-damaged armor from the Fall of Elturel, and is privately hunting a New Elturel **infernal-contract shard** to weave into his forge-work. Tor-keg neither approves nor controls Dammon, and the Court of Assistants is split on whether to discipline him.
+His harder problem is that the Company's most famous member is barely a member at all. [**Dammon** at the Forge of the Nine](dammon.md) runs his own infernal-iron salvage program, has put out a public call for Hell-damaged armor from the Fall of Elturel, and is privately hunting a New Elturel **infernal-contract shard** to weave into his forge-work. Tor-keg neither approves nor controls Dammon, and the Court of Assistants is split on whether to discipline him.
 
 A separate gambit — an "astral bargain" approach to the [Unchained](../../unchained/summary.md) for githyanki forging knowledge — was scornfully dismissed by **Commander K'laar**. The githyanki now view the guild's craft as crude.
 

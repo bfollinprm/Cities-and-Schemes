@@ -5,7 +5,7 @@ description: Ancient fey powers loyal to neither Seelie nor Unseelie — Oberon,
 
 # The Wild Archfey
 
-The independent powers of the Feywild — primal spirits of forest, stone, and storm — who owe loyalty to neither Titania's light nor the Queen's darkness. Some sages say they *are the land made manifest*. They are slow to stir, but unstoppable in defense of their domains.
+The independent powers of the Feywild — primal spirits of forest, stone, and storm — who owe loyalty to neither [Titania](titania.md)'s light nor the Queen's darkness. Some sages say they *are the land made manifest*. They are slow to stir, but unstoppable in defense of their domains.
 
 ## Influence on the Sword Coast
 
