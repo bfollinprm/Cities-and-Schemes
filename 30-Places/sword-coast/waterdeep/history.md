@@ -6,7 +6,7 @@ type: city-history
 
 # Waterdeep — History
 
-The full historical arc lives in [10-Setting/history/waterdeep.md](../../../10-Setting/history/waterdeep.md). This file is the **city's own memory** — the events that get cited in noble salons, taught in temple schools, or referenced by Magisters in court.
+Discrete dated events are listed in [40-Timeline/history.md](../../../40-Timeline/history.md). This file is the **city's own memory** — the events that get cited in noble salons, taught in temple schools, or referenced by Magisters in court.
 
 ## The founding myths
 

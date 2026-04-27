@@ -16,4 +16,4 @@ Regional system files (`polities.md`, `demographics.md`) are scoped to the Sea o
 
 - [waterdeep/](waterdeep/README.md) — Crown of the North, City of Splendors. Secretive oligarchy and the de facto capital of the Lords' Alliance.
 
-_(Baldur's Gate, Neverwinter, Luskan, etc. — added by their own ingests.)_
+_(baldurs-gate to be populated by ingest of `dossier-baldurs-gate-1502-dr-a-city-reborn.docx`.)_

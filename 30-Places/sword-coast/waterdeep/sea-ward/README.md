@@ -11,6 +11,7 @@ The northwesternmost ward, perched on the cliffs overlooking the ocean. The excl
 ## Index
 
 - [character.md](character.md) — Tone, residents, and how the Great Game is played up here.
+- [dweomerheart-hall.md](dweomerheart-hall.md) — Manor lent for the Green Masquerade's autumnal ball; site of the Night of the Howling Masks.
 
 ## See also
 

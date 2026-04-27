@@ -5,3 +5,4 @@ Provides oil, candles, and torches; lamplighter crews know the city's nightly rh
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: anya-brightwood.

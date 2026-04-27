@@ -18,11 +18,11 @@ Greater metropolitan population: in excess of one million; the walled city is fa
 - [governance.md](governance.md) — Open Lord, Masked Lords, Watch and Guard *as the city sees them*.
 - [factions.md](factions.md) — Cross-link table to factions active in the city.
 - [neighbors.md](neighbors.md) — Sword Coast peer cities and the southern rivalry with Baldur's Gate.
-- [history.md](history.md) — Waterdeep-specific events; the broader arc lives in `10-Setting/history/waterdeep.md`.
+- [history.md](history.md) — Waterdeep-specific city memory; dated events in [40-Timeline/history.md](../../../40-Timeline/history.md).
 
 ### Wards
 
-- [sea-ward/](sea-ward/README.md) — Old-money cliffs, sprawling villas, archmage towers.
+- [sea-ward/](sea-ward/README.md) — Old-money cliffs, sprawling villas, archmage towers; site of [Dweomerheart Hall](sea-ward/dweomerheart-hall.md).
 - [north-ward/](north-ward/README.md) — New-money ambition; quiet streets, loud salons.
 - [castle-ward/](castle-ward/README.md) — Seat of power: the Palace, Castle Waterdeep, the courts.
 - [trades-ward/](trades-ward/README.md) — Chaotic 24-hour commercial hub; guild central.
@@ -33,4 +33,5 @@ Greater metropolitan population: in excess of one million; the walled city is fa
 ## See also
 
 - [00-Campaign-Frame/veils-and-masks.md](../../../00-Campaign-Frame/veils-and-masks.md) — the dossier's framing as evergreen world-physics.
+- [Green Masquerade](../../../10-Setting/cosmology/fey-courts/green-masquerade.md) — fey-court intrigue mediated through Waterdhavian salons.
 - Source: `raw-ingest/cloaks-and-conspiracies/dossier-waterdeep-1502-dr-a-city-of-veiled-threats.docx`.
