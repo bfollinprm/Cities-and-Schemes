@@ -17,3 +17,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for file shape and graduation rules.
 | [The propaganda cart the Consortium does not know it lost](consortium-propaganda-cart.md) | party | chionthar-consortium | open | when Consortium notices, or party publishes |
 | [Errinthal's secret funding of Mad Meggan](errinthal-funds-meggan.md) | party | mad-meggan | open | when party shows the receipts |
 | [The Symbian intellect-devourer offer Bror heard](symbian-intellect-devourer-offer.md) | bror | the-skittering-beetle | open | terms uncertain |
+| [Rescue Ettvard Needle from Tumbledown](rescue-ettvard-from-tumbledown.md) | party | ettvard-needle | open | fast — Board is canceling Credentials |
+| [Produce a sentient secret-source for Mother Nocturne](sentient-secret-for-mother-nocturne.md) | bror | mother-nocturne | open | until paid |
+| [Identify the Hellrider mole](hellrider-mole.md) | takers-of-the-tithe | hellriders-of-new-elturel | open | next breach kills another asset |
+| [Bror's voice sold to the Skittering Beetle](brors-voice-to-the-beetle.md) | bror | the-skittering-beetle | open | Beetle's terms |
+| [The Skittering Beetle's future contract](beetle-future-contract.md) | party | the-skittering-beetle | open | Beetle will surface to transact |
+| [Eric the imprisoned patriarch's offer](eric-upper-city-candlekeep-offer.md) | eric | party | open | mid-game investment |
+| [Alfira's great debt](alfira-great-debt.md) | the-ember | party | open | open |
+| [Lyra Sunstone's personal debt](lyra-sunstone-personal-debt.md) | lyra-sunstone | party | open | partially redeemed; balance open |
