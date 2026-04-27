@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — secure-the-front-lines.
 - [week_4/](week_4/) — a-warning-in-the-warehouse.
 - [week_5/](week_5/) — secure-the-riverward-approaches.
+- [week_6/](week_6/) — the-desperate-run.

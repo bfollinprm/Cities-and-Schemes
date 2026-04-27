@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — twist-the-knife.
 - [week_4/](week_4/) — poisoning-the-well.
 - [week_5/](week_5/) — go-to-ground.
+- [week_6/](week_6/) — the-liquidated-assets.

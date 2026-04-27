@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — defend-the-marshal.
 - [week_4/](week_4/) — the-loyalty-fund.
 - [week_5/](week_5/) — the-silver-fist.
+- [week_6/](week_6/) — the-officers-mess.

@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — attune-to-the-whispering-stone, burglarize-the-arcane-emporium, expose-zora-at-the-phoenix-pits, sell-the-cultist-to-mad-meggan, survive-the-watchtower-ambush, take-vex-circus-assignment, witness-jaredith-end-the-protest.
 - [week_3/](week_3/) — evade-the-fist-warrant, force-the-feywild-portal, infiltrate-the-circus-of-the-last-days, unlock-the-shard-of-the-first-scribe, win-lyras-memory-from-lucretius.
 - [week_5/](week_5/) — errinthals-relief-caravan-pr-coup, install-finneas-as-guild-boss-of-rivington, kill-vex-and-loot-her-office, mine-eastway-and-detonate-the-velvet-hand, the-pilgrims-parchment-buy, the-rivington-war-council.
+- [week_6/](week_6/) — recruit-the-ember, split-leads-after-the-counting-house, storm-dusthawk-hill, the-reverse-siege-pitch.

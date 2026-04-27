@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — sowing-sweet-sorrows.
 - [week_4/](week_4/) — the-debt-comes-due.
 - [week_5/](week_5/) — a-feast-of-fear.
+- [week_6/](week_6/) — the-whispering-alley.

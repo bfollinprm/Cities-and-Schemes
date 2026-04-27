@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — the-price-of-insubordination.
 - [week_4/](week_4/) — the-mercenary-menace.
 - [week_5/](week_5/) — the-githyanki-garrison.
+- [week_6/](week_6/) — the-siege-edition.

@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — the-negotiations-price.
 - [week_4/](week_4/) — the-call-to-arms.
 - [week_5/](week_5/) — the-elturgard-alliance.
+- [week_6/](week_6/) — the-shield-wall.

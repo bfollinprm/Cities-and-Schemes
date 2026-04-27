@@ -226,6 +226,47 @@ description: What happened in the [Outer City](README.md) districts by in-game w
 
 - **Water weird hunts skiffs in the main river.** [Elder Elion's](../../../../20-Factions/circle-of-the-inner-grove/people/elder-elion.md) circle pursues the elemental [their failed binding ritual created](../../../../20-Factions/circle-of-the-inner-grove/activity/week_4/binding-the-blight.md); river traffic stalls and the Consortium's docks empty. See [activity](../../../../20-Factions/circle-of-the-inner-grove/activity/week_5/hunt-the-river-horror.md).
 
+## Week 6
+
+### Basilisk Gate
+
+- **The Starvation Siege.** [Archduke Lyra Silvershield](../../../../20-Factions/western-gate-trading-company/people/lyra-silvershield.md) escalates from commercial-shipment seizure to **personal food-store confiscation** off any traveller crossing the Outer City roads. Soup-line lengths double; volumes halve. See [Western Gate activity](../../../../20-Factions/western-gate-trading-company/activity/week_6/the-starvation-siege.md).
+- **The warning shot.** Sembian mercenaries fire a volley of warning shots over the barricade — *the first time in living memory mercenaries hired by the sitting Archduke have fired on Baldurian civilians*. The shield wall absorbs it. See [Council activity](../../../../20-Factions/council-of-four/activity/week_6/the-warning-shot.md).
+- **The shield wall holds.** [High Watcher Alena's](../../../../20-Factions/hellriders-of-new-elturel/people/high-watcher-alena.md) Hellriders integrate Free Trader militia into a tested phalanx. The barricade is now a *front*, not a line. See [Hellriders activity](../../../../20-Factions/hellriders-of-new-elturel/activity/week_6/the-shield-wall.md).
+- **Rationing the hope.** ['Mad' Meggan](../../../../20-Factions/free-traders-of-the-outskirts/people/mad-meggan.md) institutes strict, fair-share rationing inside the line; she eats the same ladle of broth as the families she protects. See [Free Trader activity](../../../../20-Factions/free-traders-of-the-outskirts/activity/week_6/rationing-the-hope.md).
+- **The Cogwork Detector buzzes at the public pumps.** [Glim-Glim](../../../../20-Factions/purified/people/glim-glim.md) and the Purified set up a permanent water-watch; the device alarms at every aura, fistfights ensue, panic spreads. See [Purified activity](../../../../20-Factions/purified/activity/week_6/the-water-watch.md).
+- **The iron smuggle.** [Master Tor-keg Silverhand](../../../../20-Factions/wc-smiths-armorers/people/tor-keg-silverhand.md) runs a six-wagon iron shipment through the gate under a forged "civic defense" exemption to feed his guild forges through the siege. See [Smiths activity](../../../../20-Factions/wc-smiths-armorers/activity/week_6/the-iron-smuggle.md).
+
+### New Elturel
+
+- **The Foundation Stone.** [The Ember (Alfira)](../../../../20-Factions/followers-of-the-phoenix/people/the-ember.md) presides over the laying of the Phoenix Temple cornerstone at the Phoenix Gate; volunteers donate stone, labor, and rationed bread despite the siege. The crowd is now incendiary, "ready to start fires." See [Phoenix activity](../../../../20-Factions/followers-of-the-phoenix/activity/week_6/the-foundation-stone.md).
+- **The captured Reaper poisoned in his cell.** A corrupt Hellrider supply-chain cook on [the Collector's](../../../../20-Factions/takers-of-the-tithe/people/the-collector.md) payroll slips necrotic poison into the prisoner's food at the High Rider's Stand. The Reaper dies mid-confession to the party. **There is a mole in Alena's camp.** See [Takers activity](../../../../20-Factions/takers-of-the-tithe/activity/week_6/the-prison-silence.md), [Session 24](../../../../50-Sessions/session_24/player_summary.md).
+- **The party's alley ambush by a Takers cell.** Spotter, Reaper, Keeper, Thralls. The party kills the Reaper outright; the Keeper flees; the Spotter is captured; the **Tithe Ledger** is recovered and names the party. See [Session 23](../../../../50-Sessions/session_23/player_summary.md).
+- **Jaredith Heartsong returns.** [Jaredith](../../../../20-Factions/hellriders-of-new-elturel/people/jaredith-heartsong.md), now committed pacifist, rejoins the party as support for the Tithe operation; departs at week's end to oversee Phoenix Temple construction. See [Sessions 23–27](../../../../50-Sessions/session_23/player_summary.md).
+- **Alfira respite at the Weary Plowman.** Resurrected after the Counting House, Alfira agrees to rest at the Plowman in [Rivington](rivington.md) instead of returning immediately to her flock. See [Session 27](../../../../50-Sessions/session_27/player_summary.md).
+
+### Tanneries
+
+- **The vine ritual.** [Elder Elion's](../../../../20-Factions/circle-of-the-inner-grove/people/elder-elion.md) circle calls choking vines from beneath the Tanneries' curing-vat block; three vats split, a year of tannic poison spills into the Outer City gutters, the Tanneries are operationally dead for at least a week. See [Druid activity](../../../../20-Factions/circle-of-the-inner-grove/activity/week_6/the-source-of-the-rot.md).
+- **The Cleaver's defense fails.** [Goodman Borlu](../../../../20-Factions/wc-butchers-tanners/people/borlu.md) arms his butchers with cleavers and torches; two journeymen and one apprentice are lost to the vines and a fall; Borlu swears blood vengeance. See [Butchers activity](../../../../20-Factions/wc-butchers-tanners/activity/week_6/the-tannery-defense.md).
+
+### Wyrm's Crossing
+
+- **The K'liir psionic sweep.** [Commander K'laar](../../../../20-Factions/unchained/people/k-laar.md) reads [the Hands of the Absolute's botched Heapside ritual](../../../../20-Factions/hands-of-the-absolute/activity/week_6/the-silent-scream.md) as enemy intrusion; githyanki patrols forcibly mind-scan citizens at Wyrm's Crossing for the originating signature. Locals come away nauseous and frightened. See [Unchained activity](../../../../20-Factions/unchained/activity/week_6/the-psionic-sweep.md).
+- **The Desperate Run intercepted.** [Factor Errinthal's](../../../../20-Factions/chionthar-consortium/people/factor-errinthal.md) hired-smuggler shipment past the Amnian blockade is intercepted between Wyrm's Crossing and the Lower City quays; cargo lost, one boatswain drowned. See [Chionthar activity](../../../../20-Factions/chionthar-consortium/activity/week_6/the-desperate-run.md).
+
+### Sow & Piglet (Outer City)
+
+- **The Plague's false-flag riot.** [Lady Vhage's](../../../../20-Factions/plague-of-remembrance/people/emmeline-vhage.md) paid Eastway thugs in counterfeit Phoenix-refugee colors stage a violent attack on the Sow & Piglet; the Baldur's Mouth runs the staged story on page three; the Outer City demands a Fist crackdown on "violent" refugees. See [Plague activity](../../../../20-Factions/plague-of-remembrance/activity/week_6/the-false-flag.md).
+
+### Trade Way (rural approach)
+
+- **Harper sabotage on a Sembian steel shipment.** [Randal Evenwood's](../../../../20-Factions/harpers/people/randal-evenwood.md) team swaps wagon-axle grease for slow-burn alchemist's fire; two of three carts burn to their iron frames before reaching the Eastway barracks. See [Harpers activity](../../../../20-Factions/harpers/activity/week_6/the-supply-sabotage.md).
+
+### Tumbledown and Floodway
+
+- **Ettvard Needle missing.** Following [the ransacking of the Baldur's Mouth print shop](../../../../50-Sessions/session_27/player_summary.md), a hidden note in the wreckage hints Ettvard has fled to the dark crypts under Tumbledown on the western bank of [Dusthawk Hill](../lower-city/heapside.md). See [party activity](../../../../20-Factions/party/activity/week_6/split-leads-after-the-counting-house.md).
+
 ## See also
 
 - [README.md](README.md) — Outer City overview.

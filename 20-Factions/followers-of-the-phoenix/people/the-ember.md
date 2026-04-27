@@ -28,10 +28,13 @@ The Ember's certainty is an act of will. In private, Alfira is still terrified o
 ## Recent events
 
 - Survived an assassination attempt by a **Reaper** of the [Takers of the Tithe](../../takers-of-the-tithe/summary.md); preached a "Survivor's Sermon" that drew an even larger crowd.
-- Resting at the Weary Plowman during a "Saint's Respite"; the faithful have doubled construction efforts on the temple in her absence.
+- [Laid the Foundation Stone of the new Phoenix Temple at the Phoenix Gate](../activity/week_6/the-foundation-stone.md). The crowd is now incendiary — followers tell visitors they are *"ready to start fires"*. Alfira knows. She is keeping construction slow on purpose.
+- **Abducted by [Singa's Takers cell from the High Rider's Stand](../../takers-of-the-tithe/activity/week_6/the-prison-silence.md)** — taken to the Counting House sanctum atop [Dusthawk Hill](../../../30-Places/sword-coast/baldurs-gate/lower-city/heapside.md), suspended over an obsidian pit, name being scratched into the Tithe Ledger as "The Bard." [Rescued and resurrected by the party](../../party/activity/week_6/storm-dusthawk-hill.md) at session-26 dawn.
+- Resting at the Weary Plowman during a "Saint's Respite"; the faithful have doubled construction efforts on the temple in her absence ([Jaredith now overseeing the build](../../hellriders-of-new-elturel/people/jaredith-heartsong.md)).
 - Magically amplified Jaredith's song, peacefully ending the [Wyrm's Crossing](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) protest.
 - Negotiated political representation and land for the cult — a transition from sect to recognized power bloc.
 - Spiritually marked after a Bhaalist "audit" — possibly a beacon for further Bhaalist cells, possibly granting strange insights.
+- **Owes the party a great personal debt.** First time Alfira-the-person has said this aloud; the persona of The Ember did not.
 
 ## See also
 

@@ -7,4 +7,4 @@ The city's broadsheet, edited by Ettvard Needle; for-hire front-page coverage.
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: ettvard-needle, kaelan, the-interim-management-board.
 - [associations/](associations/) — Items, holdings, vehicles (credential-of-balduran, heapside-print-shop).
-- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3, week_4, week_5).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3, week_4, week_5, week_6).

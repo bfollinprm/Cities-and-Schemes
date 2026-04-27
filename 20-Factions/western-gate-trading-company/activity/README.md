@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — the-private-option.
 - [week_4/](week_4/) — the-barracks-requisition.
 - [week_5/](week_5/) — choke-the-supply-lines.
+- [week_6/](week_6/) — the-starvation-siege.

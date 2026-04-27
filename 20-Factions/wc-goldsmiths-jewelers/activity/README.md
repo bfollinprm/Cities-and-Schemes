@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — follow-the-money.
 - [week_4/](week_4/) — a-quiet-bounty.
 - [week_5/](week_5/) — chasing-ghosts.
+- [week_6/](week_6/) — the-gold-standard.

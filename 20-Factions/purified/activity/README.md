@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_3/](week_3/) — analyze-the-cure.
 - [week_4/](week_4/) — the-scapegoats-secret.
 - [week_5/](week_5/) — the-cogwork-detector.
+- [week_6/](week_6/) — the-water-watch.
