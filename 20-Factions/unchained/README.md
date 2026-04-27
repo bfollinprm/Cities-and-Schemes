@@ -5,3 +5,4 @@ Githyanki exiles loyal to Prince Orpheus, training in the Outer City for war aga
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: k-laar.

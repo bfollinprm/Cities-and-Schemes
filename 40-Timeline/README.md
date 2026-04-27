@@ -7,4 +7,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-week layout.
 ## Index
 
 - [calendar.md](calendar.md) — week 0 anchor and DR date conventions.
-- [history.md](history.md) — pre-week-0 dated events (founding through 1502 DR present-day anchor).
+- [history.md](history.md) — pre-week-0 dated events; one entry per event.

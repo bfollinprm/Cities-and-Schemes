@@ -6,4 +6,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the geographic layout and depth conve
 
 ## Index
 
-- [sword-coast/](sword-coast/README.md) — the western coast region; Baldur's Gate and the Hansa-aligned cities.
+### Regions
+
+- [sword-coast/](sword-coast/README.md) — Western Faerûn from Waterdeep south to the Cloud Peaks; Lords' Alliance core, Hansa-aligned cities, the Sea of Swords.

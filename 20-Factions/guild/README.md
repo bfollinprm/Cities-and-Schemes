@@ -5,3 +5,4 @@ Sophisticated criminal syndicate evolved into the de facto government of the com
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: astele-keene.

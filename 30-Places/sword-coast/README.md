@@ -1,21 +1,28 @@
 ---
 name: sword-coast
-description: Region index — the western coast of Faerûn from Waterdeep to Calimshan, anchored on Baldur's Gate.
+description: The Sword Coast region — Waterdeep, Baldur's Gate, the Sea of Swords, and the lands between.
+type: region
 ---
 
 # Sword Coast
 
-The stretch of western Faerûn from Waterdeep down past Baldur's Gate toward Amn and Calimshan, plus the Sea of Swords and the inland Western Heartlands. In 1502 DR, Baldur's Gate is the region's commercial hub, the head of the informal **Sword Coast Hansa**.
+The western coast of Faerûn from Waterdeep south past Baldur's Gate to the Cloud Peaks, framed seaward by the **Sea of Swords**. Two political facts dominate the region: the **Lords' Alliance**, chaired from Waterdeep, and the informal **Sword Coast Hansa**, anchored on Baldur's Gate. The space between them — Daggerford, Beregost, the Western Heartlands — is where their interests overlap, compete, and trade.
 
 ## Index
 
-- [polities.md](polities.md) — short index of the region's governing bodies and trade alliances; the Hansa framework lives in [10-Setting/polities/sword-coast-hansa.md](../../10-Setting/polities/sword-coast-hansa.md).
-- [demographics.md](demographics.md) — regional ancestry and movement patterns at the cross-city scale.
-- [baldurs-gate/](baldurs-gate/README.md) — the city itself; Upper / Lower / Outer / Undercity wards.
+### Cities
+
+- [baldurs-gate/](baldurs-gate/README.md) — the Phoenix on the Chionthar; Hansa head, plutocratic, ten years past the Absolute Crisis.
+- [waterdeep/](waterdeep/README.md) — Crown of the North, City of Splendors. Secretive oligarchy and de facto capital of the Lords' Alliance.
+
+### Region-scope files
+
+- [polities.md](polities.md) — short index of regional governing bodies and trade alliances; framework prose lives in [10-Setting/polities/](../../10-Setting/polities/).
+- [demographics.md](demographics.md) — regional ancestry and post-crisis migration patterns.
 
 ## Neighbors and adjacent dossiers
 
-- North: Waterdeep (#21 forthcoming) and the Sword Coast North.
-- South: Amn (Athkatla), Calimshan, and the Sembian-influenced trade corridor.
+- South: Amn (Athkatla), Calimshan, the Sembian-influenced trade corridor.
 - West: Sea of Swords (#20 forthcoming).
 - East: Hinterlands of Baldur's Gate (#23 forthcoming) — Beregost, Nashkel, Boareskyr Bridge, the Wood of Sharp Teeth.
+- North: Sword Coast North; Neverwinter, Luskan, Icewind Dale.

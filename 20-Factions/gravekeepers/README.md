@@ -5,3 +5,4 @@ Undead-cleansing cult under Hemlock, warding the city's graveyards against psych
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: hemlock.
