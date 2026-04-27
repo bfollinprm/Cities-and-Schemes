@@ -11,7 +11,7 @@ A massive purse collected from [Patriar Heritage Society](../summary.md) familie
 
 - Heritage Society families — Durinbold first, with contributions documented from [Jannath](../../peerage-of-blood/associations/house-jannath.md), Oberon, and (before the foreclosure) [Hlath](../../peerage-of-blood/associations/house-hlath.md).
 - Loaned in **silver**, not gold, to keep individual bribes deniable as drinking-pay or family-day bonuses rather than overt patronage.
-- Distributed at [**The Elfsong Tavern**](../../../30-Places/sword-coast/baldurs-gate/lower-city/elfsong.md), where Fist officers congregate off-duty — the venue is the cover.
+- Distributed at **The [Elfsong Tavern](../../../30-Places/sword-coast/baldurs-gate/lower-city/elfsong-tavern.md)**, where Fist officers congregate off-duty — the venue is the cover.
 
 ## What it has bought
 

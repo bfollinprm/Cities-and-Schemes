@@ -26,7 +26,13 @@ Staffed entirely by Amnian nationals and led by Consul Vorlamin Athar. The encla
 
 **Enemies.** Quiet financial warfare with the rival Kontors — [Waterdhavian](../waterdhavian-kontor/summary.md), [Sembian](../sembian-kontor/summary.md), [Lantaner](../lantaner-concession/summary.md) — and with the local [Chionthar Consortium](../chionthar-consortium/summary.md) and [Western Gate Trading Company](../western-gate-trading-company/summary.md), who resent their reach.
 
+## At Sword Coast scale
+
+The Kontor is **Amn's beachhead in Baldur's Gate**, not the empire itself. The home polity — capital **Athkatla**, ruled by the Council of Six — is treated as setting matter in [10-Setting/polities/calimshan-amn.md](../../10-Setting/polities/calimshan-amn.md); the Sword-Coast-wide picture is in [00-Campaign-Frame/multipolar-coast.md](../../00-Campaign-Frame/multipolar-coast.md). Amn also occupies **Snowdown** in the Moonshaes (garrison; viceroy; tariff-rigorous quayside) and quietly issues letters of marque to Nelanther captains against Waterdhavian shipping — see [30-Places/sword-coast/moonshae-isles.md](../../30-Places/sword-coast/moonshae-isles.md) and [30-Places/sword-coast/nelanther-isles.md](../../30-Places/sword-coast/nelanther-isles.md).
+
 ## See also
 
 - [Consul Vorlamin Athar](people/vorlamin-athar.md) — leader.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Kantors); cleaned prose in `.context/attachments/pasted_text_2026-04-26_23-30-55.txt`.
+- [10-Setting/polities/calimshan-amn.md](../../10-Setting/polities/calimshan-amn.md) — the Amn polity at home and on the southern Sword Coast.
+- [30-Places/sword-coast/athkatla/](../../30-Places/sword-coast/athkatla/README.md) — anchor for the home capital.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Kantors); `.context/converted/dossier-sea-of-swords.md` (Snowdown, Trade Routes); cleaned prose in `.context/attachments/pasted_text_2026-04-26_23-30-55.txt`.

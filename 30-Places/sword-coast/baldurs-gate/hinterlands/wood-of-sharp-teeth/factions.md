@@ -9,7 +9,7 @@ Most of the hinterland's powers actively avoid the Wood of Sharp Teeth. Those wh
 
 | Faction | Role |
 | --- | --- |
-| [Western Gate Trading Company](../../../../../20-Factions/western-gate-trading-company/summary.md) | Clear-cut the Whisperwood Copse at the wood's edge under their new hinterland charter; will likely return for more. |
+| [Western Gate Trading Company](../../../../../20-Factions/western-gate-trading-company/summary.md) | Clear-cut the [Whisperwood Copse](../whisperwood-copse.md) at the wood's edge under their new hinterland charter; will likely return for more. |
 | [Circle of the Inner Grove](../../../../../20-Factions/circle-of-the-inner-grove/summary.md) | Treats the Whisperwood clear-cut as an act of war; any Western Gate presence here is a reprisal target. |
 | Hag coven | Named in the dossier as residing in the wood's heart. Not a `20-Factions/` entry. |
 | Mad-goblin tribe | Named in the dossier; psychically warped. Not a `20-Factions/` entry. |

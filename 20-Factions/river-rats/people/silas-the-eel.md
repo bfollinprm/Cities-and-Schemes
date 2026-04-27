@@ -1,6 +1,6 @@
 ---
 name: silas-the-eel
-description: Leader of the River-Rats sewer-and-river smuggling crew; a Guild Lieutenant's specialist for moving contraband under Wyrm's Crossing.
+description: Leader of the River-Rats sewer-and-river smuggling crew; a Guild Lieutenant's specialist for moving contraband under [Wyrm's Crossing](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md).
 ---
 
 # Silas "the Eel"
@@ -17,9 +17,9 @@ Silas reports to one of Nine-Fingers Keene's **Sachems** (the district Lieutenan
 
 ## Current pressures
 
-- **New Brampton cache.** Silas's crew just secured a defensible sewer nexus beneath the Brampton district to serve as a hidden cache, deliberately bypassing the increased Flaming Fist patrols on Wyrm's Crossing.
+- **New Brampton cache.** Silas's crew just secured a defensible sewer nexus beneath the Brampton district to serve as a hidden cache, deliberately bypassing the increased Flaming Fist patrols on [Wyrm's Crossing](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md).
 - **The patriar's-son disaster.** A tipped-off Flaming Fist patrol ambushed his smugglers in the Undercity tunnels; the patriar's son was captured. Silas escaped. The scandal has shaken his reputation with patriar clientele.
-- **The Undercellar ghouls.** A run for a powerful patriar's wine shipment took the Rats too close to a nexus of undead activity. Half the crew was lost; the shipment was abandoned. Silas now owes the patron a favor he cannot easily repay.
+- **The [Undercellar](../../../30-Places/sword-coast/baldurs-gate/undercity/the-undercellar.md) ghouls.** A run for a powerful patriar's wine shipment took the Rats too close to a nexus of undead activity. Half the crew was lost; the shipment was abandoned. Silas now owes the patron a favor he cannot easily repay.
 - **The Blockade Boom.** Exploiting the Flaming Fist's distraction with city politics, Silas successfully moved a major contraband shipment up the Chionthar, netting the Guild a huge profit and partially restoring his standing.
 - **Burned Harper documents.** A favor for [The Nightingale](../../harpers/people/the-nightingale.md): smuggling Harper documents through the Undercity. He stumbled into a heightened Flaming Fist patrol and ditched the documents in a drainage sluice rather than be captured. The Harpers' intelligence is lost.
 

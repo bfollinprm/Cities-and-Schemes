@@ -19,12 +19,12 @@ The city's most skilled alchemists, apothecaries, and (off the books) poisoners.
 
 - Sets prices on every legal potion and antitoxin in the city, and is the only legal purveyor of most of them.
 - Industrial espionage to steal formulas from rivals — and brutal protection of its own.
-- Following a minor Sewer Plague outbreak in the Lower City, the **Court of Assistants voted to triple antitoxin prices**, citing reagent scarcity. The move was naked price-gouging; an adventuring party bypassed the guild entirely by routing supplies from a [Chionthar Consortium](../chionthar-consortium/summary.md) warehouse to the Open Hand Temple, earning Droog's private fury.
+- Following a minor Sewer Plague outbreak in the [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md), the **Court of Assistants voted to triple antitoxin prices**, citing reagent scarcity. The move was naked price-gouging; an adventuring party bypassed the guild entirely by routing supplies from a [Chionthar Consortium](../chionthar-consortium/summary.md) warehouse to the [Open Hand Temple](../../30-Places/sword-coast/baldurs-gate/outer-city/open-hand-temple.md), earning Droog's private fury.
 - After dangerous reagents were stolen from the guild's own stores, Droog publicly accused a fired apprentice of the theft and posted a bounty — a convenient scapegoat. The framed apprentice has now opened back-channel negotiations with [the Guild](../guild/summary.md), offering three valuable potion formulas in exchange for safe passage.
 
 ## Hooks and Relationships
 
-**Enemies.** Legendary cold war with the un-chartered **Poisoners' Guild**, which operates as the Company's illegal black-market mirror. Distrust from the city's temples — particularly the Open Hand — who see the Alchemists as amoral profiteers. Hostile gaze from [The Purified](../purified/summary.md), whose conspiracy theory holds that the Alchemists secretly supply chemical binders for Lantaner nano-cogs. The current apprentice scandal threatens to put guild secrets directly in [the Guild](../guild/summary.md)'s hands, a potentially catastrophic leak.
+**Enemies.** Legendary cold war with the un-chartered [Poisoners' Guild](../poisoners-guild/summary.md), which operates as the Company's illegal black-market mirror. Distrust from the city's temples — particularly the Open Hand — who see the Alchemists as amoral profiteers. Hostile gaze from [The Purified](../purified/summary.md), whose conspiracy theory holds that the Alchemists secretly supply chemical binders for Lantaner nano-cogs. The current apprentice scandal threatens to put guild secrets directly in [the Guild](../guild/summary.md)'s hands, a potentially catastrophic leak.
 
 ## See also
 

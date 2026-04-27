@@ -5,7 +5,7 @@ description: Master of the Sorcerous Sodality; licenses every legal spellcaster 
 
 # Master Lorroakan
 
-Master of the [Sorcerous Sodality](../summary.md) (or his current successor), operating from the tower of **Sorcerous Sundries**. He holds the charter granted in the wake of the Absolute Crisis to license every public spellcaster operating in Baldur's Gate.
+Master of the [Sorcerous Sodality](../summary.md) (or his current successor), operating from the tower of **[Sorcerous Sundries](../../../30-Places/sword-coast/baldurs-gate/lower-city/sorcerous-sundries.md)**. He holds the charter granted in the wake of the Absolute Crisis to license every public spellcaster operating in Baldur's Gate.
 
 ## Manifesto
 
@@ -18,7 +18,7 @@ The Sodality's charter was a direct response to the Absolute Crisis — a civic 
 His current operations:
 
 - **Routine licensing raids** clear out hedge wizards and unlicensed shops; a Bloomridge raid recently confiscated a "love-potion peddler"'s spellbook with a heavy fine.
-- An **active investigation** into powerful unlicensed magic at a ruined watchtower has produced an open case file on the fugitive mage [**Zora**](zora.md). The arcane trail dissipated near the Phoenix Pits in New Elturel; Lorroakan responded by installing **permanent scrying censers** at Wyrm's Crossing and the Basilisk Gate to catch significant arcane activity at the checkpoints.
+- An **active investigation** into powerful unlicensed magic at a ruined watchtower has produced an open case file on the fugitive mage [**Zora**](zora.md). The arcane trail dissipated near the [Phoenix Pits](../../../30-Places/sword-coast/baldurs-gate/outer-city/phoenix-pits.md) in New Elturel; Lorroakan responded by installing **permanent scrying censers** at [Wyrm's Crossing](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) and the Basilisk Gate to catch significant arcane activity at the checkpoints.
 - A **scrying ritual on Lord Corin Durinbold** of the [Peerage of Blood](../../peerage-of-blood/summary.md) is in progress, intended to produce political leverage against the traditionalist bloc. If exposed, the operation would create a major scandal; Lorroakan has decided the parliamentary stakes justify the risk.
 
 He keeps the **Sorcerous Vault** beneath his tower closely guarded, and is openly suspicious of every warlock-pact arrangement in the city — including the one binding [the Unveiled](../../unveiled/summary.md).

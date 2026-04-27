@@ -9,7 +9,7 @@ A clandestine cell of cultural zealots who believe a coalition of foreign powers
 
 ## Ideology
 
-There is a form of magic no one talks about, the Society holds: "memetic warfare." The unique, stubborn spirit of Baldur's Gate is itself a kind of psychic entity, and foreign powers are trying to kill it. Clashing architectural styles aren't merely ugly; they are "sigils of chaos" disrupting the city's harmony. The Elfsong Tavern's lament is not a haunting but a "sonic plague" instilling subconscious sadness. The extraplanar [Carnival of Whispers](../carnival-of-whispers/summary.md) is a beachhead for thought-forms from other realities. The goal of the conspiracy: make Baldurians forget who they are so they become placid consumers for foreign goods and ideas.
+There is a form of magic no one talks about, the Society holds: "memetic warfare." The unique, stubborn spirit of Baldur's Gate is itself a kind of psychic entity, and foreign powers are trying to kill it. Clashing architectural styles aren't merely ugly; they are "sigils of chaos" disrupting the city's harmony. The [Elfsong Tavern](../../30-Places/sword-coast/baldurs-gate/lower-city/elfsong-tavern.md)'s lament is not a haunting but a "sonic plague" instilling subconscious sadness. The extraplanar [Carnival of Whispers](../carnival-of-whispers/summary.md) is a beachhead for thought-forms from other realities. The goal of the conspiracy: make Baldurians forget who they are so they become placid consumers for foreign goods and ideas.
 
 ## Membership
 
@@ -30,7 +30,7 @@ Disgruntled local artists, fiercely nativist patriars from the [Patriar Heritage
 
 **Suspected agents.** The [Harpers](../harpers/summary.md), whom Calliope believes are the conspiracy's covert operatives.
 
-**Targets.** The [Carnival of Whispers](../carnival-of-whispers/summary.md) (treated as an extraplanar invasion), any non-Baldurian artist, and the Elfsong Tavern itself.
+**Targets.** The [Carnival of Whispers](../carnival-of-whispers/summary.md) (treated as an extraplanar invasion), any non-Baldurian artist, and the [Elfsong Tavern](../../30-Places/sword-coast/baldurs-gate/lower-city/elfsong-tavern.md) itself.
 
 **Captured followers.** Several members are now in Heapside Prison after the failed barracks raid; Calliope has visited under cover, instructing them to claim they were drunken vandals paid by a merchant.
 

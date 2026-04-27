@@ -19,7 +19,7 @@ In her reading:
 
 ## Backstory
 
-Xylia was a common merchant from the city's outskirts. Her family was killed in the initial panic of the Absolute Crisis. Hiding for weeks in the sewers, she witnessed things that didn't add up:
+Xylia was a common merchant from the city's outskirts. Her family was killed in the initial panic of the [Absolute Crisis](../../../10-Setting/history/absolute-crisis.md). Hiding for weeks in the sewers, she witnessed things that didn't add up:
 
 - "Citizens" who moved with unsettling coordination.
 - "Cultists" whose bodies dissolved into grey goo when unobserved.

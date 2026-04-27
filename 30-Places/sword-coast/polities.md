@@ -10,7 +10,7 @@ Index only — analytical content lives in [10-Setting/polities/](../../10-Setti
 ## Trade alliances
 
 - **Sword Coast Hansa** — informal, Baldur's-Gate-centric trading bloc binding mercantile cities and towns through standardized tariffs, shared commercial law, and mutual defense pacts. See [10-Setting/polities/sword-coast-hansa.md](../../10-Setting/polities/sword-coast-hansa.md).
-- **Lords' Alliance** — formal, Waterdeep-led mutual-defense pact; reaches the Gate via the Waterdhavian Kontor. Out-of-scope for this dossier.
+- [Lords' Alliance](../../10-Setting/polities/lords-alliance.md) — formal, Waterdeep-led mutual-defense pact; reaches the Gate via the [Waterdhavian Kontor](../../20-Factions/waterdhavian-kontor/summary.md).
 
 ## Major cities and towns
 

@@ -36,7 +36,7 @@ Life is a debt to death; murder is the audit. The cult holds that Bhaal's resurr
 
 **Operational allies.** The [Takers of the Tithe](../takers-of-the-tithe/summary.md) and Singa's faction of the [Plague of Remembrance](../plague-of-remembrance/summary.md). Internal factionalism among Bhaal, Myrkul, and Bane is the cult's greatest weakness.
 
-**High-profile abduction.** Editor Ettvard Needle of the [Baldur's Mouth](../baldurs-mouth/summary.md) was held in **Hamhock's Vault** by a Bhaalist cell ("**The Keeper**") as part of a silencing ritual.
+**High-profile abduction.** Editor Ettvard Needle of the [Baldur's Mouth](../baldurs-mouth/summary.md) was held in **[Hamhock's Vault](../../30-Places/sword-coast/baldurs-gate/undercity/hamhocks-vault.md)** by a Bhaalist cell ("**The Keeper**") as part of a silencing ritual.
 
 ## See also
 

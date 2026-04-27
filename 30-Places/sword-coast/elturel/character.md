@@ -17,7 +17,7 @@ Survivors who have stayed are *scarred*. Most lost family in the descent or the 
 
 ## The Hellriders
 
-Decimated, demoralized, faith shaken. The dossier is direct: the order is "a shadow of its former selves." The Hellriders left in Elturel proper struggle to maintain order in a city teetering on chaos and to manage the slow trickle of refugees coming back from Baldur's Gate. Their counterparts in New Elturel (in the Baldur's Gate Outer City) are organized politically but militarily thin.
+Decimated, demoralized, faith shaken. The dossier is direct: the order is "a shadow of its former selves." The Hellriders left in Elturel proper struggle to maintain order in a city teetering on chaos and to manage the slow trickle of refugees coming back from Baldur's Gate. Their counterparts in New Elturel (in the Baldur's Gate [Outer City](../baldurs-gate/outer-city/README.md)) are organized politically but militarily thin.
 
 ## The cult problem
 

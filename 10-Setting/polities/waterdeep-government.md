@@ -6,7 +6,7 @@ type: polity
 
 # Waterdeep — Government (1502 DR)
 
-A **secretive oligarchy** designed by [Ahghairon](../../20-Factions/masked-lords/people/ahghairon.md) to prevent tyranny by vesting power in an anonymous council. The recent decade cracked the system without breaking it. Waterdeep remains the de facto capital of the **Lords' Alliance**.
+A **secretive oligarchy** designed by [Ahghairon](../../20-Factions/masked-lords/people/ahghairon.md) to prevent tyranny by vesting power in an anonymous council. The recent decade cracked the system without breaking it. Waterdeep remains the de facto capital of the [Lords' Alliance](lords-alliance.md).
 
 ## The Open Lord
 
@@ -16,7 +16,7 @@ Single public-facing executive, currently the archmage **[Laeral Silverhand](../
 
 A [council](../../20-Factions/masked-lords/summary.md) of **at least a dozen** rulers in total anonymity, identities hidden by magical helms and robes disguising voice, build, and gender. Hold legislative and judicial authority; appoint the **Magisters** who interpret and enforce city law. The 1491 DR plot — in which a Masked Lord assassinated several colleagues from inside the council — proved the system can shield treason as readily as justice. The reformist **Open Rulers** demand transparency; the traditionalist **Ahghaironians** insist anonymity is the safeguard. This is the city's deepest political fracture.
 
-Two Masked Lords are presently compromised — **[Corylus Thann](../../20-Factions/masked-lords/people/corylus-thann.md)** and **[Jelenn Urmbrusk](../../20-Factions/masked-lords/people/jelenn-urmbrusk.md)** — both blackmailed by [Manshoon's](../../20-Factions/zhentarim/people/manshoon.md) Zhentarim.
+Two Masked Lords are presently compromised — **[Corylus Thann](../../20-Factions/masked-lords/people/corylus-thann.md)** and **[Jelenn Urmbrusk](../../20-Factions/masked-lords/people/jelenn-urmbrusk.md)** — both blackmailed by [Manshoon's](../../20-Factions/zhentarim/people/manshoon.md) [Zhentarim](../../20-Factions/zhentarim/summary.md).
 
 ## The Blackstaff and Force Grey
 
@@ -32,4 +32,4 @@ The Lords share the field with two other blocs: the **eighty-five noble houses**
 
 ## Faction color (not yet first-class)
 
-Waterdeep-only factions absent from `faction-quests.xlsx`, kept as color until the campaign promotes one: **[Xanathar's Guild](../../20-Factions/xanathar-guild/summary.md)** (beholder-led criminal empire under the city, with a mind-flayer / intellect-devourer spy network), **Bregan D'aerthe** (Jarlaxle Baenre's drow company, fronting as the Sea Maidens Faire), and **[House Cassalanter](../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md)** (Throne-tier noble house, secret [Asmodean](../cosmology/deities/asmodeus.md) cult). They drive the [Shadow War](../../30-Places/sword-coast/waterdeep/character.md).
+Waterdeep-only factions absent from `faction-quests.xlsx`, kept as color until the campaign promotes one: [Xanathar's Guild](../../20-Factions/xanathars-guild/summary.md) (beholder-led criminal empire under the city, with a mind-flayer / intellect-devourer spy network), **Bregan D'aerthe** (Jarlaxle Baenre's drow company, fronting as the Sea Maidens Faire), and **[House Cassalanter](../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md)** (Throne-tier noble house, secret [Asmodean](../cosmology/deities/asmodeus.md) cult). They drive the [Shadow War](../../30-Places/sword-coast/waterdeep/character.md).

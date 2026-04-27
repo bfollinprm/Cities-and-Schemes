@@ -12,7 +12,7 @@ The megadungeon beneath Waterdeep. Levels stack downward indefinitely; the deepe
 
 The primary entrance is the **Yawning Portal** — the inn over the well, in [Castle Ward](castle-ward/character.md). Patrons pay to be lowered down the well; survivors pay for ale on the way back. Most do not return.
 
-Other access points exist deeper in the [Dock Ward](dock-ward/character.md) cellars and through the **Undercity**, but those connect Undermountain to the [Xanathar Guild's](../../../20-Factions/xanathar-guild/summary.md) Skullport pipeline rather than to legitimate adventuring traffic.
+Other access points exist deeper in the [Dock Ward](dock-ward/character.md) cellars and through the **Undercity**, but those connect Undermountain to the [Xanathar Guild's](../../../20-Factions/xanathars-guild/summary.md) Skullport pipeline rather than to legitimate adventuring traffic.
 
 ## Why it matters to the surface city
 

@@ -5,11 +5,11 @@ description: The cauldron of commerce — chaotic, opportunity-thick, jurisdicti
 
 # Character
 
-The Lower City is the true heart of Baldur's Gate — a chaotic, energetic, and dangerous crescent. Crime is rampant, but so is opportunity. Every block is a different deal in a different language with a different guild seal on the contract.
+The [Lower City](README.md) is the true heart of Baldur's Gate — a chaotic, energetic, and dangerous crescent. Crime is rampant, but so is opportunity. Every block is a different deal in a different language with a different guild seal on the contract.
 
 ## What you notice
 
-Slate roofs in tight rows; bridges and buttresses propping up tenements that lean on each other. Tar, salt, and fish from the harbor; smoke from forges and kitchens; ink and parchment from countinghouses. Lamplighters mark the bells at dusk. The Old Wall looms uphill; the Gray Harbour glints below.
+Slate roofs in tight rows; bridges and buttresses propping up tenements that lean on each other. Tar, salt, and fish from the harbor; smoke from forges and kitchens; ink and parchment from countinghouses. Lamplighters mark the bells at dusk. The Old Wall looms uphill; the [Gray Harbour](gray-harbour.md) glints below.
 
 ## Mood
 
@@ -19,7 +19,7 @@ Pragmatic and loud. People remember faces and forget names on purpose. A handsha
 
 A street brawl can cross four jurisdictions in a hundred feet:
 
-- **Flaming Fist** — gates, walls, customs, and (badly) the Lower City patrols.
+- **Flaming Fist** — gates, walls, customs, and (badly) the [Lower City](README.md) patrols.
 - **Worshipful Company Wardens** — chartered to police their own membership, anywhere in the city.
 - **Kontor guards** — sovereign within their walled enclaves; extraterritorial.
 - **Guild Ward Bosses** — actual day-to-day arbitration in the tenements and back lanes.

@@ -8,7 +8,7 @@ type: city-neighbors
 
 ## Lords' Alliance interior
 
-Waterdeep is the **de facto capital** of the Lords' Alliance and chairs it through the Open Lord. The Alliance is a confederation of northern powers — diplomacy, trade agreements, mutual defense. Membership matters: it is the difference between being inside the system that runs the North and being outside it.
+Waterdeep is the **de facto capital** of the [Lords' Alliance](../../../10-Setting/polities/lords-alliance.md) and chairs it through the Open Lord. The Alliance is a confederation of northern powers — diplomacy, trade agreements, mutual defense. Membership matters: it is the difference between being inside the system that runs the North and being outside it.
 
 Recent move: [Laeral](../../../20-Factions/masked-lords/people/laeral-silverhand.md) has begun **constructing a new line of forts along the High Road**, a project intended to quell banditry and project Waterdhavian military power beyond the walls for the first time in years. Read this as a shift from internal preoccupation to renewed Alliance-wide projection.
 
@@ -23,7 +23,7 @@ Baldur's Gate is not in the Lords' Alliance. The Splendid Yard ([Waterdhavian Ko
 
 ## Luskan — the Jarlaxle play
 
-Currently outside the Alliance and notorious for piracy and lawlessness. **Jarlaxle Baenre's** ambition is to recover the Vault of Dragons gold and use it to buy [Luskan](../luskan.md) a legitimate Lords' Alliance seat — which would re-balance the North's voting bloc against rivals like Lord [Neverember](../../../20-Factions/masked-lords/people/dagult-neverember.md) of **Neverwinter**. Whether the Alliance accepts is an open political question; Laeral has not committed.
+Currently outside the Alliance and notorious for piracy and lawlessness. **Jarlaxle Baenre's** ambition is to recover the [Vault of Dragons](vault-of-dragons.md) gold and use it to buy [Luskan](../luskan/README.md) a legitimate Lords' Alliance seat — which would re-balance the North's voting bloc against rivals like Lord [Neverember](../../../20-Factions/masked-lords/people/dagult-neverember.md) of **Neverwinter**. Whether the Alliance accepts is an open political question; Laeral has not committed.
 
 ## Neverwinter — the Neverember problem
 
@@ -35,5 +35,5 @@ For the regional fabric — sea lanes, polities outside the Alliance, demographi
 
 ## See also
 
-- [factions.md](factions.md) — the Splendid Yard / Harpers / Bregan D'aerthe roles in this geography.
+- [factions.md](factions.md) — the [Splendid Yard](../../../20-Factions/waterdhavian-kontor/summary.md) / Harpers / Bregan D'aerthe roles in this geography.
 - [character.md](character.md) — how the artisan drain feels in the Trades Ward.

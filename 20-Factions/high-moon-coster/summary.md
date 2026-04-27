@@ -13,19 +13,19 @@ A small bet on every promising adventuring party in the city is cheaper than reb
 
 ## Membership
 
-The **Oberon family**, operating from a remaining manor in the Upper City. They keep contact with the Lower City through fixers at the **Blushing Mermaid**, where prospective adventurers are auditioned over drinks.
+The **Oberon family**, operating from a remaining manor in the [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md). They keep contact with the [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) through fixers at the **[Blushing Mermaid](../../30-Places/sword-coast/baldurs-gate/lower-city/blushing-mermaid.md)**, where prospective adventurers are auditioned over drinks.
 
 ## Methods
 
 - **Sponsor an Adventuring Party.** The Oberons recently scraped together coin for a fledgling party to explore a rumored ruin in the **Cloakwood**, hoping for a rare artifact that could restore a sliver of the family's lost fortune.
-- **Failed sponsorship of the city's newest celebrity adventurers.** An attempt to retain the latest hot Lower City party (likely the [PCs](../party/summary.md)) at the Blushing Mermaid was rebuffed — explicitly because *"the party's newfound (and mysterious) wealth is becoming common knowledge"* per dm-notes. The Oberons' offer was deemed insufficient given the party's apparent means; the rejection is a piece of *intelligence about the PCs' reputation*, not just a price disagreement. The family is now hunting for either a richer offer or a quieter, less-courted party.
+- **Failed sponsorship of the city's newest celebrity adventurers.** An attempt to retain the latest hot [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) party (likely the [PCs](../party/summary.md)) at the [Blushing Mermaid](../../30-Places/sword-coast/baldurs-gate/lower-city/blushing-mermaid.md) was rebuffed — explicitly because *"the party's newfound (and mysterious) wealth is becoming common knowledge"* per dm-notes. The Oberons' offer was deemed insufficient given the party's apparent means; the rejection is a piece of *intelligence about the PCs' reputation*, not just a price disagreement. The family is now hunting for either a richer offer or a quieter, less-courted party.
 - **Manor as backstop.** Like the Jhassos, the Oberons increasingly fund expeditions against family heirlooms and the slow leakage of the manor's contents.
 
 ## Hooks and Relationships
 
 **Sister costers.** [Iron Throne](../iron-throne/summary.md), [Seven Suns](../seven-suns/summary.md) — fellow remnants. The Oberons sometimes pool contacts with the Jhassos for southern jobs.
 
-**Patrons of the party (rejected).** The High Moon Coster has already approached and been rebuffed by the [PCs](../party/summary.md) at the Blushing Mermaid. They may approach again with a sweeter percentage, or they may be the patron of a *rival* fledgling party the PCs cross paths with in the Cloakwood.
+**Patrons of the party (rejected).** The High Moon Coster has already approached and been rebuffed by the [PCs](../party/summary.md) at the [Blushing Mermaid](../../30-Places/sword-coast/baldurs-gate/lower-city/blushing-mermaid.md). They may approach again with a sweeter percentage, or they may be the patron of a *rival* fledgling party the PCs cross paths with in the Cloakwood.
 
 **Peerage of Blood.** As one of the named patriar houses (Durinbold, [Jannath](../peerage-of-blood/associations/house-jannath.md), [Hlath](../peerage-of-blood/associations/house-hlath.md), **Oberon**) the family retains a hereditary seat in the [Peerage of Blood](../peerage-of-blood/summary.md) and votes with the [Patriar Heritage Society](../patriar-heritage-society/summary.md) bloc — even if the Oberons have lately been too cash-strapped to attend galas.
 

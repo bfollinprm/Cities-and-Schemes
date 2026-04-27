@@ -18,7 +18,7 @@ A plane *outside* the known cosmology — neither Material, Feywild, Shadowfell,
 
 After the [Court of Stars](fey-courts/court-of-stars.md) convened in 1501 DR over reports of *corrupted fey*, signs spread to the Sword Coast itself:
 
-- A tentacled dryad in the Ardeep Forest, screaming in Sylvan and Deep Speech.
+- A tentacled dryad in the [Ardeep Forest](../../30-Places/sword-coast/ardeep-forest.md), screaming in Sylvan and Deep Speech.
 - A pixie in the Laughing Hollow with tentacles where its wings should be.
 - A petrified unicorn in the High Forest, branded with circular aberrant marks.
 - The Moonwell of Sarifal blackened for one night.
@@ -29,7 +29,7 @@ After the [Court of Stars](fey-courts/court-of-stars.md) convened in 1501 DR ove
 - **True sunlight** — magnified daylight (a chandelier turned brilliant) repels Far Realm shapes.
 - **Cold iron and true-sight** at thresholds catches infiltrators wearing mortal guise.
 - **Sylvan warding-songs** (especially [Titania](fey-courts/titania.md)'s hymn) steady the mind against the telepathic *"Hungry…"* assault.
-- **Eladrin knights of the Summer Court** — they came through stained glass at Dweomerheart Hall on a gale of blossoms and sealed the breach.
+- **Eladrin knights of the [Summer Court](fey-courts/seelie.md)** — they came through stained glass at Dweomerheart Hall on a gale of blossoms and sealed the breach.
 
 ## What does not
 

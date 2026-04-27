@@ -5,7 +5,7 @@ description: The Baldur's Mouth's single chaotic print shop in Heapside — phys
 
 # The Heapside Print Shop
 
-The [Baldur's Mouth](../summary.md)'s only physical seat: a single chaotic print shop in **Heapside** (Lower City), per the dossier and `dm-notes`. Small footprint, outsized reach. The Credential of Balduran (see [credential-of-balduran.md](credential-of-balduran.md)) is issued from here; the [Harpers](../../harpers/summary.md) drop their leaks here; the **Interim Management Board** moved in here after the Western Gate "press blackout."
+The [Baldur's Mouth](../summary.md)'s only physical seat: a single chaotic print shop in **Heapside** ([Lower City](../../../30-Places/sword-coast/baldurs-gate/lower-city/README.md)), per the dossier and `dm-notes`. Small footprint, outsized reach. The Credential of Balduran (see [credential-of-balduran.md](credential-of-balduran.md)) is issued from here; the [Harpers](../../harpers/summary.md) drop their leaks here; the **Interim Management Board** moved in here after the Western Gate "press blackout."
 
 ## What's inside
 

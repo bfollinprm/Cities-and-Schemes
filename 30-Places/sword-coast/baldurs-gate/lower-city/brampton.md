@@ -1,11 +1,11 @@
 ---
 name: brampton
-description: Far eastern crook of the Lower City; cramped lanes, false-floored "warehouses," and questions that aren't asked.
+description: Far eastern crook of the [Lower City](README.md); cramped lanes, false-floored "warehouses," and questions that aren't asked.
 ---
 
 # Brampton
 
-Tucked into the Lower City's far eastern crook, Brampton is where the map frays and the rules do, too. Legitimate trade rarely bothers with its cramped lanes; that suits Brampton's residents fine. The neighborhood's reputation — grimy, insular, convenient for anything you don't want inspected at the Basilisk Gate — keeps rents low and questions lower.
+Tucked into the [Lower City](README.md)'s far eastern crook, Brampton is where the map frays and the rules do, too. Legitimate trade rarely bothers with its cramped lanes; that suits Brampton's residents fine. The neighborhood's reputation — grimy, insular, convenient for anything you don't want inspected at the Basilisk Gate — keeps rents low and questions lower.
 
 ## Notable stops
 

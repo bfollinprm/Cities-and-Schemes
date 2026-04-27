@@ -5,7 +5,7 @@ description: The Phoenix on the Chionthar — civic identity, mood, and demograp
 
 # Character
 
-Baldur's Gate is a scar that learned to monetize itself. A decade after the Absolute Crisis, the city is louder, richer, and more vibrant than ever — and its soul answers to the clink of foreign coin and the cold logic of the ledger. Pale new stone rises beside soot-stained pre-crisis facades; cranes are as common as gulls over Gray Harbour.
+Baldur's Gate is a scar that learned to monetize itself. A decade after the Absolute Crisis, the city is louder, richer, and more vibrant than ever — and its soul answers to the clink of foreign coin and the cold logic of the ledger. Pale new stone rises beside soot-stained pre-crisis facades; cranes are as common as gulls over [Gray Harbour](lower-city/gray-harbour.md).
 
 ## Civic identity
 
@@ -27,7 +27,7 @@ About 145,000 souls live in the city and its immediate environs (up from ~125,00
 
 ## Geography in one paragraph
 
-The city sits on a great bluff on the north bank of the Chionthar. Verticality and walls define it: the Upper City rules the bluff, the Lower City spills down to the harbor, and the Outer City sprawls beyond the walls — most heavily across the river via Wyrm's Crossing. The Undercity runs beneath all of it.
+The city sits on a great bluff on the north bank of the Chionthar. Verticality and walls define it: the [Upper City](upper-city/README.md) rules the bluff, the [Lower City](lower-city/README.md) spills down to the harbor, and the [Outer City](outer-city/README.md) sprawls beyond the walls — most heavily across the river via [Wyrm's Crossing](outer-city/wyrms-crossing.md). The Undercity runs beneath all of it.
 
 ## Source
 

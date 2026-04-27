@@ -24,13 +24,13 @@ The faction does **not** pledge fealty to any one court. Keeping all lines of co
 ## Three customs
 
 1. **Enchanted Masks.** Every member bears a fey-crafted personal mask and never reveals their true face at gatherings. Unmasking another is a grave taboo (one violator reportedly turned to a jade statue on the spot). Members address each other by mask-name: *Lord Fox*, *Lady Foxglove*, *Blackfeather*. See [the-masquerade-rule.md](../../../00-Campaign-Frame/the-masquerade-rule.md).
-2. **The Ledger of Favors.** A semi-sentient green-leather tome, Sylvan script shimmering on the page, kept by archivists called **Arboreans** (chief: **Aldon Glass**). Records every bargain. Hidden — rumors place it under the Undercliff or in a warded sub-basement of the House of Wonder.
+2. **The Ledger of Favors.** A semi-sentient green-leather tome, Sylvan script shimmering on the page, kept by archivists called **Arboreans** (chief: **Aldon Glass**). Records every bargain. Hidden — rumors place it under the Undercliff or in a warded sub-basement of the [House of Wonder](../../../30-Places/sword-coast/waterdeep/sea-ward/house-of-wonder.md).
 3. **Favors as currency.** No coin or written contract among members; every aid is a favor owed. *"Better ten small debts than one great one"* — the proverb against becoming any single archfey's thrall. See [fey-bargains.md](../../../00-Campaign-Frame/fey-bargains.md).
 
 ## Notable members
 
 - **Lord Fox of Secomber** — Seelie-leaning; brokered the Laughing Hollow pixie envoys.
-- **Lady Duskrose** — Unseelie-aligned half-elf enchantress; Winter Court contact.
+- **Lady Duskrose** — Unseelie-aligned half-elf enchantress; [Winter Court](unseelie.md) contact.
 - **Aldon Glass** — emerald-spectacled scribe, Master of the Ledger.
 - [**Aurelia "Northwind" Thorne**](aurelia-thorne.md) — recent Reveler, spine-of-the-world traveler; eyewitness to the [Night of the Howling Masks](../../../40-Timeline/history.md).
 

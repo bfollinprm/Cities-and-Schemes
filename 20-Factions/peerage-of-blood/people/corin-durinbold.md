@@ -12,7 +12,7 @@ Patriar of House Durinbold and the leading public voice of the [Peerage of Blood
 Durinbold's signature move is the loophole. He found the obscure procedural fault in the city charter that let him table the **Hinterland Logging Expansion Charter** for "further review," delaying it indefinitely and dealing a public blow to Archduke [Lyra Silvershield](../../western-gate-trading-company/people/lyra-silvershield.md). He has used the same tactic to:
 
 - Block the Amnian Kontor's **New Kontor Wayleave** proposal in the Peerage.
-- File an injunction to freeze the [Amnian Kontor](../../amnian-kontor/summary.md)'s sale of the foreclosed Hlath Estate to one of Athar's allies, citing an obscure ancient property law.
+- File an injunction to freeze the [Amnian Kontor](../../amnian-kontor/summary.md)'s sale of the foreclosed [Hlath Estate](../../../30-Places/sword-coast/baldurs-gate/upper-city/hlath-estate.md) to one of Athar's allies, citing an obscure ancient property law.
 
 His attempt to publicly sponsor the dispossessed [Hlath family](../associations/house-hlath.md) failed — Amnian agents intercepted them first and bought (or intimidated) them into refusing his aid, making him look outmaneuvered.
 

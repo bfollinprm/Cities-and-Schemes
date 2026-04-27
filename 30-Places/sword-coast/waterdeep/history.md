@@ -16,7 +16,7 @@ Discrete dated events are listed in [40-Timeline/history.md](../../../40-Timelin
 ## The bargains struck
 
 - **1248 DR — Nobility formalized.** The Lords granted the eighty-five noble houses the right to bear arms and keep private armies up to **seventy** soldiers (commoners are capped at sixteen). This is the legal basis of the modern aristocracy and of the **Great Game**.
-- **1314 DR — The Lords' Alliance.** Waterdeep founded the Alliance, cementing the city as the political center of the Sword Coast North.
+- **1314 DR — The [Lords' Alliance](../../../10-Setting/polities/lords-alliance.md).** Waterdeep founded the Alliance, cementing the city as the political center of the Sword Coast North.
 
 ## The cautionary tale
 
@@ -28,7 +28,7 @@ Discrete dated events are listed in [40-Timeline/history.md](../../../40-Timelin
 - **c. 1482–1487 DR — [Second Sundering](../../../10-Setting/cosmology/sundering.md).** [Mystra's](../../../10-Setting/cosmology/deities/mystra.md) withdrawal cost [Laeral Silverhand](../../../20-Factions/masked-lords/people/laeral-silverhand.md) the bulk of her Chosen-of-Mystra power. She has concealed it for two decades.
 - **c. 1489 DR — Neverember ousted; Laeral ascends.** The [Masked Lords](../../../20-Factions/masked-lords/summary.md) forced Open Lord **[Dagult Neverember](../../../20-Factions/masked-lords/people/dagult-neverember.md)** out of office for corruption (he had been selling noble titles to wealthy merchants, fueling the *new money / old money* schism), and reluctantly elevated [Laeral](../../../20-Factions/masked-lords/people/laeral-silverhand.md).
 - **c. 1491 DR — The Masked Lord Murders.** A faction inside the Masked Lords assassinated nearly half the council in an attempted coup. The plot was foiled, but the council has not recovered: paranoia about any new concentration of power, including Laeral's, is institutional now.
-- **c. 1491 DR — The Zhentarim Schism.** A clone of **[Manshoon](../../../20-Factions/zhentarim/people/manshoon.md)** arrived in Waterdeep, fractured the Black Network, and ignited the **Shadow War** with the [Xanathar Guild](../../../20-Factions/xanathar-guild/summary.md). The war still burns through the Dock and Trades Wards.
+- **c. 1491 DR — The Zhentarim Schism.** A clone of **[Manshoon](../../../20-Factions/zhentarim/people/manshoon.md)** arrived in Waterdeep, fractured the Black Network (the local [Zhentarim](../../../20-Factions/zhentarim/summary.md) cell), and ignited the **Shadow War** with the [Xanathar Guild](../../../20-Factions/xanathars-guild/summary.md). The war still burns through the Dock and Trades Wards.
 
 ## The present (1502 DR)
 

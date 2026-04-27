@@ -14,7 +14,7 @@ Loud. Constant. Foot and cart traffic at every hour. Every guild's public face �
 
 ## The institutional weight
 
-The Trades Ward is where the **Class Conflict** is felt as policy. The guilds enforce **Guild Law** here — distinct from city law, blessed by the Lords, and harshly applied. Practicing a regulated trade without guild membership is illegal and invites swift retribution. The dossier names the **Guild of Watermen** and the **Fellowship of Carters and Coachmen** as critical-infrastructure guilds capable of strangling the city's trade through a strike. Negotiations with the Lords always carry that implicit threat.
+The Trades Ward is where the **Class Conflict** is felt as policy. The guilds enforce **Guild Law** here — distinct from city law, blessed by the Lords, and harshly applied. Practicing a regulated trade without guild membership is illegal and invites swift retribution. The dossier names the [Guild of Watermen](../../../../20-Factions/guild-of-watermen/summary.md) and the [Fellowship of Carters and Coachmen](../../../../20-Factions/fellowship-of-carters-and-coachmen/summary.md) as critical-infrastructure guilds capable of strangling the city's trade through a strike. Negotiations with the Lords always carry that implicit threat.
 
 ## The artisan drain
 
@@ -22,11 +22,11 @@ The dossier's most concrete economic worry plays out here. Skilled artisans — 
 
 ## Faction layer
 
-The Doom Raiders ([Zhentarim](../../../../20-Factions/zhentarim/summary.md)) work the Trades Ward primarily as an economic operation — money-lending, smuggling, mercenary placements through Virgin's Square — and avoid the visible street violence that [Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) faction inflicts on the Dock Ward. The Trades Ward is also where the Shadow War's *cost* is most acutely felt: when the war spills into the cellars and alleys, the people who lose their inventory or their workshop are guild members.
+The Doom Raiders ([Zhentarim](../../../../20-Factions/zhentarim/summary.md)) work the Trades Ward primarily as an economic operation — money-lending, smuggling, mercenary placements through [Virgin's Square](virgins-square.md) — and avoid the visible street violence that [Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) faction inflicts on the Dock Ward. The Trades Ward is also where the Shadow War's *cost* is most acutely felt: when the war spills into the cellars and alleys, the people who lose their inventory or their workshop are guild members.
 
 ## Notable
 
-- **Virgin's Square** — open hiring ground for sell-swords; standard private bodyguard rate **2–5 gp/day**, with elite work commanding far more from noble clients.
+- **[Virgin's Square](virgins-square.md)** — open hiring ground for sell-swords; standard private bodyguard rate **2–5 gp/day**, with elite work commanding far more from noble clients.
 
 ## See also
 

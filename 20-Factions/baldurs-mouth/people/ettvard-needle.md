@@ -20,7 +20,7 @@ Lurid and populist. Masthead reads ***"We Hear All, And Print Most of It!"*** He
 
 ## The kidnapping (canonical)
 
-By **week 7**, Needle is gone. dm-notes commit to a fate: he has been **kidnapped by the [Cult of the Returning Lord](../../cult-of-the-returning-lord/summary.md)** and held in **Hamhock's Vault**, a subterranean meat-locker beneath Tumbledown. He hangs from a rusted chain over a drainage grate, gagged with a ritually inscribed cloth, while the **Silencing Ritual** runs on initiative count 20 each round: if not freed by round 4, his mouth is magically and permanently sealed and the cult summons an **Avatar of Murder**. Vault boss: *"The Keeper,"* a cult assassin fighting from hanging chains.
+By **week 7**, Needle is gone. dm-notes commit to a fate: he has been **kidnapped by the [Cult of the Returning Lord](../../cult-of-the-returning-lord/summary.md)** and held in **[Hamhock's Vault](../../../30-Places/sword-coast/baldurs-gate/undercity/hamhocks-vault.md)**, a subterranean meat-locker beneath Tumbledown. He hangs from a rusted chain over a drainage grate, gagged with a ritually inscribed cloth, while the **Silencing Ritual** runs on initiative count 20 each round: if not freed by round 4, his mouth is magically and permanently sealed and the cult summons an **Avatar of Murder**. Vault boss: *"The Keeper,"* a cult assassin fighting from hanging chains.
 
 Public-facing, the Interim Management Board accuses him of fleeing libel charges; the [Harpers](../../harpers/summary.md) sweep [Western Gate](../../western-gate-trading-company/summary.md) warehouses; the [Bibliophile](../../bibliophile/summary.md) corners the resale market on the insurance-fraud edition.
 

@@ -10,17 +10,17 @@ The Castle Ward is **where the city presents itself to itself**. The Palace, the
 
 ## Atmosphere
 
-Stately. Stone. Heraldry. Watch patrols are large, uniformed, and visibly drilled. The **City Guard** is stationed at Castle Waterdeep itself, and a citizen running afoul of the law is most likely to be tried by a black-robed **Magister** in this ward. Banners of the Lords' Alliance fly publicly; private bodyguards walk visibly armed. Modest inns charge **5 sp/night** (the **Yawning Portal**'s standing rate) — accessible to a careful adventurer, expensive for a laborer.
+Stately. Stone. Heraldry. Watch patrols are large, uniformed, and visibly drilled. The **City Guard** is stationed at Castle Waterdeep itself, and a citizen running afoul of the law is most likely to be tried by a black-robed **Magister** in this ward. Banners of the [Lords' Alliance](../../../../10-Setting/polities/lords-alliance.md) fly publicly; private bodyguards walk visibly armed. Modest inns charge **5 sp/night** (the **Yawning Portal**'s standing rate) — accessible to a careful adventurer, expensive for a laborer.
 
 ## What happens here in 1502 DR
 
 - **The Lords convene.** The Masked Lords meet in the Palace, identities concealed even in transit. Sessions are not public; the Open Lord's audiences with ambassadors are.
 - **Magisters hold court.** City-law trials, guild-law referrals, civil disputes between noble houses. Standard practice is for senior Magisters to rotate, to make bribery harder; the system was already strained before the 1491 council murders shook everyone's nerves.
-- **Embassies and presentations.** Foreign powers present credentials in the Palace's audience chambers. The Splendid Yard's cousin embassies operate here on the home side.
+- **Embassies and presentations.** Foreign powers present credentials in the Palace's audience chambers. The [Splendid Yard](../../../../20-Factions/waterdhavian-kontor/summary.md)'s cousin embassies operate here on the home side.
 
 ## Faction layer
 
-Both **Harpers** and **Zhentarim** are described as "undoubtedly seeking to place agents and informants" close to the levers of power — that means the Castle Ward. The [Cassalanters](../../../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md) host functions here in their official Throne capacity; [Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) people work the Magisters and the secretariat. Force Grey's headquarters falls under the Blackstaff's authority somewhere within this ward; [Vajra Safahr's](../../../../20-Factions/masked-lords/people/vajra-safahr.md) strained relationship with [Laeral](../../../../20-Factions/masked-lords/people/laeral-silverhand.md) plays out in adjacent rooms of the same building.
+Both [Harpers](../../../../20-Factions/harpers/summary.md) and [Zhentarim](../../../../20-Factions/zhentarim/summary.md) are described as "undoubtedly seeking to place agents and informants" close to the levers of power — that means the Castle Ward. The [Cassalanters](../../../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md) host functions here in their official Throne capacity; [Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) people work the Magisters and the secretariat. Force Grey's headquarters falls under the Blackstaff's authority somewhere within this ward; [Vajra Safahr's](../../../../20-Factions/masked-lords/people/vajra-safahr.md) strained relationship with [Laeral](../../../../20-Factions/masked-lords/people/laeral-silverhand.md) plays out in adjacent rooms of the same building.
 
 ## Notable locations
 

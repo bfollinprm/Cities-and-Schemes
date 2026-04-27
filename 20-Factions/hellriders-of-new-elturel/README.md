@@ -6,3 +6,4 @@ Volunteer militia and informal government of the New Elturel refugee district.
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: high-watcher-alena.
+- [activity/](activity/) — Ongoing actions by week (week_0).

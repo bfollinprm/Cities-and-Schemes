@@ -1,22 +1,23 @@
 ---
 name: dammon
-description: Smith of the Forge of the Nine; the Worshipful Company of Smiths & Armorers' most famous member, barely a member at all.
+description: Smith of the Forge of the Nine; pursuing infernal-iron salvage from the Fall of Elturel, beyond the Smiths' Company's full control.
 ---
 
 # Dammon
 
-A master smith. Runs the **Forge of the Nine**, a smithy famous for *infernal-iron* work salvaged from the Fall of Elturel.
+A senior member of the [Worshipful Company of Smiths & Armorers](../summary.md) running his own operation at the **Forge of the Nine**. Master [Tor-keg Silverhand](tor-keg-silverhand.md) neither fully approves nor controls Dammon, and the Court of Assistants is split on whether to discipline him.
 
-## Standing
+## Role
 
-- **The Company's most famous member, barely a member at all.** Dammon's name is the public face of [Worshipful Company of Smiths & Armorers](../summary.md) prestige; his cooperation with the Company itself is selective.
-- Runs his **own program** in parallel with Company operations: a public call to adventurers for any **infernal-iron salvage** from the Fall of Elturel, paid at premium, plus a separate private hunt for a specific New Elturel artifact.
+Dammon's specialism is **infernal iron** — armor and steel warped by the Fall of Elturel. He believes he can repurpose hell-damaged metal for new craft. In week 0 he put out a public, premium-pay call to adventuring parties for any salvage from the Fall, and is privately hunting a New Elturel **infernal-contract shard** to weave into his forge-work.
 
-## Why Tor Keg can't manage him
+## Pressure points
 
-The Company's master, [Tor Keg Silverhand](tor-keg-silverhand.md), faces near-uncountable demand from the [Flaming Fist](../../flaming-fist/summary.md), Kontor Guards, Guild Wardens, and the post-crisis adventurer surge. Dammon is the Company's marquee name and works without Company oversight. His harder problem.
+- His public bounty makes him a natural contact for parties operating in [New Elturel](../../../30-Places/sword-coast/baldurs-gate/outer-city/new-elturel.md) and the [Hinterlands](../../../30-Places/sword-coast/baldurs-gate/hinterlands).
+- [Followers of the Phoenix](../../followers-of-the-phoenix/summary.md) — Karlach is the heroine of the Fall; Dammon's interest in salvage there overlaps awkwardly with their veneration.
+- Tor-keg's Court is watching him; if his work attracts the [Sorcerous Sodality](../../wc-sorcerous-sodality/summary.md) or the [Plague of Remembrance](../../plague-of-remembrance/summary.md), the Court may move against him.
 
 ## See also
 
-- [Worshipful Company of Smiths & Armorers](../summary.md).
-- [Tor Keg Silverhand](tor-keg-silverhand.md).
+- [Worshipful Company of Smiths & Armorers](../summary.md)
+- [Master Tor-keg Silverhand](tor-keg-silverhand.md)

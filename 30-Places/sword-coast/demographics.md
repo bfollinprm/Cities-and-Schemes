@@ -9,7 +9,7 @@ Region-scale demographic notes; city-level texture lives in `baldurs-gate/charac
 
 ## Pressures since 1492 DR
 
-- **Elturian diaspora.** The Fall of Elturel (1494 DR) emptied a major regional city. Tens of thousands of refugees — disproportionately tieflings — flowed down the Coast Way into the Outer City of Baldur's Gate, founding **New Elturel** and reshaping the south-bank borough. See [10-Setting/peoples/elturian-diaspora.md](../../10-Setting/peoples/elturian-diaspora.md).
+- **Elturian diaspora.** The Fall of Elturel (1494 DR) emptied a major regional city. Tens of thousands of refugees — disproportionately tieflings — flowed down the Coast Way into the [Outer City](baldurs-gate/outer-city/README.md) of Baldur's Gate, founding **New Elturel** and reshaping the south-bank borough. See [10-Setting/peoples/elturian-diaspora.md](../../10-Setting/peoples/elturian-diaspora.md).
 - **Foreign nationals.** The Great Bargain (1493 DR) seeded permanent Amnian, Waterdhavian, Sembian, and Lantaner populations inside the walled Kontor enclaves. They live and trade among Baldurians but largely outside Baldurian law.
 - **Githyanki exile.** A faction of Prince Orpheus's rebellion settled the K'liir in 1496 DR — about 1% of the city's headcount, but radically over-represented in martial and psionic capability.
 
@@ -21,4 +21,4 @@ Rural Hansa polities skew more heavily human and dwarf, with halflings clustered
 
 ## Movement
 
-The Coast Way and the Trade Way are the two great migration spines. Caravans roll into Eastway (city-side, Lower City) and Blackgate / Rivington (Outer City) at all hours; ferries link Rivington and the south bank to the Lower City wharves. Population flows are weighted toward the Gate; few leave.
+The Coast Way and the Trade Way are the two great migration spines. Caravans roll into Eastway (city-side, [Lower City](baldurs-gate/lower-city/README.md)) and Blackgate / Rivington ([Outer City](baldurs-gate/outer-city/README.md)) at all hours; ferries link Rivington and the south bank to the Lower City wharves. Population flows are weighted toward the Gate; few leave.

@@ -1,19 +1,19 @@
 ---
 name: one-eyed-jack
-description: Leader of the Wharf Rats; runs Gray Harbour's longshoreman labor pool as a Guild-controlled union and smuggling cell.
+description: Leader of the Wharf Rats; runs [Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md)'s longshoreman labor pool as a Guild-controlled union and smuggling cell.
 ---
 
 # "One-Eyed" Jack
 
-Leader of the [Wharf Rats](../summary.md) and the most powerful labor figure in Gray Harbour. A heavy-set, salt-bleached former longshoreman who lost the eye in a crane accident — or in a knife fight; the story changes depending on the audience. Reports to one of [The Guild](../../guild/summary.md)'s Sachems.
+Leader of the [Wharf Rats](../summary.md) and the most powerful labor figure in [Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md). A heavy-set, salt-bleached former longshoreman who lost the eye in a crane accident — or in a knife fight; the story changes depending on the audience. Reports to one of [The Guild](../../guild/summary.md)'s Sachems.
 
 ## Manifesto
 
-> No crate is loaded in Gray Harbour without us. No crate is unloaded in Gray Harbour without us. We don't ask what is in your boxes — we ask who you've spoken to before they are opened. Pay your share, and we forget your manifest. Don't, and we forget your ship.
+> No crate is loaded in [Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) without us. No crate is unloaded in Gray Harbour without us. We don't ask what is in your boxes — we ask who you've spoken to before they are opened. Pay your share, and we forget your manifest. Don't, and we forget your ship.
 
 ## Role
 
-Jack runs the Gray Harbour labor pool the way Silas runs the Undercity sewers — by knowing every face, every shift change, and every grievance. He is the Guild's instrument for setting the price of dock labor in Baldur's Gate, and his decisions are felt in the ledgers of every Kontor and Consortium that uses the port.
+Jack runs the [Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) labor pool the way Silas runs the Undercity sewers — by knowing every face, every shift change, and every grievance. He is the Guild's instrument for setting the price of dock labor in Baldur's Gate, and his decisions are felt in the ledgers of every Kontor and Consortium that uses the port.
 
 ## Current pressures
 

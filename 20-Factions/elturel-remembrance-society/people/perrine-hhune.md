@@ -20,7 +20,7 @@ Perrine was a child in Elturel when it was dragged into Hell. He remembers the s
 - Public condemnation of the [Waterdhavian Kontor](../../waterdhavian-kontor/summary.md) dispersed by Griffin Guard; ignored by the press.
 - A heist of the Jannath Estate's "infernal" wealth foiled by magical wards; followers captured, Perrine forced to flee.
 - Sought out a diabolist patriar as a potential infernal patron and was dismissed as a delusional amateur.
-- Now operating as a fugitive from a cellar beneath [New Elturel](../../hellriders-of-new-elturel/summary.md), distributing alchemical-ink "Zariel marks" on Upper City doors and waiting to ignite them.
+- Now operating as a fugitive from a cellar beneath [New Elturel](../../hellriders-of-new-elturel/summary.md), distributing alchemical-ink "Zariel marks" on [Upper City](../../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) doors and waiting to ignite them.
 
 ## See also
 

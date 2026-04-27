@@ -5,7 +5,7 @@ description: Nativist patriar club organizing the Peerage of Blood as a unified 
 
 # Patriar Heritage Society
 
-Not a chartered organization but the **organizing club of the [Peerage of Blood](../peerage-of-blood/summary.md)** — an informal alliance of "old money" patriar families who act as a bloc against the rising "new money" of the [Peerage of Coin](../peerage-of-coin/summary.md). De facto led by [Lord Corin "the Elder" Durinbold](../peerage-of-blood/people/corin-durinbold.md); meets in private salons of Upper City manors, never in a public hall.
+Not a chartered organization but the **organizing club of the [Peerage of Blood](../peerage-of-blood/summary.md)** — an informal alliance of "old money" patriar families who act as a bloc against the rising "new money" of the [Peerage of Coin](../peerage-of-coin/summary.md). De facto led by [Lord Corin "the Elder" Durinbold](../peerage-of-blood/people/corin-durinbold.md); meets in private salons of [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) manors, never in a public hall.
 
 ## Ideology
 

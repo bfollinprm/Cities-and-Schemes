@@ -1,10 +1,10 @@
 # The Unveiled
 
-Conspiracy-paladin cell convinced the Absolute Crisis was a doppelganger false-flag.
+Conspiracy-paladin cell convinced the [Absolute Crisis](../../10-Setting/history/absolute-crisis.md) was a doppelganger false-flag.
 
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: xylia.
 - [associations/](associations/) — Items, holdings, vehicles (empty).
-- [activity/](activity/) — Ongoing actions by week (empty).
+- [activity/](activity/) — Ongoing actions by week (week_0).

@@ -13,17 +13,17 @@ What ideology survives is institutional inertia: keep the walls manned, the harb
 
 ## Membership
 
-Strict military hierarchy: **Marshal → Blazes → Flames → Manips → Fists** (privates). Morale is low; the force is chronically under-equipped on dwindling tax funding. Ambitious officers — notably **Blaze Liara Portyr** — navigate the political landscape for personal advantage. Headquarters at **Wyrm's Rock Fortress**, an imposing reminder of how far they have fallen.
+Strict military hierarchy: **Marshal → Blazes → Flames → Manips → Fists** (privates). Morale is low; the force is chronically under-equipped on dwindling tax funding. Ambitious officers — notably **Blaze Liara Portyr** — navigate the political landscape for personal advantage. Headquarters at **[Wyrm's Rock](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-rock.md) Fortress**, an imposing reminder of how far they have fallen.
 
 ## Methods
 
 Duties restricted by the post-crisis charter to three areas:
 
-- Policing the Upper City (where they are effectively private security for the patriars).
+- Policing the [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) (where they are effectively private security for the patriars).
 - Manning the city's outer walls.
-- Customs enforcement at Gray Harbour and the city gates.
+- Customs enforcement at [Gray Harbour](../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) and the city gates.
 
-Recent shakedowns at **Wyrm's Crossing** under Manip Jerrol have backfired — Manip Jerrol's brutal beating of a refusing merchant from the [Free Traders of the Outskirts](../free-traders-of-the-outskirts/summary.md) sparked outrage, and a confrontation with 'Mad' Meggan blockaded the bridge for days.
+Recent shakedowns at **[Wyrm's Crossing](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md)** under Manip Jerrol have backfired — Manip Jerrol's brutal beating of a refusing merchant from the [Free Traders of the Outskirts](../free-traders-of-the-outskirts/summary.md) sparked outrage, and a confrontation with 'Mad' Meggan blockaded the bridge for days.
 
 ## Hooks and Relationships
 
@@ -34,5 +34,5 @@ Recent shakedowns at **Wyrm's Crossing** under Manip Jerrol have backfired — M
 ## See also
 
 - [Marshal Valerius Flint](people/valerius-flint.md) — current Marshal.
-- [Hinterlands of Baldur's Gate](../../30-Places/sword-coast/baldurs-gate/hinterlands/README.md) — the lands beyond the Fist's effective writ; Wyrm's Crossing is the last point of city authority.
+- [Hinterlands of Baldur's Gate](../../30-Places/sword-coast/baldurs-gate/hinterlands/README.md) — the lands beyond the Fist's effective writ; [Wyrm's Crossing](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) is the last point of city authority.
 - Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dossier-baldurs-gate-…` Chapter 5; `raw-ingest/cloaks-and-conspiracies/the-hinterlands-of-baldurs-gate-a-dossier.docx` (Parts I and V).

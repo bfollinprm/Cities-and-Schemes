@@ -18,7 +18,7 @@ Goldhand spent the post-crisis decade making the Goldsmiths' assay offices the o
 His current operations:
 
 - A **patriar canary commission** for [Lord Durinbold](../../peerage-of-blood/summary.md) — a gold-and-silver automaton — ties the guild publicly to the [Peerage of Blood](../../peerage-of-blood/summary.md).
-- Recently exposed a small-time counterfeit operation in the Undercellar by handing the counterfeiter to [the Guild](../../guild/summary.md); the Guild keeps the body, the Goldsmiths keep the seal's reputation.
+- Recently exposed a small-time counterfeit operation in the [Undercellar](../../../30-Places/sword-coast/baldurs-gate/undercity/the-undercellar.md) by handing the counterfeiter to [the Guild](../../guild/summary.md); the Guild keeps the body, the Goldsmiths keep the seal's reputation.
 - After failing to trace a suspicious wealth windfall through legitimate channels, he placed a discreet, high-paying bounty through the criminal underworld for any fence with information.
 
 He is allergic to scandal in a way that makes him predictable: any time the seal's credibility is challenged, he over-reacts. Adventurers who suddenly come into money will find his attention difficult to shake.

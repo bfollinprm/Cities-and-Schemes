@@ -29,7 +29,7 @@ A militia composed entirely of **volunteers from the refugee community**. Led by
 
 **Allies.** Working relationship with [The Guild](../guild/summary.md). Natural allies of the [Free Traders of the Outskirts](../free-traders-of-the-outskirts/summary.md) and [Followers of the Phoenix](../followers-of-the-phoenix/summary.md). Tense but non-hostile neighbors of the [Unchained / K'liir](../unchained/summary.md).
 
-**Hooks.** The petition for citizenship was leaked alongside a falsified cost-analysis to *Baldur's Mouth*, turning public opinion against the Hellriders. Alena's testimony at the Council's "Refugee Question" hearing was ignored. A Hellrider-led protest at Wyrm's Crossing, joined by the Followers of the Phoenix, forced negotiations open — but those negotiations have since collapsed: Alena refused the Council's insulting offer rather than betray the Free Traders, and is now organizing brigades. Lady Vhage's Plague of Remembrance is trying to turn a disillusioned Hellrider officer into an informant.
+**Hooks.** The petition for citizenship was leaked alongside a falsified cost-analysis to *Baldur's Mouth*, turning public opinion against the Hellriders. Alena's testimony at the Council's "Refugee Question" hearing was ignored. A Hellrider-led protest at [Wyrm's Crossing](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md), joined by the Followers of the Phoenix, forced negotiations open — but those negotiations have since collapsed: Alena refused the Council's insulting offer rather than betray the Free Traders, and is now organizing brigades. Lady Vhage's Plague of Remembrance is trying to turn a disillusioned Hellrider officer into an informant.
 
 ## See also
 

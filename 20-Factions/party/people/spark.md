@@ -5,7 +5,7 @@ description: Karlach-worshipping Follower of the Phoenix; the party's righteous-
 
 # Spark
 
-Acolyte of the [Followers of the Phoenix](../../followers-of-the-phoenix/summary.md) and the party's ranged-and-melee force-of-presence. Orphaned in the Outer City, raised by the Followers, devoted to Karlach as saint of righteous anger. One of the four members of [the party](../summary.md).
+Acolyte of the [Followers of the Phoenix](../../followers-of-the-phoenix/summary.md) and the party's ranged-and-melee force-of-presence. Orphaned in the [Outer City](../../../30-Places/sword-coast/baldurs-gate/outer-city/README.md), raised by the Followers, devoted to Karlach as saint of righteous anger. One of the four members of [the party](../summary.md).
 
 ## Role within the party
 

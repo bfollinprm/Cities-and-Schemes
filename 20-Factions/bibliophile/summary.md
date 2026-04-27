@@ -32,7 +32,7 @@ A small, secretive cell whose members are known only to one another and to Grett
 
 **Frictions.** Recent operational failures: an attempt to acquire the [Chionthar Consortium](../chionthar-consortium/summary.md)'s upcoming shipping manifests was blocked by upgraded internal security, leaving the Sembian Kontor and the River-Rats without intelligence they had paid for.
 
-**Hooks.** Gretta is currently compiling a dossier on **Marshal Flint's most loyal officers** — their families and weaknesses — to sell into the escalating Wyrm's Crossing crisis. She has also acquired tactical maps of **Wyrm's Rock** from the [Worshipful Company of Cartographers & Surveyors](../wc-cartographers-surveyors/summary.md) and sold them to the commander of the Archduke's mercenary force.
+**Hooks.** Gretta is currently compiling a dossier on **Marshal Flint's most loyal officers** — their families and weaknesses — to sell into the escalating [Wyrm's Crossing](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) crisis. She has also acquired tactical maps of **[Wyrm's Rock](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-rock.md)** from the [Worshipful Company of Cartographers & Surveyors](../wc-cartographers-surveyors/summary.md) and sold them to the commander of the Archduke's mercenary force.
 
 ## See also
 

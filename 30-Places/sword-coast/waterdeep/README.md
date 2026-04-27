@@ -6,7 +6,7 @@ type: city
 
 # Waterdeep
 
-The **Crown of the North**, **City of Splendors**, capital of the [Lords' Alliance](../../../10-Setting/polities/waterdeep-government.md). In 1502 DR a city of contradictions: outwardly prosperous and orderly, inwardly fractured by the **Shadow War** between Manshoon's Zhentarim and the Xanathar Guild, by the broken chain of command between Open Lord Laeral Silverhand and the Blackstaff Vajra Safahr, and by the volatile, neglected misery of the Field Ward at its gates.
+The **Crown of the North**, **City of Splendors**, capital of the [Lords' Alliance](../../../10-Setting/polities/lords-alliance.md). In 1502 DR a city of contradictions: outwardly prosperous and orderly, inwardly fractured by the **Shadow War** between Manshoon's [Zhentarim](../../../20-Factions/zhentarim/summary.md) and the [Xanathar Guild](../../../20-Factions/xanathars-guild/summary.md), by the broken chain of command between Open Lord Laeral Silverhand and the Blackstaff Vajra Safahr, and by the volatile, neglected misery of the Field Ward at its gates.
 
 Greater metropolitan population: in excess of one million; the walled city is far denser. Humans (Illuskan, Tethyrian, Chondathan) form the majority, but the city is a true melting pot with established communities of dwarves, elves, halflings, half-elves, and gnomes at all levels of society.
 
@@ -34,6 +34,10 @@ Greater metropolitan population: in excess of one million; the walled city is fa
 
 - [undermountain.md](undermountain.md) — The megadungeon below; entered through the Yawning Portal.
 - [skullport.md](skullport.md) — Subterranean port; Xanathar territory; slave market.
+
+### City-spanning sites
+
+- [vault-of-dragons.md](vault-of-dragons.md) — half-mythic Lords' gold cache; Jarlaxle Baenre's current obsession.
 
 ### See also (people and houses)
 

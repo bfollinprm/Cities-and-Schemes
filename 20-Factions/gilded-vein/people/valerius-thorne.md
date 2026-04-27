@@ -5,7 +5,7 @@ description: Disgraced Amnian banker who founded the Gilded Vein; preaches a cre
 
 # Valerius Thorne, the Auditor
 
-Founder and high priest of the [Gilded Vein](../summary.md). A disgraced former rising star of the Amnian Kontor's Gold-Gable Hall, exiled after proposing a plan to intentionally bankrupt several Baldurian guilds to consolidate Amn's power — a move deemed too aggressive even for his superiors.
+Founder and high priest of the [Gilded Vein](../summary.md). A disgraced former rising star of the Amnian Kontor's [Gold-Gable Hall](../../amnian-kontor/summary.md), exiled after proposing a plan to intentionally bankrupt several Baldurian guilds to consolidate Amn's power — a move deemed too aggressive even for his superiors.
 
 ## Manifesto
 
@@ -21,7 +21,7 @@ Thorne was a rising star at the [Amnian Kontor](../../amnian-kontor/summary.md) 
 - Botched attempt to poison [Western Gate Trading Company](../../western-gate-trading-company/summary.md) pigeons; the Company is now alert and hardened.
 - Multiple failed market plots: forged Chionthar documents detected; grain-futures manipulation unwound by the [Sembian Kontor](../../sembian-kontor/summary.md); warehouse sabotage that left behind a traceable alchemical sample.
 - A disgruntled cultist sold safehouse locations to the Chionthar Consortium. Three were raided. Thorne ordered emergency liquidation and is now running operations from the Undercity.
-- Latest play: flooding Lower City markets with high-quality forged copper pieces to trigger a localized economic panic.
+- Latest play: flooding [Lower City](../../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) markets with high-quality forged copper pieces to trigger a localized economic panic.
 
 ## See also
 

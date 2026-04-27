@@ -5,7 +5,7 @@ description: The clandestine elite market beneath the Wide; rare poisons, forbid
 
 # The Undercellar
 
-Specifically located beneath **the Wide** in the Upper City, the Undercellar is a network of ancient, vaulted cellars used as a clandestine marketplace where the city's elite can purchase illegal goods — rare poisons, forbidden scrolls, slaves — delivered by the [Guild](../../../../20-Factions/guild/summary.md) through secret tunnels that bypass the city's walls entirely.
+Specifically located beneath **the Wide** in the [Upper City](../upper-city/README.md), the Undercellar is a network of ancient, vaulted cellars used as a clandestine marketplace where the city's elite can purchase illegal goods — rare poisons, forbidden scrolls, slaves — delivered by the [Guild](../../../../20-Factions/guild/summary.md) through secret tunnels that bypass the city's walls entirely.
 
 ## How it works
 
@@ -19,4 +19,4 @@ Rare poisons (often Alchemists' Company surplus diverted through unofficial chan
 
 ## Pressure
 
-The Undercellar is the friction point where Upper City respectability meets Lower City contraband. Patriar reputations have been broken by an inconvenient witness on a stairwell; Ward Bosses have been promoted by delivering the right scroll to the right buyer. The [Bibliophile](../../../../20-Factions/bibliophile/summary.md) trades information about who bought what; the [Knights of the Shield](../../../../20-Factions/knights-of-the-shield/summary.md) recruit here.
+The Undercellar is the friction point where [Upper City](../upper-city/README.md) respectability meets [Lower City](../lower-city/README.md) contraband. Patriar reputations have been broken by an inconvenient witness on a stairwell; Ward Bosses have been promoted by delivering the right scroll to the right buyer. The [Bibliophile](../../../../20-Factions/bibliophile/summary.md) trades information about who bought what; the [Knights of the Shield](../../../../20-Factions/knights-of-the-shield/summary.md) recruit here.

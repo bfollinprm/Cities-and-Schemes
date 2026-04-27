@@ -36,4 +36,4 @@ Larger than any single polity's writ. Western edge fronts the Sword Coast and Ba
 
 - `.context/converted/the-hinterlands-of-baldurs-gate-a-dossier.md` — Part II.
 - `.context/converted/the-fey-courts-and-the-green-masquerade-1502-dr.md` — fey context.
-- `faction-quests.xlsx` — Western Gate Whisperwood Copse clear-cut, Cloakwood ruin sponsorships.
+- `faction-quests.xlsx` — Western Gate [Whisperwood Copse](baldurs-gate/hinterlands/whisperwood-copse.md) clear-cut, Cloakwood ruin sponsorships.

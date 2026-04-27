@@ -6,7 +6,7 @@ type: ward-character
 
 # Dock Ward — Character
 
-The Dock Ward is **Waterdeep's dangerous edge**. It is the oldest, dirtiest ward, the place sailors come ashore and smugglers move cargo, and the place where the **Shadow War** between the Zhentarim and the Xanathar Guild plays out openly. Squalid flophouse cots run **8 cp/night** — shared, unsanitary, with high risk of theft and violence — and a mug of common ale at any tavern is **4 cp**.
+The Dock Ward is **Waterdeep's dangerous edge**. It is the oldest, dirtiest ward, the place sailors come ashore and smugglers move cargo, and the place where the **Shadow War** between the [Zhentarim](../../../../20-Factions/zhentarim/summary.md) and the [Xanathar Guild](../../../../20-Factions/xanathars-guild/summary.md) plays out openly. Squalid flophouse cots run **8 cp/night** — shared, unsanitary, with high risk of theft and violence — and a mug of common ale at any tavern is **4 cp**.
 
 ## Atmosphere
 
@@ -14,11 +14,11 @@ Sea-rot, fish-gut, tar, and old smoke. Cobbles slick with whatever was last spil
 
 ## The Shadow War on the ground
 
-This is the front line. **[Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) Zhentarim** thugs and **[Xanathar Guild](../../../../20-Factions/xanathar-guild/summary.md)** brutes clash openly in alleys and cellars. The **Doom Raiders** keep their preferred discreet operations elsewhere; the public street violence is Manshoon's brand. The [Xanathar's](../../../../20-Factions/xanathar-guild/people/xanathar.md) people are easier to spot — directly thuggish, often visibly altered, sometimes accompanied by something worse. The dossier names the new addictive drug **Black Lilly** as a Xanathar product distributed primarily out of Dock Ward dealers.
+This is the front line. **[Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) Zhentarim** thugs and **[Xanathar Guild](../../../../20-Factions/xanathars-guild/summary.md)** brutes clash openly in alleys and cellars. The **Doom Raiders** keep their preferred discreet operations elsewhere; the public street violence is Manshoon's brand. The [Xanathar's](../../../../20-Factions/xanathars-guild/people/xanathar.md) people are easier to spot — directly thuggish, often visibly altered, sometimes accompanied by something worse. The dossier names the new addictive drug **Black Lilly** as a Xanathar product distributed primarily out of Dock Ward dealers.
 
 ## What runs underneath
 
-The Dock Ward connects to the **Undercity** and, beyond it, the subterranean port of **[Skullport](../skullport.md)**, the Xanathar's major access route. The mind-flayer lieutenant **[Nihiloor](../../../../20-Factions/xanathar-guild/people/nihiloor.md)** and his intellect-devourer puppets are deployed across the ward as a living spy network — the Xanathar's eyes and ears. A common dungsweeper or Watch sergeant in this ward may already not be themselves.
+The Dock Ward connects to the **Undercity** and, beyond it, the subterranean port of **[Skullport](../skullport.md)**, the Xanathar's major access route. The mind-flayer lieutenant **[Nihiloor](../../../../20-Factions/xanathars-guild/people/nihiloor.md)** and his intellect-devourer puppets are deployed across the ward as a living spy network — the Xanathar's eyes and ears. A common dungsweeper or Watch sergeant in this ward may already not be themselves.
 
 ## Where to go to disappear
 
@@ -34,4 +34,4 @@ The Dock Ward is also the city's primary **leak channel**. Cargo, people, inform
 ## See also
 
 - [../character.md](../character.md) — Criminal Cancer.
-- [../factions.md](../factions.md) — Xanathar Guild, Zhentarim factions.
+- [../factions.md](../factions.md) — [Xanathar Guild](../../../../20-Factions/xanathars-guild/summary.md), Zhentarim factions.

@@ -1,15 +1,15 @@
 ---
 name: rivington-recovery-group
-description: Iron Throne front company for distress-debt buying in the blockaded Outer City; outed in the Baldur's Mouth and rolled into intelligence brokerage.
+description: Iron Throne front company for distress-debt buying in the blockaded [Outer City](../../../30-Places/sword-coast/baldurs-gate/outer-city/README.md); outed in the Baldur's Mouth and rolled into intelligence brokerage.
 ---
 
 # The Rivington Recovery Group
 
-A front company stood up by the [Iron Throne](../summary.md) during the blockade economy, ostensibly to "recover" failing Outer City businesses but in practice to acquire distress-debt and seize collateral at a fraction of pre-crisis value. Active in **Rivington** and **Blackgate**.
+A front company stood up by the [Iron Throne](../summary.md) during the blockade economy, ostensibly to "recover" failing [Outer City](../../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) businesses but in practice to acquire distress-debt and seize collateral at a fraction of pre-crisis value. Active in **Rivington** and **Blackgate**.
 
 ## What it actually did
 
-- Quietly bought up the debts of small Outer City businesses on the verge of collapse during the [Free Traders](../../free-traders-of-the-outskirts/summary.md) blockade — taverns, smithies, caravan operators short on operating capital.
+- Quietly bought up the debts of small [Outer City](../../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) businesses on the verge of collapse during the [Free Traders](../../free-traders-of-the-outskirts/summary.md) blockade — taverns, smithies, caravan operators short on operating capital.
 - Acquired their inventory, leases, and equipment for a pittance when the borrowers defaulted.
 - Booked the gains under the Recovery Group's name rather than the Iron Throne's, insulating the family name from the inevitable backlash.
 
@@ -23,7 +23,7 @@ The Throne pivoted the same week to **information brokerage** — selling intell
 
 ## Hooks
 
-- A burnt Outer City business owner approaches the party with the Recovery Group's foreclosure papers, asking for help recovering seized goods or extracting revenge on the Iron Throne agents who took them.
+- A burnt [Outer City](../../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) business owner approaches the party with the Recovery Group's foreclosure papers, asking for help recovering seized goods or extracting revenge on the Iron Throne agents who took them.
 - A surviving Recovery Group ledger — names, debts, collateral lists — is a piece of leverage the [Harpers](../../harpers/summary.md), the [Guild](../../guild/summary.md), or the [Free Traders](../../free-traders-of-the-outskirts/summary.md) would all pay handsomely for.
 - The Seatower clerk who leaked the story is a vulnerability the Throne would like to address quietly.
 

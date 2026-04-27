@@ -26,7 +26,7 @@ The pattern: every threat is psychically inflected, not just biologically danger
 
 ## The Whisperwood Copse
 
-The clear-cut site at the western edge. Per `faction-quests.xlsx`, the Western Gate dispatched logging crews to the Whisperwood Copse and clear-cut it with brutal efficiency. The site is now a stump-field at the wood's lip — visible from the Trade Way, raw and ugly. It is the most obvious place to look for both Western Gate enforcers and Circle reprisal squads.
+The clear-cut site at the western edge. Per `faction-quests.xlsx`, the Western Gate dispatched logging crews to the [Whisperwood Copse](../whisperwood-copse.md) and clear-cut it with brutal efficiency. The site is now a stump-field at the wood's lip — visible from the Trade Way, raw and ugly. It is the most obvious place to look for both Western Gate enforcers and Circle reprisal squads.
 
 ## Useful to whom
 
