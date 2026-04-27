@@ -13,7 +13,7 @@ Jaredith's faith and his patience have come unmoored from the rest of his comman
 
 ## Role with the party
 
-In [Session 3](../../../50-Sessions/session_3/player_summary.md), Alena tasks the party (see [accept-the-jaredith-mission-from-alena](../../party/activity/week_1/accept-the-jaredith-mission-from-alena.md)) with discreetly investigating Jaredith — find the influences pulling him under, and persuade him off the violent path. The mission is open at week's end.
+In [Session 3](../../../50-Sessions/session_3/player_summary.md), Alena tasks the party (see [accept-the-jaredith-mission-from-alena](../../party/activity/week_1/accept-the-jaredith-mission-from-alena.md)) with discreetly investigating Jaredith — find the influences pulling him under, and persuade him off the violent path. In **Session 7** Spark wins a non-lethal "ember cast" duel with Jaredith at the [Phoenix Pits](../../party/activity/week_2/expose-zora-at-the-phoenix-pits.md), exposing his lover-mentor **Zora** as a Plague-of-Remembrance mage and leaving Jaredith respectfully injured. The [watchtower ambush](../../party/activity/week_2/survive-the-watchtower-ambush.md) breaks Zora's hold on him entirely. After five days of grief in Rivington with [the Ember](../../followers-of-the-phoenix/people/the-ember.md), he [walks to Wyrm's Crossing and ends the protest in song](../../party/activity/week_2/witness-jaredith-end-the-protest.md) — refusing afterward to return to Hellrider duty. He is now a public folk-hero of the [Followers of the Phoenix](../../followers-of-the-phoenix/summary.md), a grateful party ally, and Alena's hardest-felt political loss.
 
 ## See also
 

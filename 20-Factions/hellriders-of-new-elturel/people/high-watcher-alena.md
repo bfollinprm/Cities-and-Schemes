@@ -23,6 +23,8 @@ Alena runs both the **militia** and the **informal government** of New Elturel f
 - **Collapsed negotiations.** Alena flatly refused the Council's insulting offer, unwilling to betray the [Free Traders of the Outskirts](../../free-traders-of-the-outskirts/summary.md). Negotiations collapsed; both sides have hardened.
 - **The Call to Arms.** With mercenaries at the gate and negotiations dead, Alena has issued a formal call to arms, organizing refugees into militia brigades and beginning public drills.
 - **Plague-of-Remembrance infiltration.** Lady Emmeline Vhage is currently trying to turn a disillusioned Hellrider officer into an informant, exploiting his bitterness over the failed citizenship deal.
+- **Citizenship negotiations reopened (week 2).** Alena leveraged the goodwill from the protest's peaceful end to [reopen formal negotiations with Lyra Sunstone and the Council of Four](../activity/week_2/the-interrogation.md) on a refugee path to citizenship. Concurrently, [she nearly died at the watchtower ambush](../../party/activity/week_2/survive-the-watchtower-ambush.md) and is hardening — the party are now her primary deniable instrument.
+- **Eclipsed in New Elturel.** [The Ember and Jaredith's protest-ending song](../../party/activity/week_2/witness-jaredith-end-the-protest.md) elevated the Followers of the Phoenix above her disciplined Hellriders as the dominant faith movement in the district; her authority now rests more on negotiation outcomes than on visible mobilization.
 
 ## See also
 

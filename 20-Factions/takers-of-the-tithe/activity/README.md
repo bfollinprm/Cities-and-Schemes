@@ -6,3 +6,4 @@ Ongoing actions, organized by in-game week.
 
 - [week_0/](week_0/) — identify-a-master-artisan-as-a-target.
 - [week_1/](week_1/) — the-reaper-strikes.
+- [week_2/](week_2/) — the-grieving-genius.

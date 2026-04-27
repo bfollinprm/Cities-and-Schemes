@@ -6,3 +6,4 @@ Ongoing actions, organized by in-game week.
 
 - [week_0/](week_0/) — establish-a-new-sewer-cache.
 - [week_1/](week_1/) — smuggle-a-person-past-the-gates.
+- [week_2/](week_2/) — the-blockade-boom.

@@ -6,3 +6,4 @@ Ongoing actions, organized by in-game week.
 
 - [week_0/](week_0/) — secure-monopoly-on-waterdhavian-silk.
 - [week_1/](week_1/) — identify-a-fashion-spy.
+- [week_2/](week_2/) — weave-a-web-of-whispers.

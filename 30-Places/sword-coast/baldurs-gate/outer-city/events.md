@@ -65,6 +65,45 @@ description: What happened in the [Outer City](README.md) districts by in-game w
 
 - **Hands-of-the-Absolute echoes near the camp go unfound.** Both [Gravekeepers](../../../../20-Factions/gravekeepers/activity/week_1/investigate-psychic-disturbances-near-the-kliir.md) and [Unchained](../../../../20-Factions/unchained/activity/week_1/begin-investigating-psychic-echoes.md) sweeps come up empty.
 
+## Week 2
+
+### Wyrm's Crossing
+
+- **Hellrider protest dissolves in song.** [The Ember](../../../../20-Factions/followers-of-the-phoenix/people/the-ember.md) magically amplifies a [Jaredith](../../../../20-Factions/hellriders-of-new-elturel/people/jaredith-heartsong.md) ballad across the protest line; merchants share food with refugees; the standoff ends in communal empathy. The way into the main city opens. See [party activity](../../../../20-Factions/party/activity/week_2/witness-jaredith-end-the-protest.md).
+- **Sodality installs permanent scrying censers** at Wyrm's Crossing and the Basilisk Gate. See [activity](../../../../20-Factions/wc-sorcerous-sodality/activity/week_2/trace-the-arcane-signature.md).
+
+### Basilisk Gate
+
+- **Free Trader siege digs in.** ['Mad' Meggan](../../../../20-Factions/free-traders-of-the-outskirts/people/mad-meggan.md) extracts and broadcasts a public confession from the cultist prisoner the party sells her for **6,000 gp**; the named patriar families ignite a class-warfare firestorm. See [activity](../../../../20-Factions/free-traders-of-the-outskirts/activity/week_2/dig-in-for-the-siege.md) and [party deal](../../../../20-Factions/party/activity/week_2/sell-the-cultist-to-mad-meggan.md).
+- **Bhaalist murder spree.** Initiates carry out ritualized killings under cover of the protest crowd and frame the Free Traders. See [activity](../../../../20-Factions/cult-of-the-returning-lord/activity/week_2/a-murder-in-the-crowd.md).
+- **Carnival of Whispers harvests another disappearance** near the siege line. See [activity](../../../../20-Factions/carnival-of-whispers/activity/week_2/a-feast-of-frustration.md).
+- **Sembian and Knight emissaries refused.** [Sembian K'laar approach to Meggan](../../../../20-Factions/sembian-kontor/activity/week_2/test-the-barricade.md) and [Knights' approach to Marshal Flint](../../../../20-Factions/knights-of-the-shield/activity/week_2/a-bargain-in-the-barracks.md) both refused.
+
+### Rivington
+
+- **Open Hand Temple psi-sensitive lead goes cold.** [Hands of the Absolute](../../../../20-Factions/hands-of-the-absolute/activity/week_2/harvest-the-echo.md) cell loses its candidate during the protest chaos; [Brother Billiam](../../../../20-Factions/hands-of-the-absolute/people/brother-billiam.md) flagged as the cult's contact-of-record at the temple.
+- **Water pump station disabled** by [the Purified](../../../../20-Factions/purified/activity/week_2/purge-the-pump-station.md); localized water shortage; Watch dismisses as vandalism.
+- **Vintners crack down on a Rivington unlicensed distillery.** See [activity](../../../../20-Factions/wc-vintners-brewers/activity/week_2/stem-the-illicit-tide.md).
+- **Vex pivots the party to investigate the Circus of the Last Days.** See [party activity](../../../../20-Factions/party/activity/week_2/take-vex-circus-assignment.md).
+- **Finn burglarizes the Wondrous Trinkets and Arcane Emporium** and lifts the [Velvet Hand smuggling map](../../../../20-Factions/zhentarim/activity/week_2/consolidate-the-east-end.md). See [party activity](../../../../20-Factions/party/activity/week_2/burglarize-the-arcane-emporium.md).
+- **Sodality investigation confirms unlicensed magic at the ruined cliff watchtower** outside New Elturel after the [party's ambush](../../../../20-Factions/party/activity/week_2/survive-the-watchtower-ambush.md). See [activity](../../../../20-Factions/wc-sorcerous-sodality/activity/week_2/trace-the-arcane-signature.md).
+
+### New Elturel
+
+- **Followers of the Phoenix break ground on a new temple.** Ranks swell with new converts; the [Ember's faith movement](../../../../20-Factions/followers-of-the-phoenix/activity/week_2/the-call-for-martyrs.md) eclipses [Alena's disciplined moderates](../../../../20-Factions/hellriders-of-new-elturel/activity/week_2/the-interrogation.md) for the first time.
+- **Hellrider citizenship negotiations open with Lyra Sunstone.** Alena leverages the protest's peaceful end. See [activity](../../../../20-Factions/hellriders-of-new-elturel/activity/week_2/the-interrogation.md).
+- **Zora exposed at the Phoenix Pits.** Spark wins a non-lethal duel with [Jaredith](../../../../20-Factions/hellriders-of-new-elturel/people/jaredith-heartsong.md). See [party activity](../../../../20-Factions/party/activity/week_2/expose-zora-at-the-phoenix-pits.md).
+- **Watchtower ambush.** [Zora](../../../../20-Factions/plague-of-remembrance/people/zora.md) drops *Cone of Cold*; the party survives; Zora teleports away and is [extracted from the city by Vhage](../../../../20-Factions/plague-of-remembrance/activity/week_2/silence-and-slander.md). Loot: cracked-vial cult tokens. See [party activity](../../../../20-Factions/party/activity/week_2/survive-the-watchtower-ambush.md).
+- **Plague of Remembrance amplifies a Bhaalist murder-frame on the Free Traders** through Heapside whisper networks. See [activity](../../../../20-Factions/plague-of-remembrance/activity/week_2/silence-and-slander.md).
+
+### Tumbledown and Floodway
+
+- **Gravekeepers neutralize an undead manifestation** in the cemetery — likely a knock-on effect of the [destroyed Plague-Father lab](../../../../20-Factions/party/activity/week_1/destroy-the-plague-fathers-laboratory.md). See [activity](../../../../20-Factions/gravekeepers/activity/week_2/secure-the-sepulchers.md).
+
+### The K'liir
+
+- **Internal training week.** [K'laar's training cycle](../../../../20-Factions/unchained/activity/week_2/a-profitable-exercise.md); a periphery psi-sensitive recruit is now flagged by the Hands as a future kidnap target.
+
 ## See also
 
 - [README.md](README.md) — Outer City overview.

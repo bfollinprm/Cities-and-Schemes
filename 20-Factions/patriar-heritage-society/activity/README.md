@@ -6,3 +6,4 @@ Ongoing actions, organized by in-game week.
 
 - [week_0/](week_0/) — host-a-baldurian-purity-gala.
 - [week_1/](week_1/) — sponsor-the-dispossessed-hlath-family.
+- [week_2/](week_2/) — empower-the-old-guard.
