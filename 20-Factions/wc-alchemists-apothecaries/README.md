@@ -6,3 +6,4 @@ Secretive guild controlling potions, antitoxins, and other exotic substances.
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: phineas-droog.
+- [activity/](activity/) — Ongoing actions by week (week_0).

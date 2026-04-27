@@ -5,4 +5,5 @@ Diminished and corrupt city military and police force, struggling for relevance.
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
-- [people/](people/) — Named figures: valerius-flint.
+- [people/](people/) — Named figures: manip-jerrol, valerius-flint.
+- [activity/](activity/) — Ongoing actions by week (week_0).

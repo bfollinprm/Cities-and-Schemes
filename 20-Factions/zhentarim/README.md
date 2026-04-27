@@ -6,3 +6,4 @@ Ruthless profit-driven criminal network seeking to supplant the Guild.
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: roah-moonglow.
+- [activity/](activity/) — Ongoing actions by week (week_0).

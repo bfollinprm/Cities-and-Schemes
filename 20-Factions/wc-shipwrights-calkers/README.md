@@ -6,3 +6,4 @@ Most powerful guild, controlling the city's vital shipbuilding and repair indust
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: helma-tallowshand.
+- [activity/](activity/) — Ongoing actions by week (week_0).

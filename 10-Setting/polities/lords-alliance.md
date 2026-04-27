@@ -1,38 +1,38 @@
 ---
 name: lords-alliance
-description: Formal political and military confederation of the North, founded 1314 DR; Waterdeep-chaired and projected south through the Splendid Yard.
+description: The Lords' Alliance — formal Waterdeep-led mutual-defense and trade pact binding the major Sword Coast North polities.
 ---
 
 # The Lords' Alliance
 
-A **formal political and military confederation** of cities and states across the North, founded in **1314 DR**. Member powers commit to mutual defense, intelligence sharing, and a unified front against destabilizing forces. The **Open Lord of Waterdeep** chairs it by tradition; that makes Waterdeep the Alliance's de facto capital, and the [Waterdhavian Kontor](../../20-Factions/waterdhavian-kontor/summary.md) — *The Splendid Yard* — its southern bastion in Baldur's Gate.
+A formal political and military confederation of the Sword Coast North, founded in 1314 DR with Waterdeep as its anchor. The Alliance binds **Waterdeep, Neverwinter, Silverymoon, Mirabar, Yartar**, and a rotating cohort of smaller polities through shared diplomacy, coordinated trade agreements, and mutual defense. Chaired by the **Open Lord of Waterdeep** — currently [Laeral Silverhand](waterdeep-government.md).
 
 ## What it is — and isn't
 
-A **chartered alliance**, not a trade bloc like the [Sword Coast Hansa](sword-coast-hansa.md). Where the Hansa standardizes commerce, the Alliance projects political will:
+A real chartered confederation, distinct from the informal [Sword Coast Hansa](sword-coast-hansa.md) it overlaps with. The Alliance:
 
-- **Mutual defense.** Member cities commit forces to each other's defense against external aggression.
-- **Counter-intelligence.** Alliance agents (often [Harpers](../../20-Factions/harpers/summary.md), formally or informally) share intelligence on shared enemies — chiefly the [Zhentarim](../../20-Factions/zhentarim/summary.md), but also infernal incursions and the resurgent cults.
-- **Diplomatic coordination.** Alliance ambassadors present a single front to outsiders (Amn, Calimshan, the Underdark powers).
+- **Holds the chair from Waterdeep.** The Open Lord coordinates Alliance diplomacy and convenes member representatives. Member cities each retain full sovereignty.
+- **Coordinates fleet patrols.** Member navies — Waterdhavian, Baldur's-Gate-aligned (informally), Neverwinter — patrol the **Sword Coast Run** between major ports, enforce anti-piracy mandates, and project force into contested waters when in concert. The 1498 DR victory at Asavir's Channel that broke Bloodwave's Black Flag Fleet was the Alliance's high-water mark of the decade.
+- **Issues membership as currency.** A seat in the Alliance is the difference between being inside the system that runs the North and being outside it. **Luskan**'s pursuit of a seat — through Jarlaxle Baenre's Bregan D'aerthe brokering — is the live political question of 1502 DR; **Neverember of Neverwinter** opposes it because dilution of his vote is the price.
 
-It does **not** dictate domestic policy in member cities. Each polity governs itself; the Alliance only binds them on shared external action.
+## What it doesn't do
 
-## Members and the Sword Coast posture
+- **Does not bind Baldur's Gate.** The Gate sits inside the [Hansa](sword-coast-hansa.md) and outside the Alliance; the [Waterdhavian Kontor](../../20-Factions/waterdhavian-kontor/summary.md)'s Splendid Yard is the Alliance's southern embassy and its primary intelligence node into the city.
+- **Does not patrol the southern coast.** Alliance ships work the corridor from Waterdeep south to Orlumbor and occasionally to Candlekeep waters. Below the Nelanther bottleneck, the corridor is Hansa or Calishite turf — see [calimshan-amn.md](calimshan-amn.md).
+- **Does not project inland authority.** The new line of forts Laeral is constructing along the **High Road** is a recent and unprecedented step *toward* Alliance writ beyond the walls; its ambition is exactly the measure of how rare such writ has been.
 
-Waterdeep, Neverwinter, Silverymoon, Mirabar, Yartar, and a rotating roster of smaller Northern holds. Daggerford and Baldur's Gate are *associate* — invited to councils but not bound to military commitments. Luskan is conspicuously **outside**, and **Jarlaxle Baenre** of Bregan D'aerthe is openly trying to buy it a seat with recovered Vault-of-Dragons gold (see [Waterdeep — Factions](../../30-Places/sword-coast/waterdeep/factions.md)).
+## Why it works
 
-## Posture in Baldur's Gate
-
-The Alliance maintains a constant southern presence through the [Waterdhavian Kontor](../../20-Factions/waterdhavian-kontor/summary.md), led by [Factor Elara Mornwood](../../20-Factions/waterdhavian-kontor/people/elara-mornwood.md), who doubles as the senior Alliance intelligence officer in the city. The Kontor is staffed by Waterdhavian nationals and serves as an unofficial headquarters for [Harpers](../../20-Factions/harpers/summary.md) cells. Its protective **Griffin Guard** is the only Alliance-flagged martial force south of the Trollclaws.
-
-Alliance priorities in the south, in order: stability of the Sword Coast trade corridor; containment of Amnian commercial expansion; suppression of the Zhentarim; quiet intelligence on the Iron Throne, the cults, and the Bhaalspawn legacy.
+- **Naval coordination.** Member fleets together suffice to deter casual piracy and win pitched fleet engagements (Asavir's Channel, 1498 DR).
+- **Shared diplomatic posture.** Recognized passports and shared blacklists (notably [Zhentarim](../../20-Factions/zhentarim/summary.md) fronts) mean a member's enforcement decision carries weight in every member harbor. [Harper](../../20-Factions/harpers/summary.md) cells often double as the Alliance's informal intelligence arm.
+- **Selective rivalry suppression.** The Alliance contains Waterdeep–Neverwinter friction rather than fighting it.
 
 ## Friction it creates
 
-The Alliance's open hostility toward the Zhentarim guarantees a permanent shadow war wherever the two operate. Its tilt toward Waterdhavian interests irritates the [Patriar Heritage Society](../../20-Factions/patriar-heritage-society/summary.md), who read the Splendid Yard as the soft front of a foreign occupation. Amn views the Alliance as a containment ring and routes its retaliation through the [Amnian Kontor](../../20-Factions/amnian-kontor/summary.md).
+- **Excludes pirate-broker economies.** Mintarn lost the Waterdeep mercenary contract under Laeral (~1495 DR); the shortfall now shapes the Tyrant's politics — see [luskan-and-the-pirates.md](luskan-and-the-pirates.md).
+- **Cannot police the deep.** Alliance patrols stop where the Kraken Society and Umberlee's clergy begin. Underwater vetoes are not Alliance business.
+- **Antagonizes the Baldurian patriar bloc.** The [Patriar Heritage Society](../../20-Factions/patriar-heritage-society/summary.md) reads the Splendid Yard as the soft front of a foreign occupation; the [Amnian Kontor](../../20-Factions/amnian-kontor/summary.md) routes Amn's retaliation through the same political openings.
 
-## See also
+## Source
 
-- [waterdeep-government.md](waterdeep-government.md) — the Open Lord chairs the Alliance; the Lord Mage commands its elite Force Grey.
-- [sword-coast-hansa.md](sword-coast-hansa.md) — the parallel commercial bloc Waterdeep participates in via the Splendid Yard.
-- [Waterdhavian Kontor](../../20-Factions/waterdhavian-kontor/summary.md) — the Alliance's outpost in Baldur's Gate.
+`.context/converted/dossier-sea-of-swords.md` — Trade Routes & Contraband Lanes; Mintarn; Luskan. Cross-checked against `30-Places/sword-coast/waterdeep/neighbors.md`.

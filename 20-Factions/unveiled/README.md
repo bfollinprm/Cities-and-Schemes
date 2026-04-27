@@ -7,4 +7,4 @@ Conspiracy-paladin cell convinced the [Absolute Crisis](../../10-Setting/history
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: xylia.
 - [associations/](associations/) — Items, holdings, vehicles (empty).
-- [activity/](activity/) — Ongoing actions by week (empty).
+- [activity/](activity/) — Ongoing actions by week (week_0).
