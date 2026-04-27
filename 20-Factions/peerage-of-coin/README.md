@@ -5,3 +5,4 @@ New-money house where corporate entities buy seats and laws are drafted on econo
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [activity/](activity/) — Ongoing actions by week (week_0).

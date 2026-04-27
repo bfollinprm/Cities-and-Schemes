@@ -1,0 +1,7 @@
+# Circle of the Inner Grove — activity
+
+Ongoing actions, organized by in-game week.
+
+## Index
+
+- [week_0/](week_0/) — perform-a-ritual-of-warding.

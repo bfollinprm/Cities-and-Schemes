@@ -6,3 +6,4 @@ Ancient guild controlling Gray Harbour fishing fleets; food supply leverage.
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: marga-saltwind.
+- [activity/](activity/) — Ongoing actions by week (week_0).
