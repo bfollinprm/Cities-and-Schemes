@@ -14,7 +14,7 @@ Loud. Constant. Foot and cart traffic at every hour. Every guild's public face �
 
 ## The institutional weight
 
-The Trades Ward is where the **Class Conflict** is felt as policy. The guilds enforce **Guild Law** here — distinct from city law, blessed by the Lords, and harshly applied. Practicing a regulated trade without guild membership is illegal and invites swift retribution. The dossier names the **Guild of Watermen** and the **Fellowship of Carters and Coachmen** as critical-infrastructure guilds capable of strangling the city's trade through a strike. Negotiations with the Lords always carry that implicit threat.
+The Trades Ward is where the **Class Conflict** is felt as policy. The guilds enforce **Guild Law** here — distinct from city law, blessed by the Lords, and harshly applied. Practicing a regulated trade without guild membership is illegal and invites swift retribution. The dossier names the [Guild of Watermen](../guild-of-watermen.md) and the [Fellowship of Carters and Coachmen](../fellowship-of-carters-and-coachmen.md) as critical-infrastructure guilds capable of strangling the city's trade through a strike. Negotiations with the Lords always carry that implicit threat.
 
 ## The artisan drain
 

@@ -14,6 +14,7 @@ Born of catastrophe and stubborn hope, New Elturel is a sprawling refugee boroug
 - **Dawnmarket.** Refugee-run bazaar where farm tools, salvaged books, and "Last Light" loaves trade hands. Prices fair by custom, not by law.
 - **Memorial Row.** Carved wooden pillars etched with names that never made it home. Visitors leave white ribbons; locals leave silence.
 - **River Steps.** Terraced banks for washing, fishing, ferry musters to Rivington. Notice boards carry day-labor and escort postings.
+- [The Phoenix Pits](phoenix-pits.md) — unsanctioned cage-fight venue on the borough's southern edge; Karlach-cult adjacent and a dead-end for one of the Sodality's open case files.
 
 ## Who lives here
 

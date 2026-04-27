@@ -18,6 +18,8 @@ Greater metropolitan population: in excess of one million; the walled city is fa
 - [governance.md](governance.md) — Open Lord, Masked Lords, Watch and Guard *as the city sees them*.
 - [factions.md](factions.md) — Cross-link table to factions active in the city.
 - [xanathars-guild.md](xanathars-guild.md) — Beholder-led criminal empire; one half of the Shadow War.
+- [guild-of-watermen.md](guild-of-watermen.md) — Waterdhavian dock-labor guild; one of two guilds that can halt the city's trade.
+- [fellowship-of-carters-and-coachmen.md](fellowship-of-carters-and-coachmen.md) — Waterdhavian cart-and-coach guild; the other guild with the strike weapon.
 - [neighbors.md](neighbors.md) — Sword Coast peer cities and the southern rivalry with Baldur's Gate.
 - [history.md](history.md) — Waterdeep-specific city memory; dated events in [40-Timeline/history.md](../../../40-Timeline/history.md).
 

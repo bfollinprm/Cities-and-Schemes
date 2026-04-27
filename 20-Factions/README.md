@@ -51,6 +51,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Circle of the Inner Grove](circle-of-the-inner-grove/summary.md) — Druidic sect protecting the Chionthar from the city's pollution and industrial expansion.
 - [The Guild](guild/summary.md) — Sophisticated criminal syndicate evolved into the de facto government of the common folk.
 - [The Harpers](harpers/summary.md) — Semi-secret balance-keepers gathering intelligence and subtly intervening against corrupt powers.
+- [Poisoners' Guild](poisoners-guild/summary.md) — Un-chartered black-market mirror to the Worshipful Alchemists; cold-war rival selling what the Company will not.
 - [Zhentarim *(Black Network)*](zhentarim/summary.md) — Ruthless profit-driven criminal network seeking to supplant the Guild.
 
 ### Smuggler Cells

@@ -26,7 +26,7 @@ The city's elite reserve — adventurers and high-magic specialists led by the *
 
 ## Guild Law
 
-The Guilds enforce their own laws — distinct from city law, blessed by the Lords. Practicing a regulated trade without guild membership is illegal and harshly punished by the relevant guild's enforcers. The Guild of Watermen and the Fellowship of Carters and Coachmen can each, by themselves, halt the city's trade. Negotiations with the Lords over taxes or regulation always run under the implicit threat of a strike.
+The Guilds enforce their own laws — distinct from city law, blessed by the Lords. Practicing a regulated trade without guild membership is illegal and harshly punished by the relevant guild's enforcers. The [Guild of Watermen](guild-of-watermen.md) and the [Fellowship of Carters and Coachmen](fellowship-of-carters-and-coachmen.md) can each, by themselves, halt the city's trade. Negotiations with the Lords over taxes or regulation always run under the implicit threat of a strike.
 
 ## The "Open Rulers"
 
