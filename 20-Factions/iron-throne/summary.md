@@ -30,6 +30,8 @@ A handful of remaining Iron Throne agents and brokers, working out of the family
 
 **Patrons.** Anyone with coin and a job too dirty for a respectable consortium.
 
+**Power vacuum.** Per dm-notes, the Throne's botched Undercity expedition — alongside parallel failures by the [River-Rats](../river-rats/summary.md) and [Wharf Rats](../wharf-rats/summary.md) and the open Zhentarim–Guild war — has opened a clear *competence vacuum* in the city's shadows. A new player (the party) could plausibly take over the niche the Throne is letting slip.
+
 ## See also
 
 - [The Anonymous Throne](people/the-anonymous-throne.md) — the un-named leader's known patterns.

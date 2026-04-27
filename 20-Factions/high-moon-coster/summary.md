@@ -18,7 +18,7 @@ The **Oberon family**, operating from a remaining manor in the Upper City. They 
 ## Methods
 
 - **Sponsor an Adventuring Party.** The Oberons recently scraped together coin for a fledgling party to explore a rumored ruin in the **Cloakwood**, hoping for a rare artifact that could restore a sliver of the family's lost fortune.
-- **Failed sponsorship of the city's newest celebrity adventurers.** An attempt to retain the latest hot Lower City party (likely the [PCs](../party/summary.md)) at the Blushing Mermaid was rebuffed — the Oberons' offer was deemed insufficient given the party's apparent means. The family is now hunting for either a richer offer or a quieter, less-courted party.
+- **Failed sponsorship of the city's newest celebrity adventurers.** An attempt to retain the latest hot Lower City party (likely the [PCs](../party/summary.md)) at the Blushing Mermaid was rebuffed — explicitly because *"the party's newfound (and mysterious) wealth is becoming common knowledge"* per dm-notes. The Oberons' offer was deemed insufficient given the party's apparent means; the rejection is a piece of *intelligence about the PCs' reputation*, not just a price disagreement. The family is now hunting for either a richer offer or a quieter, less-courted party.
 - **Manor as backstop.** Like the Jhassos, the Oberons increasingly fund expeditions against family heirlooms and the slow leakage of the manor's contents.
 
 ## Hooks and Relationships

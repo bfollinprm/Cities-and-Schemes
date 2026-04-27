@@ -5,11 +5,11 @@ description: Resurgent diabolist secret society of merchants and nobles, rebuild
 
 # Knights of the Shield
 
-A once-powerful secret society of merchants and nobles who **bargained with devils for power**, shattered during the Absolute Crisis and now quietly rebuilding. Goal: regain influence over the city's elite, one infernal pact at a time. Scattered cells, coded messages, forgotten cellars; led by an unknown **"Hidden Lord"** whose name appears in no source.
+A once-powerful secret society of merchants and nobles who **bargained with devils for power**, shattered during the Absolute Crisis and quietly rebuilding. Goal: regain influence over the city's elite, one infernal pact at a time. Scattered cells, coded messages, forgotten cellars; led by an unknown **"Hidden Lord."**
 
 ## Ideology
 
-Power that survives the city's catastrophes is power that has been *secured* — by oath, by signature, by name. The Knights traffic in pacts: protection, vengeance, leverage, all priced in souls and family secrets. They prey on patriars and merchants who have lost something — a fortune, an estate, a child to the crisis — and who have run out of legitimate options.
+Power that survives the city's catastrophes is power that has been *secured* — by oath, by signature, by name. The Knights traffic in pacts: protection, vengeance, leverage, all priced in souls and family secrets. They prey on patriars and merchants who have lost something and run out of legitimate options.
 
 ## Membership
 
@@ -20,9 +20,7 @@ Cells with limited knowledge of each other. Recruiters target the **dispossessed
 The recruiter — referred to in `faction-quests.xlsx` only as **"the Hidden Lord"** — has been busy:
 
 - **Failed recruitment of Lord Hlath.** The dispossessed Hlath balked at the infernal oaths and **anonymously tipped off a priest at the Watchful Shield Shrine** about the Knights' resurgence.
-- **Failed clandestine offer to Marshal Flint** at the Basilisk Gate Barracks.
-- **Failed approach to a junior Chionthar Consortium member** — reported up, putting the [Chionthar Consortium](../chionthar-consortium/summary.md) on infernal-influence alert.
-- **Failed approach to a Guild Ward Boss** at the Salt-Cellar in Brampton — also reported, putting the [Guild](../guild/summary.md) on alert.
+- **Failed offers to Marshal Flint, a junior Chionthar Consortium member, and a Guild Ward Boss** — all three reported the encounter up, putting the [Chionthar Consortium](../chionthar-consortium/summary.md) and [Guild](../guild/summary.md) on infernal-influence alert.
 - **Successful pact with a recently-burgled Manorborn noble** — traded "infernal protection" for the family's private journals on Peerage of Blood voting history, then used the blackmail to swing a trade-tariff vote.
 - **The Gilded Extortion.** During the Upper City gate lockdown, demanded **infernal soul-coins** from trapped patriars in exchange for "guaranteed" protection from Lower City mobs.
 
@@ -35,6 +33,8 @@ The recruiter — referred to in `faction-quests.xlsx` only as **"the Hidden Lor
 **Enemies.** The [Harpers](../harpers/summary.md) and any devoutly good-aligned faction; the **Watchful Shield Shrine** priesthood (now alerted by Hlath); both the [Chionthar Consortium](../chionthar-consortium/summary.md) and the [Guild](../guild/summary.md) (alerted by the failed approaches).
 
 **Possible allies of convenience.** The [Zhentarim](../zhentarim/summary.md), or any corrupt patriar with no remaining qualms.
+
+**Perrine conspiracy frame.** Per `factions.docx`, conspiracy theorist Perrine casts the Knights as the *secret architects of Elturel's fall* — "transmuting" its divine energy into infernal power, with the Consortiums and Kontors as fronts laundering Nine Hells gold. Paranoid, but it gives the Knights an outsized role for any party that buys it.
 
 ## See also
 
