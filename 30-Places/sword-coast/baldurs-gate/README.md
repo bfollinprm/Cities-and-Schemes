@@ -5,7 +5,7 @@ description: City index — the Phoenix on the Chionthar, ten years after the Ab
 
 # Baldur's Gate
 
-A city of ~145,000 souls on the north bank of the Chionthar, a few days' sail from the [Sea of Swords](../sea-of-swords.md). Founded by the adventurer Balduran around 1068 DR; rebuilt at foreign expense after the Absolute Crisis of 1492 DR; today the head of the Sword Coast Hansa and a working plutocracy.
+A city of ~145,000 souls on the north bank of the Chionthar, a few days' sail from the [Sea of Swords](../../../10-Setting/regions/sea-of-swords.md). Founded by the adventurer Balduran around 1068 DR; rebuilt at foreign expense after the Absolute Crisis of 1492 DR; today the head of the Sword Coast Hansa and a working plutocracy.
 
 ## City-level files
 

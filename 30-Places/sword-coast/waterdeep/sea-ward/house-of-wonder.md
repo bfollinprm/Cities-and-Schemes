@@ -9,7 +9,7 @@ Waterdeep's principal Mystran temple, a tall pale-stone hall on the [Sea Ward](R
 
 ## Sub-basement rumours
 
-The temple's lower vaults are sealed, mage-warded, and very thoroughly not on the priests' tour. The [Green Masquerade](../../../../10-Setting/cosmology/fey-courts/green-masquerade.md) is widely rumoured to keep the **Ledger of Favors** — a semi-sentient, Sylvan-script tome that records every Masquerade bargain — in a warded sub-basement under the House of Wonder. The Mystran clergy have neither confirmed nor denied; the rumour competes with one that places the Ledger under the [Undercliff](../../north-ward/) instead.
+The temple's lower vaults are sealed, mage-warded, and very thoroughly not on the priests' tour. The [Green Masquerade](../../../../10-Setting/cosmology/fey-courts/green-masquerade.md) is widely rumoured to keep the **Ledger of Favors** — a semi-sentient, Sylvan-script tome that records every Masquerade bargain — in a warded sub-basement under the House of Wonder. The Mystran clergy have neither confirmed nor denied; the rumour competes with one that places the Ledger under the Undercliff instead.
 
 ## Etiquette and access
 

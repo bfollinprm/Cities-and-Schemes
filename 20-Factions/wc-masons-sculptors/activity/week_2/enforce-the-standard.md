@@ -17,5 +17,5 @@ public: null
 - [Worshipful Company of Masons & Sculptors](../../summary.md)
 - [Master Borin Stonehand](../../people/borin-stonehand.md)
 - [Chionthar Consortium — The Public Patrons](../../../chionthar-consortium/activity/week_2/the-public-patrons.md)
-- [Masons — Publicly Blame Sabotage (week 1)](../activity/week_1/publicly-blame-sabotage-for-flaw.md)
+- [Masons — Publicly Blame Sabotage (week 1)](../week_1/publicly-blame-sabotage-for-flaw.md)
 - [Rivington](../../../../30-Places/sword-coast/baldurs-gate/outer-city/rivington.md)

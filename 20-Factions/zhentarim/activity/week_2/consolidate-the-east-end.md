@@ -18,5 +18,5 @@ With the [Flaming Fist warrant on the party](../../../flaming-fist/activity/week
 - [Roah Moonglow](../../people/roah-moonglow.md)
 - [Flaming Fist — Plan the Unthinkable](../../../flaming-fist/activity/week_2/plan-the-unthinkable.md)
 - [Guild — Retaliation on the River](../../../guild/activity/week_2/retaliation-on-the-river.md)
-- [Velvet Hand club (week 1)](../activity/week_1/establish-the-velvet-hand-social-club.md)
+- [Velvet Hand club (week 1)](../week_1/establish-the-velvet-hand-social-club.md)
 - [Brampton](../../../../30-Places/sword-coast/baldurs-gate/lower-city/brampton.md)

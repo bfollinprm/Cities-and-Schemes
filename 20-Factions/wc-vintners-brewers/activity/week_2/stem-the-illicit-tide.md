@@ -17,5 +17,5 @@ public: null
 - [Worshipful Company of Vintners & Brewers](../../summary.md)
 - [Master Belba Quickfoot](../../people/belba-quickfoot.md)
 - [Rivington](../../../../30-Places/sword-coast/baldurs-gate/outer-city/rivington.md)
-- [Vintners — Peerage of Coin bribe (week 1)](../activity/week_1/bribe-a-peerage-of-coin-member.md)
+- [Vintners — Peerage of Coin bribe (week 1)](../week_1/bribe-a-peerage-of-coin-member.md)
 - [Wharf Rats — The Sympathy Squeeze](../../../wharf-rats/activity/week_2/the-sympathy-squeeze.md)
