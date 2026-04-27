@@ -5,7 +5,7 @@ description: Cloakwood as the hinterland sees it — the active battleground bet
 
 # Cloakwood (local face)
 
-The vast forest south of Baldur's Gate. The setting-scale view (extent, history, fey ecology) lives at [10-Setting/regions/cloakwood.md](../../../../../10-Setting/regions/cloakwood.md). This page is what the forest is now, from inside the hinterland.
+The vast forest south of Baldur's Gate. The macro-region view (extent, history, fey ecology) lives at [../../../cloakwood.md](../../../cloakwood.md). This page is what the forest is now, from inside the hinterland.
 
 ## What's here
 

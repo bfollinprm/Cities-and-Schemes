@@ -5,7 +5,7 @@ description: The Wood of Sharp Teeth's western edge as Baldur's Gate sees it —
 
 # Wood of Sharp Teeth (local face)
 
-The dark forest east of the Trade Way. Setting-scale view at [10-Setting/regions/wood-of-sharp-teeth.md](../../../../../10-Setting/regions/wood-of-sharp-teeth.md). This page is the local edge that touches Baldur's Gate's hinterland.
+The dark forest east of the Trade Way. Macro-region view at [../../../wood-of-sharp-teeth.md](../../../wood-of-sharp-teeth.md). This page is the local edge that touches Baldur's Gate's hinterland.
 
 ## What's here
 

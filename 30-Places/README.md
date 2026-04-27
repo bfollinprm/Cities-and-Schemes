@@ -6,4 +6,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the geographic layout and depth conve
 
 ## Index
 
-- [sword-coast/](sword-coast/README.md) — the western continental coast; campaign region. Includes Baldur's Gate and its [hinterlands](sword-coast/baldurs-gate/hinterlands/README.md).
+### Regions
+
+- [sword-coast/](sword-coast/) — The macro-region containing the campaign's primary cities. Includes Baldur's Gate and its [hinterlands](sword-coast/baldurs-gate/hinterlands/README.md), Waterdeep's Sea Ward scaffold, and macro-region forest features.

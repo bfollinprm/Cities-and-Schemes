@@ -5,3 +5,4 @@ Guild controlling alcohol trade from cheap ale to imported wine; key to social l
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: belba-quickfoot.

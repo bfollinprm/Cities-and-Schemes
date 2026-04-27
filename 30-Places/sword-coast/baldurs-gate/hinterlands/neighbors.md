@@ -21,13 +21,13 @@ Hinterlands proper is the ring of land within roughly a few days' travel of Bald
 
 ## East (Trade Way + Wood)
 
-- [Wood of Sharp Teeth](wood-of-sharp-teeth/README.md) — the local edge; setting-scale at [10-Setting/regions/wood-of-sharp-teeth.md](../../../../10-Setting/regions/wood-of-sharp-teeth.md).
+- [Wood of Sharp Teeth](wood-of-sharp-teeth/README.md) — the local edge; macro-region view at [../../wood-of-sharp-teeth.md](../../wood-of-sharp-teeth.md).
 - [Boareskyr Bridge](../../boareskyr-bridge/README.md) — far north on the Trade Way at the River Winding Water; Elturgardian paladin remnant.
 - [Berdusk](../../berdusk/README.md) — upper Chionthar city in the Western Heartlands; Harpers vs. Zhentarim.
 
 ## South-southeast (along Cloakwood)
 
-- [Cloakwood](cloakwood/README.md) — local face; setting-scale at [10-Setting/regions/cloakwood.md](../../../../10-Setting/regions/cloakwood.md).
+- [Cloakwood](cloakwood/README.md) — local face; macro-region view at [../../cloakwood.md](../../cloakwood.md).
 
 ## West (Sea of Swords)
 

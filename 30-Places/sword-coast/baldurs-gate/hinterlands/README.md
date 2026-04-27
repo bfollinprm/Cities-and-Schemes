@@ -17,8 +17,8 @@ The dossier's framing is a single in-world voice — useful for color and factio
 
 ## Local features
 
-- [cloakwood/](cloakwood/README.md) — local face of the [Cloakwood](../../../../10-Setting/regions/cloakwood.md): Western Gate logging camps versus the Circle of the Inner Grove.
-- [wood-of-sharp-teeth/](wood-of-sharp-teeth/README.md) — local edge of the [Wood of Sharp Teeth](../../../../10-Setting/regions/wood-of-sharp-teeth.md), including the Whisperwood Copse the Western Gate clear-cut.
+- [cloakwood/](cloakwood/README.md) — local face of the [Cloakwood](../../cloakwood.md): Western Gate logging camps versus the Circle of the Inner Grove.
+- [wood-of-sharp-teeth/](wood-of-sharp-teeth/README.md) — local edge of the [Wood of Sharp Teeth](../../wood-of-sharp-teeth.md), including the Whisperwood Copse the Western Gate clear-cut.
 - [river-chionthar-lower/](river-chionthar-lower/README.md) — the polluted lower Chionthar near the city.
 - [coast-way/](coast-way/README.md) — the local stretch of the road north toward Waterdeep, choked with Zhentarim toll-forts.
 - [trade-way/](trade-way/README.md) — the local stretch of the road south toward Beregost and Amn.
