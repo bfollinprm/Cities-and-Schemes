@@ -5,3 +5,4 @@ Regulators of precious metals and gems; the city's unofficial mint and assay off
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: theronius-goldhand.
