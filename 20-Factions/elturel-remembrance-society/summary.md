@@ -21,7 +21,7 @@ Almost entirely Elturian refugees — particularly those from [New Elturel](../h
 - Sabotage against businesses they believe are funded by Hell-gold — an attempt at an [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) heist on the Jannath Estate ended with the followers captured by estate guards and Perrine forced to flee.
 - Painting the symbol of Zariel in alchemical ink (visible only under *detect magic*) on the doors of "infernal" [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) businesses, tagging targets for arson.
 - Publicly condemning Kontors — a recent staged condemnation of the [Waterdhavian Kontor](../waterdhavian-kontor/summary.md) was dispersed by Griffin Guard and went unnoticed.
-- Acting as fugitives now, regrouping in a forgotten cellar beneath New Elturel.
+- Acting as fugitives now, regrouping in a forgotten cellar beneath New Elturel. After [Hhune establishes the new clandestine base in week 5](activity/week_5/regroup-in-the-shadows.md) — a sub-basement under an abandoned Elturian survivor's almshouse, accessible only through a coal-chute — coded messages call surviving Society members in; nine remnants meet around a single table by the fourth night. **Hhune is now a hidden fugitive operating from a New Elturel cellar**, and his next planned strike has shifted from heist to martyrdom on a Council member.
 
 ## Hooks and Relationships
 

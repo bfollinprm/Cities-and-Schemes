@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — the-call-for-martyrs.
 - [week_3/](week_3/) — the-first-sermon-at-the-phoenix-gate.
 - [week_4/](week_4/) — a-martyrs-sermon.
+- [week_5/](week_5/) — the-survivors-sermon.

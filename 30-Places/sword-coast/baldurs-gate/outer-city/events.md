@@ -175,6 +175,57 @@ description: What happened in the [Outer City](README.md) districts by in-game w
 
 - **Gravekeepers descend into the Bhaalist temple.** [Old Man Hemlock's](../../../../20-Factions/gravekeepers/people/hemlock.md) keepers follow [last week's necromantic-seepage map](../../../../20-Factions/gravekeepers/activity/week_3/a-pattern-in-the-rot.md) into the sewers under Tumbledown and find a hidden Bhaalist temple — four sewer altars, the cult's sigil on the keystone. The location is logged with the Watch, the Hellriders, and a Harper contact. See [Gravekeepers activity](../../../../20-Factions/gravekeepers/activity/week_4/the-source-of-the-sickness.md), [Cult — An Offering in the Dark](../../../../20-Factions/cult-of-the-returning-lord/activity/week_4/an-offering-in-the-dark.md).
 
+## Week 5
+
+### Wyrm's Rock
+
+- **Integration drills bristle.** [Marshal Flint's](../../../../20-Factions/flaming-fist/people/valerius-flint.md) joint Fist–githyanki drills expose a massive skill-and-discipline gap; Fist resentment hardens. See [activity](../../../../20-Factions/flaming-fist/activity/week_5/the-integration-drills.md).
+- **K'liir psionic perimeter operational.** [Commander K'laar](../../../../20-Factions/unchained/people/k-laar.md) establishes silent disciplined patrols around the fortress; security is absolute and unsettling. See [activity](../../../../20-Factions/unchained/activity/week_5/establish-the-perimeter.md).
+- **Cartographers' battlefield-mapping detail psychically dismissed.** [Master Vancroft's](../../../../20-Factions/wc-cartographers-surveyors/people/elias-vancroft.md) agents are detected, stripped, mind-wiped, and dumped naked at the bridge end with their memories gone. See [activity](../../../../20-Factions/wc-cartographers-surveyors/activity/week_5/mapping-the-battlefield.md).
+
+### New Elturel
+
+- **The Survivor's Sermon.** [The Ember](../../../../20-Factions/followers-of-the-phoenix/people/the-ember.md) preaches at the Phoenix Gate that the failed assassination is proof "the city's elite fear our light"; crowds triple by sundown; **Phoenix Gate temple construction begins in earnest**. See [activity](../../../../20-Factions/followers-of-the-phoenix/activity/week_5/the-survivors-sermon.md).
+- **Takers' follow-up assassin foiled at the New Elturel stockade.** A Hellrider guard dog catches the scent and bloodies the assassin off; the captured Reaper survives, alive, and possibly willing to trade. See [activity](../../../../20-Factions/takers-of-the-tithe/activity/week_5/silence-the-loose-end.md).
+- **Plague of Remembrance's seduction ploy fails at the High Rider's Stand.** [Lady Vhage's](../../../../20-Factions/plague-of-remembrance/people/emmeline-vhage.md) agent's "sleeping draught" is bashed against the wall by the suspicious Hellrider officer; Hellriders pursue; the cult's infiltration is exposed; Alena raised on alert against further treachery. See [activity](../../../../20-Factions/plague-of-remembrance/activity/week_5/the-serpents-kiss.md).
+- **The Elturgard Alliance.** [Alena](../../../../20-Factions/hellriders-of-new-elturel/people/high-watcher-alena.md) signs a formal military alliance with [Mad Meggan](../../../../20-Factions/free-traders-of-the-outskirts/people/mad-meggan.md) at the High Rider's Stand; Hellrider discipline behind the Free Trader line. See [activity](../../../../20-Factions/hellriders-of-new-elturel/activity/week_5/the-elturgard-alliance.md).
+- **Elturel Remembrance Society regroups in a hidden cellar.** [Lord Hhune](../../../../20-Factions/elturel-remembrance-society/people/perrine-hhune.md), now a fugitive after [last week's heist disaster](../../../../20-Factions/elturel-remembrance-society/activity/week_4/the-infernal-heist.md), establishes a new secret base of operations beneath New Elturel. See [activity](../../../../20-Factions/elturel-remembrance-society/activity/week_5/regroup-in-the-shadows.md).
+
+### Basilisk Gate / Eastway
+
+- **Free Traders fortify the inner barricade.** ['Mad' Meggan](../../../../20-Factions/free-traders-of-the-outskirts/people/mad-meggan.md) heeds the [Archduke's three-day ultimatum](../../../../20-Factions/council-of-four/activity/week_5/issue-the-ultimatum.md) by organizing a defensive militia and preparing for siege. See [activity](../../../../20-Factions/free-traders-of-the-outskirts/activity/week_5/heed-the-ultimatum.md).
+- **Western Gate mercenaries choke the rural supply lines.** Checkpoints established on the rural roads leading into the Outer City; food and water shipments to the blockade are seized at the Archduke's order. See [activity](../../../../20-Factions/western-gate-trading-company/activity/week_5/choke-the-supply-lines.md).
+- **Free feast under the gate.** Errinthal's relief caravan, escorted by the party, is halted at the gate by a Free Trader lieutenant; Finneas turns the standoff into a public feast for Eastway and Rivington families. See [Errinthal's relief caravan PR coup (party)](../../../../20-Factions/party/activity/week_5/errinthals-relief-caravan-pr-coup.md).
+
+### Rivington
+
+- **Symbian-mercenary shakedowns.** Sembian-livery patrols enforce the [Emergency Commerce Protection Act](../../../../20-Factions/peerage-of-coin/activity/week_5/the-emergency-tax.md) at the [Weary Plowman](rivington.md), shaking down a family for 10 gp; a 250-gp bounty for "foreign operatives" matching the party is posted on the tavern board. See [Session 12](../../../../50-Sessions/session_12/player_summary.md).
+- **The Pilgrim's Parchment book-buy.** Party purchases three Candlekeep-key tomes for 900 gp from the halfling proprietor — [the Wyrmway Wardens Weekly Ledger, the Stonemason's Secret, and an untitled Underdark psionic text](../../../../20-Factions/party/activity/week_5/the-pilgrims-parchment-buy.md) — each one the seed of a future arc.
+- **Carnival of Whispers chased out of the markets.** Off-duty Hellriders scatter [Mister Smiles'](../../../../20-Factions/carnival-of-whispers/people/mister-smiles.md) eerie troupe; the patron starves. See [activity](../../../../20-Factions/carnival-of-whispers/activity/week_5/a-feast-of-fear.md).
+- **Finneas opens "office hours" at the Plowman.** Locals begin walking in to bring grievances to the new (de facto) Guild boss of the ward; Lena pours tea. See [Install Finneas as Guild boss of Rivington (party)](../../../../20-Factions/party/activity/week_5/install-finneas-as-guild-boss-of-rivington.md).
+- **Open Hand Temple sermon.** Kaelan addresses the refugees sheltering in the Open Hand and trades a pragmatic-faith speech for emergency healing on Bror after the Plowman fight. See [Session 12](../../../../50-Sessions/session_12/player_summary.md).
+
+### Tumbledown / Sow's Foot
+
+- **Bhaalist sanctum-relocation goes wrong.** A careless acolyte spills ritual blood in Sow's Foot; local butchers form a curse-fearing mob and chase the cell back into the sewers without their unholy idols, scattered. See [activity](../../../../20-Factions/cult-of-the-returning-lord/activity/week_5/relocate-the-sanctum.md).
+- **Gravekeepers' cleansing prep stalls.** Tainted holy water and obsolete intel set [Hemlock](../../../../20-Factions/gravekeepers/people/hemlock.md) back; the Bhaalist temple has already moved. See [activity](../../../../20-Factions/gravekeepers/activity/week_5/plan-the-cleansing.md).
+
+### Norchapel
+
+- **Chandlers' authority compromised.** [Anya Brightwood's](../../../../20-Factions/wc-chandlers-lamplighters/people/anya-brightwood.md) lamplighter crews ignore her dangerous-route pull-back order — they have been Guild-bribed to stay on the streets as ears. See [activity](../../../../20-Factions/wc-chandlers-lamplighters/activity/week_5/severing-ties.md).
+
+### Whitkeep
+
+- **Cogwork Detector completed.** [Glim-Glim](../../../../20-Factions/purified/people/glim-glim.md) and the Purified begin testing their alchemical-spinning-lens contraption on city water samples for the alleged Lantaner mind-control plot. See [activity](../../../../20-Factions/purified/activity/week_5/the-cogwork-detector.md).
+
+### Rivington / Coast Way
+
+- **Iron Throne brokers mercenary intelligence from the Blushing Mermaid.** Pivot from front-company to information-broker. See [activity](../../../../20-Factions/iron-throne/activity/week_5/the-rumor-mill.md).
+
+### Chionthar River — downstream
+
+- **Water weird hunts skiffs in the main river.** [Elder Elion's](../../../../20-Factions/circle-of-the-inner-grove/people/elder-elion.md) circle pursues the elemental [their failed binding ritual created](../../../../20-Factions/circle-of-the-inner-grove/activity/week_4/binding-the-blight.md); river traffic stalls and the Consortium's docks empty. See [activity](../../../../20-Factions/circle-of-the-inner-grove/activity/week_5/hunt-the-river-horror.md).
+
 ## See also
 
 - [README.md](README.md) — Outer City overview.

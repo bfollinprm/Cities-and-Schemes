@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — profile-the-agitator.
 - [week_3/](week_3/) — an-offer-of-patronage.
 - [week_4/](week_4/) — a-closed-file.
+- [week_5/](week_5/) — cultivate-a-new-asset.

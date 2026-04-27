@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — empower-the-old-guard.
 - [week_3/](week_3/) — defend-the-marshal.
 - [week_4/](week_4/) — the-loyalty-fund.
+- [week_5/](week_5/) — the-silver-fist.

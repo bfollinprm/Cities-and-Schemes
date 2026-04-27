@@ -13,9 +13,10 @@ Kaelan still believes in Lathander's ideals of rebirth and renewal. He no longer
 
 ## Faction relationships
 
-- **[Hellriders of New Elturel](../../hellriders-of-new-elturel/summary.md):** Received armor from quartermaster Lyra Sunstone (Session 13) — gift acknowledging the party's value to Alena.
+- **[Hellriders of New Elturel](../../hellriders-of-new-elturel/summary.md):** Received full plate from quartermaster [Lyra Sunstone](../../hellriders-of-new-elturel/people/lyra-sunstone.md) on the Plowman doorstep ([Session 12](../../../50-Sessions/session_12/player_summary.md)) — gift acknowledging the party's value to Alena.
 - **[Worshipful Company of Alchemists & Apothecaries](../../wc-alchemists-apothecaries/summary.md):** Direct ideological opposition. The [Open Hand Temple](../../../30-Places/sword-coast/baldurs-gate/outer-city/open-hand-temple.md) medical-supply intervention was Kaelan's terrain — and the guild's private fury about being bypassed is partly his to manage.
-- **[Open Hand Temple](../../../30-Places/sword-coast/baldurs-gate/outer-city/open-hand-temple.md), Rivington:** Working ally. The party's medical-supply rescue (Session 4) cemented the relationship.
+- **[Open Hand Temple](../../../30-Places/sword-coast/baldurs-gate/outer-city/open-hand-temple.md), Rivington:** Working ally. The party's medical-supply rescue (Session 4) cemented the relationship; Kaelan returns in [Session 12](../../../50-Sessions/session_12/player_summary.md) with an unconscious Bror and a pragmatic-faith sermon to the refugees sheltering there.
+- **[Baldur's Mouth](../../baldurs-mouth/summary.md):** Investigative-journalist position with [Ettvard Needle](../../baldurs-mouth/people/ettvard-needle.md) ([Session 21](../../../50-Sessions/session_21/player_summary.md)). Holds the **Credential of Balduran** signet ring; runs information dropboxes at the Mouth print shop and the Plowman.
 
 ## See also
 

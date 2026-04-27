@@ -13,7 +13,9 @@ A Shadowfell-tied operative who carries an obsidian stone resonating with both S
 - **[Cult of the Returning Lord](../../cult-of-the-returning-lord/summary.md):** Accepted a deal from the "Beetle" Soul Broker entity at Dusthawk Hill (Session 12) — terms and consequences uncertain.
 - **[Carnival of Whispers](../../carnival-of-whispers/summary.md):** Stone resonance to the Circus's planar tampering creates an unwelcome sensitivity to its emotional aura.
 
-## See also
+## Week 5 — the stone hums
+
+In [Session 20](../../../50-Sessions/session_20/player_summary.md) the Whispering Stone begins picking up alien-language fragments from a wider eavesdropping network — Bror recognizes the items as the same "scoops" the *Baldur's Mouth* has been printing. [Ettvard Needle's](../../baldurs-mouth/people/ettvard-needle.md) propaganda surge has a sound, and Bror is now its passive listener. Earlier in the week (Session 12), a Symbian psychic blade dropped him unconscious on the Plowman floor; healing at the Open Hand Temple stabilized him.
 
 - [The Party](../summary.md).
 - Source: `raw-ingest/cloaks-and-conspiracies/party.docx`; `dm-notes.docx`.

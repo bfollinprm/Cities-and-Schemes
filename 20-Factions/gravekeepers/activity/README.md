@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — secure-the-sepulchers.
 - [week_3/](week_3/) — a-pattern-in-the-rot.
 - [week_4/](week_4/) — the-source-of-the-sickness.
+- [week_5/](week_5/) — plan-the-cleansing.

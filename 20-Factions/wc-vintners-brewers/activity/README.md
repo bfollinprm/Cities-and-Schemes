@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — stem-the-illicit-tide.
 - [week_3/](week_3/) — a-taste-of-gratitude.
 - [week_4/](week_4/) — a-new-patron.
+- [week_5/](week_5/) — securing-the-supply-line.

@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — a-feast-of-frustration.
 - [week_3/](week_3/) — sowing-sweet-sorrows.
 - [week_4/](week_4/) — the-debt-comes-due.
+- [week_5/](week_5/) — a-feast-of-fear.

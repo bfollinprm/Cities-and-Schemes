@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — a-bargain-in-the-barracks.
 - [week_3/](week_3/) — a-friend-in-the-coin.
 - [week_4/](week_4/) — a-deal-in-the-gutters.
+- [week_5/](week_5/) — a-desperate-bargain.

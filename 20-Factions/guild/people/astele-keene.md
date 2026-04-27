@@ -19,10 +19,9 @@ She is rarely seen in the dank Guildhall sewers. She runs operations from a mode
 
 ## Current pressures
 
-- The [Zhentarim](../../zhentarim/summary.md)'s arson of a Guild-protected tavern in Brampton, and the brazen "Velvet Hand" social club opened across the ashes, has forced her to authorize a public retaliation raid led by her enforcer Vex.
-- Her enforcer Tusgront has been quietly walking Brampton, "reminding" merchants of the benefits of Guild protection.
+- The [Zhentarim](../../zhentarim/summary.md)'s arson of a Guild-protected tavern in Brampton, and the brazen "Velvet Hand" social club opened across the ashes, forced her to authorize the [Velvet Hand demolition](../activity/week_5/prepare-the-retaliation.md) — completed by the party in week 5, with Roah Moonglow's safehouse collapsed.
+- **Her Rivington Lieutenant [Vex](vex.md) is dead** ([Session 15](../../../50-Sessions/session_15/player_summary.md)) — killed by the party in a warehouse fight she initiated to seize the Whispering Stone. One escaped scout, [Simbar](simbar.md), has been turned and installed as the party's puppet "Guildmaster of Rivington." Nine-Fingers does not yet know which version of events to believe; the [Rivington Gambit](../../party/activity/week_5/install-finneas-as-guild-boss-of-rivington.md) is structured to reach her before the truth does.
 - Winter relief for [New Elturel](../../hellriders-of-new-elturel/summary.md) — a high-visibility charity push designed to embarrass the [Council of Four](../../council-of-four/summary.md).
-- A nearby agent, "Vex Corvin," has been authorized to retrieve a psionic artifact from the party by any means necessary.
 
 ## See also
 

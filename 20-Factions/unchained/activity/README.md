@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — a-profitable-exercise.
 - [week_3/](week_3/) — an-honorable-contract.
 - [week_4/](week_4/) — an-honorable-march.
+- [week_5/](week_5/) — establish-the-perimeter.

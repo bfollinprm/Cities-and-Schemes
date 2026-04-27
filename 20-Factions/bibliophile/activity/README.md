@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — intelligence-for-sale.
 - [week_3/](week_3/) — the-price-of-treason.
 - [week_4/](week_4/) — the-price-of-strategy.
+- [week_5/](week_5/) — the-warlords-dossier.

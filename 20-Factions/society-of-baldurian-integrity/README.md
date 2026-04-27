@@ -6,4 +6,4 @@ Cultural-purity zealots warring against 'memetic contamination' from foreign art
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: calliope.
-- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3, week_4).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3, week_4, week_5).

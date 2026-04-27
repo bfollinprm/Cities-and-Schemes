@@ -5,5 +5,5 @@ Sophisticated criminal syndicate evolved into the de facto government of the com
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
-- [people/](people/) — Named figures: astele-keene, vex.
-- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3, week_4).
+- [people/](people/) — Named figures: astele-keene, belvin-soot-hamhock, farlin, glass-malakor, runa-the-hook, simbar, vex.
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3, week_4, week_5).

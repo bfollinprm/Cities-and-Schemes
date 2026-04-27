@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — contain-the-crises.
 - [week_3/](week_3/) — the-vote-of-no-confidence.
 - [week_4/](week_4/) — the-mercenary-deployment.
+- [week_5/](week_5/) — issue-the-ultimatum.

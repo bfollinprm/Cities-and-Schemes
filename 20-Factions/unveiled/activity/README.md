@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — chart-the-chaos.
 - [week_3/](week_3/) — the-puppet-marshal.
 - [week_4/](week_4/) — the-prison-break.
+- [week_5/](week_5/) — the-great-escape.
