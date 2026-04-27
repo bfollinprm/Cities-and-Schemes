@@ -5,7 +5,7 @@ description: Fortress-library on a coastal promontory south of Baldur's Gate; se
 
 # Candlekeep
 
-Fortress-library on a rocky promontory overlooking the [Sea of Swords](../sea-of-swords.md), south of Baldur's Gate. The dossier author, Ser Arman de Vries, is a Candlekeep sage; the dossier was researched in part from inside the library.
+Fortress-library on a rocky promontory overlooking the [Sea of Swords](../../../10-Setting/regions/sea-of-swords.md), south of Baldur's Gate. The dossier author, Ser Arman de Vries, is a Candlekeep sage; the dossier was researched in part from inside the library.
 
 ## What's here
 

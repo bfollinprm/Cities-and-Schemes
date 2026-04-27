@@ -54,7 +54,7 @@ See [character.md](character.md) for the Great Game's tier structure.
 
 | Faction | Role |
 | --- | --- |
-| [Bregan D'aerthe](../../../20-Factions/bregan-daerthe/summary.md) | Drow mercenary company under **[Jarlaxle Baenre](../../../20-Factions/bregan-daerthe/people/jarlaxle-baenre.md)**, fronting as the **[Sea Maidens Faire](../../../20-Factions/bregan-daerthe/associations/sea-maidens-faire.md)**. Goal: recover [Vault of Dragons](vault-of-dragons.md) gold to buy [Luskan](../luskan.md) a Lords' Alliance seat. Pragmatist; allies with anyone whose interests align. |
+| [Bregan D'aerthe](../../../20-Factions/bregan-daerthe/summary.md) | Drow mercenary company under **[Jarlaxle Baenre](../../../20-Factions/bregan-daerthe/people/jarlaxle-baenre.md)**, fronting as the **[Sea Maidens Faire](../../../20-Factions/bregan-daerthe/associations/sea-maidens-faire.md)**. Goal: recover [Vault of Dragons](vault-of-dragons.md) gold to buy [Luskan](../luskan/README.md) a Lords' Alliance seat. Pragmatist; allies with anyone whose interests align. |
 
 ## See also
 

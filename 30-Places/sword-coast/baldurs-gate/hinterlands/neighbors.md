@@ -32,7 +32,7 @@ Hinterlands proper is the ring of land within roughly a few days' travel of Bald
 ## West (Sea of Swords)
 
 - [Candlekeep](../../candlekeep/README.md) — fortress-library on a coastal promontory south of the city.
-- The [Sea of Swords](../../sea-of-swords.md) itself — see existing dossier `dossier-sea-of-swords` (not yet ingested).
+- The [Sea of Swords](../../../../10-Setting/regions/sea-of-swords.md) itself.
 
 ## Through the middle
 
