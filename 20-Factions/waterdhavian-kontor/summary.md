@@ -28,4 +28,6 @@ Led by Factor Elara Mornwood, a high-ranking half-elf member of the Lords' Allia
 ## See also
 
 - [Factor Elara Mornwood](people/elara-mornwood.md) — leader.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Kantors).
+- [Waterdeep](../../30-Places/sword-coast/waterdeep/README.md) — home city; the Splendid Yard in Baldur's Gate is the Kontor's southern outpost.
+- [Waterdeep — Government](../../10-Setting/polities/waterdeep-government.md) — the Open Lord chairs the Lords' Alliance whose agenda the Kontor advances.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Kantors); `dossier-waterdeep-1502-dr-a-city-of-veiled-threats.docx`.

@@ -34,4 +34,5 @@ The local network is overseen by the cunning trader **Roah Moonglow**. The organ
 ## See also
 
 - [Roah Moonglow](people/roah-moonglow.md) — local director.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `faction-quests.xlsx`.
+- [Waterdeep — Factions](../../30-Places/sword-coast/waterdeep/factions.md) — the Doom Raiders (Davil Starsong, Skeemo Weirdbottle) vs. Manshoon's clone faction; the Shadow War.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `faction-quests.xlsx`; `dossier-waterdeep-1502-dr-a-city-of-veiled-threats.docx`.

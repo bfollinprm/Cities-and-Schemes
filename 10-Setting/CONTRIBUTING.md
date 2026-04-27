@@ -18,7 +18,7 @@ Only create the subfolders you need; the four are presented together so every ne
 - **cosmology/** — cosmic powers, planar physics, court structures of the immortal/extraplanar. Entities here are *not* factions in the campaign sense; they shape the world but don't usually act on the Sword Coast directly.
 - **cosmology/realms/** — non-Material planes as *settings* (history, climate, who rules, what it costs to enter). If a single site within a realm matters as a *place*, it can also be linked from `30-Places/` once it intersects the Material Plane.
 - **regions/** — the Sword Coast (or another macro-region) as a *concept*: its history, its psyche, its sustained conflicts. Distinct from `30-Places/sword-coast/`, which holds the geography.
-- **polities/** — kingdom-tier powers that aren't acting *in* Baldur's Gate or Waterdeep day-to-day. Their local embassies and trading houses live in `20-Factions/` (e.g. `amnian-kontor`).
+- **polities/** — kingdom-tier powers and city-state governments. Their local embassies and trading houses live in `20-Factions/` (e.g. `amnian-kontor`).
 
 ## Cross-references
 

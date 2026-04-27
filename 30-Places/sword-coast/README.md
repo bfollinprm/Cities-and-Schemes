@@ -1,22 +1,23 @@
 ---
 name: sword-coast
-description: Western continental coast running from Waterdeep south through Baldur's Gate to Amn; the campaign's primary geography.
+description: The Sword Coast region — Waterdeep, Baldur's Gate, the Sea of Swords, and the lands between.
+type: region
 ---
 
 # Sword Coast
 
-The macro-region containing the campaign's primary cities. Bounded by the Sea of Swords to the west and the Sword Mountains, Cloakwood, and the Western Heartlands inland. The campaign sits at its midpoint, in and around **Baldur's Gate**.
+The western coast of Faerûn from Waterdeep south to the Cloud Peaks, framed seaward by the **Sea of Swords**. The dominant geopolitical fact of the region is the **Lords' Alliance**, chaired from Waterdeep, with Baldur's Gate as its emergent southern counterweight.
 
 The Coast Way and the Trade Way (the great north–south arteries) tie the region together; the **River Chionthar** drains its midsection to the sea at Baldur's Gate. Both roads and the river are now contested space — see Baldur's Gate's [hinterlands](baldurs-gate/hinterlands/README.md) for the local picture.
 
-Topical files (polities, demographics) will accumulate as dossiers add to them.
+Regional system files (`polities.md`, `demographics.md`) are scoped to the Sea of Swords ingest (issue #20) and intentionally not present here.
 
 ## Index
 
 ### Cities
 
 - [baldurs-gate/](baldurs-gate/README.md) — central city of the campaign and its [hinterlands](baldurs-gate/hinterlands/README.md).
-- [waterdeep/](waterdeep/) — City of Splendors; Lords' Alliance seat. *(scaffolded by the fey-courts dossier; populate as Waterdeep dossiers ingest.)*
+- [waterdeep/](waterdeep/README.md) — Crown of the North, City of Splendors. Secretive oligarchy and the de facto capital of the Lords' Alliance.
 
 ### Settlements
 

@@ -5,3 +5,4 @@ Xenophobic death cult of Baldurian purists framing Elturian refugees to start a 
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: emmeline-vhage.

@@ -5,3 +5,4 @@ Fey-pact cult using illusion and abduction to harvest emotional residue for thei
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: mister-smiles.
