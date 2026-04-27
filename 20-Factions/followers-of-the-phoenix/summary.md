@@ -23,7 +23,7 @@ Tieflings, Elturian refugees, the working poor, and ex-Hellrider paladins whose 
 
 - [**Mikkel**](people/mikkel.md) — young Elturian acolyte; leader-in-spirit among the younger, hot-headed faithful, currently the proximal radicalizer pulling [Jaredith Heartsong](../hellriders-of-new-elturel/people/jaredith-heartsong.md) toward the Pits.
 - **Spark** — Phoenix-aligned party member; wears fragments of Karlach's discarded heart in their cloak after Dammon's revelation.
-- [**Jaredith**](../hellriders-of-new-elturel/people/jaredith-heartsong.md) — tiefling Hellrider paladin radicalized by the cult; co-leads temple construction after his Ember-amplified song peacefully ended the [Wyrm's Crossing](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) protest.
+- [**Jaredith Heartsong**](../hellriders-of-new-elturel/people/jaredith-heartsong.md) — tiefling Hellrider paladin previously radicalized by the cult; in week 2 his Ember-amplified ballad of his life peacefully ended the [Wyrm's Crossing](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) protest, and the cult's standing in New Elturel now [eclipses the disciplined Hellriders](activity/week_2/the-call-for-martyrs.md). [Mikkel](people/mikkel.md) breaks ground on the new Phoenix temple in the same week.
 
 ## Methods
 

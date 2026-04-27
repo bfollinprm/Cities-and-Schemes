@@ -6,3 +6,4 @@ Ongoing actions, organized by in-game week.
 
 - [week_0/](week_0/) — perform-a-ritual-of-warding.
 - [week_1/](week_1/) — ruin-a-log-shipment.
+- [week_2/](week_2/) — purify-the-blight.

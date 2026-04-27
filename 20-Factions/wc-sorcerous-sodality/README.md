@@ -5,5 +5,5 @@ Reformed Sorcerous Sundries; regulates magical goods and licenses public spellca
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
-- [people/](people/) — Named figures: lorroakan.
-- [activity/](activity/) — Ongoing actions by week (week_0, week_1).
+- [people/](people/) — Named figures: lorroakan, zora.
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2).

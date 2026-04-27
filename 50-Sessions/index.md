@@ -12,3 +12,7 @@ description: Bidirectional mapping between session number and in-game week.
 | [3](session_3/README.md) | 1 | 2025-07-28 | Audience with Alena (Jaredith mission); Errinthal co-opts the party. |
 | [4](session_4/README.md) | 1 | 2025-08-04 | Sewers under Worm Spit; Otyugh in the cistern. |
 | [5](session_5/README.md) | 1 | 2025-08-11 | Finn joins; Plague-Father's lab destroyed; level 3. |
+| [6](session_6/README.md) | 2 | 2025-08-18 | Manip's deputization; Mad Meggan deal; 6,000 gp and a Medallion of Thoughts. |
+| [7](session_7/README.md) | 2 | 2025-08-25 | Vex pivots to the Circus; Spark vs. Jaredith at the Phoenix Pits; Zora exposed. |
+| [8](session_8/README.md) | 2 | 2025-09-01 | Whispering Stone deafens Bror; Finn lifts the Velvet Hand map; watchtower ambush. |
+| [9](session_9/README.md) | 2 | 2025-09-08 | Mother Nocturne's recruitment; the Ember and Jaredith end the protest; level 4. |

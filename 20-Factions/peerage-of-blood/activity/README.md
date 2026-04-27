@@ -6,3 +6,4 @@ Ongoing actions, organized by in-game week.
 
 - [week_0/](week_0/) — block-the-new-kontor-wayleave.
 - [week_1/](week_1/) — lobby-for-heritage-preservation-laws.
+- [week_2/](week_2/) — a-charity-of-spite.
