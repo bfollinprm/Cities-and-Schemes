@@ -8,4 +8,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the geographic layout and depth conve
 
 ### Regions
 
-- [sword-coast/](sword-coast/README.md) — Western Faerûn from Waterdeep to the Cloud Peaks; Lords' Alliance core.
+- [sword-coast/](sword-coast/README.md) — Western Faerûn from Waterdeep to the Cloud Peaks; Lords' Alliance core. Includes Baldur's Gate and its [hinterlands](sword-coast/baldurs-gate/hinterlands/README.md).
