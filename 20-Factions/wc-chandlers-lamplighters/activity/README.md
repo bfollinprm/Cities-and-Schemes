@@ -5,3 +5,4 @@ Ongoing actions, organized by in-game week.
 ## Index
 
 - [week_0/](week_0/) — secure-the-city-lamplighting-contract.
+- [week_1/](week_1/) — identify-dark-zones-for-the-guild.

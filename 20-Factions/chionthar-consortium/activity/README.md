@@ -5,3 +5,4 @@ Ongoing actions, organized by in-game week.
 ## Index
 
 - [week_0/](week_0/) — secure-exclusive-warehousing-contract.
+- [week_1/](week_1/) — impound-an-independent-vessel.

@@ -7,4 +7,4 @@ Old-money house representing patriar families fighting to preserve traditional r
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: corin-durinbold, lord-hlath.
 - [associations/](associations/) — Named families: house-jannath, house-hlath.
-- [activity/](activity/) — Ongoing actions by week (week_0).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1).

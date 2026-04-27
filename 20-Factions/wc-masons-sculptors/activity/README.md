@@ -5,3 +5,4 @@ Ongoing actions, organized by in-game week.
 ## Index
 
 - [week_0/](week_0/) — cover-up-a-structural-flaw.
+- [week_1/](week_1/) — publicly-blame-sabotage-for-flaw.

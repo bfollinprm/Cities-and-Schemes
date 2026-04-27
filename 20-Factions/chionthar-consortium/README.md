@@ -5,5 +5,5 @@ Old-money Baldurian merchant bloc controlling river trade along the Chionthar.
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
-- [people/](people/) — Named figures: joric-the-stout.
-- [activity/](activity/) — Ongoing actions by week (week_0).
+- [people/](people/) — Named figures: factor-errinthal, joric-the-stout.
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1).

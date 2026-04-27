@@ -6,3 +6,4 @@ The player characters.
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: bror, elia-thorne, kaelan, spark.
+- [activity/](activity/) — Ongoing actions by week (week_1).

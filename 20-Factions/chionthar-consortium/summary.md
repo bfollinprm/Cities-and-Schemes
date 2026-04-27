@@ -26,9 +26,12 @@ A bloc of established, "old-money" Baldurian merchant families whose fortunes ar
 
 **Enemies.** Primary rivals are the Foreign Kontors, with whom they are in a constant state of economic warfare. They also compete with [The Guild](../guild/summary.md) over control of the smuggling that moves along the river — an adversarial but transactional relationship.
 
+**Hooks.** In week 1, [Factor Errinthal](people/factor-errinthal.md) co-opted the [party](../party/summary.md) over the heisted Open Hand medicine cart, accepting an Elia-pitched rebrand of the rescue as a Consortium PR play. The party is now publicly the Consortium's hired hand, working off "debt" via service tasks. **Errinthal does not know the party also took a second cart** carrying anti-[Amnian Kontor](../amnian-kontor/summary.md) propaganda the Consortium had been about to deploy publicly — the materials are now leverage in party hands.
+
 ## See also
 
 - [Master Joric the Stout](people/joric-the-stout.md) — leader.
+- [Factor Errinthal](people/factor-errinthal.md) — mid-rank factor running the party as a deniable instrument from week 1.
 - [Lower Chionthar](../../30-Places/sword-coast/baldurs-gate/hinterlands/river-chionthar-lower/README.md) — the Consortium's primary operating environment and the river it has helped to ruin.
 - [Trade Way (local stretch)](../../30-Places/sword-coast/baldurs-gate/hinterlands/trade-way/README.md) — fortified river trading posts capture trade off the road.
 - [Beregost](../../30-Places/sword-coast/beregost/README.md) — effectively a Consortium client town.

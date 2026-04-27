@@ -11,7 +11,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Amnian Kontor *(The Gold-Gable Hall)*](amnian-kontor/summary.md) — Slice of a mighty mercantile empire dominating Baldur's Gate through banking, debt, and southern luxuries.
 - [Lantaner Concession *(The Cogwork Quay)*](lantaner-concession/summary.md) — Secretive gnomish enclave with a state-sanctioned monopoly on smokepowder.
 - [Sembian Kontor *(The Iron Ledger)*](sembian-kontor/summary.md) — Ruthlessly utilitarian Sembian trading house brokering bulk goods and mercenary contracts.
-- [Waterdhavian Kontor *(The Splendid Yard)*](waterdhavian-kontor/summary.md) — [Lords' Alliance](../10-Setting/polities/lords-alliance.md) embassy controlling trade in northern goods and magical items; espionage hub.
+- [Waterdhavian Kontor *(The Splendid Yard)*](waterdhavian-kontor/summary.md) — Lords' Alliance embassy controlling trade in northern goods and magical items; espionage hub.
 
 ### Native Consortiums
 
@@ -33,7 +33,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 
 ### Watch
 
-- [The Watch *([Upper City](../30-Places/sword-coast/baldurs-gate/upper-city/README.md) Watch)*](watch/summary.md) — Patriar-funded watch policing the Upper City; chronically stretched thin.
+- [The Watch *(Upper City Watch)*](watch/summary.md) — Patriar-funded watch policing the Upper City; chronically stretched thin.
 
 ### Worshipful Companies
 
@@ -41,13 +41,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Worshipful Company of Butchers & Tanners](wc-butchers-tanners/summary.md) — Wealthy but socially disdained guild controlling food and leather production.
 - [Worshipful Company of Cartographers & Surveyors](wc-cartographers-surveyors/summary.md) — Essential guild whose seal is required on every land deed; closely guarded sewer maps.
 - [Worshipful Company of Chandlers & Lamplighters](wc-chandlers-lamplighters/summary.md) — Provides oil, candles, and torches; lamplighter crews know the city's nightly rhythms.
-- [Worshipful Company of Fishmongers](wc-fishmongers/summary.md) — Ancient guild controlling [Gray Harbour](../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) fishing fleets; food supply leverage.
+- [Worshipful Company of Fishmongers](wc-fishmongers/summary.md) — Ancient guild controlling Gray Harbour fishing fleets; food supply leverage.
 - [Worshipful Company of Goldsmiths & Jewelers](wc-goldsmiths-jewelers/summary.md) — Regulators of precious metals and gems; the city's unofficial mint and assay office.
 - [Worshipful Company of Masons & Sculptors](wc-masons-sculptors/summary.md) — Wealthy guild that rebuilt Baldur's Gate post-crisis; near-monopoly on construction.
 - [Worshipful Company of Mercers & Clothiers](wc-mercers-clothiers/summary.md) — Arbiters of fashion and status; fine clothing for the city's elite.
 - [Worshipful Company of Shipwrights & Calkers](wc-shipwrights-calkers/summary.md) — Most powerful guild, controlling the city's vital shipbuilding and repair industry.
 - [Worshipful Company of Smiths & Armorers](wc-smiths-armorers/summary.md) — Guild forging arms and armor for the city's guards, soldiers, and adventurers.
-- [Sorcerous Sodality *([Sorcerous Sundries](../30-Places/sword-coast/baldurs-gate/lower-city/sorcerous-sundries.md))*](wc-sorcerous-sodality/summary.md) — Reformed Sorcerous Sundries; regulates magical goods and licenses public spellcasting.
+- [Sorcerous Sodality *(Sorcerous Sundries)*](wc-sorcerous-sodality/summary.md) — Reformed Sorcerous Sundries; regulates magical goods and licenses public spellcasting.
 - [Worshipful Company of Vintners & Brewers](wc-vintners-brewers/summary.md) — Guild controlling alcohol trade from cheap ale to imported wine; key to social life.
 
 ### Societies
@@ -63,13 +63,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 ### Smuggler Cells
 
 - [River-Rats](river-rats/summary.md) — Sewer-and-river smuggling crew operating beneath the Brampton district under Silas the Eel.
-- [Wharf Rats](wharf-rats/summary.md) — Dockside smuggling crew under One-Eyed Jack, working the [Gray Harbour](../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md).
+- [Wharf Rats](wharf-rats/summary.md) — Dockside smuggling crew under One-Eyed Jack, working the Gray Harbour.
 
 ### Refugee / Frontier
 
-- [Free Traders of the Outskirts](free-traders-of-the-outskirts/summary.md) — Independent caravan masters of the [Outer City](../30-Places/sword-coast/baldurs-gate/outer-city/README.md) under 'Mad' Meggan; mutual-protection pact.
+- [Free Traders of the Outskirts](free-traders-of-the-outskirts/summary.md) — Independent caravan masters of the Outer City under 'Mad' Meggan; mutual-protection pact.
 - [Hellriders of New Elturel](hellriders-of-new-elturel/summary.md) — Volunteer militia and informal government of the New Elturel refugee district.
-- [The Unchained *(K'liir)*](unchained/summary.md) — Githyanki exiles loyal to Prince Orpheus, training in the [Outer City](../30-Places/sword-coast/baldurs-gate/outer-city/README.md) for war against Vlaakith.
+- [The Unchained *(K'liir)*](unchained/summary.md) — Githyanki exiles loyal to Prince Orpheus, training in the Outer City for war against Vlaakith.
 
 ### Remnant Costers
 
@@ -91,7 +91,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Elturel Remembrance Society](elturel-remembrance-society/summary.md) — Elturian-survivor support group radicalized into hunting 'infernal' Baldurian merchants.
 - [The Purified](purified/summary.md) — Paranoid cell convinced Lantaner gnomes are pacifying the city through clockwork nano-organisms.
 - [Society of Baldurian Integrity](society-of-baldurian-integrity/summary.md) — Cultural-purity zealots warring against 'memetic contamination' from foreign art and architecture.
-- [The Unveiled](unveiled/summary.md) — Conspiracy-paladin cell convinced the [Absolute Crisis](../10-Setting/history/absolute-crisis.md) was a doppelganger false-flag.
+- [The Unveiled](unveiled/summary.md) — Conspiracy-paladin cell convinced the Absolute Crisis was a doppelganger false-flag.
 
 ### Cults
 
@@ -104,12 +104,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [The Plague of Remembrance](plague-of-remembrance/summary.md) — Xenophobic death cult of Baldurian purists framing Elturian refugees to start a civil war.
 - [The Silent Shroud *(Shar)*](silent-shroud/summary.md) — Sharran cult seeking the lost sanctums of the Lady of Loss beneath the city.
 - [The Takers of the Tithe](takers-of-the-tithe/summary.md) — Reaper-cult assassins claiming master artisans as a 'tithe' to their patron.
-
-### Waterdhavian Guilds and Underworld
-
-- [Fellowship of Carters and Coachmen](fellowship-of-carters-and-coachmen/summary.md) — Waterdhavian cart-and-coach guild; one of two guilds that can halt the city's trade.
-- [Guild of Watermen](guild-of-watermen/summary.md) — Waterdhavian dock-labor guild; the other guild with the strike weapon.
-- [Xanathar Guild](xanathars-guild/summary.md) — Beholder-led criminal empire under Waterdeep; one half of the Shadow War with Manshoon's Zhentarim.
 
 ### Party
 

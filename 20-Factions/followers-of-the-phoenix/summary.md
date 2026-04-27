@@ -21,9 +21,9 @@ The cult is now an officially recognized power bloc within New Elturel — grant
 
 Tieflings, Elturian refugees, the working poor, and ex-Hellrider paladins whose faith has frayed. Notable:
 
-- **Mikkel** — young Elturian acolyte; leader-in-spirit among the younger, hot-headed faithful.
+- [**Mikkel**](people/mikkel.md) — young Elturian acolyte; leader-in-spirit among the younger, hot-headed faithful, currently the proximal radicalizer pulling [Jaredith Heartsong](../hellriders-of-new-elturel/people/jaredith-heartsong.md) toward the Pits.
 - **Spark** — Phoenix-aligned party member; wears fragments of Karlach's discarded heart in their cloak after Dammon's revelation.
-- **Jaredith** — tiefling Hellrider paladin radicalized by the cult; co-leads temple construction after his Ember-amplified song peacefully ended the [Wyrm's Crossing](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) protest.
+- [**Jaredith**](../hellriders-of-new-elturel/people/jaredith-heartsong.md) — tiefling Hellrider paladin radicalized by the cult; co-leads temple construction after his Ember-amplified song peacefully ended the [Wyrm's Crossing](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) protest.
 
 ## Methods
 
