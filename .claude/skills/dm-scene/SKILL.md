@@ -18,8 +18,9 @@ The repo is large. Do not walk faction or place trees blindly. For a scene-openi
 3. **`50-Sessions/session_<N>/gm_summary.md`** — private intent / behind-the-scenes for that session (may be a stub pointing back to the player summary; that's fine).
 4. **`40-Timeline/week_<W>/events.md`** — the world's parallel motion that week.
 5. **`40-Timeline/week_<W>/paper.md`** — that week's *Baldur's Mouth* issue: a one-page pulse-of-the-city read, and a diegetic prop the party can pick up off a table.
-6. **`20-Factions/party/summary.md`** — current party leverage, debts, open threads.
-7. **`60-Threads/README.md`** — the active-threads roll-up. One table; tells you what's owed by whom and when it comes due. Cheaper than mining `summary.md` prose.
+6. **`20-Factions/party/summary.md`** — narrative recap of party trajectory.
+7. **`20-Factions/party/leverage.md`** — flat ledger of items, debts, kompromat, and allies-on-call the party currently holds ("what do we have now?"). Faster lookup than scanning summary prose.
+8. **`60-Threads/README.md`** — the active-threads roll-up. One table; tells you what's owed by whom and when it comes due ("when does it mature?"). Complements `leverage.md`: threads are time-anchored, leverage is the asset ledger.
 
 Once you can name the district the scene lands in (the last session's summaries usually make it obvious), add **one** Stage-1.5 read: the matching district roll-up at `30-Places/sword-coast/baldurs-gate/<district>/events.md`. The candidates are:
 
