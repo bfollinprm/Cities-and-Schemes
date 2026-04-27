@@ -21,7 +21,7 @@ He took the bargain to escape obscurity; he kept it because his patron took ever
 - Botched dream-show: unstable fey weave produced confusion instead of catharsis.
 - "Memory Mite" tracking errand intercepted by a rival fey predator inside the city — confirmation that another fey court has agents nearby.
 - Driven out of Rivington markets by off-duty Hellriders after a fear-feast backfired.
-- Now running a "guerrilla circus" in alleys near the Blushing Mermaid, feeding on hopelessness rather than fear; subtly manipulating refugee dreams to track Bror and Elia and feed his patron on blockade-anxiety.
+- Now running a "guerrilla circus" in alleys near the [Blushing Mermaid](../../../30-Places/sword-coast/baldurs-gate/lower-city/blushing-mermaid.md), feeding on hopelessness rather than fear; subtly manipulating refugee dreams to track Bror and Elia and feed his patron on blockade-anxiety.
 
 ## See also
 

@@ -9,7 +9,7 @@ The Emergency Council's most consequential act. A staggering concession of sover
 
 ## The deal
 
-Unable to fund reconstruction internally, the Emergency Council sent emissaries to the great mercantile city-states of the Sword Coast and beyond — **Amn**, **Waterdeep**, **Sembia**, and (later) **Lantan**. The offer was unprecedented: in exchange for massive immediate infusions of gold, materials, and skilled labor, these foreign powers would be granted charters to establish self-governing commercial enclaves — **Kontors** — on prime real estate within the Lower City.
+Unable to fund reconstruction internally, the Emergency Council sent emissaries to the great mercantile city-states of the Sword Coast and beyond — **Amn**, **Waterdeep**, **Sembia**, and (later) **Lantan**. The offer was unprecedented: in exchange for massive immediate infusions of gold, materials, and skilled labor, these foreign powers would be granted charters to establish self-governing commercial enclaves — **Kontors** — on prime real estate within the [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md).
 
 ## Terms
 

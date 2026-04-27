@@ -17,8 +17,8 @@ Cross-link table only — never duplicate prose from `20-Factions/`. Every entry
 
 ## Security
 
-- [Flaming Fist](../../../20-Factions/flaming-fist/summary.md) — diminished mercenary company; Upper City + walls + customs.
-- [The Watch](../../../20-Factions/watch/summary.md) — patriar-funded Upper City detail.
+- [Flaming Fist](../../../20-Factions/flaming-fist/summary.md) — diminished mercenary company; [Upper City](upper-city/README.md) + walls + customs.
+- [The Watch](../../../20-Factions/watch/summary.md) — patriar-funded [Upper City](upper-city/README.md) detail.
 - Kontor guards (Coin-Swords / Griffin Guard / Iron Guard / Lantaner sentinels) — see each Kontor folder.
 
 ## Foreign Kontors and consortiums
@@ -33,7 +33,7 @@ Twelve Great Companies plus lesser ones; index lives in [20-Factions/README.md](
 
 ## Underworld and street
 
-- [The Guild](../../../20-Factions/guild/summary.md) — de facto government of the Lower / Outer City.
+- [The Guild](../../../20-Factions/guild/summary.md) — de facto government of the Lower / [Outer City](outer-city/README.md).
 - [Zhentarim](../../../20-Factions/zhentarim/summary.md), [River-Rats](../../../20-Factions/river-rats/summary.md), [Wharf Rats](../../../20-Factions/wharf-rats/summary.md).
 - [The Bibliophile](../../../20-Factions/bibliophile/summary.md) — Bloomridge information broker.
 - [Free Traders of the Outskirts](../../../20-Factions/free-traders-of-the-outskirts/summary.md), [Hellriders of New Elturel](../../../20-Factions/hellriders-of-new-elturel/summary.md), [The Unchained](../../../20-Factions/unchained/summary.md).
@@ -47,9 +47,9 @@ Twelve Great Companies plus lesser ones; index lives in [20-Factions/README.md](
 
 ## Notable structures and where to find them
 
-- **Wyrm's Rock Fortress** — Flaming Fist HQ on Wyrm's Crossing; see [outer-city/](outer-city/README.md).
-- **High Hall** — Council and Parliament chamber; Upper City Temples District; see [governance.md](governance.md).
-- **Sorcerous Sundries** — Sorcerous Sodality HQ in Heapside, Lower City.
+- **[Wyrm's Rock](outer-city/wyrms-rock.md) Fortress** — Flaming Fist HQ on [Wyrm's Crossing](outer-city/wyrms-crossing.md); see [outer-city/](outer-city/README.md).
+- **High Hall** — Council and Parliament chamber; [Upper City](upper-city/README.md) [Temples District](upper-city/temples-district.md); see [governance.md](governance.md).
+- **[Sorcerous Sundries](lower-city/sorcerous-sundries.md)** — Sorcerous Sodality HQ in Heapside, [Lower City](lower-city/README.md).
 
 ## Roster verification (issue #19)
 

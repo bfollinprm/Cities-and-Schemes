@@ -1,6 +1,6 @@
 ---
 name: upper-city-character
-description: Vibe and texture of the Upper City — clean stone, magical light, ritualized politics.
+description: Vibe and texture of the [Upper City](README.md) — clean stone, magical light, ritualized politics.
 ---
 
 # Character
@@ -9,7 +9,7 @@ Clean magically-lit streets, historic manors, exclusive boutiques, grand temples
 
 ## What you notice
 
-Uniformed house guards at every gate; servant bell-pulls chiming behind ivy; coach wheels whispering over swept stone. Beggars and hawkers are politely redirected at the Old Wall — the noise of the Lower City seems to stop at the lintel.
+Uniformed house guards at every gate; servant bell-pulls chiming behind ivy; coach wheels whispering over swept stone. Beggars and hawkers are politely redirected at the Old Wall — the noise of the [Lower City](../lower-city/README.md) seems to stop at the lintel.
 
 ## Mood
 

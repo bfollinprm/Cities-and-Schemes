@@ -23,12 +23,12 @@ Tieflings, Elturian refugees, the working poor, and ex-Hellrider paladins whose 
 
 - **Mikkel** — young Elturian acolyte; leader-in-spirit among the younger, hot-headed faithful.
 - **Spark** — Phoenix-aligned party member; wears fragments of Karlach's discarded heart in their cloak after Dammon's revelation.
-- **Jaredith** — tiefling Hellrider paladin radicalized by the cult; co-leads temple construction after his Ember-amplified song peacefully ended the Wyrm's Crossing protest.
+- **Jaredith** — tiefling Hellrider paladin radicalized by the cult; co-leads temple construction after his Ember-amplified song peacefully ended the [Wyrm's Crossing](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) protest.
 
 ## Methods
 
 - **Public sermons** at the Phoenix Gate stage; rhetoric that turns protests into rallies.
-- **The Wyrm's Crossing protest** alongside the [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md), de-escalated by Jaredith's song.
+- **The [Wyrm's Crossing](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) protest** alongside the [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md), de-escalated by Jaredith's song.
 - **The Foundation Stone** — Temple of the Phoenix construction at Phoenix Gate, with volunteer stone and labor despite the blockade.
 - **Martyrdom narrative** — surviving an assassination by the [Takers of the Tithe](../takers-of-the-tithe/summary.md) was repurposed into a sermon: the city's rot fears their light.
 - **Soft power** — empathy, art, and faith over force; the crowd is "literally ready to start fires" if The Ember falls.

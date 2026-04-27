@@ -14,7 +14,7 @@ For the polity-level shape (Bloodwave-to-Blackmane succession, the Sea King titl
 - **Viper Current** — westbound; flings unwary keels into hidden shoals.
 - **Circling Gyre** — sluggish becalming patch; ships spin for days under cruel sun.
 - **Asavir's Channel** — the bottleneck through which Sword Coast Run shipping must funnel. The **Lords' Alliance broke Bloodwave's Black Flag Fleet here in 1498 DR**; the channel remains the choke point for any concerted southern fleet action.
-- **Umberlee's Slaps** — sudden squalls out of the Sea of Swords; pay the tithe.
+- **Umberlee's Slaps** — sudden squalls out of the [Sea of Swords](../../10-Setting/regions/sea-of-swords.md); pay the tithe.
 
 ## Politics
 

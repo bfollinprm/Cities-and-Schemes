@@ -15,7 +15,7 @@ For Amn as a polity see [10-Setting/polities/calimshan-amn.md](../../../10-Setti
 
 ## Why it matters
 
-- **Southern terminus of the Sword Coast Run.** Athkatla is where southbound cargoes meet Amnian credit; the Gold-Gable Hall in Baldur's Gate reflects what works here.
+- **Southern terminus of the Sword Coast Run.** Athkatla is where southbound cargoes meet Amnian credit; the [Gold-Gable Hall](../../../20-Factions/amnian-kontor/summary.md) in Baldur's Gate reflects what works here.
 - **The Council of Six.** Amn's ruling oligarchy is opaque; specific membership is held more closely than Waterdeep's Masked Lords. Council decisions on tariffs, letters of marque, and Snowdown deployment shape the entire southern Sword Coast.
 - **Privateer broker.** Amn issues letters of marque to certain Nelanther captains against Waterdhavian shipping. The administrative office for this exists in Athkatla; the practice is plausibly deniable and quietly persistent.
 

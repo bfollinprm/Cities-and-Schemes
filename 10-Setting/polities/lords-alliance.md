@@ -31,7 +31,7 @@ A real chartered confederation, distinct from the informal [Sword Coast Hansa](s
 
 - **Excludes pirate-broker economies.** Mintarn lost the Waterdeep mercenary contract under Laeral (~1495 DR); the shortfall now shapes the Tyrant's politics — see [luskan-and-the-pirates.md](luskan-and-the-pirates.md).
 - **Cannot police the deep.** Alliance patrols stop where the Kraken Society and Umberlee's clergy begin. Underwater vetoes are not Alliance business.
-- **Antagonizes the Baldurian patriar bloc.** The [Patriar Heritage Society](../../20-Factions/patriar-heritage-society/summary.md) reads the Splendid Yard as the soft front of a foreign occupation; the [Amnian Kontor](../../20-Factions/amnian-kontor/summary.md) routes Amn's retaliation through the same political openings.
+- **Antagonizes the Baldurian patriar bloc.** The [Patriar Heritage Society](../../20-Factions/patriar-heritage-society/summary.md) reads the [Splendid Yard](../../20-Factions/waterdhavian-kontor/summary.md) as the soft front of a foreign occupation; the [Amnian Kontor](../../20-Factions/amnian-kontor/summary.md) routes Amn's retaliation through the same political openings.
 
 ## Source
 

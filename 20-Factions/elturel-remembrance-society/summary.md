@@ -18,8 +18,8 @@ Almost entirely Elturian refugees — particularly those from [New Elturel](../h
 ## Methods
 
 - "Purity tests" on goods and merchants, seeking traces of infernalism.
-- Sabotage against businesses they believe are funded by Hell-gold — an attempt at an Upper City heist on the Jannath Estate ended with the followers captured by estate guards and Perrine forced to flee.
-- Painting the symbol of Zariel in alchemical ink (visible only under *detect magic*) on the doors of "infernal" Upper City businesses, tagging targets for arson.
+- Sabotage against businesses they believe are funded by Hell-gold — an attempt at an [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) heist on the Jannath Estate ended with the followers captured by estate guards and Perrine forced to flee.
+- Painting the symbol of Zariel in alchemical ink (visible only under *detect magic*) on the doors of "infernal" [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) businesses, tagging targets for arson.
 - Publicly condemning Kontors — a recent staged condemnation of the [Waterdhavian Kontor](../waterdhavian-kontor/summary.md) was dispersed by Griffin Guard and went unnoticed.
 - Acting as fugitives now, regrouping in a forgotten cellar beneath New Elturel.
 

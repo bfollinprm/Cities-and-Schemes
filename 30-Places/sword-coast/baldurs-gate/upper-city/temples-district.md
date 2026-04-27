@@ -5,7 +5,7 @@ description: The civic-religious boulevard — bell towers, the High Hall, proce
 
 # The Temples District
 
-The Upper City's public face: bell towers, broad steps, and processions threading past government façades. Piety and policy share the same boulevard; salvation and permits are both stamped here.
+The [Upper City](README.md)'s public face: bell towers, broad steps, and processions threading past government façades. Piety and policy share the same boulevard; salvation and permits are both stamped here.
 
 ## Notable stops
 

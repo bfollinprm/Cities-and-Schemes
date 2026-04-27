@@ -5,7 +5,7 @@ description: The body of water — sea-lanes, currents, weather, hazards, named 
 
 # The Sea of Swords
 
-The western water of the Sword Coast. Bounded on the east by the coast itself from Icewind Dale down through the Sword Coast North, Waterdeep, Baldur's Gate, Amn, and the Tethyrian shore; on the west by the Trackless Sea and the Moonshae Isles. Currents and weather make the sea profitable in summer and lethal in winter; the political map (see [00-Campaign-Frame/multipolar-coast.md](../../00-Campaign-Frame/multipolar-coast.md)) makes it ungoverned year-round.
+The western water of the Sword Coast. Bounded on the east by the coast itself from Icewind Dale down through the Sword Coast North, Waterdeep, Baldur's Gate, Amn, and the Tethyrian shore; on the west by the Trackless Sea and the [Moonshae Isles](../../30-Places/sword-coast/moonshae-isles.md). Currents and weather make the sea profitable in summer and lethal in winter; the political map (see [00-Campaign-Frame/multipolar-coast.md](../../00-Campaign-Frame/multipolar-coast.md)) makes it ungoverned year-round.
 
 ## Sea lanes
 

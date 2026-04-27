@@ -9,7 +9,7 @@ A gnome tinker and former apprentice of the [Lantaner Concession](../../lantaner
 
 ## Conspiracy theory
 
-> "Smokepowder" is a cover story. The Lantaner Concession's true purpose is a social-engineering project. The strange whirring and clanking from the Cogwork Quay are not inventions being built but massive grinders breaking down magical metals into nano-cogs — microscopic machines that, when ingested, regulate emotion and make people docile and suggestible. The recent prosperity and relative social peace are not signs of recovery; they are proof of the conspiracy's success. The Lantaners are not seeking technological supremacy; they are creating the perfect, compliant workforce for their eventual takeover.
+> "Smokepowder" is a cover story. The Lantaner Concession's true purpose is a social-engineering project. The strange whirring and clanking from the [Cogwork Quay](../../lantaner-concession/summary.md) are not inventions being built but massive grinders breaking down magical metals into nano-cogs — microscopic machines that, when ingested, regulate emotion and make people docile and suggestible. The recent prosperity and relative social peace are not signs of recovery; they are proof of the conspiracy's success. The Lantaners are not seeking technological supremacy; they are creating the perfect, compliant workforce for their eventual takeover.
 
 ## Backstory
 
@@ -18,8 +18,8 @@ As an apprentice, Glim-Glim was tasked with water purification for the Concessio
 ## Recent operations
 
 - Sabotaged a Rivington water pump; the bizarre gadgets he left behind drew the attention of a [Worshipful Company of Masons & Sculptors](../../wc-masons-sculptors/summary.md) Guild Warden.
-- Distributed "purified rainwater" vials in the Outer City — most people thought him insane.
-- Acquired and tested an antitoxin from the Open Hand Temple, convinced the "cure" was just a more potent dose of nano-cogs.
+- Distributed "purified rainwater" vials in the [Outer City](../../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) — most people thought him insane.
+- Acquired and tested an antitoxin from the [Open Hand Temple](../../../30-Places/sword-coast/baldurs-gate/outer-city/open-hand-temple.md), convinced the "cure" was just a more potent dose of nano-cogs.
 - Built and field-tested the Cogwork Detector at the Basilisk Gate pumps, harassing citizens until violent confrontations broke out.
 - Now attempting to dump alchemical acid into the city's primary fresh-water cisterns to purge the "plague."
 

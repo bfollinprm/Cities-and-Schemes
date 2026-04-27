@@ -5,7 +5,7 @@ description: Most powerful guild, controlling the city's vital shipbuilding and 
 
 # Worshipful Company of Shipwrights & Calkers
 
-The most powerful Worshipful Company in Baldur's Gate, holding a near-total monopoly on shipbuilding and repair across Gray Harbour. The Decade of Reconstruction made them indispensable: rebuilding the merchant fleet and naval capacity transformed an old trade guild into a political heavyweight. Led by [Master Helma Tallowshand](people/helma-tallowshand.md).
+The most powerful Worshipful Company in Baldur's Gate, holding a near-total monopoly on shipbuilding and repair across [Gray Harbour](../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md). The Decade of Reconstruction made them indispensable: rebuilding the merchant fleet and naval capacity transformed an old trade guild into a political heavyweight. Led by [Master Helma Tallowshand](people/helma-tallowshand.md).
 
 ## Ideology
 

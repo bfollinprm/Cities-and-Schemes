@@ -14,7 +14,7 @@ cosmology/      # planar physics, cosmic powers, fey courts, the Weave, the Far 
   realms/       # non-Material planes treated as places (Feywild, Shadowfell, etc.)
 history/        # dated world-visible events; chronology lives in 40-Timeline
 polities/       # alliance-, kingdom-, and city-government frameworks (Lords' Alliance, Sword Coast Hansa, Worshipful Company system)
-regions/        # region-scale geographic features (Sea of Swords, mountain ranges)
+regions/        # region-scale geographic features ([Sea of Swords](regions/sea-of-swords.md), mountain ranges)
 peoples/        # diasporas and demographic groups
 economy/        # cost-of-living and commercial reference
 ```

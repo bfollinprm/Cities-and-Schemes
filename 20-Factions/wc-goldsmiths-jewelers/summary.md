@@ -19,7 +19,7 @@ The most respected dwarven and human jewelers, minters, and bankers in the city.
 
 - Operates the only legally sanctioned assay offices in Baldur's Gate; certifies the purity of every gold and silver bar moving through the city.
 - Close ties to the [Amnian Kontor](../amnian-kontor/summary.md) and the city's major banks; effectively functions as the unofficial mint.
-- Quiet cooperation with [the Guild](../guild/summary.md) on counterfeit and laundering cases — Goldhand's agents handed a small-time Undercellar counterfeiter to the Guild in exchange for the Guild policing forgeries against the Goldsmiths' seal.
+- Quiet cooperation with [the Guild](../guild/summary.md) on counterfeit and laundering cases — Goldhand's agents handed a small-time [Undercellar](../../30-Places/sword-coast/baldurs-gate/undercity/the-undercellar.md) counterfeiter to the Guild in exchange for the Guild policing forgeries against the Goldsmiths' seal.
 - A standing **patriar canary commission**: Goldhand personally oversaw the creation of a magnificent gold-and-silver canary automaton for **Lord Durinbold**, cementing the guild's alliance with the [Peerage of Blood](../peerage-of-blood/summary.md).
 - When official channels fail to trace suspicious wealth — for instance, the source of a recent windfall on a particular adventuring party's books — Goldhand puts a quiet, high-paying bounty out through the criminal underworld for any fence willing to talk.
 

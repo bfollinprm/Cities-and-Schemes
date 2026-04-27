@@ -1,6 +1,6 @@
 # Wharf Rats
 
-Dockside smuggling crew under One-Eyed Jack, working the Gray Harbour.
+Dockside smuggling crew under One-Eyed Jack, working the [Gray Harbour](../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md).
 
 ## Index
 

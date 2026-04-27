@@ -14,8 +14,8 @@ Kaelan still believes in Lathander's ideals of rebirth and renewal. He no longer
 ## Faction relationships
 
 - **[Hellriders of New Elturel](../../hellriders-of-new-elturel/summary.md):** Received armor from quartermaster Lyra Sunstone (Session 13) — gift acknowledging the party's value to Alena.
-- **[Worshipful Company of Alchemists & Apothecaries](../../wc-alchemists-apothecaries/summary.md):** Direct ideological opposition. The Open Hand Temple medical-supply intervention was Kaelan's terrain — and the guild's private fury about being bypassed is partly his to manage.
-- **Open Hand Temple, Rivington:** Working ally. The party's medical-supply rescue (Session 4) cemented the relationship.
+- **[Worshipful Company of Alchemists & Apothecaries](../../wc-alchemists-apothecaries/summary.md):** Direct ideological opposition. The [Open Hand Temple](../../../30-Places/sword-coast/baldurs-gate/outer-city/open-hand-temple.md) medical-supply intervention was Kaelan's terrain — and the guild's private fury about being bypassed is partly his to manage.
+- **[Open Hand Temple](../../../30-Places/sword-coast/baldurs-gate/outer-city/open-hand-temple.md), Rivington:** Working ally. The party's medical-supply rescue (Session 4) cemented the relationship.
 
 ## See also
 

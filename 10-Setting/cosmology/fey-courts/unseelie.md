@@ -11,7 +11,7 @@ The dark half of fey politics, ruled by the **Queen of Air and Darkness** from a
 
 - **Temptations.** Where the Seelie deal in boons, the Unseelie deal in *temptations*. A despairing noble finds a beautiful stranger with an otherworldly solution at exactly the moment he is willing to pay any price.
 - **Dark dealings in Waterdeep.** Masked balls and moonlit revels in Waterdeep that end with mysterious disappearances are usually Unseelie work.
-- **Fey-touched wilds.** Hags, redcaps, and worse have grown bolder in the Misty Forest and Neverwinter Wood. Will-o'-wisps and Unseelie sprites lead travelers astray in the Laughing Hollow near Daggerford.
+- **Fey-touched wilds.** Hags, redcaps, and worse have grown bolder in the [Misty Forest](../../../30-Places/sword-coast/misty-forest.md) and [Neverwinter Wood](../../../30-Places/sword-coast/neverwinter-wood.md). Will-o'-wisps and Unseelie sprites lead travelers astray in the Laughing Hollow near Daggerford.
 - **Dream incursion.** The dreams of influential mortals can be touched by Unseelie glamour, nudging them toward fear or folly.
 
 ## How they bargain

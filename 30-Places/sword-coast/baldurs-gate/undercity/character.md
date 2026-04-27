@@ -16,7 +16,7 @@ Cold air that always smells faintly of brackish water. Worked stone that changes
 - **Guild crews** — by far the most common presence. Smugglers, couriers, Ward-Boss enforcers, and the [River-Rats](../../../../20-Factions/river-rats/summary.md) running goods through Brampton-side outflows.
 - **Monster country** — otyughs, oozes, dire rats, ghouls, and worse where the tunnels touch old crypts.
 - **Cult cells** — Bhaalite, Sharran, and Absolute-remnant all maintain Undercity shrines.
-- **Independent scavengers** — Arcane refuse from Sorcerous Sundries' overflow chambers; Steel Watch fragments from sealed Foundry corridors.
+- **Independent scavengers** — Arcane refuse from [Sorcerous Sundries](../lower-city/sorcerous-sundries.md)' overflow chambers; Steel Watch fragments from sealed Foundry corridors.
 
 ## Who lives down here
 

@@ -10,7 +10,7 @@ public: true
 
 # Block the 'New Kontor Wayleave' Proposal
 
-Led by [Lord Corin Durinbold](../../people/corin-durinbold.md), the traditionalist patriars successfully block a proposal from the [Amnian Kontor](../../../amnian-kontor/summary.md) that would grant them a private, toll-free wayleave through a section of the Lower City, arguing it's a gross violation of Baldurian sovereignty. The vote is a rare victory for the old guard.
+Led by [Lord Corin Durinbold](../../people/corin-durinbold.md), the traditionalist patriars successfully block a proposal from the [Amnian Kontor](../../../amnian-kontor/summary.md) that would grant them a private, toll-free wayleave through a section of the [Lower City](../../../../30-Places/sword-coast/baldurs-gate/lower-city/README.md), arguing it's a gross violation of Baldurian sovereignty. The vote is a rare victory for the old guard.
 
 ## See also
 

@@ -19,7 +19,7 @@ His current crises are all his own work:
 
 - **Tannery runoff dumping** into a Chionthar tributary has poisoned water for miles downstream and made him the [Circle of the Inner Grove](../../circle-of-the-inner-grove/summary.md)'s standing target.
 - A clumsy attempt to **intimidate a city health inspector** failed publicly; the inspector's damning report has triggered fines and Council scrutiny.
-- A **spoiled-meat scheme** — selling contaminated rations through the Sow's Foot — was caught by a [Hellriders of New Elturel](../../hellriders-of-new-elturel/summary.md) patrol on contamination alert. Borlu is now meeting **Ettvard Needle** at the [Baldur's Mouth](../../baldurs-mouth/summary.md) print shop, offering a substantial bribe to bury the story and replace it with puff coverage about "generous food donations" to the Outer City poor.
+- A **spoiled-meat scheme** — selling contaminated rations through the Sow's Foot — was caught by a [Hellriders of New Elturel](../../hellriders-of-new-elturel/summary.md) patrol on contamination alert. Borlu is now meeting **Ettvard Needle** at the [Baldur's Mouth](../../baldurs-mouth/summary.md) print shop, offering a substantial bribe to bury the story and replace it with puff coverage about "generous food donations" to the [Outer City](../../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) poor.
 
 He is locked in a leather-rights rivalry with [Mistress Elethra Vance](../../wc-mercers-clothiers/people/elethra-vance.md), whom he openly dislikes.
 

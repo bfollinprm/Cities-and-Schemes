@@ -10,7 +10,7 @@ public: false
 
 # Finalize Foreclosure on the Hlath Estate
 
-[Consul Vorlamin Athar's](../../people/vorlamin-athar.md) legal agents finalize the foreclosure on the Hlath patriar estate in [Manorborn](../../../../30-Places/sword-coast/baldurs-gate/upper-city/manorborn.md). The family, ruined by gambling debts owed to Amnian lenders, is quietly and unceremoniously evicted. The Kontor now owns a prime piece of Upper City real estate.
+[Consul Vorlamin Athar's](../../people/vorlamin-athar.md) legal agents finalize the foreclosure on the Hlath patriar estate in [Manorborn](../../../../30-Places/sword-coast/baldurs-gate/upper-city/manorborn.md). The family, ruined by gambling debts owed to Amnian lenders, is quietly and unceremoniously evicted. The Kontor now owns a prime piece of [Upper City](../../../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) real estate.
 
 ## See also
 

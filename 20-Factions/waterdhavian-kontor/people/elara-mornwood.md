@@ -1,6 +1,6 @@
 ---
 name: elara-mornwood
-description: Half-elf Factor of the Splendid Yard; Lords' Alliance plenipotentiary in Baldur's Gate and senior Harper handler.
+description: Half-elf Factor of the [Splendid Yard](../summary.md); Lords' Alliance plenipotentiary in Baldur's Gate and senior Harper handler.
 ---
 
 # Factor Elara Mornwood
@@ -13,7 +13,7 @@ Factor of the [Waterdhavian Kontor](../summary.md), a high-ranking half-elf memb
 
 ## Role
 
-The Kontor was established under the Great Bargain to secure Waterdeep's trade interests and expand the Lords' Alliance's influence in the chaotic post-crisis Sword Coast. Mornwood was sent south to run it. The Splendid Yard's architecture, ceremony, and import schedule all serve her mandate: project the City of Splendors into Baldur's Gate.
+The Kontor was established under the Great Bargain to secure Waterdeep's trade interests and expand the Lords' Alliance's influence in the chaotic post-crisis Sword Coast. Mornwood was sent south to run it. The [Splendid Yard](../summary.md)'s architecture, ceremony, and import schedule all serve her mandate: project the City of Splendors into Baldur's Gate.
 
 She is also the Alliance's senior intelligence officer in the city, coordinating with [Harper](../../harpers/summary.md) cells and other Alliance agents. Diplomatic cover gives her unparalleled access to Baldur's halls of power, and she uses it.
 

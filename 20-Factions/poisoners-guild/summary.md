@@ -13,7 +13,7 @@ A trade guild without a charter. The Poisoners frame themselves as the *honest* 
 
 ## Membership
 
-No master, no wardens, no formal court. The senior figures are a rotating informal council of established poisoners who agree on price floors, customer-poaching rules, and the occasional contract on a former member who talked. The current axis runs through the Lower City and the Outskirts; cells in the Outer City work the refugee trade.
+No master, no wardens, no formal court. The senior figures are a rotating informal council of established poisoners who agree on price floors, customer-poaching rules, and the occasional contract on a former member who talked. The current axis runs through the [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) and the Outskirts; cells in the [Outer City](../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) work the refugee trade.
 
 ## Methods
 
@@ -28,7 +28,7 @@ No master, no wardens, no formal court. The senior figures are a rotating inform
 
 **Allies of convenience.** The [Zhentarim](../zhentarim/summary.md) buys in bulk through compartmented intermediaries — the trade in goods the Guild won't touch. Occasional contracts from individual patriars whose grudges have outrun their nerve.
 
-**Hooks.** The fired Alchemist apprentice with three stolen formulas is being courted by a Poisoner cell; if the Poisoners win the bidding war over [the Guild](../guild/summary.md), the Worshipful Company's monopoly tightens by one more brick out of the wall. A senior Poisoner has been seen at a private room in the Blushing Mermaid with a [Knights of the Shield](../knights-of-the-shield/summary.md) intermediary — bargain unknown.
+**Hooks.** The fired Alchemist apprentice with three stolen formulas is being courted by a Poisoner cell; if the Poisoners win the bidding war over [the Guild](../guild/summary.md), the Worshipful Company's monopoly tightens by one more brick out of the wall. A senior Poisoner has been seen at a private room in the [Blushing Mermaid](../../30-Places/sword-coast/baldurs-gate/lower-city/blushing-mermaid.md) with a [Knights of the Shield](../knights-of-the-shield/summary.md) intermediary — bargain unknown.
 
 ## See also
 

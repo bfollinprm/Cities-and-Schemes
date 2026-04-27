@@ -10,7 +10,7 @@ public: false
 
 # Investigate Vandalism at the Jannath Estate
 
-The Upper City's Watch investigates a minor incident where red paint was splashed on the "foreign-style" Sembian statues in the Jannath Estate's garden in [Manorborn](../../../../30-Places/sword-coast/baldurs-gate/upper-city/manorborn.md). The Watch dismisses it as youthful hijinks, unaware it was a statement by the [Society of Baldurian Integrity](../../../society-of-baldurian-integrity/summary.md).
+The [Upper City](../../../../30-Places/sword-coast/baldurs-gate/upper-city/README.md)'s Watch investigates a minor incident where red paint was splashed on the "foreign-style" Sembian statues in the Jannath Estate's garden in [Manorborn](../../../../30-Places/sword-coast/baldurs-gate/upper-city/manorborn.md). The Watch dismisses it as youthful hijinks, unaware it was a statement by the [Society of Baldurian Integrity](../../../society-of-baldurian-integrity/summary.md).
 
 ## See also
 

@@ -18,11 +18,12 @@ The dossier's framing is a single in-world voice — useful for color and factio
 ## Local features
 
 - [cloakwood/](cloakwood/README.md) — local face of the [Cloakwood](../../cloakwood.md): Western Gate logging camps versus the Circle of the Inner Grove.
-- [wood-of-sharp-teeth/](wood-of-sharp-teeth/README.md) — local edge of the [Wood of Sharp Teeth](../../wood-of-sharp-teeth.md), including the Whisperwood Copse the Western Gate clear-cut.
+- [wood-of-sharp-teeth/](wood-of-sharp-teeth/README.md) — local edge of the [Wood of Sharp Teeth](../../wood-of-sharp-teeth.md), including the [Whisperwood Copse](whisperwood-copse.md) the Western Gate clear-cut.
 - [river-chionthar-lower/](river-chionthar-lower/README.md) — the polluted lower Chionthar near the city.
 - [coast-way/](coast-way/README.md) — the local stretch of the road north toward Waterdeep, choked with Zhentarim toll-forts.
 - [trade-way/](trade-way/README.md) — the local stretch of the road south toward Beregost and Amn.
 - [friendly-arm-inn/](friendly-arm-inn/README.md) — fortified Coast Way inn; one of the [Harpers](../../../../20-Factions/harpers/summary.md)' few remaining safehouses.
+- [whisperwood-copse.md](whisperwood-copse.md) — recently clear-cut sacred grove; flashpoint of the Circle of the Inner Grove versus the Western Gate Trading Company.
 
 ## Three forces
 
@@ -30,6 +31,6 @@ The dossier calls out three forces shaping every part of the region. They are al
 
 1. **Post-boom frontier** — the city's appetite for timber, stone, and grain pulls capital, labor, and violence outward.
 2. **Scarred land** — the psychic and magical residue of the Absolute Crisis still warps the wilderness, most visibly in the Wood of Sharp Teeth.
-3. **Fraying edge of law** — the Flaming Fist barely reaches Wyrm's Crossing; outside it, jurisdiction is whoever shows up with steel.
+3. **Fraying edge of law** — the Flaming Fist barely reaches [Wyrm's Crossing](../outer-city/wyrms-crossing.md); outside it, jurisdiction is whoever shows up with steel.
 
 See [00-Campaign-Frame/frontier-logic.md](../../../../00-Campaign-Frame/frontier-logic.md) for the evergreen principle.

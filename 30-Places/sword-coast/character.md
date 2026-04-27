@@ -1,11 +1,11 @@
 ---
 name: sword-coast-character
-description: The regional vibe — a trade-coast culture welded by the Sea of Swords, fractured by polity, and lived through the working captains and dockhands who treat the water as infrastructure.
+description: The regional vibe — a trade-coast culture welded by the [Sea of Swords](../../10-Setting/regions/sea-of-swords.md), fractured by polity, and lived through the working captains and dockhands who treat the water as infrastructure.
 ---
 
 # Character
 
-The Sword Coast is not one place. The string of cities running from Luskan down through Waterdeep, Baldur's Gate, Athkatla, and on to Calimport is bound together less by shared rule than by shared **water** — the Sea of Swords carries cargo, gossip, refugees, and pirate flags in roughly equal measure, and every coastal city's character is shaped by what arrives off it.
+The Sword Coast is not one place. The string of cities running from Luskan down through Waterdeep, Baldur's Gate, Athkatla, and on to Calimport is bound together less by shared rule than by shared **water** — the [Sea of Swords](../../10-Setting/regions/sea-of-swords.md) carries cargo, gossip, refugees, and pirate flags in roughly equal measure, and every coastal city's character is shaped by what arrives off it.
 
 ## The trade-coast vibe
 
@@ -23,7 +23,7 @@ The other split is downward. Above water, the surface powers fight the surface f
 
 ## Mood in 1502 DR
 
-Cautious prosperity. Ten years from the Absolute Crisis the coast is **richer than in a generation** — Baldur's Gate's reconstruction, the Alliance's Asavir's Channel victory (1498 DR), Hansa tariff-standardization. Gains are uneven: Kontor enclaves prosper, Outer City refugees and rural Hansa towns (Beregost, Nashkel) do not. The Pox Plague in southern ports is the year's dark register.
+Cautious prosperity. Ten years from the Absolute Crisis the coast is **richer than in a generation** — Baldur's Gate's reconstruction, the Alliance's Asavir's Channel victory (1498 DR), Hansa tariff-standardization. Gains are uneven: Kontor enclaves prosper, [Outer City](baldurs-gate/outer-city/README.md) refugees and rural Hansa towns (Beregost, Nashkel) do not. The Pox Plague in southern ports is the year's dark register.
 
 Three open questions will set the next decade: **Luskan's Alliance accession**, **Hoondarrh's fate over Mintarn**, **Ascarle's rise off the Purple Rocks**. Each is a campaign event waiting to break.
 

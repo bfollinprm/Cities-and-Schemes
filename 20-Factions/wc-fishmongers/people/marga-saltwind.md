@@ -5,7 +5,7 @@ description: Master of the Fishmongers' Company; controls the city's primary pro
 
 # Matron Marga Saltwind
 
-Master of the [Worshipful Company of Fishmongers](../summary.md). Tough, plain-spoken, and politically unsentimental — she runs Gray Harbour the way her grandmother ran a gutting shed.
+Master of the [Worshipful Company of Fishmongers](../summary.md). Tough, plain-spoken, and politically unsentimental — she runs [Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) the way her grandmother ran a gutting shed.
 
 ## Manifesto
 

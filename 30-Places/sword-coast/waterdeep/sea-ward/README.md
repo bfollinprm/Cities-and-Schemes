@@ -12,6 +12,7 @@ The northwesternmost ward, perched on the cliffs overlooking the ocean. The excl
 
 - [character.md](character.md) — Tone, residents, and how the Great Game is played up here.
 - [dweomerheart-hall.md](dweomerheart-hall.md) — Manor lent for the Green Masquerade's autumnal ball; site of the Night of the Howling Masks.
+- [house-of-wonder.md](house-of-wonder.md) — the city's principal Mystran temple; rumoured Green Masquerade vault.
 
 ## See also
 

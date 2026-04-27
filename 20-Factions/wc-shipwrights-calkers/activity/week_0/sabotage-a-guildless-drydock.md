@@ -10,7 +10,7 @@ public: true
 
 # Sabotage a Guild-less Drydock
 
-The raid goes awry. The independent operator had hired guards from the [Free Traders of the Outskirts](../../../free-traders-of-the-outskirts/summary.md). The Guild Wardens are intercepted, leading to a bloody skirmish. The Wardens are forced to retreat, and one of their own is captured by the Free Traders, creating a hostage situation and escalating the conflict between the official guilds and Outer City merchants.
+The raid goes awry. The independent operator had hired guards from the [Free Traders of the Outskirts](../../../free-traders-of-the-outskirts/summary.md). The Guild Wardens are intercepted, leading to a bloody skirmish. The Wardens are forced to retreat, and one of their own is captured by the Free Traders, creating a hostage situation and escalating the conflict between the official guilds and [Outer City](../../../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) merchants.
 
 ## See also
 

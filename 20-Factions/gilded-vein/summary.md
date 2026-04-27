@@ -19,7 +19,7 @@ Disenfranchised financial agents, disgraced patriar accountants, and alchemists 
 
 - Highly trained assassins and poisoners targeting consortium heads, Kontor directors, and Guild moneylenders. The first move was a successful hit on a [Chionthar Consortium](../chionthar-consortium/summary.md) factor, with rumors planted to blame the [Amnian Kontor](../amnian-kontor/summary.md).
 - An attempt to poison the [Western Gate Trading Company](../western-gate-trading-company/summary.md)'s carrier pigeons was caught by a stable hand; the Company is now on guard.
-- Forged "cursed" currency — most recently a flood of high-quality forged copper pieces dumped into Lower City markets to trigger localized panic.
+- Forged "cursed" currency — most recently a flood of high-quality forged copper pieces dumped into [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) markets to trigger localized panic.
 - Forged manifests and grain-future manipulation against the Sembian and Chionthar trading houses; both schemes were caught and unwound, costing the Vein significant capital.
 - A botched warehouse sabotage left a vial of the Vein's signature alchemical compound at a Chionthar Consortium site, exposing Thorne's people to both the Consortium and the Amnians.
 - Now: emergency liquidation across dummy accounts and a ground-level retreat into the Undercity.

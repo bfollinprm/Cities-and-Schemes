@@ -10,13 +10,13 @@ A ring of sand-floored cage pits on the southern, ragged edge of [New Elturel](n
 ## What happens here
 
 - **Cage fights.** Off the books and outside Flaming Fist writ; the Hellriders look the other way as long as the violence stays inside the ring.
-- **Tiefling and refugee circuits.** Most fighters are Elturians or tieflings from the borough. Purses are modest by Lower City standards; reputation is the actual prize.
+- **Tiefling and refugee circuits.** Most fighters are Elturians or tieflings from the borough. Purses are modest by [Lower City](../lower-city/README.md) standards; reputation is the actual prize.
 - **Karlach gospel.** Followers of the Phoenix work the crowd between bouts — water, balm, a sermon on righteous fury and the dignity of the fist.
 - **Off-the-books healing.** Lay clerics drift through; the field-hospital improvisation honed during the Avernus years is on display.
 
 ## Why the Sodality cares
 
-The [Worshipful Company of Sorcerous Sodality](../../../../20-Factions/wc-sorcerous-sodality/summary.md) traced the fugitive mage **Zora**'s arcane trail to the Phoenix Pits before the trail went cold. Master Lorroakan responded by installing permanent **scrying censers** at Wyrm's Crossing and the Basilisk Gate to catch any future arcane traffic through the checkpoints. The Pits remain the operative dead-end of that case file; what Zora was doing here, and why the trail dissipated cleanly, is the open question.
+The [Worshipful Company of Sorcerous Sodality](../../../../20-Factions/wc-sorcerous-sodality/summary.md) traced the fugitive mage **Zora**'s arcane trail to the Phoenix Pits before the trail went cold. Master Lorroakan responded by installing permanent **scrying censers** at [Wyrm's Crossing](wyrms-crossing.md) and the Basilisk Gate to catch any future arcane traffic through the checkpoints. The Pits remain the operative dead-end of that case file; what Zora was doing here, and why the trail dissipated cleanly, is the open question.
 
 ## Who runs it
 

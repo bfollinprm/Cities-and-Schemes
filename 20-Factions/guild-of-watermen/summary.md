@@ -21,7 +21,7 @@ The Watermen's leadership is reluctant to call a full strike — the membership 
 
 ## Friction in 1502 DR
 
-- **Artisan drain.** Lower-tier members are being lured south to Baldur's Gate's Gray Harbour, where post-crisis reconstruction pays better. Dues are lapsing in some Trades Ward halls.
+- **Artisan drain.** Lower-tier members are being lured south to Baldur's Gate's [Gray Harbour](../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md), where post-crisis reconstruction pays better. Dues are lapsing in some Trades Ward halls.
 - **Shadow War.** Manshoon's [Zhentarim](../zhentarim/summary.md) thugs and [Xanathar Guild](../xanathars-guild/summary.md) brutes both pressure Watermen crews for off-the-books unloading work; the guild leadership has not chosen a side and is paying for the neutrality in chipped fingers.
 
 ## See also

@@ -9,7 +9,7 @@ A former river captain who rose to command the [Chionthar Consortium](../summary
 
 ## Manifesto
 
-> The Chionthar is the artery of this city, and we are its heart. For generations, our families have worked these waters. We know the currents, the eddies, the dangers. Now, these foreign Kontors arrive with their foreign coin and foreign laws, thinking they can buy our river. They are wrong. The river is not for sale. We will not be supplanted in our own home. From the Gray Harbour to the Reaching Woods, this water belongs to Baldur's Gate.
+> The Chionthar is the artery of this city, and we are its heart. For generations, our families have worked these waters. We know the currents, the eddies, the dangers. Now, these foreign Kontors arrive with their foreign coin and foreign laws, thinking they can buy our river. They are wrong. The river is not for sale. We will not be supplanted in our own home. From the [Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) to the Reaching Woods, this water belongs to Baldur's Gate.
 
 ## Role
 

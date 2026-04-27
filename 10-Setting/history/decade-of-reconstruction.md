@@ -9,7 +9,7 @@ The ten years that followed the Absolute Crisis were not a period of quiet heali
 
 ## Phase 1 — The immediate aftermath (late 1492 – 1493 DR)
 
-A city teetering on collapse. The [Council of Four](../../20-Factions/council-of-four/summary.md) was in shambles; the [Flaming Fist](../../20-Factions/flaming-fist/summary.md) was decimated and politically discredited; tens of thousands of refugees poured into the **Outer City**.
+A city teetering on collapse. The [Council of Four](../../20-Factions/council-of-four/summary.md) was in shambles; the [Flaming Fist](../../20-Factions/flaming-fist/summary.md) was decimated and politically discredited; tens of thousands of refugees poured into the **[Outer City](../../30-Places/sword-coast/baldurs-gate/outer-city/README.md)**.
 
 An informal **Emergency Council** of survivors took de facto control: remnants of the [Parliament of Peers](../../20-Factions/parliament-of-peers/summary.md), the suddenly indispensable Guildmaster **Nine-Fingers Keene** (whose network kept order in the Lower and Outer Cities), and newly ascendant merchant masters whose fortunes had survived intact.
 

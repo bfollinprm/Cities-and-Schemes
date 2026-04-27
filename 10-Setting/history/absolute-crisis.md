@@ -27,11 +27,11 @@ The Absolute Crisis is not a distant memory. It is the trauma that shaped every 
 The party of adventurers credited with destroying the Brain dispersed immediately:
 
 - **Karlach** and **Wyll** descended into Avernus to wage war against the Archdevil Zariel.
-- **Prince Orpheus** returned to the Astral Plane to ignite a rebellion against the Lich-Queen Vlaakith — though a faction of his loyalists, under **K'laar the Unshackled**, settled in Baldur's Gate's Outer City as the K'liir.
+- **Prince Orpheus** returned to the Astral Plane to ignite a rebellion against the Lich-Queen Vlaakith — though a faction of his loyalists, under **K'laar the Unshackled**, settled in Baldur's Gate's [Outer City](../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) as the K'liir.
 - Others vanished into legend.
 
 This is why the post-crisis city had to save itself: the heroes had not stayed.
 
 ## Lingering threats
 
-Remnant cults persist. The [Cult of the Returning Lord](../../20-Factions/cult-of-the-returning-lord/summary.md) (Bhaal), the [Silent Shroud](../../20-Factions/silent-shroud/summary.md) (Shar), and the [Hands of the Absolute](../../20-Factions/hands-of-the-absolute/summary.md) (True Soul splinters) all trace lineage to this period and still operate. The **Steel Watch Foundry** (Gray Harbour) and certain sealed Heapside cellars are quietly cordoned by the Fist for related reasons.
+Remnant cults persist. The [Cult of the Returning Lord](../../20-Factions/cult-of-the-returning-lord/summary.md) (Bhaal), the [Silent Shroud](../../20-Factions/silent-shroud/summary.md) (Shar), and the [Hands of the Absolute](../../20-Factions/hands-of-the-absolute/summary.md) (True Soul splinters) all trace lineage to this period and still operate. The **Steel Watch Foundry** ([Gray Harbour](../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md)) and certain sealed Heapside cellars are quietly cordoned by the Fist for related reasons.

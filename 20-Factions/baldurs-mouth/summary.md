@@ -5,7 +5,7 @@ description: The city's broadsheet — for-hire front-page coverage edited by Et
 
 # Baldur's Mouth
 
-The city's primary newssheet, run from a single chaotic print shop in the Lower City. Tagline: ***"We Hear All, And Print Most of It!"*** Edited (until week 7) by [Ettvard Needle](people/ettvard-needle.md). Goal: profit, by selling papers and, more importantly, by selling **influence** to whichever faction paid for the next front page.
+The city's primary newssheet, run from a single chaotic print shop in the [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md). Tagline: ***"We Hear All, And Print Most of It!"*** Edited (until week 7) by [Ettvard Needle](people/ettvard-needle.md). Goal: profit, by selling papers and, more importantly, by selling **influence** to whichever faction paid for the next front page.
 
 ## Ideology
 
@@ -13,12 +13,12 @@ No ideology of its own. The product is **slant for hire**: the [Council](../coun
 
 ## Membership
 
-A small print shop in the Lower City with a stable of stringers, sketch-artists, and woodcut engravers. Editorial control sits with whoever holds the editor's chair. Needle, then a vacuum, then the Interim Management Board after the Western Gate "press blackout."
+A small print shop in the [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) with a stable of stringers, sketch-artists, and woodcut engravers. Editorial control sits with whoever holds the editor's chair. Needle, then a vacuum, then the Interim Management Board after the Western Gate "press blackout."
 
 ## Methods
 
 - **Paid front pages.** Lyra Silvershield's *"Pro-Consortium Puff Piece"* praising the [Western Gate Trading Company](../western-gate-trading-company/summary.md) for "bravely taming the wilderness." Goodman Borlu's bribe to kill the spoiled-meat story and run a Butchers' Company "donation drive" instead.
-- **Sensational woodcuts.** *"The Githyanki Garrison"* (record sales). *"The Siege Edition"* — staged sketches of starving Outer City children plus an investigative piece on Consortium **insurance fraud**.
+- **Sensational woodcuts.** *"The Githyanki Garrison"* (record sales). *"The Siege Edition"* — staged sketches of starving [Outer City](../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) children plus an investigative piece on Consortium **insurance fraud**.
 - **Refusal to print.** Will sit on a story when evidence is thin — Mad' Meggan's bombshell about cultist captives went unprinted "without verifiable proof."
 - **Leak destination.** Default drop for the [Harpers](../harpers/summary.md) when the Nightingale wants public sentiment shifted.
 - **"Narrative Correction."** [Western Gate](../western-gate-trading-company/summary.md) and the [Chionthar Consortium](../chionthar-consortium/summary.md) had Needle kidnapped (held by the [Cult of the Returning Lord](../cult-of-the-returning-lord/summary.md) — see [Ettvard Needle](people/ettvard-needle.md)) and installed a pro-Consortium editor to issue retractions and gaslight the populace about the insurance-fraud story.

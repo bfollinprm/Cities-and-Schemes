@@ -28,7 +28,7 @@ The vacuum is filled, not with anarchy, but with **patchwork local authorities**
 
 ## Where it's most visible
 
-Coast Way toll-forts; the Cloakwood logging war; the Wood of Sharp Teeth's post-Crisis residue; Wyrm's Crossing as the last point of city writ; Boareskyr Bridge as a single legitimate authority holding one point.
+Coast Way toll-forts; the Cloakwood logging war; the Wood of Sharp Teeth's post-Crisis residue; [Wyrm's Crossing](../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) as the last point of city writ; Boareskyr Bridge as a single legitimate authority holding one point.
 
 ## Source
 

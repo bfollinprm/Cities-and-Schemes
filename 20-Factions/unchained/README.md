@@ -1,6 +1,6 @@
 # The Unchained *(aka K'liir)*
 
-Githyanki exiles loyal to Prince Orpheus, training in the Outer City for war against Vlaakith.
+Githyanki exiles loyal to Prince Orpheus, training in the [Outer City](../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) for war against Vlaakith.
 
 ## Index
 

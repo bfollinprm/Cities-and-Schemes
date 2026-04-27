@@ -16,7 +16,7 @@ Stately. Stone. Heraldry. Watch patrols are large, uniformed, and visibly drille
 
 - **The Lords convene.** The Masked Lords meet in the Palace, identities concealed even in transit. Sessions are not public; the Open Lord's audiences with ambassadors are.
 - **Magisters hold court.** City-law trials, guild-law referrals, civil disputes between noble houses. Standard practice is for senior Magisters to rotate, to make bribery harder; the system was already strained before the 1491 council murders shook everyone's nerves.
-- **Embassies and presentations.** Foreign powers present credentials in the Palace's audience chambers. The Splendid Yard's cousin embassies operate here on the home side.
+- **Embassies and presentations.** Foreign powers present credentials in the Palace's audience chambers. The [Splendid Yard](../../../../20-Factions/waterdhavian-kontor/summary.md)'s cousin embassies operate here on the home side.
 
 ## Faction layer
 

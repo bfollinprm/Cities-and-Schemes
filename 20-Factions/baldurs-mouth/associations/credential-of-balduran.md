@@ -10,7 +10,7 @@ A heavy signet ring stamped with the Mouth's masthead and the city's foundationa
 ## What the Credential does
 
 - **Forced audience.** Patriars, Kontor consuls, Worshipful Company masters, Council aides — almost any city actor of rank — must grant the bearer at least a brief interview, by long-standing convention. Refusing is itself news, and they know it.
-- **Cover.** Anywhere a bearer needs to be (a Counting House foyer, a Watch checkpoint, the press benches at Parliament, an Upper City salon) the Credential is the cover story. Stringers travel with one.
+- **Cover.** Anywhere a bearer needs to be (a [Counting House](../../../30-Places/sword-coast/baldurs-gate/lower-city/counting-house.md) foyer, a Watch checkpoint, the press benches at Parliament, an [Upper City](../../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) salon) the Credential is the cover story. Stringers travel with one.
 - **Liability.** The Credential identifies the bearer as a Mouth asset. After the [Western Gate](../../western-gate-trading-company/summary.md) "press blackout" and Needle's kidnapping (see [Ettvard Needle](../people/ettvard-needle.md)), bearers are now also marked for the **Interim Management Board** and the Sembian mercenaries enforcing the new editorial line.
 
 ## Who holds one (known)

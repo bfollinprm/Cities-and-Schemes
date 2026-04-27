@@ -19,9 +19,9 @@ Hinterlands prose is owned by the dossier's local features and by `20-Factions/`
 
 | Faction | Role in the hinterlands |
 | --- | --- |
-| [Flaming Fist](../../../../20-Factions/flaming-fist/summary.md) | Authority effectively ends at Wyrm's Crossing; tolls there are the last point of city writ. |
+| [Flaming Fist](../../../../20-Factions/flaming-fist/summary.md) | Authority effectively ends at [Wyrm's Crossing](../outer-city/wyrms-crossing.md); tolls there are the last point of city writ. |
 | [Hellriders of New Elturel](../../../../20-Factions/hellriders-of-new-elturel/summary.md) | Thin checkpoints on the Trade Way near [Elturel](../../elturel/README.md); refugee militia rather than open-road force. |
-| [Watch](../../../../20-Factions/watch/summary.md) | Recently extended onto Western Gate logging routes — controversial overreach, mostly an Upper City body. |
+| [Watch](../../../../20-Factions/watch/summary.md) | Recently extended onto Western Gate logging routes — controversial overreach, mostly an [Upper City](../upper-city/README.md) body. |
 
 ## Underworld and pressure
 

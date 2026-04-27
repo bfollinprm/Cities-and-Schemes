@@ -21,7 +21,7 @@ The pollution of the [lower Chionthar](river-chionthar-lower/README.md) is the v
 
 ## The fraying edge of law
 
-The [Flaming Fist](../../../../20-Factions/flaming-fist/summary.md) barely reaches Wyrm's Crossing. Beyond it, "law" splits into a patchwork:
+The [Flaming Fist](../../../../20-Factions/flaming-fist/summary.md) barely reaches [Wyrm's Crossing](../outer-city/wyrms-crossing.md). Beyond it, "law" splits into a patchwork:
 
 - **Coast Way:** [Zhentarim](../../../../20-Factions/zhentarim/summary.md)-backed toll-forts run by local proxies, with arbitrary fees and "protection" that mostly protects the toll-master.
 - **Trade Way north of Beregost:** the [Chionthar Consortium](../../../../20-Factions/chionthar-consortium/summary.md) and its enforcers, undercutting the road from the river.

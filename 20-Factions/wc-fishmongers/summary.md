@@ -1,11 +1,11 @@
 ---
 name: wc-fishmongers
-description: Ancient guild controlling Gray Harbour fishing fleets; food supply leverage.
+description: Ancient guild controlling [Gray Harbour](../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) fishing fleets; food supply leverage.
 ---
 
 # Worshipful Company of Fishmongers
 
-One of Baldur's Gate's oldest Worshipful Companies. Their power comes not from glamour but from sheer necessity: by controlling the fishing fleets of Gray Harbour, they control the primary protein source for the working class — tens of thousands of mouths whose loyalty translates directly into political weight. Led by [Matron Marga Saltwind](people/marga-saltwind.md).
+One of Baldur's Gate's oldest Worshipful Companies. Their power comes not from glamour but from sheer necessity: by controlling the fishing fleets of [Gray Harbour](../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md), they control the primary protein source for the working class — tens of thousands of mouths whose loyalty translates directly into political weight. Led by [Matron Marga Saltwind](people/marga-saltwind.md).
 
 ## Ideology
 
@@ -18,7 +18,7 @@ The captains of the fishing fleets and the owners of the dockside processing hou
 ## Methods
 
 - Sets the price of fish across the city's markets.
-- Controls the best berths in Gray Harbour and the unionized dockworker labor pool, used in cooperation with [the Guild](../guild/summary.md) to influence harbor traffic.
+- Controls the best berths in [Gray Harbour](../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) and the unionized dockworker labor pool, used in cooperation with [the Guild](../guild/summary.md) to influence harbor traffic.
 - **Recently organized a dockworker strike** to extract concessions on harbor taxes, which collapsed in hours: the [Chionthar Consortium](../chionthar-consortium/summary.md) had pre-hired non-union strikebreakers from New Elturel refugees, protected by Consortium guards. The strike's failure has bred bitter resentment between Baldurian dockworkers and Elturian refugees.
 - Saltwind salvaged something by negotiating a **backroom Levy Exemption** with the Consortium: Fishmonger fleets dodge the Harbor Dredging Levy in exchange for guaranteed-low fish prices to Consortium mess halls.
 - A separate goodwill campaign — daily salted-fish shipments at cost to the Free Traders' Basilisk Gate blockade — was sabotaged by an unidentified rival who poisoned a stew cauldron, putting dozens of blockaders in sickbeds and torching the budding alliance.

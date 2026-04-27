@@ -10,7 +10,7 @@ public: true
 
 # Clear-Cut the Whisperwood Copse
 
-Using their newly-ratified charter, Matron [Lyra Silvershield's](../../people/lyra-silvershield.md) company dispatches logging crews to a section of the [Wood of Sharp Teeth](../../../../30-Places/sword-coast/baldurs-gate/hinterlands/wood-of-sharp-teeth/README.md) known locally as the **Whisperwood Copse**. They clear-cut the area with brutal efficiency, enraging the [Circle of the Inner Grove](../../../circle-of-the-inner-grove/summary.md).
+Using their newly-ratified charter, Matron [Lyra Silvershield's](../../people/lyra-silvershield.md) company dispatches logging crews to a section of the [Wood of Sharp Teeth](../../../../30-Places/sword-coast/baldurs-gate/hinterlands/wood-of-sharp-teeth/README.md) known locally as the **[Whisperwood Copse](../../../../30-Places/sword-coast/baldurs-gate/hinterlands/whisperwood-copse.md)**. They clear-cut the area with brutal efficiency, enraging the [Circle of the Inner Grove](../../../circle-of-the-inner-grove/summary.md).
 
 ## See also
 

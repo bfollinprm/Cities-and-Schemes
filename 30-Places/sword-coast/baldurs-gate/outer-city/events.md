@@ -1,6 +1,6 @@
 ---
 name: outer-city-events
-description: What happened in the Outer City districts by in-game week.
+description: What happened in the [Outer City](README.md) districts by in-game week.
 ---
 
 # Outer City — Events

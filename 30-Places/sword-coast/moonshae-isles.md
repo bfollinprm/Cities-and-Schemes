@@ -1,11 +1,11 @@
 ---
 name: moonshae-isles
-description: Crown-and-fey island chain on the Sea of Swords' northwestern rim — Alaron, Gwynneth, the Northlander Isles, Amnian Snowdown.
+description: Crown-and-fey island chain on the [Sea of Swords](../../10-Setting/regions/sea-of-swords.md)' northwestern rim — Alaron, Gwynneth, the Northlander Isles, Amnian Snowdown.
 ---
 
 # The Moonshae Isles
 
-Green-and-fog island chain on the northwestern Sea of Swords. Four hands pull the Isles in four directions:
+Green-and-fog island chain on the northwestern [Sea of Swords](../../10-Setting/regions/sea-of-swords.md). Four hands pull the Isles in four directions:
 
 - **Alaron** — High King **Derid Kendrick** at **Caer Callidyrr**; Callidyrr Dragoons in green and bronze; the strongest mortal authority on the Isles, on a shrinking budget.
 - **Gwynneth** under **Sarifal** — eladrin High Lady **Ordalf**; mortal law is a guest at best. *Never bargain on the full moon. Never thank an eladrin.*

@@ -13,7 +13,7 @@ Cautious confidence. Reconstruction is far enough advanced that the city behaves
 
 ## Neverember's grievance
 
-The dossiers (Waterdeep #21, Sea of Swords #20) frame Neverember consistently: an Alliance member who runs his city well and who hates the executive of his own Alliance. The Waterdeep ouster (~1489 DR) is the wound; the **Luskan accession** debate is the live arena.
+The dossiers (Waterdeep #21, [Sea of Swords](../../../10-Setting/regions/sea-of-swords.md) #20) frame Neverember consistently: an Alliance member who runs his city well and who hates the executive of his own Alliance. The Waterdeep ouster (~1489 DR) is the wound; the **Luskan accession** debate is the live arena.
 
 Read his Neverwinter as a polity that votes Alliance and acts independent. Neverember's Mintarn contracts (now lapsed) and his road-protection budgets were funded out of Neverwinter's own purse, not Waterdeep's; he is fiscally and politically self-sufficient.
 

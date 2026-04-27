@@ -19,7 +19,7 @@ The city's most skilled alchemists, apothecaries, and (off the books) poisoners.
 
 - Sets prices on every legal potion and antitoxin in the city, and is the only legal purveyor of most of them.
 - Industrial espionage to steal formulas from rivals — and brutal protection of its own.
-- Following a minor Sewer Plague outbreak in the Lower City, the **Court of Assistants voted to triple antitoxin prices**, citing reagent scarcity. The move was naked price-gouging; an adventuring party bypassed the guild entirely by routing supplies from a [Chionthar Consortium](../chionthar-consortium/summary.md) warehouse to the Open Hand Temple, earning Droog's private fury.
+- Following a minor Sewer Plague outbreak in the [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md), the **Court of Assistants voted to triple antitoxin prices**, citing reagent scarcity. The move was naked price-gouging; an adventuring party bypassed the guild entirely by routing supplies from a [Chionthar Consortium](../chionthar-consortium/summary.md) warehouse to the [Open Hand Temple](../../30-Places/sword-coast/baldurs-gate/outer-city/open-hand-temple.md), earning Droog's private fury.
 - After dangerous reagents were stolen from the guild's own stores, Droog publicly accused a fired apprentice of the theft and posted a bounty — a convenient scapegoat. The framed apprentice has now opened back-channel negotiations with [the Guild](../guild/summary.md), offering three valuable potion formulas in exchange for safe passage.
 
 ## Hooks and Relationships

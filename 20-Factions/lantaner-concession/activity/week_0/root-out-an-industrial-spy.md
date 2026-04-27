@@ -16,4 +16,4 @@ The apprentice spy, forewarned by an accomplice, manages to escape the [Cogwork 
 
 - [Lantaner Concession](../../summary.md)
 - [Worshipful Company of Smiths & Armorers](../../../wc-smiths-armorers/summary.md)
-- [Gray Harbour](../../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) — the Cogwork Quay sits on the waterfront.
+- [Gray Harbour](../../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) — the [Cogwork Quay](../../summary.md) sits on the waterfront.

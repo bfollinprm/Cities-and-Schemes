@@ -17,9 +17,9 @@ Quickfoot consolidated the guild during the post-crisis tavern boom by treating 
 
 Her current playbook:
 
-- A working alliance with [the Guild](../../guild/summary.md)'s Ward-Bosses keeps her product flowing in the Lower City and the [Flaming Fist](../../flaming-fist/summary.md) out of her warehouses.
+- A working alliance with [the Guild](../../guild/summary.md)'s Ward-Bosses keeps her product flowing in the [Lower City](../../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) and the [Flaming Fist](../../flaming-fist/summary.md) out of her warehouses.
 - Wardens recently raided an Eastway tenement still and made a brutal public example of the operator.
-- A "gift" of priceless Amnian wine — acquired from the Undercellar through unsubtle channels — bought a [Peerage of Coin](../../peerage-of-coin/summary.md) vote against a luxury tax.
+- A "gift" of priceless Amnian wine — acquired from the [Undercellar](../../../30-Places/sword-coast/baldurs-gate/undercity/the-undercellar.md) through unsubtle channels — bought a [Peerage of Coin](../../peerage-of-coin/summary.md) vote against a luxury tax.
 - Her overture to **Lord Durinbold** of the [Peerage of Blood](../../peerage-of-blood/summary.md) misfired badly: the ale was returned with a scathing note and the patriar bloc now treats her overtures as crass bribery. Quickfoot has redirected her courtship toward the **Archduke's new mercenary commander**, sending Calishite spirits and Waterdhavian wines instead.
 
 She is patient with smugglers she can co-opt and merciless with those she cannot.

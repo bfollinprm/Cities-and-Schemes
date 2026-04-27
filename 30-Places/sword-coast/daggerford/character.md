@@ -13,7 +13,7 @@ The Duke of Daggerford holds an Alliance seat by inheritance and by Waterdeep's 
 
 ## Mood in 1502 DR
 
-Working. The High Road forts project north (toward Waterdeep) and south (eventually toward Baldur's Gate); Daggerford merchants notice the increased patrol traffic but are not prosperous from it. Refugees from Elturel passed through here a decade ago on their way south to the Outer City, leaving only a handful of permanent residents.
+Working. The High Road forts project north (toward Waterdeep) and south (eventually toward Baldur's Gate); Daggerford merchants notice the increased patrol traffic but are not prosperous from it. Refugees from Elturel passed through here a decade ago on their way south to the [Outer City](../baldurs-gate/outer-city/README.md), leaving only a handful of permanent residents.
 
 ## Useful to whom
 

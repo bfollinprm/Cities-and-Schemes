@@ -1,11 +1,11 @@
 ---
 name: outer-city-character
-description: Texture of the Outer City — refugee grit, multicultural sprawl, and the boroughs that did not get their own file.
+description: Texture of the [Outer City](README.md) — refugee grit, multicultural sprawl, and the boroughs that did not get their own file.
 ---
 
 # Character
 
-The Outer City is what the Council of Four does not tax and the Flaming Fist does not patrol. Each borough is its own logic: refugee piety in New Elturel, caravan opportunism in Rivington, gnome workshops in Whitkeep, livestock yards in Stonyeyes, the alien drill-ground of the K'liir. They share only that none of them obey the Old Wall.
+The [Outer City](README.md) is what the Council of Four does not tax and the Flaming Fist does not patrol. Each borough is its own logic: refugee piety in New Elturel, caravan opportunism in Rivington, gnome workshops in Whitkeep, livestock yards in Stonyeyes, the alien drill-ground of the K'liir. They share only that none of them obey the Old Wall.
 
 ## What you notice
 

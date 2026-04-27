@@ -27,7 +27,7 @@ The city's finest tailors, weavers, and dyers. Vance keeps an internal-security 
 
 **Allies.** [Waterdhavian Kontor](../waterdhavian-kontor/summary.md) and [Amnian Kontor](../amnian-kontor/summary.md) (raw textiles); [Peerage of Blood](../peerage-of-blood/summary.md) traditionalists, increasingly courted through symbolic design choices.
 
-**Enemies.** A fierce leather rivalry with the [Worshipful Company of Butchers & Tanners](../wc-butchers-tanners/summary.md) over which guild gets to use fine hides in fashion. Outer City independent artisans who undercut the Mercers' prices live in constant fear of Wardens turning up with confiscation orders.
+**Enemies.** A fierce leather rivalry with the [Worshipful Company of Butchers & Tanners](../wc-butchers-tanners/summary.md) over which guild gets to use fine hides in fashion. [Outer City](../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) independent artisans who undercut the Mercers' prices live in constant fear of Wardens turning up with confiscation orders.
 
 ## See also
 

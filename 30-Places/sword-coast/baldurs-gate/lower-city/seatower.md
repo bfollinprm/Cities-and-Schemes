@@ -5,7 +5,7 @@ description: Western military spit on the river mouth; Seatower of Balduran, For
 
 # Seatower
 
-Seatower wraps the Lower City's western spit of land facing the river mouth. It beats to military time: reveille horns, ship bells, and the clatter of drill squares. On paydays the streets fill with sailors and Fist mercenaries; on storm days, with ropes, tar, and oaths strong enough to season timber.
+Seatower wraps the [Lower City](README.md)'s western spit of land facing the river mouth. It beats to military time: reveille horns, ship bells, and the clatter of drill squares. On paydays the streets fill with sailors and Fist mercenaries; on storm days, with ropes, tar, and oaths strong enough to season timber.
 
 ## Notable stops
 

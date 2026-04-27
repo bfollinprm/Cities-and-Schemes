@@ -15,7 +15,7 @@ Undisputed Guildmaster of [The Guild](../summary.md) and the most powerful unele
 
 After the Absolute Crisis paralyzed the official government, Keene stepped into the vacuum. She understood that providing the social safety net the state would not — informal justice, work, and protection — would convert a thieves' guild into a political machine, with the loyalty of the majority of the city's population as its electorate.
 
-She is rarely seen in the dank Guildhall sewers. She runs operations from a modest, heavily-guarded townhouse in the Lower City, taking meetings with guild masters, consortium envoys, and members of the [Parliament of Peers](../../parliament-of-peers/summary.md) who seek her favor.
+She is rarely seen in the dank Guildhall sewers. She runs operations from a modest, heavily-guarded townhouse in the [Lower City](../../../30-Places/sword-coast/baldurs-gate/lower-city/README.md), taking meetings with guild masters, consortium envoys, and members of the [Parliament of Peers](../../parliament-of-peers/summary.md) who seek her favor.
 
 ## Current pressures
 

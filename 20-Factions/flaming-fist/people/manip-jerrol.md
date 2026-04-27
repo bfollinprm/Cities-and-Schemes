@@ -1,6 +1,6 @@
 ---
 name: manip-jerrol
-description: Flaming Fist officer running shakedowns at Wyrm's Crossing; the operational face of the Fist's revenue-grab on the Outer City.
+description: Flaming Fist officer running shakedowns at [Wyrm's Crossing](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md); the operational face of the Fist's revenue-grab on the [Outer City](../../../30-Places/sword-coast/baldurs-gate/outer-city/README.md).
 ---
 
 # Manip Jerrol
@@ -13,7 +13,7 @@ Jerrol's beat is the bridge: tolls, customs spot-checks, and the kind of "encour
 
 ## Week 0
 
-His shakedown push backfired publicly. A confrontation with ['Mad' Meggan](../../free-traders-of-the-outskirts/people/mad-meggan.md) erupted into a brawl on the bridge; the Free Traders' multi-day blockade of Wyrm's Crossing followed. The Fist's revenue grab netted a loss of trade and a public-relations beating. See [activity/week_0/increased-shakedowns-on-wyrms-crossing.md](../activity/week_0/increased-shakedowns-on-wyrms-crossing.md).
+His shakedown push backfired publicly. A confrontation with ['Mad' Meggan](../../free-traders-of-the-outskirts/people/mad-meggan.md) erupted into a brawl on the bridge; the Free Traders' multi-day blockade of [Wyrm's Crossing](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) followed. The Fist's revenue grab netted a loss of trade and a public-relations beating. See [activity/week_0/increased-shakedowns-on-wyrms-crossing.md](../activity/week_0/increased-shakedowns-on-wyrms-crossing.md).
 
 ## See also
 

@@ -1,15 +1,15 @@
 ---
 name: helma-tallowshand
-description: Master of the Shipwrights' Company; can bring Gray Harbour to a standstill with a single order.
+description: Master of the Shipwrights' Company; can bring [Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) to a standstill with a single order.
 ---
 
 # Master Helma Tallowshand
 
-Master of the [Worshipful Company of Shipwrights & Calkers](../summary.md) and arguably the single most economically powerful person in Baldur's Gate after the foreign Consuls. Her word governs every legal hull launched from Gray Harbour.
+Master of the [Worshipful Company of Shipwrights & Calkers](../summary.md) and arguably the single most economically powerful person in Baldur's Gate after the foreign Consuls. Her word governs every legal hull launched from [Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md).
 
 ## Manifesto
 
-> Look out at the Gray Harbour. Every mast that catches the wind, every hull that repels the waves, every keel that cuts the Chionthar — that is our work. The Kontors bring the coin, the Fist guards the walls, but it is our hands, our sweat, and our timber that make this city a gate and not a backwater. We do not just build ships; we build this city's future, one plank at a time.
+> Look out at the [Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md). Every mast that catches the wind, every hull that repels the waves, every keel that cuts the Chionthar — that is our work. The Kontors bring the coin, the Fist guards the walls, but it is our hands, our sweat, and our timber that make this city a gate and not a backwater. We do not just build ships; we build this city's future, one plank at a time.
 
 ## Role
 

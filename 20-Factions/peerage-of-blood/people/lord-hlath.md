@@ -9,7 +9,7 @@ A patriar of House Hlath. As of week 0, dispossessed: the [Amnian Kontor](../../
 
 ## Role
 
-Hlath is the textbook target the [Knights of the Shield](../../../knights-of-the-shield/summary.md) were created to recruit: a recently-fallen patriar with a grievance and no remaining political leverage. He refused them. A traditionalist — and, despite the bitterness, a Baldurian patriot — he found their diabolical pact terms repugnant and instead tipped off a priest at the Watchful Shield Shrine in [Manorborn](../../../../30-Places/sword-coast/baldurs-gate/upper-city/manorborn.md) about the Knights' resurgence. The recruitment failed and exposed the Knights' renewed activity.
+Hlath is the textbook target the [Knights of the Shield](../../../knights-of-the-shield/summary.md) were created to recruit: a recently-fallen patriar with a grievance and no remaining political leverage. He refused them. A traditionalist — and, despite the bitterness, a Baldurian patriot — he found their diabolical pact terms repugnant and instead tipped off a priest at the [Watchful Shield Shrine](../../../30-Places/sword-coast/baldurs-gate/upper-city/watchful-shield-shrine.md) in [Manorborn](../../../../30-Places/sword-coast/baldurs-gate/upper-city/manorborn.md) about the Knights' resurgence. The recruitment failed and exposed the Knights' renewed activity.
 
 ## Pressure points
 

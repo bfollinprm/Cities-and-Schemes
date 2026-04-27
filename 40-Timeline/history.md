@@ -41,7 +41,7 @@ Western-water events recorded by Greywake's dossier. World-visible only; deep-wa
 - **1496 DR — Lords' Alliance push into the Nelanther.** Waterdeep and Baldur's Gate force the Alliance fleet into the pirate isles. **Kraken Society** glyphs surface in Luskan, Gundbarg, and Baldur's Gate's docks. The Society tries to seed a cult on Ruathym; cultists found drowned. Bloodwave's reavers threaten **Orlumbor** before Waterdeep's navy intercepts.
 - **1498 DR — Battle of Asavir's Channel.** Combined Lords' Alliance fleets crush Bloodwave's Black Flag Fleet at the Nelanther bottleneck. Many pirate lords die; Bloodwave's body never found. **Ruathym closes its ports** by decree of the First Axe **Vok Dorrg**: *"Let the south bleed; we will guard our own fjords."* **Hoondarrh attacks Castle Mintarn**, toppling two towers to demand more tribute.
 - **1499 DR — Green-comet impact.** A green comet plunges into the ocean west of Evermeet (summer). Captains afterward report unnatural lights beneath the water and dreamings; sages whisper of **starspawn**.
-- **1500 DR — Trade boom.** Baldur's Gate's reconstruction drives caravan and galleon traffic to a peak. Zhentarim fattens on smokepowder and spices across the Chionthar and Sea of Swords. The Storm Maiden vanishes for a season, returning with eyes like lightning. A night of three moons over Gwynneth seen by twenty crews.
+- **1500 DR — Trade boom.** Baldur's Gate's reconstruction drives caravan and galleon traffic to a peak. Zhentarim fattens on smokepowder and spices across the Chionthar and [Sea of Swords](../10-Setting/regions/sea-of-swords.md). The Storm Maiden vanishes for a season, returning with eyes like lightning. A night of three moons over Gwynneth seen by twenty crews.
 - **1501 DR — Year of the Awakened Kraken.** Whole caravels vanish in the Trackless Sea. A Harper missive reports unusual tides around the **Purple Rocks**; **Ascarle** may be stirring. **Admiral Austarl Blackmane** consolidates the Nelanther under the *Brine Hydra*. Ruathym nearly starves; saved by a bumper whale catch.
 - **1502 DR (present) — Year of the Pox Plague.** Pestilence creeps through southern ports. Blackmane sinks two Amnian frigates in open battle, announcing his reign of fear. The Tyrant of Mintarn quietly petitions the Lords' Alliance for loans and a dragonslayer. The Alliance proclaims sea lanes secure; sailors laugh in every tavern.
 
@@ -49,8 +49,8 @@ Western-water events recorded by Greywake's dossier. World-visible only; deep-wa
 
 - **1492 DR — Absolute Crisis (BG3).** The Cult of the Absolute, run by Chosen of the Dead Three and a Netherbrain, nearly conquers Baldur's Gate. Heroes destroy the Brain. See [absolute-crisis](../10-Setting/history/absolute-crisis.md).
 - **1493 DR — The Great Bargain.** Emergency Council charters the Foreign Kontors in exchange for reconstruction aid. Sovereignty traded for capital. See [great-bargain](../10-Setting/history/great-bargain.md).
-- **1494 DR — Fall of Elturel.** Elturel dragged to Avernus by Zariel; thousands of Elturians flock to Baldur's Gate's Outer City. See [elturian-diaspora](../10-Setting/peoples/elturian-diaspora.md).
-- **1496 DR — The K'liir Established.** Orpheus-loyal githyanki under K'laar settle the Outer City.
+- **1494 DR — Fall of Elturel.** Elturel dragged to Avernus by Zariel; thousands of Elturians flock to Baldur's Gate's [Outer City](../30-Places/sword-coast/baldurs-gate/outer-city/README.md). See [elturian-diaspora](../10-Setting/peoples/elturian-diaspora.md).
+- **1496 DR — The K'liir Established.** Orpheus-loyal githyanki under K'laar settle the [Outer City](../30-Places/sword-coast/baldurs-gate/outer-city/README.md).
 - **1497 DR — Parliament Reformed.** Peerages of Blood and Coin created. See [1497-reformation](../10-Setting/history/1497-reformation.md).
 
 ## c. 1491 DR — The Shadow War begins
@@ -90,7 +90,7 @@ The gods walk Faerûn as mortals. **Bhaal**, Lord of Murder, foresees his own de
 
 ## c. 1068 DR — Founding of Baldur's Gate
 
-The adventurer **Balduran** returns from Anchorome and walls the fishing village of Gray Harbour (formerly Loklee), renaming it after himself. The city's foundation is rooted in adventure and commerce.
+The adventurer **Balduran** returns from Anchorome and walls the fishing village of [Gray Harbour](../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) (formerly Loklee), renaming it after himself. The city's foundation is rooted in adventure and commerce.
 
 ## Older — Foundational Waterdhavian events
 

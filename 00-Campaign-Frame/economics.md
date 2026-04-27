@@ -17,9 +17,9 @@ This is not corruption. It is the operating system. The moralizing language — 
 
 ## Three corollaries
 
-**1. Debt outlives the debtor.** A loan from the Gold-Gable Hall is enforceable across the Sword Coast Hansa. A favor owed to a Ward Boss outlives the Ward Boss; their Sachem inherits the ledger. A pact with a devil through the Knights of the Shield outlives the soul that signed it. The chain is the part that matters.
+**1. Debt outlives the debtor.** A loan from the [Gold-Gable Hall](../20-Factions/amnian-kontor/summary.md) is enforceable across the Sword Coast Hansa. A favor owed to a Ward Boss outlives the Ward Boss; their Sachem inherits the ledger. A pact with a devil through the Knights of the Shield outlives the soul that signed it. The chain is the part that matters.
 
-**2. Sovereignty is liquid.** The Great Bargain proved that a city can sell pieces of its own jurisdiction for cash. The Foreign Kontors are sovereign because they paid for sovereignty and the receipts are filed. The Outer City is unwalled because no one paid to wall it. The K'liir is autonomous because the Council cannot afford to take it. *Where the money is not, the law is not.*
+**2. Sovereignty is liquid.** The Great Bargain proved that a city can sell pieces of its own jurisdiction for cash. The Foreign Kontors are sovereign because they paid for sovereignty and the receipts are filed. The [Outer City](../30-Places/sword-coast/baldurs-gate/outer-city/README.md) is unwalled because no one paid to wall it. The K'liir is autonomous because the Council cannot afford to take it. *Where the money is not, the law is not.*
 
 **3. Patronage is the only welfare state.** The Council abandoned the common citizen to high finance and trade. The Guild filled the gap by *buying* loyalty: jobs, medicine, firewood, school for a Ward Boss's nephew. The Hellriders feed New Elturel because the Council does not. The Worshipful Companies care for sick guild members because the Companies own the only insurance contract that pays. Every social safety net in this world is somebody's investment.
 

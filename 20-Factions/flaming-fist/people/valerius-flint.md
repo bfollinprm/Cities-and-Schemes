@@ -15,9 +15,9 @@ Marshal of the [Flaming Fist](../summary.md). A grim veteran competent at soldie
 
 Flint inherited a force decimated by the [Absolute Crisis](../../../10-Setting/history/absolute-crisis.md) and discredited by its leadership during the same. The decade since has been one long managed retreat: downsizing, defunding, repurposing as customs muscle, and watching the Kontor Guards and Worshipful Company Wardens carve up the jurisdictions the Fist used to own.
 
-His current play is a recall of loyalists to **Wyrm's Rock Fortress** — a defensive consolidation that has left other Upper City beats dangerously thin and forced [the Watch](../../watch/summary.md) to cover only the Temples District and Manorborn. Ambitious subordinates like **Blaze Liara Portyr** are quietly positioning to succeed (or supplant) him.
+His current play is a recall of loyalists to **[Wyrm's Rock](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-rock.md) Fortress** — a defensive consolidation that has left other [Upper City](../../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) beats dangerously thin and forced [the Watch](../../watch/summary.md) to cover only the [Temples District](../../../30-Places/sword-coast/baldurs-gate/upper-city/temples-district.md) and Manorborn. Ambitious subordinates like **Blaze Liara Portyr** are quietly positioning to succeed (or supplant) him.
 
-The shakedowns at **Wyrm's Crossing** were authorized to scrape revenue from the [Free Traders of the Outskirts](../../free-traders-of-the-outskirts/summary.md). Manip Jerrol's brutality during the operation produced the multi-day blockade and the public-relations disaster that now defines Flint's tenure.
+The shakedowns at **[Wyrm's Crossing](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md)** were authorized to scrape revenue from the [Free Traders of the Outskirts](../../free-traders-of-the-outskirts/summary.md). Manip Jerrol's brutality during the operation produced the multi-day blockade and the public-relations disaster that now defines Flint's tenure.
 
 ## See also
 

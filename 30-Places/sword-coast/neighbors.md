@@ -1,6 +1,6 @@
 ---
 name: sword-coast-neighbors
-description: External regions bordering the Sword Coast — Moonshae Isles, Northlander seas, Tethyr/Calimshan southward, the Underdark below.
+description: External regions bordering the Sword Coast — [Moonshae Isles](moonshae-isles.md), Northlander seas, Tethyr/Calimshan southward, the Underdark below.
 ---
 
 # Neighbors
@@ -9,7 +9,7 @@ The Sword Coast is bounded by water on the west, by the Cloud Peaks on the south
 
 ## West — across the Sea of Swords
 
-- **Moonshae Isles.** Crown-and-fey island chain on the Sea of Swords' northwestern rim. Four powers split it: **Alaron** under King Derid Kendrick, **Gwynneth** under the eladrin High Lady Ordalf at **Sarifal**, the **Northlander Isles** (Norland, Oman, Moray) under the **Storm Maiden**, and **Snowdown** under Amnian occupation. See [moonshae-isles.md](moonshae-isles.md).
+- **Moonshae Isles.** Crown-and-fey island chain on the [Sea of Swords](../../10-Setting/regions/sea-of-swords.md)' northwestern rim. Four powers split it: **Alaron** under King Derid Kendrick, **Gwynneth** under the eladrin High Lady Ordalf at **Sarifal**, the **Northlander Isles** (Norland, Oman, Moray) under the **Storm Maiden**, and **Snowdown** under Amnian occupation. See [moonshae-isles.md](moonshae-isles.md).
 - **Nelanther Isles.** Pirate archipelago south of the Moonshaes. **Skaug** is the neutral fence-port; **Admiral Austarl Blackmane** is the post-Bloodwave Sea King. See [nelanther-isles.md](nelanther-isles.md).
 - **Mintarn, Orlumbor, Ruathym.** Independent islands midway out — a broker, a shipyard, and an isolationist Northlander stronghold respectively. See [mintarn/](mintarn/README.md), [orlumbor/](orlumbor/README.md), [ruathym/](ruathym/README.md).
 - **Trackless Sea and the Purple Rocks.** Open western water; Slarkrethel's domain. See [purple-rocks.md](purple-rocks.md).

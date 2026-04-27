@@ -1,6 +1,6 @@
 ---
 name: sea-as-frontier
-description: Evergreen rule — the Sea of Swords is lifeline and threat in equal measure; piracy and salt-cult tribute are structural, not anomalous.
+description: Evergreen rule — the [Sea of Swords](../10-Setting/regions/sea-of-swords.md) is lifeline and threat in equal measure; piracy and salt-cult tribute are structural, not anomalous.
 ---
 
 # Sea as Frontier
@@ -9,7 +9,7 @@ The Sword Coast lives by the sea. Every walled city the campaign cares about —
 
 ## The principle
 
-The Sea of Swords is **commercial infrastructure that no one owns**. Cargo crosses it because the captains who carry the cargo treat the sea as a working partner — feed it tribute, respect its weather, name your gods aloud — and pay tax to whichever flag happens to be in sight. Piracy is not deviance from the system; piracy *is* the system, alternating with privateering and Lords' Alliance patrols depending on which week and which coastline.
+The [Sea of Swords](../10-Setting/regions/sea-of-swords.md) is **commercial infrastructure that no one owns**. Cargo crosses it because the captains who carry the cargo treat the sea as a working partner — feed it tribute, respect its weather, name your gods aloud — and pay tax to whichever flag happens to be in sight. Piracy is not deviance from the system; piracy *is* the system, alternating with privateering and Lords' Alliance patrols depending on which week and which coastline.
 
 ## How it shows up
 

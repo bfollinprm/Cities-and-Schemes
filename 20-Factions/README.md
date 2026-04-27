@@ -28,7 +28,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 
 ### Watch
 
-- [The Watch *(Upper City Watch)*](watch/summary.md) — Patriar-funded watch policing the Upper City; chronically stretched thin.
+- [The Watch *([Upper City](../30-Places/sword-coast/baldurs-gate/upper-city/README.md) Watch)*](watch/summary.md) — Patriar-funded watch policing the Upper City; chronically stretched thin.
 
 ### Worshipful Companies
 
@@ -36,13 +36,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Worshipful Company of Butchers & Tanners](wc-butchers-tanners/summary.md) — Wealthy but socially disdained guild controlling food and leather production.
 - [Worshipful Company of Cartographers & Surveyors](wc-cartographers-surveyors/summary.md) — Essential guild whose seal is required on every land deed; closely guarded sewer maps.
 - [Worshipful Company of Chandlers & Lamplighters](wc-chandlers-lamplighters/summary.md) — Provides oil, candles, and torches; lamplighter crews know the city's nightly rhythms.
-- [Worshipful Company of Fishmongers](wc-fishmongers/summary.md) — Ancient guild controlling Gray Harbour fishing fleets; food supply leverage.
+- [Worshipful Company of Fishmongers](wc-fishmongers/summary.md) — Ancient guild controlling [Gray Harbour](../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) fishing fleets; food supply leverage.
 - [Worshipful Company of Goldsmiths & Jewelers](wc-goldsmiths-jewelers/summary.md) — Regulators of precious metals and gems; the city's unofficial mint and assay office.
 - [Worshipful Company of Masons & Sculptors](wc-masons-sculptors/summary.md) — Wealthy guild that rebuilt Baldur's Gate post-crisis; near-monopoly on construction.
 - [Worshipful Company of Mercers & Clothiers](wc-mercers-clothiers/summary.md) — Arbiters of fashion and status; fine clothing for the city's elite.
 - [Worshipful Company of Shipwrights & Calkers](wc-shipwrights-calkers/summary.md) — Most powerful guild, controlling the city's vital shipbuilding and repair industry.
 - [Worshipful Company of Smiths & Armorers](wc-smiths-armorers/summary.md) — Guild forging arms and armor for the city's guards, soldiers, and adventurers.
-- [Sorcerous Sodality *(Sorcerous Sundries)*](wc-sorcerous-sodality/summary.md) — Reformed Sorcerous Sundries; regulates magical goods and licenses public spellcasting.
+- [Sorcerous Sodality *([Sorcerous Sundries](../30-Places/sword-coast/baldurs-gate/lower-city/sorcerous-sundries.md))*](wc-sorcerous-sodality/summary.md) — Reformed Sorcerous Sundries; regulates magical goods and licenses public spellcasting.
 - [Worshipful Company of Vintners & Brewers](wc-vintners-brewers/summary.md) — Guild controlling alcohol trade from cheap ale to imported wine; key to social life.
 
 ### Societies
@@ -57,13 +57,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 ### Smuggler Cells
 
 - [River-Rats](river-rats/summary.md) — Sewer-and-river smuggling crew operating beneath the Brampton district under Silas the Eel.
-- [Wharf Rats](wharf-rats/summary.md) — Dockside smuggling crew under One-Eyed Jack, working the Gray Harbour.
+- [Wharf Rats](wharf-rats/summary.md) — Dockside smuggling crew under One-Eyed Jack, working the [Gray Harbour](../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md).
 
 ### Refugee / Frontier
 
-- [Free Traders of the Outskirts](free-traders-of-the-outskirts/summary.md) — Independent caravan masters of the Outer City under 'Mad' Meggan; mutual-protection pact.
+- [Free Traders of the Outskirts](free-traders-of-the-outskirts/summary.md) — Independent caravan masters of the [Outer City](../30-Places/sword-coast/baldurs-gate/outer-city/README.md) under 'Mad' Meggan; mutual-protection pact.
 - [Hellriders of New Elturel](hellriders-of-new-elturel/summary.md) — Volunteer militia and informal government of the New Elturel refugee district.
-- [The Unchained *(K'liir)*](unchained/summary.md) — Githyanki exiles loyal to Prince Orpheus, training in the Outer City for war against Vlaakith.
+- [The Unchained *(K'liir)*](unchained/summary.md) — Githyanki exiles loyal to Prince Orpheus, training in the [Outer City](../30-Places/sword-coast/baldurs-gate/outer-city/README.md) for war against Vlaakith.
 
 ### Remnant Costers
 
