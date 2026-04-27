@@ -6,4 +6,4 @@ Splinter cult listening for the 'Echo' of the Netherbrain in the city's psychic 
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: brother-billiam, the-voice.
-- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3).

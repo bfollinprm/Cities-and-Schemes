@@ -7,3 +7,4 @@ Ongoing actions, organized by in-game week.
 - [week_0/](week_0/) — cover-up-a-structural-flaw.
 - [week_1/](week_1/) — publicly-blame-sabotage-for-flaw.
 - [week_2/](week_2/) — enforce-the-standard.
+- [week_3/](week_3/) — a-question-of-loyalty.

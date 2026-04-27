@@ -7,3 +7,4 @@ Ongoing actions, organized by in-game week.
 - [week_0/](week_0/) — submit-petition-for-citizenship.
 - [week_1/](week_1/) — organize-a-protest-at-wyrms-crossing.
 - [week_2/](week_2/) — the-interrogation.
+- [week_3/](week_3/) — the-negotiations-price.

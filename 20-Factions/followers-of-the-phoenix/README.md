@@ -6,4 +6,4 @@ Karlach-worshipping cult of righteous fury, growing among tieflings and outcasts
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: mikkel, the-ember.
-- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3).

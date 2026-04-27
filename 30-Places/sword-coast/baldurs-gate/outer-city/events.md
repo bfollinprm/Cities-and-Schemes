@@ -104,6 +104,47 @@ description: What happened in the [Outer City](README.md) districts by in-game w
 
 - **Internal training week.** [K'laar's training cycle](../../../../20-Factions/unchained/activity/week_2/a-profitable-exercise.md); a periphery psi-sensitive recruit is now flagged by the Hands as a future kidnap target.
 
+## Week 3
+
+### Wyrm's Rock
+
+- **Marshal Flint circles the wagons.** Loyalist Fist officers are recalled from neighborhood patrols to the fortress; [Manip Jerrol](../../../../20-Factions/flaming-fist/people/manip-jerrol.md) is pulled off the Wyrm's Crossing beat. The Fist consolidates for a political siege, not a street one. See [activity](../../../../20-Factions/flaming-fist/activity/week_3/circle-the-wagons.md).
+- **Smiths' Company petition delivered in person and refused in person.** [Master Tor-keg Silverhand](../../../../20-Factions/wc-smiths-armorers/people/tor-keg-silverhand.md) appeals to Flint soldier-to-soldier; Flint pours wine and offers nothing. See [activity](../../../../20-Factions/wc-smiths-armorers/activity/week_3/an-appeal-to-the-marshal.md).
+- **Unveiled infiltration fiasco.** [Xylia](../../../../20-Factions/unveiled/people/xylia.md) sends a crew hunting "Harper puppet" evidence; two are caught in the cells, the rest barely escape. See [activity](../../../../20-Factions/unveiled/activity/week_3/the-puppet-marshal.md).
+- **K'laar receives a discreet peacekeeping offer.** Marshal Flint's agent proposes a neutral Unchained guard rotation at Wyrm's Rock, no fealty required; [K'laar](../../../../20-Factions/unchained/people/k-laar.md) takes it under serious consideration. See [activity](../../../../20-Factions/unchained/activity/week_3/an-honorable-contract.md).
+- **Fist officer dress uniforms quietly switched to Peerage-of-Blood colors.** [Mistress Vance's](../../../../20-Factions/wc-mercers-clothiers/people/elethra-vance.md) Mercer atelier delivers the new designs. See [activity](../../../../20-Factions/wc-mercers-clothiers/activity/week_3/the-color-of-authority.md).
+- **Masons leak attempt brutally suppressed.** [Master Stonehand](../../../../20-Factions/wc-masons-sculptors/people/borin-stonehand.md) catches dissenters trying to leak Wyrm's Rock repair-cycle plans to a Harper contact and expels them with broken hands. See [activity](../../../../20-Factions/wc-masons-sculptors/activity/week_3/a-question-of-loyalty.md).
+- **Cartographers map both fortifications.** [Master Vancroft](../../../../20-Factions/wc-cartographers-surveyors/people/elias-vancroft.md) sells assault maps and defense maps to all comers. See [activity](../../../../20-Factions/wc-cartographers-surveyors/activity/week_3/chart-the-chaos.md).
+
+### Basilisk Gate / Wyrm's Crossing
+
+- **Mad Meggan's bombshell fizzles.** ['Mad' Meggan](../../../../20-Factions/free-traders-of-the-outskirts/people/mad-meggan.md) tries to convert [the public confession](../../../../20-Factions/free-traders-of-the-outskirts/activity/week_2/dig-in-for-the-siege.md) into formal arrests; [Editor Needle refuses to print the names](../../../../20-Factions/baldurs-mouth/activity/week_3/the-price-of-insubordination.md). The pamphlets are dismissed as radical propaganda. See [activity](../../../../20-Factions/free-traders-of-the-outskirts/activity/week_3/press-the-advantage.md).
+- **Carnival of Whispers seeds despair amplifiers.** [Mister Smiles'](../../../../20-Factions/carnival-of-whispers/people/mister-smiles.md) performers mingle with the protest crowd amplifying despair for the patron. The Open Hand sees a sharp uptick in despondency cases. See [activity](../../../../20-Factions/carnival-of-whispers/activity/week_3/sowing-sweet-sorrows.md).
+- **Bhaalist murder attempt interrupted.** A Bhaal cell tries to ritualize a Fist-sergeant murder near Eastway/Basilisk Gate; a [Guild patrol](../../../../20-Factions/guild/activity/week_3/recover-the-asset.md) interrupts, the cell flees, and a marked ritual dagger is recovered. See [activity](../../../../20-Factions/cult-of-the-returning-lord/activity/week_3/consecrate-the-blockade-with-blood.md).
+- **Fishmongers feed the blockade at cost.** [Marga Saltwind](../../../../20-Factions/wc-fishmongers/people/marga-saltwind.md) sells daily salted-fish runs to the Free Traders at cost — goodwill front, intelligence subscription back. See [activity](../../../../20-Factions/wc-fishmongers/activity/week_3/feed-the-blockade.md).
+
+### New Elturel
+
+- **First sermon at the Phoenix Gate temple ground.** [The Ember (Alfira)](../../../../20-Factions/followers-of-the-phoenix/people/the-ember.md) delivers her first formal sermon there with [Jaredith Heartsong](../../../../20-Factions/hellriders-of-new-elturel/people/jaredith-heartsong.md) at her side; new converts pour in. See [activity](../../../../20-Factions/followers-of-the-phoenix/activity/week_3/the-first-sermon-at-the-phoenix-gate.md).
+- **Takers of the Tithe begin shadowing the Ember.** [The Collector's](../../../../20-Factions/takers-of-the-tithe/people/the-collector.md) Spotter logs the Ember's full week of routine for an eventual abduction. See [activity](../../../../20-Factions/takers-of-the-tithe/activity/week_3/learn-the-muses-song.md).
+- **Plague-of-Remembrance contaminated grain seized at the Dawnmarket.** A Hellrider inspector trained on the Sewer Plague signature catches it before it can be sold; the shipment is burned publicly. See [activity](../../../../20-Factions/plague-of-remembrance/activity/week_3/a-new-vector.md).
+- **Sodality loses the Zora trail.** [Lorroakan's](../../../../20-Factions/wc-sorcerous-sodality/people/lorroakan.md) investigators cannot place [Zora's](../../../../20-Factions/plague-of-remembrance/people/zora.md) teleport destination; case shifts to standing alert. See [activity](../../../../20-Factions/wc-sorcerous-sodality/activity/week_3/follow-the-resonance.md).
+- **Hands of the Absolute sweep the Sow's Foot slums** for a Voice candidate and find none; [the Guild Ward Boss](../../../../20-Factions/guild/activity/week_3/recover-the-asset.md) drives the cell out of the district. See [activity](../../../../20-Factions/hands-of-the-absolute/activity/week_3/scour-the-slums-for-a-spark.md).
+
+### Rivington
+
+- **Fist warrant served at the Weary Plowman.** Fist patrol arrives to serve the [Mad Meggan warrant](../../../../20-Factions/party/activity/week_2/sell-the-cultist-to-mad-meggan.md); [Lena](people/lena.md) misdirects them and the party slips out the back alley. See [party activity](../../../../20-Factions/party/activity/week_3/evade-the-fist-warrant.md).
+- **Iron Throne quietly buys distressed Outer City debt.** Bankrupt apothecaries, failing chandleries, two Sow's Foot tenement landlords change hands at pittance prices. See [activity](../../../../20-Factions/iron-throne/activity/week_3/scavenge-the-scraps.md).
+- **Circus of the Last Days runs full investigation cycle.** Party fully infiltrates and disappears into the Feywild for two Material-Plane weeks. See [party activity](../../../../20-Factions/party/activity/week_3/infiltrate-the-circus-of-the-last-days.md), [Carnival of Whispers — Sowing Sweet Sorrows](../../../../20-Factions/carnival-of-whispers/activity/week_3/sowing-sweet-sorrows.md), and [Guild — Recover the Asset](../../../../20-Factions/guild/activity/week_3/recover-the-asset.md).
+
+### Norchapel
+
+- **Lamplighter coverage operational across Norchapel.** [Anya Brightwood's](../../../../20-Factions/wc-chandlers-lamplighters/people/anya-brightwood.md) crews now light the streets and report unusual activity back through the Worshipful Company. See [activity](../../../../20-Factions/wc-chandlers-lamplighters/activity/week_3/a-light-in-the-storm.md).
+
+### Tumbledown and Floodway
+
+- **Gravekeepers map necromantic seepage.** [Old Man Hemlock's](../../../../20-Factions/gravekeepers/people/hemlock.md) keepers cluster recent undead manifestations to Lower City sewer entrances and old Plague-Father lab sites. See [activity](../../../../20-Factions/gravekeepers/activity/week_3/a-pattern-in-the-rot.md).
+
 ## See also
 
 - [README.md](README.md) — Outer City overview.

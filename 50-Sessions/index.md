@@ -16,3 +16,5 @@ description: Bidirectional mapping between session number and in-game week.
 | [7](session_7/README.md) | 2 | 2025-08-25 | Vex pivots to the Circus; Spark vs. Jaredith at the Phoenix Pits; Zora exposed. |
 | [8](session_8/README.md) | 2 | 2025-09-01 | Whispering Stone deafens Bror; Finn lifts the Velvet Hand map; watchtower ambush. |
 | [9](session_9/README.md) | 2 | 2025-09-08 | Mother Nocturne's recruitment; the Ember and Jaredith end the protest; level 4. |
+| [10](session_10/README.md) | 3 | 2025-09-15 | Escape the Fist warrant; the Circus of the Last Days; mirror-tent fey bargains; force the Feywild portal. |
+| [11](session_11/README.md) | 3 | 2025-09-22 | Feywild glade; Lucretius's three riddles; Lyra's memory restored; the Shard of the First Scribe. |
