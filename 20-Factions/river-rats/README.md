@@ -5,3 +5,4 @@ Sewer-and-river smuggling crew operating beneath the Brampton district under Sil
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: silas-the-eel.
