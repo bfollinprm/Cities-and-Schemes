@@ -4,4 +4,4 @@ Cosmology, major conflicts, historical timeline, and the psyche of the world. Gr
 
 ## Index
 
-_(empty — populate as files are added)_
+- [regions/](regions/README.md) — setting-scale geographic features (forests, mountain ranges, river systems).

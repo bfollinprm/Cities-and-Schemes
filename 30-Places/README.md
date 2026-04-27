@@ -6,4 +6,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the geographic layout and depth conve
 
 ## Index
 
-_(empty — populate as places are added)_
+- [sword-coast/](sword-coast/README.md) — the western continental coast; campaign region. Includes Baldur's Gate and its [hinterlands](sword-coast/baldurs-gate/hinterlands/README.md).
