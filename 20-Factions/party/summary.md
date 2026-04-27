@@ -30,8 +30,11 @@ Mixed and improvised: Bror's stealth and observation, Spark's overwhelming viole
 
 Inbound ties:
 
-- [Followers of the Phoenix](../followers-of-the-phoenix/summary.md) — Spark's parent cult.
-- [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md) — Jaredith's prior loyalty; the party intersects with Hellrider business through him.
+- [Followers of the Phoenix](../followers-of-the-phoenix/summary.md) — Spark's parent cult; in week 1 Spark won the Phoenix official representation in New Elturel's council and land for a temple.
+- [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md) — Alena reads the party as a useful, deniable instrument after the medicine corridor; in week 1 she paid 100 gp/PC and tasked them with discreetly turning her radicalized lieutenant [Jaredith Heartsong](../hellriders-of-new-elturel/people/jaredith-heartsong.md) back from the Phoenix Pits.
+- [Chionthar Consortium](../chionthar-consortium/summary.md) — [Factor Errinthal](../chionthar-consortium/people/factor-errinthal.md) co-opted the party in week 1 over the heisted Open Hand medicine cart; the party now holds the **second cart** of anti-[Amnian Kontor](../amnian-kontor/summary.md) propaganda the Consortium does not know it lost.
+- [The Guild](../guild/summary.md) — [Vex](../guild/people/vex.md) is testing the party as a freelancer; an open "silence [Gareth](../wc-masons-sculptors/people/gareth.md)" job is on the books.
+- [Plague of Remembrance](../plague-of-remembrance/summary.md) — the party destroyed the Plague-Father's Rivington-sewer cell and now holds the cell-token's **cracked-vial** sigil and a captured cultist (handed off to Alena).
 - [Sembian Kontor](../sembian-kontor/summary.md), [Western Gate Trading Company](../western-gate-trading-company/summary.md) — both visibly active in the hinterlands the party will work in.
 
 Activity by week is in [`activity/`](activity/).

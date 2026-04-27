@@ -7,3 +7,4 @@ Remnant coster with shadowy, anonymous leadership; clinging to relevance after c
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: the-anonymous-throne.
 - [associations/](associations/) — Items, holdings, vehicles (rivington-recovery-group).
+- [activity/](activity/) — Ongoing actions by week (week_1).

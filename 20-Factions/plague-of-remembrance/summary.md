@@ -23,6 +23,7 @@ A mix of bitter, old-money patriars from the [Peerage of Blood](../peerage-of-bl
 - "False flag" tavern attacks — thugs in Elturian disguise hitting Baldurian taverns to incite reprisal riots; in a recent attempt at the Sow & Piglet, cultists in Flaming Fist disguise hit a refugee breadline.
 - A grain-contamination plot was caught at the Dawnmarket by a [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md) inspector trained after the "Sewer Plague."
 - Senior agent Zora was successfully extracted from the city after her watchtower failure; the cult's "holy" ledger was reclaimed even after Singa's death.
+- A Rivington-sewer **Plague-Father** alchemical cell, marked by a **cracked-vial** wooden cell-token, ran an unnatural Sewer Plague — paranoia, hallucinations, "worms in the mind" — out of three vats of glowing green fluid; the cell was destroyed by the party in week 1, with one cultist captured and turned over to [High Watcher Alena](../hellriders-of-new-elturel/people/high-watcher-alena.md). Reagents included **Nightmare Root** for psionic-concentration potions, suggesting supply-chain contact with the [Hands of the Absolute](../hands-of-the-absolute/summary.md).
 
 ## Hooks and Relationships
 
@@ -36,4 +37,6 @@ A mix of bitter, old-money patriars from the [Peerage of Blood](../peerage-of-bl
 
 - [Lady Emmeline Vhage](people/emmeline-vhage.md) — leader.
 - [Cult of the Returning Lord](../cult-of-the-returning-lord/summary.md) — operationally entangled Bhaalist cell.
+- [Hands of the Absolute](../hands-of-the-absolute/summary.md) — Plague-Father lab reagents implicate a shared supply chain.
+- [The Party](../party/summary.md) — destroyed the Plague-Father cell in week 1; party now holds a captive cultist and a recognizable cell-token sigil.
 - Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Cults › The Plague of Remembrance); `dm-notes.docx`; `faction-quests.xlsx`.

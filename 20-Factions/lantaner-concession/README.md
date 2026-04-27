@@ -6,4 +6,4 @@ Secretive gnomish enclave with a state-sanctioned monopoly on smokepowder.
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: glim-nimblewhiz.
-- [activity/](activity/) — Ongoing actions by week (week_0).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1).

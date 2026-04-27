@@ -5,3 +5,4 @@ Ongoing actions, organized by in-game week.
 ## Index
 
 - [week_0/](week_0/) — host-a-baldurian-purity-gala.
+- [week_1/](week_1/) — sponsor-the-dispossessed-hlath-family.

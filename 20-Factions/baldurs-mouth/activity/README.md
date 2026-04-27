@@ -5,3 +5,4 @@ Ongoing actions, organized by in-game week.
 ## Index
 
 - [week_0/](week_0/) — print-a-pro-consortium-puff-piece.
+- [week_1/](week_1/) — publish-a-story-blaming-refugees-for-merchants-murder.

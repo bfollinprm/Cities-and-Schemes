@@ -1,9 +1,9 @@
 # Wharf Rats
 
-Dockside smuggling crew under One-Eyed Jack, working the [Gray Harbour](../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md).
+Dockside smuggling crew under One-Eyed Jack, working the Gray Harbour.
 
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: one-eyed-jack.
-- [activity/](activity/) — Ongoing actions by week (week_0).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1).
