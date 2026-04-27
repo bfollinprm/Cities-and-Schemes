@@ -6,4 +6,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the geographic layout and depth conve
 
 ## Index
 
-_(empty — populate as places are added)_
+- [sword-coast/](sword-coast/README.md) — the western coast region; Baldur's Gate and the Hansa-aligned cities.
