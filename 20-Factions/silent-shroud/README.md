@@ -6,3 +6,4 @@ Sharran cult seeking the lost sanctums of the Lady of Loss beneath the city.
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: mother-nocturne.
+- [activity/](activity/) — Ongoing actions by week (week_0).
