@@ -7,3 +7,4 @@ Ongoing actions, organized by in-game week.
 - [week_0/](week_0/) — clear-cut-the-whisperwood-copse.
 - [week_1/](week_1/) — deploy-watch-to-secure-logging-routes, first-blood-in-the-whisperwood.
 - [week_2/](week_2/) — archdukes-mandate.
+- [week_3/](week_3/) — the-private-option.

@@ -36,7 +36,10 @@ Core cultists are circus performers who have entered the pact themselves. Their 
 
 ## See also
 
-- [Mister Smiles](people/mister-smiles.md) — ringmaster and high warlock.
+- [Mister Smiles](people/mister-smiles.md) — public ringmaster and high warlock.
+- [Lucretius](people/lucretius.md) — the operator who personally meets the party in week 3; collector of cosmic memory; relationship to Mister Smiles unresolved (patron, alter-persona, or peer fey lord).
+- [Zara the Sorrow-Eater](people/zara.md) — Big Top harvester who feeds on the audience's grief.
+- [The mirror-tent proprietor](people/mirror-tent-proprietor.md) — collects true secrets in the Circus's personalized-transaction tier; holds active fey debts against Bror and Elia.
 - **Fey patron.** The dossier describes Mister Smiles' patron only as *"a Lord of [the Feywild]"* — unnamed. The appetite for harvested emotion fits the Wild or Unseelie courts; see [10-Setting/cosmology/fey-courts/wild-archfey.md](../../10-Setting/cosmology/fey-courts/wild-archfey.md) and [unseelie.md](../../10-Setting/cosmology/fey-courts/unseelie.md). Court structure overall: [fey-courts/](../../10-Setting/cosmology/fey-courts/).
 - **How fey pacts work in this campaign.** [00-Campaign-Frame/fey-bargains.md](../../00-Campaign-Frame/fey-bargains.md) — Mister Smiles is the local cautionary example of a single-patron debt that grew into bondage.
 - **Why the troupe's stagecraft is mechanically powerful.** [00-Campaign-Frame/the-masquerade-rule.md](../../00-Campaign-Frame/the-masquerade-rule.md) — performance is power.

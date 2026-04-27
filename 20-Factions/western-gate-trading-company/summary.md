@@ -21,6 +21,7 @@ A consortium of powerful patriar families and the guilds they control, all with 
 - Aggressive expansion of logging and quarrying operations in the lands surrounding the city, including a recent clear-cut of the **[Whisperwood Copse](../../30-Places/sword-coast/baldurs-gate/hinterlands/whisperwood-copse.md)**.
 - Hires mercenaries (brokered through the [Sembian Kontor](../sembian-kontor/summary.md)) to "secure" logging routes against the [Circle of the Inner Grove](../circle-of-the-inner-grove/summary.md).
 - Recently authorized [Upper City Watch](../watch/summary.md) patrols on the new logging routes — a controversial overreach onto [Flaming Fist](../flaming-fist/summary.md) jurisdiction.
+- **Private mercenary army inside the city (week 3).** After [the Council and Parliament both fail to remove Marshal Flint](activity/week_3/the-private-option.md), Lyra Silvershield contracted a small elite mercenary company through [Bursar Korgan Ironhand](../sembian-kontor/people/korgan-ironhand.md) on personal coin — soldiers who answer to her, not to the Fist or to any chamber. The implications (a privately-funded force inside the city accountable to no public body) are not yet public but will not stay so.
 
 ## Hooks and Relationships
 

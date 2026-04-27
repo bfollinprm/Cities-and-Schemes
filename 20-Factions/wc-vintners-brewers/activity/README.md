@@ -7,3 +7,4 @@ Ongoing actions, organized by in-game week.
 - [week_0/](week_0/) — smash-a-moonshine-operation.
 - [week_1/](week_1/) — bribe-a-peerage-of-coin-member.
 - [week_2/](week_2/) — stem-the-illicit-tide.
+- [week_3/](week_3/) — a-taste-of-gratitude.

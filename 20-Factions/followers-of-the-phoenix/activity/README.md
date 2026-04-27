@@ -7,3 +7,4 @@ Ongoing actions, organized by in-game week.
 - [week_0/](week_0/) — hold-a-sermon-in-new-elturel.
 - [week_1/](week_1/) — join-the-hellrider-protest.
 - [week_2/](week_2/) — the-call-for-martyrs.
+- [week_3/](week_3/) — the-first-sermon-at-the-phoenix-gate.

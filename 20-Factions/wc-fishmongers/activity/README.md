@@ -7,3 +7,4 @@ Ongoing actions, organized by in-game week.
 - [week_0/](week_0/) — organize-a-dockworker-strike.
 - [week_1/](week_1/) — negotiate-a-levy-exemption.
 - [week_2/](week_2/) — the-herring-gouge.
+- [week_3/](week_3/) — feed-the-blockade.

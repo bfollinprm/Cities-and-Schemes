@@ -7,3 +7,4 @@ Ongoing actions, organized by in-game week.
 - [week_0/](week_0/) — increased-shakedowns-on-wyrms-crossing.
 - [week_1/](week_1/) — brutalize-a-protesting-merchant.
 - [week_2/](week_2/) — plan-the-unthinkable.
+- [week_3/](week_3/) — circle-the-wagons.

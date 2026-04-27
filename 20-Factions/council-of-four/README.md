@@ -5,4 +5,4 @@ Plutocratic executive branch; a boardroom of capitalists led by the Archduke.
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
-- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3).

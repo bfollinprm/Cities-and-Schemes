@@ -6,3 +6,4 @@ Ongoing actions, organized by in-game week.
 
 - [week_0/](week_0/) — investigate-vandalism-at-the-jannath-estate.
 - [week_1/](week_1/) — crack-down-on-unsanctioned-art.
+- [week_3/](week_3/) — maintain-appearances.
