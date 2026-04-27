@@ -13,11 +13,11 @@ A working principle. The campaign's lifestyle tiers (`Wretched → Aristocratic`
 
 In this world, **survival cost is the floor of agency**. A person whose daily income is consumed by lodging and food has no surplus for anything else: travel, a Worshipful Company apprenticeship fee, a bribe, a sword, a healer, hope. The lifestyle table is therefore not a price list — it is a description of *how much of yourself you have left at the end of a day*.
 
-The Council did not invent this ladder. The Decade of Reconstruction made it legible by stratifying the city into districts that match their tier. The Wretched live in the Outer City and the Floodway. The Aristocrats live in Manorborn. The space between is the city.
+The Council did not invent this ladder. The Decade of Reconstruction made it legible by stratifying the city into districts that match their tier. The Wretched live in the [Outer City](../30-Places/sword-coast/baldurs-gate/outer-city/README.md) and the Floodway. The Aristocrats live in Manorborn. The space between is the city.
 
 ## Three corollaries
 
-**1. Class is geographic.** Where you sleep tells everyone what you can do. A Lower City modest address marks you as someone with options; a Wyrm's Crossing flophouse marks you as someone hoping to leave; an Upper City manor marks you as someone whose decisions move other people's lives by default.
+**1. Class is geographic.** Where you sleep tells everyone what you can do. A [Lower City](../30-Places/sword-coast/baldurs-gate/lower-city/README.md) modest address marks you as someone with options; a [Wyrm's Crossing](../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) flophouse marks you as someone hoping to leave; an [Upper City](../30-Places/sword-coast/baldurs-gate/upper-city/README.md) manor marks you as someone whose decisions move other people's lives by default.
 
 **2. Mobility is a campaign event, not a default.** Climbing one tier is months or years of paid labor *plus* the absence of a single setback (a fine, an illness, a fire, a Worshipful Company audit). Climbing two tiers usually requires a patron, a windfall, or a corpse — which is why so many people try adventuring. The Decade of Reconstruction window has effectively closed for newcomers.
 

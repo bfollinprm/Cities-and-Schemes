@@ -1,6 +1,6 @@
 ---
 name: the-kliir
-description: Githyanki exile encampment in the Outer City; angular tents, psionic gantries, pale stone spires.
+description: Githyanki exile encampment in the [Outer City](README.md); angular tents, psionic gantries, pale stone spires.
 ---
 
 # The K'liir
@@ -28,4 +28,4 @@ Announce yourself at the perimeter post; wait to be acknowledged. Do not mimic s
 
 ## Pressures
 
-Tense politics with Upper City skeptics and Outer City gawkers; theft attempts by collectors chasing astral curios; occasional feuds with mercenaries who mistake restraint for weakness. The K'liir answers slights as a unit — and is utterly hostile to any hint of mind-flayer activity, which puts the [Hands of the Absolute](../../../../20-Factions/hands-of-the-absolute/summary.md) at the top of their target list.
+Tense politics with [Upper City](../upper-city/README.md) skeptics and [Outer City](README.md) gawkers; theft attempts by collectors chasing astral curios; occasional feuds with mercenaries who mistake restraint for weakness. The K'liir answers slights as a unit — and is utterly hostile to any hint of mind-flayer activity, which puts the [Hands of the Absolute](../../../../20-Factions/hands-of-the-absolute/summary.md) at the top of their target list.

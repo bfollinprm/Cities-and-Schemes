@@ -9,9 +9,9 @@ Patriar trading family who still cling to the leadership of the [Seven Suns](../
 
 ## Standing
 
-- **Old southern-trade name.** A century of Calimshan and Tethyr contacts, and a manor in **Manorborn, Upper City** that still impresses the right buyers.
+- **Old southern-trade name.** A century of Calimshan and Tethyr contacts, and a manor in **Manorborn, [Upper City](../../../30-Places/sword-coast/baldurs-gate/upper-city/README.md)** that still impresses the right buyers.
 - **Hereditary seat** in the [Peerage of Blood](../../peerage-of-blood/summary.md) — they are listed by the dossier among the Durinbold, Jannath, Hlath, and Oberon houses as one of the old patriar families.
-- **Dwindling capital.** The Bhaalspawn crisis, the rise of the consortiums, and now the **lost Calimshan silk run** (cargo and crew taken by weather and piracy on the Sea of Swords) have left the family thin enough that creditors are circling.
+- **Dwindling capital.** The Bhaalspawn crisis, the rise of the consortiums, and now the **lost Calimshan silk run** (cargo and crew taken by weather and piracy on the [Sea of Swords](../../../30-Places/sword-coast/sea-of-swords.md)) have left the family thin enough that creditors are circling.
 
 ## Pattern of action
 

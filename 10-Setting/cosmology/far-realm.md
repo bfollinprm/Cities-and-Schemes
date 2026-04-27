@@ -18,7 +18,7 @@ A plane *outside* the known cosmology — neither Material, Feywild, Shadowfell,
 
 After the [Court of Stars](fey-courts/court-of-stars.md) convened in 1501 DR over reports of *corrupted fey*, signs spread to the Sword Coast itself:
 
-- A tentacled dryad in the Ardeep Forest, screaming in Sylvan and Deep Speech.
+- A tentacled dryad in the [Ardeep Forest](../../30-Places/sword-coast/ardeep-forest.md), screaming in Sylvan and Deep Speech.
 - A pixie in the Laughing Hollow with tentacles where its wings should be.
 - A petrified unicorn in the High Forest, branded with circular aberrant marks.
 - The Moonwell of Sarifal blackened for one night.

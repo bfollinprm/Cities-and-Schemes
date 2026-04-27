@@ -19,10 +19,10 @@ Cells with limited knowledge of each other. Recruiters target the **dispossessed
 
 The recruiter — referred to in `faction-quests.xlsx` only as **"the Hidden Lord"** — has been busy:
 
-- **Failed recruitment of Lord Hlath.** The dispossessed Hlath balked at the infernal oaths and **anonymously tipped off a priest at the Watchful Shield Shrine** about the Knights' resurgence.
+- **Failed recruitment of Lord Hlath.** The dispossessed Hlath balked at the infernal oaths and **anonymously tipped off a priest at the [Watchful Shield Shrine](../../30-Places/sword-coast/baldurs-gate/upper-city/watchful-shield-shrine.md)** about the Knights' resurgence.
 - **Failed offers to Marshal Flint, a junior Chionthar Consortium member, and a Guild Ward Boss** — all three reported the encounter up, putting the [Chionthar Consortium](../chionthar-consortium/summary.md) and [Guild](../guild/summary.md) on infernal-influence alert.
 - **Successful pact with a recently-burgled Manorborn noble** — traded "infernal protection" for the family's private journals on Peerage of Blood voting history, then used the blackmail to swing a trade-tariff vote.
-- **The Gilded Extortion.** During the Upper City gate lockdown, demanded **infernal soul-coins** from trapped patriars in exchange for "guaranteed" protection from Lower City mobs.
+- **The Gilded Extortion.** During the [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) gate lockdown, demanded **infernal soul-coins** from trapped patriars in exchange for "guaranteed" protection from [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) mobs.
 
 ## Hooks and Relationships
 
@@ -30,7 +30,7 @@ The recruiter — referred to in `faction-quests.xlsx` only as **"the Hidden Lor
 
 **Targets.** The [Peerage of Blood](../peerage-of-blood/summary.md) and recently dispossessed patriar families are the prime demographic — a pool the [Patriar Heritage Society](../patriar-heritage-society/summary.md) is also competing for. If the [Unchained](../unchained/summary.md) catch wind, they will treat the Knights as a target on principle.
 
-**Enemies.** The [Harpers](../harpers/summary.md) and any devoutly good-aligned faction; the **Watchful Shield Shrine** priesthood (now alerted by Hlath); both the [Chionthar Consortium](../chionthar-consortium/summary.md) and the [Guild](../guild/summary.md) (alerted by the failed approaches).
+**Enemies.** The [Harpers](../harpers/summary.md) and any devoutly good-aligned faction; the **[Watchful Shield Shrine](../../30-Places/sword-coast/baldurs-gate/upper-city/watchful-shield-shrine.md)** priesthood (now alerted by Hlath); both the [Chionthar Consortium](../chionthar-consortium/summary.md) and the [Guild](../guild/summary.md) (alerted by the failed approaches).
 
 **Possible allies of convenience.** The [Zhentarim](../zhentarim/summary.md), or any corrupt patriar with no remaining qualms.
 

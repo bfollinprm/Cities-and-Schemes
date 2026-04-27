@@ -19,7 +19,7 @@ The city's best blacksmiths and armorers, organized under the standard Master / 
 
 - Controls the city's forges and regulates the sale of all high-quality arms and armor; lucrative state contracts with the Flaming Fist anchor the guild's revenue.
 - The guild seal is a legal requirement on masterwork-grade arms.
-- **Currently petitioning the deadlocked Parliament** for relief: Tor-keg personally visited Marshal Flint at Wyrm's Rock, appealing to him soldier-to-soldier to break the Basilisk Gate blockade that is starving his forges of iron.
+- **Currently petitioning the deadlocked Parliament** for relief: Tor-keg personally visited Marshal Flint at [Wyrm's Rock](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-rock.md), appealing to him soldier-to-soldier to break the Basilisk Gate blockade that is starving his forges of iron.
 - **Dammon at the Forge of the Nine** is running his own program: a public call to adventurers for any **infernal-iron salvage** from the Fall of Elturel, paid at premium, plus a separate private hunt for a New Elturel **infernal-contract shard** physically manifested during the Fall.
 - An attempted approach to the [Unchained](../unchained/summary.md) for an "astral bargain" — to acquire githyanki forging knowledge — was contemptuously rejected by Commander K'laar, leaving the Company viewed with disdain by the githyanki.
 

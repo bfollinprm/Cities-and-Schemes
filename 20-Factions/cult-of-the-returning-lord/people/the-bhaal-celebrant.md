@@ -7,7 +7,7 @@ description: Codename for the ritual leadership of the Cult of the Returning Lor
 
 A codename, not a person. The source material does not name a single individual leader of the [Cult of the Returning Lord](../summary.md) — the cult runs as cells, each presided over by a "**Bishop**" who receives target names through Bhaalist divine revelation, and each ritual fronted by a Celebrant who wears the role for as long as it takes to consecrate the altar.
 
-Use this page as a placeholder when an NPC is required to speak for the cult — for instance, the figure presiding over the Heapside altar consecration or the Hamhock's Slaughterhouse ritual. Specific named operators encountered in play (e.g., **"The Keeper"** who held Ettvard Needle in Hamhock's Vault, or **Singa**, the senior agent shared with the [Plague of Remembrance](../../plague-of-remembrance/summary.md)) are field operatives below the Bishop tier.
+Use this page as a placeholder when an NPC is required to speak for the cult — for instance, the figure presiding over the Heapside altar consecration or the Hamhock's Slaughterhouse ritual. Specific named operators encountered in play (e.g., **"The Keeper"** who held Ettvard Needle in [Hamhock's Vault](../../../30-Places/sword-coast/baldurs-gate/undercity/hamhocks-vault.md), or **Singa**, the senior agent shared with the [Plague of Remembrance](../../plague-of-remembrance/summary.md)) are field operatives below the Bishop tier.
 
 ## Conventions
 

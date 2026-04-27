@@ -21,11 +21,11 @@ The **Spellplague** a century past pulled the Feywild close to Toril, and crossi
 
 Points where the Feywild touches Toril are called **fey crossings**. Active ones in 1502 DR:
 
-- **Neverwinter Wood** — opens onto the eladrin city of New Sharandar; eladrin guards lately report unfamiliar constellations through the gap.
-- **Misty Forest** — a glade that once drifted with golden fireflies now exudes a viscous purple fog at midnight; a hunter who stepped into its mushroom ring lost a day and his hair turned white.
-- **Ardeep Forest** — the weirwood circle, attended by the **Lady of Twilight** (a Wild Archfey).
+- **[Neverwinter Wood](../../../30-Places/sword-coast/neverwinter-wood.md)** — opens onto the eladrin city of New Sharandar; eladrin guards lately report unfamiliar constellations through the gap.
+- **[Misty Forest](../../../30-Places/sword-coast/misty-forest.md)** — a glade that once drifted with golden fireflies now exudes a viscous purple fog at midnight; a hunter who stepped into its mushroom ring lost a day and his hair turned white.
+- **[Ardeep Forest](../../../30-Places/sword-coast/ardeep-forest.md)** — the weirwood circle, attended by the **Lady of Twilight** (a Wild Archfey).
 - **Laughing Hollow** (near Daggerford) — pixies, centaurs, satyrs alongside wild elves, under an ancient fey prince. Pact-brokered envoys to Waterdeep via the [Green Masquerade](../fey-courts/green-masquerade.md).
-- **Moonshae Isles** — **Sarifal** on Gwynneth, where a fey queen openly rules in mortal stead. The Moonwell of Sarifal blackened for one night during the recent Far Realm portents.
+- **[Moonshae Isles](../../../30-Places/sword-coast/moonshae-isles.md)** — **Sarifal** on Gwynneth, where a fey queen openly rules in mortal stead. The Moonwell of Sarifal blackened for one night during the recent Far Realm portents.
 
 The crossings are **shuddering** under foreign pressure — the [Far Realm](../far-realm.md) is using the Feywild's naturally thin veils to push toward the Material.
 

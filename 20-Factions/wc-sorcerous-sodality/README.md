@@ -1,6 +1,6 @@
 # Sorcerous Sodality *(aka Sorcerous Sundries)*
 
-Reformed Sorcerous Sundries; regulates magical goods and licenses public spellcasting.
+Reformed [Sorcerous Sundries](../../30-Places/sword-coast/baldurs-gate/lower-city/sorcerous-sundries.md); regulates magical goods and licenses public spellcasting.
 
 ## Index
 

@@ -1,6 +1,6 @@
 # Free Traders of the Outskirts
 
-Independent caravan masters of the Outer City under 'Mad' Meggan; mutual-protection pact.
+Independent caravan masters of the [Outer City](../../30-Places/sword-coast/baldurs-gate/outer-city/README.md) under 'Mad' Meggan; mutual-protection pact.
 
 ## Index
 

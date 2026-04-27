@@ -5,7 +5,7 @@ description: Fashionable merchant townhouses with harbour views; salons, perfume
 
 # Bloomridge
 
-Perched for views over Gray Harbour, Bloomridge is fashionable without trying too hard — color-washed townhouses with rooftop gardens, tidy balconies, and salons where trends are invented over citrus wine. The money here is merchant-born and proud of it.
+Perched for views over [Gray Harbour](gray-harbour.md), Bloomridge is fashionable without trying too hard — color-washed townhouses with rooftop gardens, tidy balconies, and salons where trends are invented over citrus wine. The money here is merchant-born and proud of it.
 
 ## Notable stops
 

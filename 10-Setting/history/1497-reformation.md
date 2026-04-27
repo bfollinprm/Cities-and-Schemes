@@ -11,7 +11,7 @@ The political settlement that followed the [Great Bargain's](great-bargain.md) e
 
 The [Parliament of Peers](../../20-Factions/parliament-of-peers/summary.md) was expanded to **100 seats** and split into two functionally bicameral chambers:
 
-- **The Peerage of Blood (50 seats).** Hereditary right of the fifty wealthiest patriar families. A concession to tradition. Critically, eligibility to *sit* still belongs to those families, but **confirmed citizens of every type inside the walls now carry a vote** for who fills the seat. This was a radical concession that for the first time tied patriar political fate to the Lower City — a leverage point [The Guild](../../20-Factions/guild/summary.md) has exploited masterfully.
+- **The Peerage of Blood (50 seats).** Hereditary right of the fifty wealthiest patriar families. A concession to tradition. Critically, eligibility to *sit* still belongs to those families, but **confirmed citizens of every type inside the walls now carry a vote** for who fills the seat. This was a radical concession that for the first time tied patriar political fate to the [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) — a leverage point [The Guild](../../20-Factions/guild/summary.md) has exploited masterfully.
 - **The Peerage of Coin (50 seats).** Allocated to the largest economic entities in the city, with the number of seats per faction recalculated annually based on tax receipts. Kontors, Consortiums, and the largest Worshipful Companies trade seats every fiscal year. The chamber is fiercely competitive.
 
 Bills must pass both chambers before [Council of Four](../../20-Factions/council-of-four/summary.md) ratification.
@@ -24,7 +24,7 @@ Bills must pass both chambers before [Council of Four](../../20-Factions/council
 
 ## Why it stuck
 
-The Reformation was sold as a means of binding ascendant economic powers into formal accountability — paying for the city by *being seated* in it. In practice it gave the Kontors and the Consortiums what they already had economically, in writ. Reversing it would require a coalition the patriars cannot assemble without the Lower City — which the Guild now effectively delivers, and which the patriars cannot court without forfeiting the very privileges they want to restore.
+The Reformation was sold as a means of binding ascendant economic powers into formal accountability — paying for the city by *being seated* in it. In practice it gave the Kontors and the Consortiums what they already had economically, in writ. Reversing it would require a coalition the patriars cannot assemble without the [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) — which the Guild now effectively delivers, and which the patriars cannot court without forfeiting the very privileges they want to restore.
 
 ## See also
 

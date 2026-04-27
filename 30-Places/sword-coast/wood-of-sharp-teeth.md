@@ -7,7 +7,7 @@ description: Macro-region view of the Wood of Sharp Teeth — a forest whose con
 
 A dark forest east of the Trade Way. Long-sinister, with a folkloric reputation for twisted trees and stagnant swamps. Since the Absolute Crisis a decade ago, the dossier reports it has crossed from "dangerous" to "horror."
 
-For the local edge as Baldur's Gate's hinterland sees it — including the Western Gate's Whisperwood Copse clear-cut — see [baldurs-gate/hinterlands/wood-of-sharp-teeth/](baldurs-gate/hinterlands/wood-of-sharp-teeth/README.md).
+For the local edge as Baldur's Gate's hinterland sees it — including the Western Gate's [Whisperwood Copse](baldurs-gate/hinterlands/whisperwood-copse.md) clear-cut — see [baldurs-gate/hinterlands/wood-of-sharp-teeth/](baldurs-gate/hinterlands/wood-of-sharp-teeth/README.md).
 
 ## Extent
 
@@ -43,5 +43,5 @@ The pattern: the wood has become a *generator* of psychic horror, with both the 
 ## Sources
 
 - `.context/converted/the-hinterlands-of-baldurs-gate-a-dossier.md` — Part II.
-- `faction-quests.xlsx` — Western Gate Whisperwood Copse clear-cut and Circle of the Inner Grove response.
+- `faction-quests.xlsx` — Western Gate [Whisperwood Copse](baldurs-gate/hinterlands/whisperwood-copse.md) clear-cut and Circle of the Inner Grove response.
 - `.context/converted/dossier-baldurs-gate-1502-dr-a-city-reborn.md` — Absolute Crisis context.

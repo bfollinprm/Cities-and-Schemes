@@ -12,13 +12,13 @@ Auto-generated proper-noun stubs. Each file is a one-line **stub** for a person,
 ## Counts
 
 - **people:** 238
-- **factions:** 52
-- **places:** 90
-- **unknown:** 67
+- **factions:** 62 _(grew by 10 in 2026-04-27 places triage; non-place entities relocated here)_
+- **places:** 0 _(triaged 2026-04-27 — see [issue #45](https://github.com/bfollinprm/Cities-and-Schemes/issues/45))_
+- **unknown:** 68 _(grew by 1 in 2026-04-27 places triage)_
 
 ## Subfolders
 
 - [people/](people/) — 238 stubs
-- [factions/](factions/) — 52 stubs
-- [places/](places/) — 90 stubs
-- [unknown/](unknown/) — 67 stubs
+- [factions/](factions/) — 62 stubs
+- [places/](places/) — 0 stubs (triaged)
+- [unknown/](unknown/) — 68 stubs

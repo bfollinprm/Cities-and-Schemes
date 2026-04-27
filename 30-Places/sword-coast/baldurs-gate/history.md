@@ -9,7 +9,7 @@ City-specific notes only. Region-wide events live in [10-Setting/history/](../..
 
 ## Founding
 
-c. **1068 DR** — the adventurer **Balduran** returns from Anchorome, walls the fishing village of Gray Harbour (formerly Loklee), and renames it after himself. The city's foundation is rooted in adventure and commerce — a pattern it has never broken.
+c. **1068 DR** — the adventurer **Balduran** returns from Anchorome, walls the fishing village of [Gray Harbour](lower-city/gray-harbour.md) (formerly Loklee), and renames it after himself. The city's foundation is rooted in adventure and commerce — a pattern it has never broken.
 
 ## The Bhaalspawn era (1368–1370 DR)
 
@@ -32,8 +32,8 @@ The Cult of the Absolute, secretly run by Chosen of the Dead Three and a Netherb
 See [10-Setting/history/decade-of-reconstruction.md](../../../10-Setting/history/decade-of-reconstruction.md) for the framework. City-specific consequences:
 
 - The **Heapside / Eastway** rebuild is the architectural signature of the new city — pale clean stone next to soot-stained pre-crisis facades.
-- The **Outer City** swelled into an Elturian-led shantytown that became a permanent borough.
-- **Wyrm's Rock Fortress** survived as the Fist's HQ but became a monument to lost relevance.
+- The **[Outer City](outer-city/README.md)** swelled into an Elturian-led shantytown that became a permanent borough.
+- **[Wyrm's Rock](outer-city/wyrms-rock.md) Fortress** survived as the Fist's HQ but became a monument to lost relevance.
 
 ## Where to read the rest
 

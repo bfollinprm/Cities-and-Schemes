@@ -19,7 +19,7 @@ In the despair of New Elturel, Alfira had an epiphany about her old friend Karla
 
 ## Method
 
-Soft power before fire. The Ember has chosen narrative warfare and faith over force: she co-opted the radical paladin **Jaredith** by helping him channel his grief into a song that ended the Wyrm's Crossing protest more effectively than any ultimatum. She is the architect of the **Temple of the Phoenix** Foundation Stone ceremony at Phoenix Gate.
+Soft power before fire. The Ember has chosen narrative warfare and faith over force: she co-opted the radical paladin **Jaredith** by helping him channel his grief into a song that ended the [Wyrm's Crossing](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) protest more effectively than any ultimatum. She is the architect of the **Temple of the Phoenix** Foundation Stone ceremony at Phoenix Gate.
 
 ## The mask
 
@@ -29,7 +29,7 @@ The Ember's certainty is an act of will. In private, Alfira is still terrified o
 
 - Survived an assassination attempt by a **Reaper** of the [Takers of the Tithe](../../takers-of-the-tithe/summary.md); preached a "Survivor's Sermon" that drew an even larger crowd.
 - Resting at the Weary Plowman during a "Saint's Respite"; the faithful have doubled construction efforts on the temple in her absence.
-- Magically amplified Jaredith's song, peacefully ending the Wyrm's Crossing protest.
+- Magically amplified Jaredith's song, peacefully ending the [Wyrm's Crossing](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) protest.
 - Negotiated political representation and land for the cult — a transition from sect to recognized power bloc.
 - Spiritually marked after a Bhaalist "audit" — possibly a beacon for further Bhaalist cells, possibly granting strange insights.
 

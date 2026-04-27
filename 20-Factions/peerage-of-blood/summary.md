@@ -18,7 +18,7 @@ Fifty hereditary seats, occupied by the oldest and wealthiest patriar families: 
 ## Methods
 
 - Acts as a unified voting bloc in the Parliament, often opposing measures from the [Peerage of Coin](../peerage-of-coin/summary.md).
-- Wields immense social and cultural influence from private salons in Upper City manors.
+- Wields immense social and cultural influence from private salons in [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) manors.
 - Recently blocked the Amnian Kontor's "New Kontor Wayleave" proposal — a rare victory for the old guard.
 - The fall of [Hlath Estate](../) into Amnian foreclosure (and Durinbold's failed sponsorship of the dispossessed family) exposed the bloc's fragility against well-resourced Kontor pressure.
 

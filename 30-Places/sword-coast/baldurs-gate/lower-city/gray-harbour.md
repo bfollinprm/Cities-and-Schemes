@@ -5,12 +5,12 @@ description: The working waterfront and Dock Ward; piers, the four Foreign Konto
 
 # Gray Harbour (the Dock Ward)
 
-The Lower City's working waterfront — piers bristling with masts, winches clacking, foremen shouting schedules over gulls and surf. If coin has a tide, it rises and falls here. Ships from Amn to Icewind Dale unload at dawn, deals are struck by noon, and by dusk the taverns are louder than the cranes.
+The [Lower City](README.md)'s working waterfront — piers bristling with masts, winches clacking, foremen shouting schedules over gulls and surf. If coin has a tide, it rises and falls here. Ships from Amn to Icewind Dale unload at dawn, deals are struck by noon, and by dusk the taverns are louder than the cranes.
 
 ## Notable stops
 
-- **The Blushing Mermaid.** Notorious, barnacled tavern partly housed in the ribs of an old hulk. Fights are common; information is cheaper than the beer and twice as strong.
-- **The Counting House.** The port's private bank and clearinghouse. Factors queue with ledgers; bodyguards wait with blank expressions.
+- **The [Blushing Mermaid](blushing-mermaid.md).** Notorious, barnacled tavern partly housed in the ribs of an old hulk. Fights are common; information is cheaper than the beer and twice as strong.
+- **The [Counting House](counting-house.md).** The port's private bank and clearinghouse. Factors queue with ledgers; bodyguards wait with blank expressions.
 - **Water Queen's House (Umberlee).** Sailors pay the Bitch Queen in coin or trinkets before casting off. The stairs are always wet.
 - **Steel Watch Foundry.** A shuttered, iron-boned factory from Gortash's heyday. The Fist keeps a cordon around it; scavengers keep finding new ways in and worse reasons to regret it.
 

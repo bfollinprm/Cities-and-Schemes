@@ -5,7 +5,7 @@ description: Caravan-inflow district fanning from the Basilisk Gate; inns, stabl
 
 # Eastway
 
-Eastway fans out from the Basilisk Gate like a wake from a prow. It is the Lower City's hello and goodbye: a hard-working belt of inns, stables, and porters catering to caravans rolling in from the Coast Way. The crowd changes by the hour; the racket does not.
+Eastway fans out from the Basilisk Gate like a wake from a prow. It is the [Lower City](README.md)'s hello and goodbye: a hard-working belt of inns, stables, and porters catering to caravans rolling in from the Coast Way. The crowd changes by the hour; the racket does not.
 
 ## Notable stops
 

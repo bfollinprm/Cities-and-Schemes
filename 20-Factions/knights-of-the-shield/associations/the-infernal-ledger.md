@@ -27,7 +27,7 @@ What the Knights' recruiter — codenamed [the Hidden Lord](../people/the-recrui
 
 - A copy of the Ledger in the wrong hands (the [Harpers](../../harpers/summary.md), the [Patriar Heritage Society](../summary.md) itself, or a rival cult) would unwind every blackmail it has enabled.
 - The **bound noble** still lives. He knows the recruiter's face. The Knights treat him as an asset; he is also a single point of failure.
-- The **Watchful Shield Shrine** priesthood — alerted by Lord Hlath — is actively listening for any rumor of "patriar votes for sale," which is exactly the smell the Ledger leaves behind.
+- The **[Watchful Shield Shrine](../../../30-Places/sword-coast/baldurs-gate/upper-city/watchful-shield-shrine.md)** priesthood — alerted by Lord Hlath — is actively listening for any rumor of "patriar votes for sale," which is exactly the smell the Ledger leaves behind.
 
 ## Hooks
 

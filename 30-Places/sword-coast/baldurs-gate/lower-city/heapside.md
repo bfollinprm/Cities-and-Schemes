@@ -1,15 +1,15 @@
 ---
 name: heapside
-description: Northeast Lower City workshops; Sorcerous Sundries and the Baldur's Mouth printshop.
+description: Northeast [Lower City](README.md) workshops; [Sorcerous Sundries](sorcerous-sundries.md) and the Baldur's Mouth printshop.
 ---
 
 # Heapside
 
-Heapside runs along the Lower City's northeast — a neighborhood of honest noise and honest work. Workshops spill sparks, hawkers call from stoops, and the lanes smell of fresh bread, hot iron, and ink. If the Lower City has a conscience, it lives here, alongside a very practical sense of survival.
+Heapside runs along the [Lower City](README.md)'s northeast — a neighborhood of honest noise and honest work. Workshops spill sparks, hawkers call from stoops, and the lanes smell of fresh bread, hot iron, and ink. If the Lower City has a conscience, it lives here, alongside a very practical sense of survival.
 
 ## Notable stops
 
-- **Sorcerous Sundries (the Sorcerous Sodality).** The many-domed landmark where licensed magic is bought, warded, and argued over. Apprentices everywhere; a posted schedule of "acceptable pyrotechnics." HQ of the [Sorcerous Sodality](../../../../20-Factions/wc-sorcerous-sodality/summary.md).
+- **[Sorcerous Sundries](sorcerous-sundries.md) (the Sorcerous Sodality).** The many-domed landmark where licensed magic is bought, warded, and argued over. Apprentices everywhere; a posted schedule of "acceptable pyrotechnics." HQ of the [Sorcerous Sodality](../../../../20-Factions/wc-sorcerous-sodality/summary.md).
 - **Baldur's Mouth Printshop.** Five narrow stories of gears, galleys, and gossip. Broadsheets fly at first light; rumors take wing earlier. HQ of the [Baldur's Mouth](../../../../20-Factions/baldurs-mouth/summary.md), edited by Ettvard Needle.
 - **Shrine of the Suffering (Ilmater).** A plain doorstep ministry with bandages, soup, and patience. Volunteers know every family by name.
 - **The Winch & Whistle.** Corner tavern favored by smiths and scribes alike; tools lean by the hearth.

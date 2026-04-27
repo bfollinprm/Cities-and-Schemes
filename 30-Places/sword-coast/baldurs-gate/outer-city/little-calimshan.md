@@ -1,6 +1,6 @@
 ---
 name: little-calimshan
-description: Walled south-Faerûn enclave in the Outer City; jewelers, spice, oud music, and tradition.
+description: Walled south-Faerûn enclave in the [Outer City](README.md); jewelers, spice, oud music, and tradition.
 ---
 
 # Little Calimshan

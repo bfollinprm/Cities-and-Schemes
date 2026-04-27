@@ -23,7 +23,7 @@ A small circle of druids and rangers who meet in a hidden grove upriver from the
 
 ## Hooks and Relationships
 
-**Enemies.** Open conflict with the [Western Gate Trading Company](../western-gate-trading-company/summary.md) over the **clear-cut of the Whisperwood Copse**; the Sembian-mercenary cordon hired through the [Sembian Kontor](../sembian-kontor/summary.md) has drawn first blood. Hostile to the [Worshipful Company of Butchers & Tanners](../wc-butchers-tanners/summary.md) (Chionthar pollution) and the [Worshipful Company of Masons & Sculptors](../wc-masons-sculptors/summary.md) (quarrying).
+**Enemies.** Open conflict with the [Western Gate Trading Company](../western-gate-trading-company/summary.md) over the **clear-cut of the [Whisperwood Copse](../../30-Places/sword-coast/baldurs-gate/hinterlands/whisperwood-copse.md)**; the Sembian-mercenary cordon hired through the [Sembian Kontor](../sembian-kontor/summary.md) has drawn first blood. Hostile to the [Worshipful Company of Butchers & Tanners](../wc-butchers-tanners/summary.md) (Chionthar pollution) and the [Worshipful Company of Masons & Sculptors](../wc-masons-sculptors/summary.md) (quarrying).
 
 **Allies of convenience.** Tactical alignment with the [Free Traders of the Outskirts](../free-traders-of-the-outskirts/summary.md) — the Circle has been quietly reinforcing the Free Traders' blockade at the Basilisk Gate, viewing the resulting halt to industrial traffic as a blessing for the river. May find common cause with the [Harpers](../harpers/summary.md) on specific issues.
 

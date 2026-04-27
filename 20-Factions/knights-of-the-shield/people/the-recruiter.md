@@ -11,12 +11,12 @@ The [Knights of the Shield](../summary.md)'s rebuild is being run by a single re
 
 The recruiter targets people who have **just lost something they thought was safe** — an estate, a fortune, a sense of personal security — and offers a pact priced in souls and family secrets.
 
-- **Lord Hlath**, dispossessed by the Amnian foreclosure. Refused the oaths and tipped off a priest at the **Watchful Shield Shrine**. Failure.
+- **Lord Hlath**, dispossessed by the Amnian foreclosure. Refused the oaths and tipped off a priest at the **[Watchful Shield Shrine](../../../30-Places/sword-coast/baldurs-gate/upper-city/watchful-shield-shrine.md)**. Failure.
 - **Marshal Valerius Flint** at the Basilisk Gate Barracks. Refused. Failure.
-- **A junior Chionthar Consortium member** at a private room in the Blushing Mermaid. Reported it; the [Chionthar Consortium](../../chionthar-consortium/summary.md) is now on infernal-influence alert.
+- **A junior Chionthar Consortium member** at a private room in the [Blushing Mermaid](../../../30-Places/sword-coast/baldurs-gate/lower-city/blushing-mermaid.md). Reported it; the [Chionthar Consortium](../../chionthar-consortium/summary.md) is now on infernal-influence alert.
 - **A Guild Ward Boss** at the Salt-Cellar in Brampton. Reported it; the [Guild](../../guild/summary.md) is now on alert.
 - **A recently-burgled Manorborn noble.** Accepted. The recruiter took the family's private journals on [Peerage of Blood](../../peerage-of-blood/summary.md) voting history and used the blackmail to swing a trade-tariff vote.
-- **Trapped Upper City patriars** during the gate lockdown — extorted in infernal **soul-coins** for "guaranteed" protection.
+- **Trapped [Upper City](../../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) patriars** during the gate lockdown — extorted in infernal **soul-coins** for "guaranteed" protection.
 
 ## Read
 

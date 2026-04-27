@@ -21,7 +21,7 @@ Core cultists are circus performers who have entered the pact themselves. Their 
 - Targeted abductions of "passionate souls" — a Bloomridge poet fought off the clowns, putting the neighborhood on alert.
 - Refugee-dream manipulation via a familiar called the "Memory Mite" (one was intercepted and eaten by a rival fey predator).
 - A "dream-inducing" performance fizzled when the unstable fey weave produced confusion instead of catharsis.
-- Driven out of Rivington markets; relocated to a "guerrilla circus" in Lower City alleys near the Blushing Mermaid, feeding on hopelessness rather than fear.
+- Driven out of Rivington markets; relocated to a "guerrilla circus" in [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) alleys near the [Blushing Mermaid](../../30-Places/sword-coast/baldurs-gate/lower-city/blushing-mermaid.md), feeding on hopelessness rather than fear.
 - Fey bargains with mortals — Mister Smiles trades in memories, secrets, and emotions.
 
 ## Hooks and Relationships

@@ -30,6 +30,10 @@ Greater metropolitan population: in excess of one million; the walled city is fa
 - [dock-ward/](dock-ward/README.md) — Oldest, dirtiest, most dangerous; primary battleground of the Shadow War.
 - [field-ward/](field-ward/README.md) — Officially nonexistent extramural slum; the city's greatest social vulnerability.
 
+### City-spanning sites
+
+- [vault-of-dragons.md](vault-of-dragons.md) — half-mythic Lords' gold cache; Jarlaxle Baenre's current obsession.
+
 ## See also
 
 - [00-Campaign-Frame/veils-and-masks.md](../../../00-Campaign-Frame/veils-and-masks.md) — the dossier's framing as evergreen world-physics.

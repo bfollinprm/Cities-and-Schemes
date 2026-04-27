@@ -1,6 +1,6 @@
 # The Watch *(aka Upper City Watch)*
 
-Patriar-funded watch policing the Upper City; chronically stretched thin.
+Patriar-funded watch policing the [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md); chronically stretched thin.
 
 ## Index
 

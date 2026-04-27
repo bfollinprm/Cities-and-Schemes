@@ -16,13 +16,13 @@ The current **active bet** of the [High Moon Coster](../summary.md): a sponsored
 ## Where the bet sits
 
 - The party is in the field. No retrieval, no failure, no contact has come back as of the most recent dispatches.
-- The Oberons' parallel attempt to retain the city's newest celebrity adventurers (likely the [PCs](../../party/summary.md)) at the **Blushing Mermaid** was rebuffed — *"the party's newfound (and mysterious) wealth is becoming common knowledge"* per `dm-notes`. The Oberons are reading this as needing to scout less-courted parties next time.
+- The Oberons' parallel attempt to retain the city's newest celebrity adventurers (likely the [PCs](../../party/summary.md)) at the **[Blushing Mermaid](../../../30-Places/sword-coast/baldurs-gate/lower-city/blushing-mermaid.md)** was rebuffed — *"the party's newfound (and mysterious) wealth is becoming common knowledge"* per `dm-notes`. The Oberons are reading this as needing to scout less-courted parties next time.
 - Cousins are hunting for a richer second purse, or a co-sponsor (most likely the [Jhasso family](../../seven-suns/people/jhasso-family.md), with whom the Oberons sometimes pool contacts).
 
 ## Hooks
 
 - The party crosses paths with the **Oberon-sponsored fledgling party** in the Cloakwood — as rivals for the same find, or as casualties whose contract now needs an executor.
-- A second, sweeter approach from the Oberons: a specific Cloakwood site, a Jhasso heirloom recovery cut in for the percent. The pitch comes with the implicit confirmation that the Oberons have been watching the party since the Blushing Mermaid rejection.
+- A second, sweeter approach from the Oberons: a specific Cloakwood site, a Jhasso heirloom recovery cut in for the percent. The pitch comes with the implicit confirmation that the Oberons have been watching the party since the [Blushing Mermaid](../../../30-Places/sword-coast/baldurs-gate/lower-city/blushing-mermaid.md) rejection.
 - Word reaches the party that the rival sponsored expedition has gone silent. The Oberons quietly request a recovery — body, journal, or artifact — without alerting the [Patriar Heritage Society](../../patriar-heritage-society/summary.md) salons.
 
 ## See also

@@ -10,7 +10,7 @@ If prestige had an address, it would be here. A quiet world of walled gardens, h
 ## Notable stops
 
 - **The Helm and Cloak.** Invitation-only club and inn where civic gossip wears perfume. Aristocratic suite ~40 gp/night by invitation; politics matter more than the dining.
-- **Watchful Shield Shrine (Helm).** Marble, brass lamps, brassier discretion. The Watch and well-heeled petitioners come for blessings that double as alibis.
+- **[Watchful Shield Shrine](watchful-shield-shrine.md) (Helm).** Marble, brass lamps, brassier discretion. The Watch and well-heeled petitioners come for blessings that double as alibis.
 - **Patriar Garden Walks.** On festival eves, a handful of estates open their front gardens for strolling. You will not see their vaults; you will see who is courting whom.
 - **The Limehouse Conservatory.** Glass-roofed gallery of imported fruit trees and private recitals; tickets are scarce and status is the point.
 

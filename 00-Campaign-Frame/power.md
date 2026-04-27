@@ -17,7 +17,7 @@ This is the rule of law in Baldur's Gate. Not that there is no law, but that **t
 
 ## Three corollaries
 
-**1. Sovereignty is geographic and contractual, not territorial.** A Foreign Kontor is sovereign within its walls because its charter says so. A Company Warden is sovereign over a guild member *anywhere* because the Company's charter says so. The Guild rules the Lower City sewers because no one can take them. Sovereignty is whatever a counterparty cannot afford to challenge.
+**1. Sovereignty is geographic and contractual, not territorial.** A Foreign Kontor is sovereign within its walls because its charter says so. A Company Warden is sovereign over a guild member *anywhere* because the Company's charter says so. The Guild rules the [Lower City](../30-Places/sword-coast/baldurs-gate/lower-city/README.md) sewers because no one can take them. Sovereignty is whatever a counterparty cannot afford to challenge.
 
 **2. Every authority is also a vendor.** The Flaming Fist polices, but the Watch polices better — for a fee. The Worshipful Company sets quality standards, but they also enforce monopoly pricing. The Council ratifies legislation, but its members also represent the consortiums whose legislation they ratify. The line between regulator and regulated is not blurred — it has been deliberately erased.
 

@@ -9,7 +9,7 @@ The single most consequential recent event for the [Seven Suns](../summary.md): 
 
 ## What was lost
 
-A full-cargo run of **Calimshan silks** plus a smaller consignment of southern spices and bound books. The vessel was lost on the Sea of Swords to a combination of weather and piracy — the dossier and worksheets do not commit which source did the actual sinking. The cargo was uninsured at full value; the family's standing insurance broker (an [Amnian Kontor](../../amnian-kontor/summary.md) underwriter) had already capped exposure on Seven Suns runs after the previous bad season.
+A full-cargo run of **Calimshan silks** plus a smaller consignment of southern spices and bound books. The vessel was lost on the [Sea of Swords](../../../30-Places/sword-coast/sea-of-swords.md) to a combination of weather and piracy — the dossier and worksheets do not commit which source did the actual sinking. The cargo was uninsured at full value; the family's standing insurance broker (an [Amnian Kontor](../../amnian-kontor/summary.md) underwriter) had already capped exposure on Seven Suns runs after the previous bad season.
 
 ## Why it matters
 
@@ -21,7 +21,7 @@ A full-cargo run of **Calimshan silks** plus a smaller consignment of southern s
 
 - A Jhasso elder hires the party to **recover the cargo** — or to determine, with proof, which of weather or piracy actually did the sinking. The answer matters: a piracy finding lets the family pursue their underwriter for full payout instead of a partial loss.
 - A specific Jhasso heirloom (a bound book, a piece of plate) is about to go to **Amnian auction** as part of the creditor's collection. Quiet retrieval — by purchase or otherwise — would buy the family a season.
-- A second silk run is being prepared. The Jhassos cannot afford a competent escort; an adventuring party willing to take a percent against a low purse could be auditioned, much as the [High Moon Coster](../../high-moon-coster/summary.md) did at the Blushing Mermaid.
+- A second silk run is being prepared. The Jhassos cannot afford a competent escort; an adventuring party willing to take a percent against a low purse could be auditioned, much as the [High Moon Coster](../../high-moon-coster/summary.md) did at the [Blushing Mermaid](../../../30-Places/sword-coast/baldurs-gate/lower-city/blushing-mermaid.md).
 
 ## See also
 

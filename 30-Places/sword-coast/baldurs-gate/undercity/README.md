@@ -1,6 +1,6 @@
 ---
 name: undercity
-description: The sewer labyrinth and the Undercellar smugglers' market beneath the Wide.
+description: The sewer labyrinth and the [Undercellar](the-undercellar.md) smugglers' market beneath the Wide.
 ---
 
 # Undercity
@@ -9,6 +9,7 @@ Beneath the streets lies a city in darkness. Two distinct subterranean networks 
 
 - [character.md](character.md) — texture and overview.
 - [the-undercellar.md](the-undercellar.md) — the clandestine elite market beneath the Wide.
+- [hamhocks-vault.md](hamhocks-vault.md) — strongroom under the [Undercellar](the-undercellar.md); current holding cell for the kidnapped Ettvard Needle.
 
 The **Undercity proper** — the sewer labyrinth — is the [Guild's](../../../../20-Factions/guild/summary.md) primary domain. Its main heavily defended **Guildhall** sits in a fortified sewer nexus accessible only through routes the Guild maintains by force.
 

@@ -1,11 +1,11 @@
 ---
 name: soul-coins
-description: Infernal currency the Knights of the Shield demand from gate-locked Patriars in exchange for "guaranteed" protection during the Upper City lockdown.
+description: Infernal currency the Knights of the Shield demand from gate-locked Patriars in exchange for "guaranteed" protection during the [Upper City](../../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) lockdown.
 ---
 
 # Infernal Soul-Coins
 
-The currency the [Knights of the Shield](../summary.md)'s recruiter — [the Hidden Lord](../people/the-recruiter.md) — demanded from trapped patriars during the Upper City **gate lockdown**, in exchange for "guaranteed" protection from the Lower City mobs. Per `faction-quests.xlsx`, *The Gilded Extortion*: the most lucrative single operation of the Knights' rebuild.
+The currency the [Knights of the Shield](../summary.md)'s recruiter — [the Hidden Lord](../people/the-recruiter.md) — demanded from trapped patriars during the [Upper City](../../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) **gate lockdown**, in exchange for "guaranteed" protection from the [Lower City](../../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) mobs. Per `faction-quests.xlsx`, *The Gilded Extortion*: the most lucrative single operation of the Knights' rebuild.
 
 ## What they actually are
 
@@ -23,7 +23,7 @@ The Knights demand soul-coins specifically because:
 
 ## Vulnerabilities
 
-- A **single soul-coin** recovered intact and identified is enough to prove diabolism to the **Watchful Shield Shrine** priesthood — the same priests Lord Hlath already alerted.
+- A **single soul-coin** recovered intact and identified is enough to prove diabolism to the **[Watchful Shield Shrine](../../../30-Places/sword-coast/baldurs-gate/upper-city/watchful-shield-shrine.md)** priesthood — the same priests Lord Hlath already alerted.
 - The Knights' cooperating broker (the devil-bound contact who accepts the coins) is a single chokepoint. Take the broker, take the operation.
 - The patriars who paid are *also* leverage on the Knights — every soul-coin sold is a witness who would prefer the Knights silent.
 

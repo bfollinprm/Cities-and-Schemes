@@ -15,7 +15,7 @@ The Fall of Elturel in 1494 DR — when the capital of Elturgard vanished from t
 
 ## Where they live
 
-Concentrated in **New Elturel** (Outer City, south bank), with smaller communities scattered through Twin Songs, Norchapel, and Rivington. See [30-Places/sword-coast/baldurs-gate/outer-city/new-elturel.md](../../30-Places/sword-coast/baldurs-gate/outer-city/new-elturel.md).
+Concentrated in **New Elturel** ([Outer City](../../30-Places/sword-coast/baldurs-gate/outer-city/README.md), south bank), with smaller communities scattered through Twin Songs, Norchapel, and Rivington. See [30-Places/sword-coast/baldurs-gate/outer-city/new-elturel.md](../../30-Places/sword-coast/baldurs-gate/outer-city/new-elturel.md).
 
 ## Identity
 
@@ -29,7 +29,7 @@ A large, unified, residentially-clustered population is — in the post-1497 ele
 
 - **Nativist scapegoating.** The [Plague of Remembrance](../../20-Factions/plague-of-remembrance/summary.md) actively frames Elturians as collaborators or worse to start a civil war. The [Society of Baldurian Integrity](../../20-Factions/society-of-baldurian-integrity/summary.md) treats Elturian art and architecture as "memetic contamination."
 - **Radicalization.** The [Elturel Remembrance Society](../../20-Factions/elturel-remembrance-society/summary.md) recruits from grieving Elturians for direct action against "infernal" Baldurian merchants.
-- **Disease and supply.** Periodic riverborne sickness after floods; chronic supply-gap pressure on the Outer City.
+- **Disease and supply.** Periodic riverborne sickness after floods; chronic supply-gap pressure on the [Outer City](../../30-Places/sword-coast/baldurs-gate/outer-city/README.md).
 
 ## Cultural marks
 

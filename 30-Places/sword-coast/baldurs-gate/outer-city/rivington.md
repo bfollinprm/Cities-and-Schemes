@@ -1,6 +1,6 @@
 ---
 name: rivington
-description: South-bank gateway to Baldur's Gate; caravan yards, cheap inns, the Open Hand Temple, the Circus of the Last Days.
+description: South-bank gateway to Baldur's Gate; caravan yards, cheap inns, the [Open Hand Temple](open-hand-temple.md), the Circus of the Last Days.
 ---
 
 # Rivington
@@ -9,11 +9,11 @@ Rivington is the south-bank gateway to Baldur's Gate: caravan yards, cheap inns,
 
 ## Notable stops
 
-- **Open Hand Temple (Ilmater).** Refuge, bread, and a quiet corner to catch your breath. The notice board out front is the best place in Rivington to find honest work quickly.
+- **[Open Hand Temple](open-hand-temple.md) (Ilmater).** Refuge, bread, and a quiet corner to catch your breath. The notice board out front is the best place in Rivington to find honest work quickly.
 - **Circus of the Last Days.** Lucretious's traveling wonder — planar oddities, knife acts, stories that last longer than their ticket stubs. Pop-up, seasonal.
 - **Arfur's Mansion.** Prominent toy-maker's home and workshop with a cheery façade and nervous shutters. Locals have stories; few match.
 - **Southbank Market.** Sprawl of canvas-roofed stalls: tack, travel rations, second-hand armor, roadside cures of arguable merit.
-- **Bridgefoot Commons.** Square before the ascent to Wyrm's Crossing. Porters at first bell; rumor peddlers at last light.
+- **Bridgefoot Commons.** Square before the ascent to [Wyrm's Crossing](wyrms-crossing.md). Porters at first bell; rumor peddlers at last light.
 
 ## Who lives here
 

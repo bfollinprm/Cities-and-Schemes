@@ -22,8 +22,8 @@ She handles only the most important contracts personally. Lower-value intelligen
 - **Sold party intelligence.** Compiled and sold tailored intelligence packets on the party's activities to two rival factions simultaneously, profiting from both sides without compromising her neutrality.
 - **Cheating-merchant proof.** Sold a [Chionthar Consortium](../../chionthar-consortium/summary.md) member proof that his partner was making side deals with the [Sembian Kontor](../../sembian-kontor/summary.md); the resulting fallout benefitted other Bibliophile clients.
 - **Failed shipping-manifest job.** Attempted to lift the Chionthar Consortium's upcoming shipping manifests for resale to the Sembians and the [River-Rats](../../river-rats/summary.md); the Consortium had upgraded internal security, and the agent failed.
-- **Marshal Flint dossier.** Currently compiling a dossier on Marshal Flint's most loyal Flaming Fist officers and their families' weaknesses, planning to sell into the escalating Wyrm's Crossing political crisis.
-- **Wyrm's Rock maps.** Acquired tactical maps from the [Worshipful Company of Cartographers & Surveyors](../../wc-cartographers-surveyors/summary.md) and discreetly sold them to the commander of Archduke [Lyra Silvershield](../../western-gate-trading-company/people/lyra-silvershield.md)'s newly-arrived mercenary force.
+- **Marshal Flint dossier.** Currently compiling a dossier on Marshal Flint's most loyal Flaming Fist officers and their families' weaknesses, planning to sell into the escalating [Wyrm's Crossing](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) political crisis.
+- **[Wyrm's Rock](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-rock.md) maps.** Acquired tactical maps from the [Worshipful Company of Cartographers & Surveyors](../../wc-cartographers-surveyors/summary.md) and discreetly sold them to the commander of Archduke [Lyra Silvershield](../../western-gate-trading-company/people/lyra-silvershield.md)'s newly-arrived mercenary force.
 
 ## See also
 

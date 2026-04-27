@@ -5,7 +5,7 @@ description: Switchback "high street" climbing from the wharves to the Old Wall;
 
 # The Steeps
 
-The Steeps climb from the wharves toward the Old Wall in a switchback of stone stairs, terraces, and shopfronts that seem to cling to the hillside by stubbornness alone. This is the Lower City's "high street" — porters groan uphill with crates at dawn; well-dressed buyers drift down after luncheon to spend without breaking a sweat.
+The Steeps climb from the wharves toward the Old Wall in a switchback of stone stairs, terraces, and shopfronts that seem to cling to the hillside by stubbornness alone. This is the [Lower City](README.md)'s "high street" — porters groan uphill with crates at dawn; well-dressed buyers drift down after luncheon to spend without breaking a sweat.
 
 ## Notable stops
 
@@ -16,7 +16,7 @@ The Steeps climb from the wharves toward the Old Wall in a switchback of stone s
 
 ## Who lives here
 
-Successful shopkeepers, journeymen on the rise, and a few Upper City families who like their luxuries close to the boats. Servants commute; porters never stop.
+Successful shopkeepers, journeymen on the rise, and a few [Upper City](../upper-city/README.md) families who like their luxuries close to the boats. Servants commute; porters never stop.
 
 ## Etiquette and access
 

@@ -11,7 +11,7 @@ A chaotic, **24-hour hub** of commerce, home to most of the city's guildhalls an
 ## Index
 
 - [character.md](character.md) — Guild density, the working-day rhythm, and the artisan drain.
-- Virgin's Square (named in dossier) — open hiring ground for sell-swords; standard private bodyguard rate **2–5 gp/day**.
+- [virgins-square.md](virgins-square.md) — open hiring ground for sell-swords; the city's mercenary market.
 
 ## See also
 

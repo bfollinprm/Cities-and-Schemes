@@ -35,8 +35,8 @@ The bards have begun calling this conclave the **"Conclave of Mirrors,"** for th
 
 - **1492 DR — Absolute Crisis (BG3).** The Cult of the Absolute, run by Chosen of the Dead Three and a Netherbrain, nearly conquers Baldur's Gate. Heroes destroy the Brain. See [absolute-crisis](../10-Setting/history/absolute-crisis.md).
 - **1493 DR — The Great Bargain.** Emergency Council charters the Foreign Kontors in exchange for reconstruction aid. Sovereignty traded for capital. See [great-bargain](../10-Setting/history/great-bargain.md).
-- **1494 DR — Fall of Elturel.** Elturel dragged to Avernus by Zariel; thousands of Elturians flock to Baldur's Gate's Outer City. See [elturian-diaspora](../10-Setting/peoples/elturian-diaspora.md).
-- **1496 DR — The K'liir Established.** Orpheus-loyal githyanki under K'laar settle the Outer City.
+- **1494 DR — Fall of Elturel.** Elturel dragged to Avernus by Zariel; thousands of Elturians flock to Baldur's Gate's [Outer City](../30-Places/sword-coast/baldurs-gate/outer-city/README.md). See [elturian-diaspora](../10-Setting/peoples/elturian-diaspora.md).
+- **1496 DR — The K'liir Established.** Orpheus-loyal githyanki under K'laar settle the [Outer City](../30-Places/sword-coast/baldurs-gate/outer-city/README.md).
 - **1497 DR — Parliament Reformed.** Peerages of Blood and Coin created. See [1497-reformation](../10-Setting/history/1497-reformation.md).
 
 ## c. 1491 DR — The Shadow War begins
@@ -76,7 +76,7 @@ The gods walk Faerûn as mortals. **Bhaal**, Lord of Murder, foresees his own de
 
 ## c. 1068 DR — Founding of Baldur's Gate
 
-The adventurer **Balduran** returns from Anchorome and walls the fishing village of Gray Harbour (formerly Loklee), renaming it after himself. The city's foundation is rooted in adventure and commerce.
+The adventurer **Balduran** returns from Anchorome and walls the fishing village of [Gray Harbour](../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) (formerly Loklee), renaming it after himself. The city's foundation is rooted in adventure and commerce.
 
 ## Older — Foundational Waterdhavian events
 

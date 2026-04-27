@@ -1,6 +1,6 @@
 # Worshipful Company of Fishmongers
 
-Ancient guild controlling Gray Harbour fishing fleets; food supply leverage.
+Ancient guild controlling [Gray Harbour](../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) fishing fleets; food supply leverage.
 
 ## Index
 

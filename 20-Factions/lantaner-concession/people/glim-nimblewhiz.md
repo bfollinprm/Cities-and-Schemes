@@ -1,6 +1,6 @@
 ---
 name: glim-nimblewhiz
-description: Gnome Chief Artificer of the Cogwork Quay; the most technologically powerful and most secretive figure in the city.
+description: Gnome Chief Artificer of the [Cogwork Quay](../summary.md); the most technologically powerful and most secretive figure in the city.
 ---
 
 # Chief Artificer Glim-Nimblewhiz
@@ -15,7 +15,7 @@ Chief Artificer of the [Lantaner Concession](../summary.md) and steward of the C
 
 The gnomes of Lantan negotiated the Concession's charter under the Great Bargain to control the smokepowder trade, a technology no one else in the region could replicate. Glim-Nimblewhiz inherited the post and runs it with a degree of paranoia that would seem extreme were it not entirely justified — every major guild in the city has, at one point, tried to steal something from his halls.
 
-His most pressing current problem is a [Wharf Rats](../../wharf-rats/summary.md) "accident" that pilfered mechanical parts from a Lantaner shipment. Rather than admit a security breach, he has posted an anonymous bounty through a third-party fence at the Elfsong Tavern.
+His most pressing current problem is a [Wharf Rats](../../wharf-rats/summary.md) "accident" that pilfered mechanical parts from a Lantaner shipment. Rather than admit a security breach, he has posted an anonymous bounty through a third-party fence at the [Elfsong Tavern](../../../30-Places/sword-coast/baldurs-gate/lower-city/elfsong-tavern.md).
 
 ## See also
 
