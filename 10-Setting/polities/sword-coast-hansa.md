@@ -9,7 +9,7 @@ The economic devastation of the [Absolute Crisis](../history/absolute-crisis.md)
 
 ## What it is — and isn't
 
-Not a formal, chartered alliance like the **Lords' Alliance**. The Hansa is an informal but powerful, Baldur's-Gate-centric trading bloc held together by:
+Not a formal, chartered alliance like the [Lords' Alliance](lords-alliance.md). The Hansa is an informal but powerful, Baldur's-Gate-centric trading bloc held together by:
 
 - **Standardized tariffs.** Member cities apply consistent customs schedules across the region.
 - **Shared commercial law.** Member courts recognize each other's contracts, judgments, and registered Worshipful Company seals.

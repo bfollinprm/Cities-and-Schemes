@@ -24,13 +24,14 @@ A real chartered confederation, distinct from the informal [Sword Coast Hansa](s
 ## Why it works
 
 - **Naval coordination.** Member fleets together suffice to deter casual piracy and win pitched fleet engagements (Asavir's Channel, 1498 DR).
-- **Shared diplomatic posture.** Recognized passports and shared blacklists (notably Zhentarim fronts) mean a member's enforcement decision carries weight in every member harbor.
+- **Shared diplomatic posture.** Recognized passports and shared blacklists (notably [Zhentarim](../../20-Factions/zhentarim/summary.md) fronts) mean a member's enforcement decision carries weight in every member harbor. [Harper](../../20-Factions/harpers/summary.md) cells often double as the Alliance's informal intelligence arm.
 - **Selective rivalry suppression.** The Alliance contains Waterdeep–Neverwinter friction rather than fighting it.
 
 ## Friction it creates
 
 - **Excludes pirate-broker economies.** Mintarn lost the Waterdeep mercenary contract under Laeral (~1495 DR); the shortfall now shapes the Tyrant's politics — see [luskan-and-the-pirates.md](luskan-and-the-pirates.md).
 - **Cannot police the deep.** Alliance patrols stop where the Kraken Society and Umberlee's clergy begin. Underwater vetoes are not Alliance business.
+- **Antagonizes the Baldurian patriar bloc.** The [Patriar Heritage Society](../../20-Factions/patriar-heritage-society/summary.md) reads the Splendid Yard as the soft front of a foreign occupation; the [Amnian Kontor](../../20-Factions/amnian-kontor/summary.md) routes Amn's retaliation through the same political openings.
 
 ## Source
 

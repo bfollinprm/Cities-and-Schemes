@@ -56,7 +56,7 @@ Western-water events recorded by Greywake's dossier. World-visible only; deep-wa
 ## c. 1491 DR — The Shadow War begins
 
 - **The Masked Lord Murders.** A faction inside the [Masked Lords of Waterdeep](../10-Setting/polities/waterdeep-government.md) assassinates nearly half the council in a coup attempt. Plot foiled; council paranoia institutionalized.
-- **The Zhentarim Schism.** A clone of Manshoon arrives in Waterdeep and fractures the Black Network; the **Shadow War** with the Xanathar Guild begins. See [Waterdeep — Factions](../30-Places/sword-coast/waterdeep/factions.md).
+- **The Zhentarim Schism.** A clone of Manshoon arrives in Waterdeep and fractures the Black Network (the [Zhentarim](../20-Factions/zhentarim/summary.md)); the **Shadow War** with the [Xanathar Guild](../20-Factions/xanathars-guild/summary.md) begins. See [Waterdeep — Factions](../30-Places/sword-coast/waterdeep/factions.md).
 
 ## c. 1489 DR — Neverember ousted; Laeral ascends
 
@@ -94,7 +94,7 @@ The adventurer **Balduran** returns from Anchorome and walls the fishing village
 
 ## Older — Foundational Waterdhavian events
 
-- **1314 DR — The Lords' Alliance founded.** Waterdeep establishes the confederation of northern powers; cements its position as political center of the Sword Coast North.
+- **1314 DR — The [Lords' Alliance](../10-Setting/polities/lords-alliance.md) founded.** Waterdeep establishes the confederation of northern powers; cements its position as political center of the Sword Coast North.
 - **1273 DR — The Lords' Rule revived.** Lords Baeron and Shilarn Silmaeril restore the Masked Lords system, which has held continuously since.
 - **1256 DR — Guildmasters' Folly.** Ahghairon dies; the Guildmasters seize the city; their corrupt rule is overthrown. Origin of the Lords-vs-Guilds tension.
 - **1248 DR — Nobility formalized.** The Lords grant the eighty-five noble houses the rights to bear arms and maintain private armies up to seventy soldiers.

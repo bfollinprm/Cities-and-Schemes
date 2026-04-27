@@ -11,7 +11,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Amnian Kontor *(The Gold-Gable Hall)*](amnian-kontor/summary.md) — Slice of a mighty mercantile empire dominating Baldur's Gate through banking, debt, and southern luxuries.
 - [Lantaner Concession *(The Cogwork Quay)*](lantaner-concession/summary.md) — Secretive gnomish enclave with a state-sanctioned monopoly on smokepowder.
 - [Sembian Kontor *(The Iron Ledger)*](sembian-kontor/summary.md) — Ruthlessly utilitarian Sembian trading house brokering bulk goods and mercenary contracts.
-- [Waterdhavian Kontor *(The Splendid Yard)*](waterdhavian-kontor/summary.md) — Lords' Alliance embassy controlling trade in northern goods and magical items; espionage hub.
+- [Waterdhavian Kontor *(The Splendid Yard)*](waterdhavian-kontor/summary.md) — [Lords' Alliance](../10-Setting/polities/lords-alliance.md) embassy controlling trade in northern goods and magical items; espionage hub.
 
 ### Native Consortiums
 
@@ -51,6 +51,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Circle of the Inner Grove](circle-of-the-inner-grove/summary.md) — Druidic sect protecting the Chionthar from the city's pollution and industrial expansion.
 - [The Guild](guild/summary.md) — Sophisticated criminal syndicate evolved into the de facto government of the common folk.
 - [The Harpers](harpers/summary.md) — Semi-secret balance-keepers gathering intelligence and subtly intervening against corrupt powers.
+- [Poisoners' Guild](poisoners-guild/summary.md) — Un-chartered black-market mirror to the Worshipful Alchemists; cold-war rival selling what the Company will not.
 - [Zhentarim *(Black Network)*](zhentarim/summary.md) — Ruthless profit-driven criminal network seeking to supplant the Guild.
 
 ### Smuggler Cells
@@ -84,7 +85,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Elturel Remembrance Society](elturel-remembrance-society/summary.md) — Elturian-survivor support group radicalized into hunting 'infernal' Baldurian merchants.
 - [The Purified](purified/summary.md) — Paranoid cell convinced Lantaner gnomes are pacifying the city through clockwork nano-organisms.
 - [Society of Baldurian Integrity](society-of-baldurian-integrity/summary.md) — Cultural-purity zealots warring against 'memetic contamination' from foreign art and architecture.
-- [The Unveiled](unveiled/summary.md) — Conspiracy-paladin cell convinced the Absolute Crisis was a doppelganger false-flag.
+- [The Unveiled](unveiled/summary.md) — Conspiracy-paladin cell convinced the [Absolute Crisis](../10-Setting/history/absolute-crisis.md) was a doppelganger false-flag.
 
 ### Cults
 
@@ -97,6 +98,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [The Plague of Remembrance](plague-of-remembrance/summary.md) — Xenophobic death cult of Baldurian purists framing Elturian refugees to start a civil war.
 - [The Silent Shroud *(Shar)*](silent-shroud/summary.md) — Sharran cult seeking the lost sanctums of the Lady of Loss beneath the city.
 - [The Takers of the Tithe](takers-of-the-tithe/summary.md) — Reaper-cult assassins claiming master artisans as a 'tithe' to their patron.
+
+### Waterdhavian Guilds and Underworld
+
+- [Fellowship of Carters and Coachmen](fellowship-of-carters-and-coachmen/summary.md) — Waterdhavian cart-and-coach guild; one of two guilds that can halt the city's trade.
+- [Guild of Watermen](guild-of-watermen/summary.md) — Waterdhavian dock-labor guild; the other guild with the strike weapon.
+- [Xanathar Guild](xanathars-guild/summary.md) — Beholder-led criminal empire under Waterdeep; one half of the Shadow War with Manshoon's Zhentarim.
 
 ### Party
 

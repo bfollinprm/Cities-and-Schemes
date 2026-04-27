@@ -18,7 +18,7 @@ The dossier reads the city as the unstable resolution of four intersecting fract
 
 1. **Crisis of Governance.** Traditionalist *Ahghaironians* (anonymity is the safeguard) vs. reformist *Open Rulers* (secrecy is itself the tyranny). The 1491 DR Masked Lord murders gave reformists their argument and traditionalists fresh paranoia.
 2. **Class Conflict.** Lords + Nobles vs. Guilds. The Guildmasters' Folly (1256 DR) is institutional memory.
-3. **Criminal Cancer.** Manshoon's Zhentarim vs. the Xanathar Guild — the **Shadow War**. Manshoon wants to bribe and blackmail his way into the Open Lord's chair; the Xanathar wants the underworld through addiction (Black Lilly), slavery, and intellect-devourer puppets.
+3. **Criminal Cancer.** Manshoon's [Zhentarim](../../../20-Factions/zhentarim/summary.md) vs. the [Xanathar Guild](../../../20-Factions/xanathars-guild/summary.md) — the **Shadow War**. Manshoon wants to bribe and blackmail his way into the Open Lord's chair; the Xanathar wants the underworld through addiction (Black Lilly), slavery, and intellect-devourer puppets.
 4. **Disenfranchised Masses.** The Field Ward and the lower-ward squalor. Demagogue-shaped hole. The Lords ignore it; the Watch will not enter; the guilds do not serve it.
 
 ## The "Great Game"

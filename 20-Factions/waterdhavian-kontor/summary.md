@@ -5,7 +5,7 @@ description: Lords' Alliance embassy controlling trade in northern goods and mag
 
 # Waterdhavian Kontor *(aka The Splendid Yard)*
 
-A grand embassy of the City of Splendors known as the **Splendid Yard**, acting as a southern bastion for the Lords' Alliance and controlling the lucrative trade in high-quality northern goods and magical items. Led by [Factor Elara Mornwood](people/elara-mornwood.md).
+A grand embassy of the City of Splendors known as the **Splendid Yard**, acting as a southern bastion for the [Lords' Alliance](../../10-Setting/polities/lords-alliance.md) and controlling the lucrative trade in high-quality northern goods and magical items. Led by [Factor Elara Mornwood](people/elara-mornwood.md).
 
 ## Ideology
 
@@ -33,6 +33,6 @@ The Splendid Yard is the **Lords' Alliance**'s southern embassy and primary inte
 
 - [Factor Elara Mornwood](people/elara-mornwood.md) — leader.
 - [Waterdeep](../../30-Places/sword-coast/waterdeep/README.md) — home city; the Splendid Yard in Baldur's Gate is the Kontor's southern outpost.
-- [Waterdeep — Government](../../10-Setting/polities/waterdeep-government.md) — the Open Lord chairs the Lords' Alliance whose agenda the Kontor advances.
+- [Waterdeep — Government](../../10-Setting/polities/waterdeep-government.md) — the Open Lord chairs the [Lords' Alliance](../../10-Setting/polities/lords-alliance.md) whose agenda the Kontor advances.
 - [Lords' Alliance polity](../../10-Setting/polities/lords-alliance.md) — the regional confederation the Yard projects.
 - Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Kantors); `dossier-waterdeep-1502-dr-a-city-of-veiled-threats.docx`; `dossier-sea-of-swords.md` (Trade Routes; Asavir's Channel).

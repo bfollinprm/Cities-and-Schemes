@@ -5,7 +5,7 @@ description: Resurgent diabolist secret society of merchants and nobles, rebuild
 
 # Knights of the Shield
 
-A once-powerful secret society of merchants and nobles who **bargained with devils for power**, shattered during the Absolute Crisis and quietly rebuilding. Goal: regain influence over the city's elite, one infernal pact at a time. Scattered cells, coded messages, forgotten cellars; led by an unknown **"Hidden Lord."**
+A once-powerful secret society of merchants and nobles who **bargained with devils for power**, shattered during the [Absolute Crisis](../../10-Setting/history/absolute-crisis.md) and quietly rebuilding. Goal: regain influence over the city's elite, one infernal pact at a time. Scattered cells, coded messages, forgotten cellars; led by an unknown **"Hidden Lord."**
 
 ## Ideology
 

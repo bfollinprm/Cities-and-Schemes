@@ -29,7 +29,7 @@ After the [Court of Stars](fey-courts/court-of-stars.md) convened in 1501 DR ove
 - **True sunlight** — magnified daylight (a chandelier turned brilliant) repels Far Realm shapes.
 - **Cold iron and true-sight** at thresholds catches infiltrators wearing mortal guise.
 - **Sylvan warding-songs** (especially Titania's hymn) steady the mind against the telepathic *"Hungry…"* assault.
-- **Eladrin knights of the Summer Court** — they came through stained glass at Dweomerheart Hall on a gale of blossoms and sealed the breach.
+- **Eladrin knights of the [Summer Court](fey-courts/seelie.md)** — they came through stained glass at Dweomerheart Hall on a gale of blossoms and sealed the breach.
 
 ## What does not
 
