@@ -1,0 +1,8 @@
+# Lantaner Concession *(aka The Cogwork Quay)*
+
+Secretive gnomish enclave with a state-sanctioned monopoly on smokepowder.
+
+## Index
+
+- [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: glim-nimblewhiz.

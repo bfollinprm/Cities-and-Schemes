@@ -1,0 +1,7 @@
+# High Moon Coster
+
+Remnant coster led by the Oberon family; bankrolling adventurers in hopes of restoring fortunes.
+
+## Index
+
+- [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.

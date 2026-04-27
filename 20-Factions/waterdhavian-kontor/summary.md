@@ -1,0 +1,31 @@
+---
+name: waterdhavian-kontor
+description: Lords' Alliance embassy controlling trade in northern goods and magical items; espionage hub.
+---
+
+# Waterdhavian Kontor *(aka The Splendid Yard)*
+
+A grand embassy of the City of Splendors known as the **Splendid Yard**, acting as a southern bastion for the Lords' Alliance and controlling the lucrative trade in high-quality northern goods and magical items. Led by [Factor Elara Mornwood](people/elara-mornwood.md).
+
+## Ideology
+
+Promote the political and economic agenda of the Lords' Alliance: maintain regional stability, counter rival powers like Amn, and stamp out destabilizing forces — chiefly the [Zhentarim](../zhentarim/summary.md).
+
+## Membership
+
+Led by Factor Elara Mornwood, a high-ranking half-elf member of the Lords' Alliance. Staffed by Waterdhavian nationals. Serves as an unofficial headquarters for [Harpers](../harpers/summary.md) and other Alliance intelligence agencies. Protected by the formidable **Griffin Guard**.
+
+## Methods
+
+- Manages the trade of high-quality textiles, expertly crafted metal goods, and — most importantly — magical items and components from the great workshops of Waterdeep.
+- Primary hub for espionage in the city, using diplomatic cover to gather intelligence.
+- The architecture and atmosphere of the Splendid Yard are designed to project the wealth and culture of its home city.
+
+## Hooks and Relationships
+
+**Enemies.** Primary rivals are the expansionist [Amnian Kontor](../amnian-kontor/summary.md) and the criminal Zhentarim network. Tensions also run hot with the [Society of Baldurian Integrity](../society-of-baldurian-integrity/summary.md), who view the Yard as the heart of "memetic" cultural infiltration.
+
+## See also
+
+- [Factor Elara Mornwood](people/elara-mornwood.md) — leader.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Kantors).
