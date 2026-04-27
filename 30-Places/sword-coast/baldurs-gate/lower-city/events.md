@@ -330,6 +330,67 @@ description: What happened in the [Lower City](README.md) districts by in-game w
 - **The Iron Throne's double-cross.** [The Anonymous Throne's](../../../../20-Factions/iron-throne/people/the-anonymous-throne.md) agents sell Sembian patrol routes to the Free Traders and Free-Trader weak points to the Sembians from the same tavern, two nights running. See [Iron Throne activity](../../../../20-Factions/iron-throne/activity/week_6/the-double-cross.md).
 - **The Carnival's alley circus.** [Mister Smiles](../../../../20-Factions/carnival-of-whispers/people/mister-smiles.md) sets up a guerrilla circus behind the Mermaid; the audience is the Lower City's drunks and broken sewer jacks; the patron feeds on despair. See [Carnival activity](../../../../20-Factions/carnival-of-whispers/activity/week_6/the-whispering-alley.md).
 
+## Week 7
+
+### Heapside / Baldur's Mouth print shop
+
+- **The Puppet Press.** With [Ettvard Needle missing](../../../../20-Factions/baldurs-mouth/people/ettvard-needle.md), an Interim Editor on the Western Gate's payroll takes the *Baldur's Mouth*. The first edition halts investigative coverage, runs an apologetic "context-and-corrections" column, and lays out three pages of [Archduke Silvershield's "Restoring Order" series](../../../../20-Factions/western-gate-trading-company/activity/week_7/the-press-blackout.md) above the fold. **Inside seven days the *Mouth* has gone from dissident voice to Consortium mouthpiece.** See [Baldur's Mouth activity](../../../../20-Factions/baldurs-mouth/activity/week_7/the-puppet-press.md).
+- **The Resonance Chamber leak.** Three new psi-sensitives wired into [the Hands of the Absolute's lattice](../../../../20-Factions/hands-of-the-absolute/activity/week_7/the-resonance-chamber.md) cause **waking nightmares for everyone within a three-block radius** of the Heapside hideout — children screaming at empty corners, two cases of catatonia at the Penumbra Playhouse. See [Hands activity](../../../../20-Factions/hands-of-the-absolute/activity/week_7/the-resonance-chamber.md).
+
+### Twin Songs / Penumbra Playhouse / Helm and Cloak
+
+- **The Sharran Helm and Cloak infiltration.** [Mother Nocturne](../../../../20-Factions/silent-shroud/people/mother-nocturne.md) finishes her Purge of the Blind in the Twin Songs catacombs and deploys elite spies into the Helm and Cloak; by week's end she holds blackmail material on five mid-tier patriars, two of them Knights-of-the-Shield contract signatories. See [Silent Shroud activity](../../../../20-Factions/silent-shroud/activity/week_7/the-helm-and-cloak-infiltration.md).
+
+### Gray Harbour
+
+- **The Harbor Toll.** [Matron Marga Saltwind's](../../../../20-Factions/wc-fishmongers/people/marga-saltwind.md) net-knife-and-gaff militia begins enforcing a violent **protection toll** on every independent fishing skiff. Five small craft are sitting on the harbor floor by the fourth day; the Fishmongers' independent-fleet count drops to zero in three districts. **Marga Saltwind is the sole legal authority on Gray Harbour.** See [Fishmongers activity](../../../../20-Factions/wc-fishmongers/activity/week_7/the-harbor-toll.md).
+- **The Beached Fleet.** The drydock-lockout backlog **fully beaches** every non-guild hull on the Gray Harbour mudflats; independent captains sleep under their own keel-strakes, crews scattered. The Guild controls every working hull above the bilge-line in three districts. See [Shipwrights activity](../../../../20-Factions/wc-shipwrights-calkers/activity/week_7/the-beached-fleet.md).
+- **Consolidate River Control.** [Consul Athar](../../../../20-Factions/amnian-kontor/people/vorlamin-athar.md) crews the captured Brindlestone fleet wholly with Coin-Sword retainers and publishes a "river-traffic schedule" requiring registration and a transit fee from every non-Amnian ship. **A foreign-kontor river blockade with no Baldurian charter.** See [Amnian activity](../../../../20-Factions/amnian-kontor/activity/week_7/consolidate-river-control.md).
+- **The Sewer Skirmish.** [One-Eyed Jack's](../../../../20-Factions/wharf-rats/people/one-eyed-jack.md) crew picks off a Zhent retaliation squad at the storm-drain confluence under the Counting House; running, hours-long battle through the harbor sewers; Jack ends the week controlling four key drainage junctions, including a cistern overflow into the Counting House subbasement. See [Wharf Rats activity](../../../../20-Factions/wharf-rats/activity/week_7/the-sewer-skirmish.md).
+
+### Counting House
+
+- **Private Armies.** The Peerage of Coin votes to dramatically expand the Sembian-livery private security at every Counting House and bank; Athar doubles his Coin-Sword detail. **The Counting House becomes a heavily armed fortress** the Fist cannot enter without invitation. The Coin lords win the emergency-commerce-protection vote 14-7. See [Peerage of Coin activity](../../../../20-Factions/peerage-of-coin/activity/week_7/private-armies.md).
+- **The Public Assay.** [Master Goldhand](../../../../20-Factions/wc-goldsmiths-jewelers/people/theronius-goldhand.md) stages a magical assay of the city's emergency gold reserves in the Counting House public reading room; Parliament invited; Detect Forgery and a Guild-witnessed alloy assay on every reserve crate. **The Goldsmiths' Guild ends the week as the most institutionally trusted Worshipful Company in the city.** See [Goldsmiths activity](../../../../20-Factions/wc-goldsmiths-jewelers/activity/week_7/the-public-assay.md).
+- **The Digital Purge.** [Nine-Fingers Keene's](../../../../20-Factions/guild/people/astele-keene.md) assassins systematically hunt the Zhent slicers Pell Marrowfax worked with; three ledger-clerks dead in alleys and one at his desk with no visible wound. **Guild knives moving in daylight; bad for the public-protector cover.** See [Guild activity](../../../../20-Factions/guild/activity/week_7/the-digital-purge.md).
+
+### Brampton
+
+- **The Guided Darkness.** [Mistress Anya Brightwood](../../../../20-Factions/wc-chandlers-lamplighters/people/anya-brightwood.md) is forced into a planned **total streetlamp blackout** across every street within five blocks of the Velvet Hand. Six Zhent ledger-clerks, two enforcers, and one journeyman caster are killed inside the four-hour window — the same night [the Guild's Digital Purge](../../../../20-Factions/guild/activity/week_7/the-digital-purge.md) finishes. **The Chandlers' Guild is now functionally a Guild auxiliary unit operating as a public utility.** See [Chandlers activity](../../../../20-Factions/wc-chandlers-lamplighters/activity/week_7/the-guided-darkness.md).
+- **The Antidote Monopoly.** [Master Phineas Droog](../../../../20-Factions/wc-alchemists-apothecaries/people/phineas-droog.md) reserves every doseable antidote and antitoxin in [Crimson Draughts](../brampton.md) for Sembian quartermasters at a five-times markup. The Free Traders, Hellriders, Outer City temples and the Plowman are explicitly cut out. *He hands the visiting party a Guild coin and the name of [Garrett "Grit" Fallow](../../../../20-Factions/guild/people/garrett-grit-fallow.md) but does not relax the restriction.* See [Alchemists activity](../../../../20-Factions/wc-alchemists-apothecaries/activity/week_7/the-antidote-monopoly.md), [Session 28](../../../../50-Sessions/session_28/player_summary.md).
+- **The Desperate Dive.** [Silas the Eel](../../../../20-Factions/river-rats/people/silas-the-eel.md) leads a suicidal armed raid against a Zhentarim safehouse; three River-Rats die; Silas takes a shocking-grasp through the shoulder. The cell ends the week with no coin, no leverage, and a **Zhent contract on Silas's head**. See [River-Rats activity](../../../../20-Factions/river-rats/activity/week_7/the-desperate-dive.md).
+- **The Great Retraction.** [Factor Errinthal](../../../../20-Factions/chionthar-consortium/people/factor-errinthal.md) — humiliated by the Siege Edition and bleeding river volume to the Amnian blockade — pushes a sweeping editorial retraction of Kaelan's *Insurance Scam* through the puppeted *Mouth*. See [Consortium activity](../../../../20-Factions/chionthar-consortium/activity/week_7/the-great-retraction.md).
+
+### Sorcerous Sundries
+
+- **The Magical Dragnet sweep.** Rebuilt censers run an aggressive detection sweep that catches three hedge-witches, a blink-dog handler, a Phoenix-Temple acolyte holding the Foundation Stone, and the warding amulet on Lena Oakes's Plowman gate; the party is in Tumbledown beneath cover and does not register. Six Outer City merchants summoned to Sorcerous Sundries for fines. See [Sodality activity](../../../../20-Factions/wc-sorcerous-sodality/activity/week_7/the-magical-dragnet.md).
+
+### Bloomridge
+
+- **The Mercenary Contract.** [Mistress Vance](../../../../20-Factions/wc-mercers-clothiers/people/elethra-vance.md) closes the **uniform contract for the Archduke's Sembian private army**: field tunics, livery sashes, Coin-Sword unit-pips, three weights of officer overcoats, all cut and dyed in Bloomridge. **The Mercers' Guild is now openly the Archduke's outfitter.** See [Mercers activity](../../../../20-Factions/wc-mercers-clothiers/activity/week_7/the-mercenary-contract.md).
+
+### Eastway
+
+- **The Dry Riot.** [Master Quickfoot's](../../../../20-Factions/wc-vintners-brewers/people/belba-quickfoot.md) ale embargo finally cracks Sembian discipline. A company of mercenaries deserts its post and storms an unlicensed grog-shop; two of the proprietor's nephews killed; the unit refuses recall orders for sixteen hours. The morning *Mouth* files it as "rogue mercenary outburst." Sembian command negotiates a triple-rate Vintner truce by sundown of the fifth day. See [Vintners activity](../../../../20-Factions/wc-vintners-brewers/activity/week_7/the-dry-riot.md).
+
+### Blushing Mermaid
+
+- **The Sabotage Brokerage.** [The Anonymous Throne's](../../../../20-Factions/iron-throne/people/the-anonymous-throne.md) agents sell Free-Trader **barricade schematics** to the Sembian commanders for three thousand gold in mixed coin, settled in a back room. The coster is now literally on both sides of the siege. See [Iron Throne activity](../../../../20-Factions/iron-throne/activity/week_7/the-sabotage-brokerage.md).
+- **The Memory Mite's Message.** [Mister Smiles](../../../../20-Factions/carnival-of-whispers/people/mister-smiles.md) drops a Memory Mite into refugee dreams to track Bror and Elia and feeds the patron the city's ambient anxiety. By week's end Smiles knows roughly where Bror has been (Twin Songs, Tumbledown's edge) without being seen. See [Carnival activity](../../../../20-Factions/carnival-of-whispers/activity/week_7/the-memory-mites-message.md).
+
+### Iron Ledger
+
+- **The Starvation Premium.** [Bursar Korgan Ironhand](../../../../20-Factions/sembian-kontor/people/korgan-ironhand.md) triggers a **300% markup** on hoarded grain and unloads almost the entire warehouse onto the Manorborn supply chain. Profit margin no Sembian operation in the city has ever seen. **The siege has converted from tactical operation into structural crisis.** See [Sembian activity](../../../../20-Factions/sembian-kontor/activity/week_7/the-starvation-premium.md).
+
+### Lower City retail markets
+
+- **The Copper Crash.** [Valerius Thorne's](../../../../20-Factions/gilded-vein/people/valerius-thorne.md) cult floods Lower City markets with high-quality forged copper pieces; retail price of copper drops 18% against silver in five days. Three Counting House clerks refuse copper from the Lower City pay window; small riot at the wage queue. *Axiom is purified through the localized chaos.* See [Gilded Vein activity](../../../../20-Factions/gilded-vein/activity/week_7/the-copper-crash.md).
+- **The Missing Ink.** [Nansi Gretta](../../../../20-Factions/bibliophile/people/nansi-gretta.md) corners every remaining copy of the Siege Edition exposing the insurance fraud; offers the surviving stock to Errinthal as a sealed bid for ten thousand gold. *Every copy still in the city is a single bookkeeper's asset.* See [Bibliophile activity](../../../../20-Factions/bibliophile/activity/week_7/the-missing-ink.md).
+
+### Elfsong Tavern
+
+- **The Sonic Cleansing.** [Calliope's](../../../../20-Factions/society-of-baldurian-integrity/people/calliope.md) tuning-fork exorcism of the Elfsong ghost ends in a beautiful cultural-fusion duet that publicly refutes the Society of Baldurian Integrity's purity doctrine. *A barmaid weeps; a dwarven merchant proposes marriage to a rival merchant.* See [Society activity](../../../../20-Factions/society-of-baldurian-integrity/activity/week_7/the-sonic-cleansing.md).
+
 ## See also
 
 - [README.md](README.md) — Lower City overview.

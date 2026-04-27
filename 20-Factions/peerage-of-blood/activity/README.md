@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-letter-of-censure.
 - [week_5/](week_5/) — the-propaganda-campaign.
 - [week_6/](week_6/) — the-petition-of-grievances.
+- [week_7/](week_7/) — the-ultimatum-to-the-duke.

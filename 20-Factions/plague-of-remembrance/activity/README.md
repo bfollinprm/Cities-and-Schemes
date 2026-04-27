@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-rot-from-within.
 - [week_5/](week_5/) — the-serpents-kiss.
 - [week_6/](week_6/) — the-false-flag.
+- [week_7/](week_7/) — the-refugee-riot.

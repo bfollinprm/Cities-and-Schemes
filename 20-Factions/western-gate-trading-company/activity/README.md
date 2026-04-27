@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-barracks-requisition.
 - [week_5/](week_5/) — choke-the-supply-lines.
 - [week_6/](week_6/) — the-starvation-siege.
+- [week_7/](week_7/) — the-press-blackout.

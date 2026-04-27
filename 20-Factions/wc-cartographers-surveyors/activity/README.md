@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — playing-both-sides.
 - [week_5/](week_5/) — mapping-the-battlefield.
 - [week_6/](week_6/) — the-memory-loss.
+- [week_7/](week_7/) — the-memory-recovery.

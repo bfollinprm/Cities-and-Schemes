@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-call-to-arms.
 - [week_5/](week_5/) — the-elturgard-alliance.
 - [week_6/](week_6/) — the-shield-wall.
+- [week_7/](week_7/) — the-witch-hunt.

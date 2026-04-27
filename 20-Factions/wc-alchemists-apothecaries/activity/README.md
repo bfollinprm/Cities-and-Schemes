@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — a-desperate-bargain.
 - [week_5/](week_5/) — the-vault-lockdown.
 - [week_6/](week_6/) — the-poison-analysis.
+- [week_7/](week_7/) — the-antidote-monopoly.

@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-loyalty-fund.
 - [week_5/](week_5/) — the-silver-fist.
 - [week_6/](week_6/) — the-officers-mess.
+- [week_7/](week_7/) — the-slander-campaign.

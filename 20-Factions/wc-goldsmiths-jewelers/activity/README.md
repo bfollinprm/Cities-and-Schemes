@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — a-quiet-bounty.
 - [week_5/](week_5/) — chasing-ghosts.
 - [week_6/](week_6/) — the-gold-standard.
+- [week_7/](week_7/) — the-public-assay.

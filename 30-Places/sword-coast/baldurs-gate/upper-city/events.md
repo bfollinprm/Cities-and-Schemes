@@ -154,6 +154,41 @@ description: What happened in the [Upper City](README.md) districts by in-game w
 
 - **The Private Caucus collapses.** Eight moderate cross-aisle peers attempt a secret de-escalation meeting; trust is so low the meeting devolves into a drawn-knife brawl by midnight. **The moderates cannot drink together.** See [Parliament activity](../../../../20-Factions/parliament-of-peers/activity/week_6/the-private-caucus.md). *(Note: meeting held in Lower City; the political fallout lands here.)*
 
+## Week 7
+
+### Upper City Gates
+
+- **The Gilded Cage Riots.** Trapped patriars riot against the Watch itself, demanding to be let out before Lower City mobs (which have not yet materialized) break in. The Watch loses teeth at the Wide. The Watch's request for emergency Council authorization to lift the lockdown goes unanswered. See [Watch activity](../../../../20-Factions/watch/activity/week_7/the-gilded-cage-riots.md).
+
+### Manorborn
+
+- **The Gilded Extortion.** [The Hidden Lord](../../../../20-Factions/knights-of-the-shield/people/the-hidden-lord.md) bills House Defense Subscriptions to twelve patriar bloodlines under forged Watch contracts; settlement in soul-coins. The Knights of the Shield are paid by Manorborn houses to provide riot suppression — the Watch's last monopoly inside the gates collapses. See [Knights activity](../../../../20-Factions/knights-of-the-shield/activity/week_7/the-gilded-extortion.md).
+- **The Sabotaged Foundations.** [Master Borin Stonehand](../../../../20-Factions/wc-masons-sculptors/people/borin-stonehand.md) escalates last week's strike into active sabotage: his crews quietly remove key structural supports from three Upper City guardhouses on Manorborn's perimeter and leave the structures *visibly fine*. Only the Masons know which three buildings will fall first. See [Masons activity](../../../../20-Factions/wc-masons-sculptors/activity/week_7/the-sabotaged-foundations.md).
+
+### High Hall
+
+- **The Ultimatum to the Duke.** The Peerage of Blood files a formal ultimatum demanding [Archduke Lyra Silvershield](../../../../20-Factions/western-gate-trading-company/people/lyra-silvershield.md) step down. The vote to forward to the Council fails by four — would have passed had [the Bathhouse Brawl](../../../../20-Factions/parliament-of-peers/activity/week_7/the-bathhouse-brawl.md) not poisoned the cross-aisle Coin moderates. **First formal succession demand since the post-Crisis charter.** See [Peerage of Blood activity](../../../../20-Factions/peerage-of-blood/activity/week_7/the-ultimatum-to-the-duke.md).
+
+### The Wide
+
+- **The Diplomatic Immunity.** [Factor Elara Mornwood](../../../../20-Factions/waterdhavian-kontor/people/elara-mornwood.md) opens formal Lords' Alliance negotiations with [High Watcher Alena](../../../../20-Factions/hellriders-of-new-elturel/people/high-watcher-alena.md): grain shipments, antitoxins, and a weapons-import exemption in exchange for public Hellrider opposition to Sembian influence. Sembian protest goes unanswered. **Waterdeep is bidding for soft-power dominance of New Elturel.** See [Waterdhavian activity](../../../../20-Factions/waterdhavian-kontor/activity/week_7/the-diplomatic-immunity.md).
+
+### Upper City Commercial District
+
+- **The Alchemical Arson.** [Lord Hhune's](../../../../20-Factions/elturel-remembrance-society/people/perrine-hhune.md) Remembrance Society agents ignite alchemical sigils on six storefronts believed funded with Knights-of-the-Shield infernal gold. Two go up — a Mercer milliner and a Goldsmith subsidiary's loan office. See [Elturel Remembrance activity](../../../../20-Factions/elturel-remembrance-society/activity/week_7/the-alchemical-arson.md).
+
+### Helm and Cloak
+
+- **The Sharran Infiltration.** [Mother Nocturne](../../../../20-Factions/silent-shroud/people/mother-nocturne.md) finishes her Purge of the Blind and deploys elite Sharran spies into the Helm and Cloak. By week's end she holds blackmail material on five mid-tier patriars, two of them signatories on the Knights of the Shield's contracts. *She is waiting for [Bror to deliver the sentient source](../../../../50-Sessions/session_27/player_summary.md) before she plays the cards.* See [Silent Shroud activity](../../../../20-Factions/silent-shroud/activity/week_7/the-helm-and-cloak-infiltration.md).
+
+### Cartographers' Guildhall
+
+- **The Memory Recovery.** [Master Vancroft](../../../../20-Factions/wc-cartographers-surveyors/people/elias-vancroft.md) hires a Sodality psion who successfully recovers the Githyanki map data wiped by the K'liir psionic sweep — a partial astral-bridge map under Wyrm's Rock and a Sembian smuggling-route fragment Vancroft sells to Korgan Ironhand within hours. The Cartographers are back in the espionage game. See [Cartographers activity](../../../../20-Factions/wc-cartographers-surveyors/activity/week_7/the-memory-recovery.md).
+
+### Hellscream Bathhouse
+
+- **The Bathhouse Brawl.** A discreet meeting between moderate peers of Coin and Blood collapses into a physical brawl after Durinbold calls a Coin moderate a "ledger-clerk in patriar collars." Two Knights-aligned junior peers wade in; the Watch detail extracts a half-dressed Coin lord through the steam-room. **Parliament has no functioning back-channel between the houses left.** See [Parliament activity](../../../../20-Factions/parliament-of-peers/activity/week_7/the-bathhouse-brawl.md).
+
 ## See also
 
 - [README.md](README.md) — Upper City overview.

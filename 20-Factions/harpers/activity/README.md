@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-back-channel-bargain.
 - [week_5/](week_5/) — expose-the-war-profiteer.
 - [week_6/](week_6/) — the-supply-sabotage.
+- [week_7/](week_7/) — find-the-quill.

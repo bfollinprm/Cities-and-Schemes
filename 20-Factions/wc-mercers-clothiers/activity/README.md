@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-business-of-grief.
 - [week_5/](week_5/) — mourning-becomes-profit.
 - [week_6/](week_6/) — the-winter-collection.
+- [week_7/](week_7/) — the-mercenary-contract.

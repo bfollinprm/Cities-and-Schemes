@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — a-closed-file.
 - [week_5/](week_5/) — cultivate-a-new-asset.
 - [week_6/](week_6/) — the-diplomatic-immunity.
+- [week_7/](week_7/) — the-diplomatic-immunity.

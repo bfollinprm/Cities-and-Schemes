@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — binding-the-blight.
 - [week_5/](week_5/) — hunt-the-river-horror.
 - [week_6/](week_6/) — the-source-of-the-rot.
+- [week_7/](week_7/) — vine-barricades.

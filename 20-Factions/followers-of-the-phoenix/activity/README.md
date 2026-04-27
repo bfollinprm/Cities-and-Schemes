@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — a-martyrs-sermon.
 - [week_5/](week_5/) — the-survivors-sermon.
 - [week_6/](week_6/) — the-foundation-stone.
+- [week_7/](week_7/) — the-saints-respite.

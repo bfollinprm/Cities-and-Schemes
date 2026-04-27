@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-source-of-the-sickness.
 - [week_5/](week_5/) — plan-the-cleansing.
 - [week_6/](week_6/) — the-corpse-caravan.
+- [week_7/](week_7/) — the-cliffside-consecration.

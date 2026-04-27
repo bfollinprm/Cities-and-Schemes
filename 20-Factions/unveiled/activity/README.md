@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-prison-break.
 - [week_5/](week_5/) — the-great-escape.
 - [week_6/](week_6/) — the-safehouse-shuffle.
+- [week_7/](week_7/) — the-prison-break-propaganda.

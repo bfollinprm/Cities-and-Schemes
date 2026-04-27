@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — poisoning-the-well.
 - [week_5/](week_5/) — go-to-ground.
 - [week_6/](week_6/) — the-liquidated-assets.
+- [week_7/](week_7/) — the-copper-crash.

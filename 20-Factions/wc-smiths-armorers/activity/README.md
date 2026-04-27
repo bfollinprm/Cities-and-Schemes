@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — an-astral-bargain.
 - [week_5/](week_5/) — an-appeal-to-the-old-guard.
 - [week_6/](week_6/) — the-iron-smuggle.
+- [week_7/](week_7/) — the-forge-fires.
