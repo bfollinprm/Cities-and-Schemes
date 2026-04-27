@@ -18,7 +18,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Chionthar Consortium](chionthar-consortium/summary.md) — Old-money Baldurian merchant bloc controlling river trade along the Chionthar.
 - [Western Gate Trading Company](western-gate-trading-company/summary.md) — Patriar-backed consortium controlling overland routes and hinterland resources; led by the sitting Archduke.
 
-### Government
+### Government — Baldur's Gate
 
 - [Council of Four](council-of-four/summary.md) — Plutocratic executive branch; a boardroom of capitalists led by the Archduke.
 - [Flaming Fist](flaming-fist/summary.md) — Diminished and corrupt city military and police force, struggling for relevance.
@@ -26,9 +26,17 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Peerage of Blood](peerage-of-blood/summary.md) — Old-money house representing patriar families fighting to preserve traditional rights.
 - [Peerage of Coin](peerage-of-coin/summary.md) — New-money house where corporate entities buy seats and laws are drafted on economic self-interest.
 
-### Watch
+### Government — Waterdeep
 
-- [The Watch *(Upper City Watch)*](watch/summary.md) — Patriar-funded watch policing the Upper City; chronically stretched thin.
+- [The Masked Lords](masked-lords/summary.md) — Anonymous magical-helm council ruling Waterdeep since 1032 DR; two seats compromised by Manshoon.
+- [Waterdeep Noble Houses](waterdeep-noble-houses/summary.md) — The eighty-five noble houses; the Great Game; private armies up to seventy soldiers each.
+
+### Watch and Guard
+
+- [The Watch *(Upper City Watch)*](watch/summary.md) — Patriar-funded watch policing Baldur's Gate's Upper City; chronically stretched thin.
+- [City Watch *(of Waterdeep)*](city-watch/summary.md) — Waterdeep's public-facing police; outmatched in the Shadow War.
+- [City Guard *(of Waterdeep)*](city-guard/summary.md) — Waterdeep's standing military; mans the walls and gates from Castle Waterdeep.
+- [Force Grey](force-grey/summary.md) — Waterdeep's elite reserve of adventurers and high-magic specialists, commanded by the Blackstaff.
 
 ### Worshipful Companies
 
@@ -45,12 +53,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Sorcerous Sodality *(Sorcerous Sundries)*](wc-sorcerous-sodality/summary.md) — Reformed Sorcerous Sundries; regulates magical goods and licenses public spellcasting.
 - [Worshipful Company of Vintners & Brewers](wc-vintners-brewers/summary.md) — Guild controlling alcohol trade from cheap ale to imported wine; key to social life.
 
+### Wild Cards
+
+- [Bregan D'aerthe](bregan-daerthe/summary.md) — Drow mercenary company under Jarlaxle Baenre, fronting as the Sea Maidens Faire; chasing a Lords' Alliance seat for Luskan.
+
 ### Societies
 
 - [The Bibliophile](bibliophile/summary.md) — Information broker (Nansi Gretta) selling intel to the highest bidder.
 - [Circle of the Inner Grove](circle-of-the-inner-grove/summary.md) — Druidic sect protecting the Chionthar from the city's pollution and industrial expansion.
 - [The Guild](guild/summary.md) — Sophisticated criminal syndicate evolved into the de facto government of the common folk.
 - [The Harpers](harpers/summary.md) — Semi-secret balance-keepers gathering intelligence and subtly intervening against corrupt powers.
+- [Poisoners' Guild](poisoners-guild/summary.md) — Un-chartered black-market mirror to the Worshipful Alchemists; cold-war rival selling what the Company will not.
+- [Xanathar Guild](xanathars-guild/summary.md) — Beholder-led criminal empire under Waterdeep; runs Skullport, Black Lilly, and intellect-devourer puppetry.
 - [Zhentarim *(Black Network)*](zhentarim/summary.md) — Ruthless profit-driven criminal network seeking to supplant the Guild.
 
 ### Smuggler Cells
@@ -97,6 +111,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [The Plague of Remembrance](plague-of-remembrance/summary.md) — Xenophobic death cult of Baldurian purists framing Elturian refugees to start a civil war.
 - [The Silent Shroud *(Shar)*](silent-shroud/summary.md) — Sharran cult seeking the lost sanctums of the Lady of Loss beneath the city.
 - [The Takers of the Tithe](takers-of-the-tithe/summary.md) — Reaper-cult assassins claiming master artisans as a 'tithe' to their patron.
+- [The Umberleen Unveiling](umberleen-unveiling/summary.md) — Apocalyptic Umberlee cult on the Baldur's Gate waterfront; standing antagonist of the Fishmongers.
 
 ### Party
 

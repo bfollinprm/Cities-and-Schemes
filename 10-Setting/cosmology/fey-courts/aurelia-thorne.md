@@ -9,7 +9,7 @@ A recent Reveler in the [Green Masquerade](green-masquerade.md). Mask-name **Nor
 
 ## Why she matters
 
-- **Eyewitness to the Night of the Howling Masks.** A Green Masquerade incident in which two infiltrators were revealed by chandelier-magnified noon-light; Aurelia held the line alongside Lord Fox, Lady Duskrose, and a half-elf bard from Evereska.
+- **Eyewitness to the Night of the Howling Masks.** A Green Masquerade incident in which two infiltrators were revealed by chandelier-magnified noon-light; Aurelia held the line alongside Lord Fox, [Lady Duskrose](lady-duskrose.md), and a half-elf bard from Evereska.
 - **A walking Northern intelligence asset.** What she knows about the spine-of-the-world routes is the Masquerade's, not the city's.
 
 ## See also

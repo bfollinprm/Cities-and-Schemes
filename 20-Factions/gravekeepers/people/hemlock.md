@@ -23,7 +23,7 @@ Founder and leader of the [Gravekeepers](../summary.md), based out of **Candulha
 - Holy water tainted with necrotic residue (a Bhaalist sabotage); weeks of preparation lost.
 - Organized a macabre **corpse-caravan** to move consecrated dead to the Cliffside Cemetery in silence, avoiding both the Fist and the Guild.
 - Now running the **Cliffside Consecration** — a massive ritual to create a holy perimeter of his own consecrated undead guardians against [Bhaalist](../../cult-of-the-returning-lord/summary.md) incursion.
-- Currently in a three-way standoff at the Tumbledown gates against [Harper](../../harpers/summary.md) Tilly Falkenrath and [Guild](../../guild/summary.md) smuggler Silas the Eel — both attempting to force a cart of grain through the crypts to the Basilisk Gate blockade.
+- Currently in a three-way standoff at the Tumbledown gates against [Harper](../../harpers/summary.md) [Tilly Falkenrath](../../harpers/people/tilly-falkenrath.md) and [Guild](../../guild/summary.md) smuggler Silas the Eel — both attempting to force a cart of grain through the crypts to the Basilisk Gate blockade.
 
 ## See also
 

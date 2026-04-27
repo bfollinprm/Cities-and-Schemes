@@ -25,7 +25,7 @@ The Unseelie keep the same rules as any fey (see [00-Campaign-Frame/fey-bargains
 
 ## Mortal contacts
 
-The [Green Masquerade](green-masquerade.md) routes its Winter-leaning circle to the Unseelie. **Lady Duskrose** is the public face — a half-elf enchantress whose twilight-rose mask marks her as the Queen's preferred contact in Waterdeep. She quietly integrates lesser Unseelie (gloom sprites, a friendly quickling) into the city's shadowed corners. She walks a careful line: keeping the Queen's favor without letting the Masquerade slide into outright malice.
+The [Green Masquerade](green-masquerade.md) routes its Winter-leaning circle to the Unseelie. [**Lady Duskrose**](lady-duskrose.md) is the public face — a half-elf enchantress whose twilight-rose mask marks her as the Queen's preferred contact in Waterdeep. She quietly integrates lesser Unseelie (gloom sprites, a friendly quickling) into the city's shadowed corners. She walks a careful line: keeping the Queen's favor without letting the Masquerade slide into outright malice.
 
 ## Common-folk lore
 

@@ -11,7 +11,7 @@ The political bloc the [Lords' Alliance](lords-alliance.md) cannot integrate and
 
 Officially, Luskan is ruled by the **Five High Captains** (Kurth, Baram, Taerl, Suljack, Rethnor), each the head of a "Ship" — a pirate gang turned hereditary fiefdom. Unofficially, the **Arcane Brotherhood** in the **Hosttower of the Arcane** on Cutlass Island arbitrates between Captains in exchange for magical favors. The current Brotherhood archmage is **Cashaan the Red**.
 
-The Captains present a united face to outsiders and wage a silent war among themselves. Captain Kurth's quiet diplomacy with Waterdeep — and rumored interest in a Lords' Alliance seat — is the most consequential intra-bloc intrigue of 1502 DR. Captain Rethnor is rumored to be a proxy for a **Bregan D'aerthe** (drow) backer; Jarlaxle Baenre's hand is in Luskan as much as it is in Waterdeep.
+The Captains present a united face to outsiders and wage a silent war among themselves. Captain Kurth's quiet diplomacy with Waterdeep — and rumored interest in a Lords' Alliance seat — is the most consequential intra-bloc intrigue of 1502 DR. Captain Rethnor is rumored to be a proxy for a [Bregan D'aerthe](../../20-Factions/bregan-daerthe/summary.md) (drow) backer; [Jarlaxle Baenre's](../../20-Factions/bregan-daerthe/people/jarlaxle-baenre.md) hand is in Luskan as much as it is in Waterdeep.
 
 For the city itself see [30-Places/sword-coast/luskan/](../../30-Places/sword-coast/luskan/README.md).
 

@@ -17,5 +17,4 @@ The chapel and reading-pulpit are open to any quiet visitor. The arcane congrega
 
 ## See also
 
-- [the green-masquerade](../../../../10-Setting/cosmology/fey-courts/green-masquerade.md)
-- [aldon-glass.md](../../../../90-Stubs/people/aldon-glass.md) — the Master of the Ledger.
+- [The Green Masquerade](../../../../10-Setting/cosmology/fey-courts/green-masquerade.md) — Aldon Glass (Master of the Ledger) is named here.

@@ -13,7 +13,7 @@ A real chartered confederation, distinct from the informal [Sword Coast Hansa](s
 
 - **Holds the chair from Waterdeep.** The Open Lord coordinates Alliance diplomacy and convenes member representatives. Member cities each retain full sovereignty.
 - **Coordinates fleet patrols.** Member navies — Waterdhavian, Baldur's-Gate-aligned (informally), Neverwinter — patrol the **Sword Coast Run** between major ports, enforce anti-piracy mandates, and project force into contested waters when in concert. The 1498 DR victory at Asavir's Channel that broke Bloodwave's Black Flag Fleet was the Alliance's high-water mark of the decade.
-- **Issues membership as currency.** A seat in the Alliance is the difference between being inside the system that runs the North and being outside it. **Luskan**'s pursuit of a seat — through Jarlaxle Baenre's Bregan D'aerthe brokering — is the live political question of 1502 DR; **Neverember of Neverwinter** opposes it because dilution of his vote is the price.
+- **Issues membership as currency.** A seat in the Alliance is the difference between being inside the system that runs the North and being outside it. **Luskan**'s pursuit of a seat — through [Jarlaxle Baenre's](../../20-Factions/bregan-daerthe/people/jarlaxle-baenre.md) [Bregan D'aerthe](../../20-Factions/bregan-daerthe/summary.md) brokering — is the live political question of 1502 DR; **Neverember of Neverwinter** opposes it because dilution of his vote is the price.
 
 ## What it doesn't do
 

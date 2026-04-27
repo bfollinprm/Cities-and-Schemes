@@ -12,6 +12,8 @@ The political structure of the Feywild as it touches the Sword Coast. Three cour
 - [titania.md](titania.md) — The Summer Queen; sovereign of the Seelie.
 - [senaliesse.md](senaliesse.md) — Titania's living palace.
 - [aurelia-thorne.md](aurelia-thorne.md) — Reveler of the Green Masquerade ("Northwind"); eyewitness to the Howling Masks.
+- [lady-duskrose.md](lady-duskrose.md) — Half-elf enchantress; the Green Masquerade's public Unseelie contact.
+- [queen-of-air-and-darkness.md](queen-of-air-and-darkness.md) — Sovereign of the Unseelie; speaks only through her duke.
 
 ## See also
 

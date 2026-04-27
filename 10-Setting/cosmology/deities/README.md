@@ -8,4 +8,5 @@ Stub-sized handles for the gods and archfiends the dossier names. Entries are sh
 - [bhaal.md](bhaal.md) — Lord of Murder; sewer-altar death cult patron.
 - [lathander.md](lathander.md) — Morninglord; goddess-figure of dawn and renewal; appears in iconography (stained glass at Dweomerheart Hall).
 - [mystra.md](mystra.md) — Goddess of magic; her withdrawal during the Second Sundering diminished Laeral's Chosen-of-Mystra power.
+- [shar.md](shar.md) — Lady of Loss, Mistress of the Night; patron of the Silent Shroud.
 - [torm.md](torm.md) — God of duty and self-sacrifice; clergy ground the Hellrider militia in New Elturel.

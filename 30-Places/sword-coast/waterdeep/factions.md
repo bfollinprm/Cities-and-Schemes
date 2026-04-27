@@ -14,15 +14,17 @@ Cross-link table only. Faction prose lives in [`20-Factions/`](../../../20-Facti
 | --- | --- |
 | [Lords' Alliance](../../../10-Setting/polities/lords-alliance.md) | Formal political/military confederation; chaired from here. See [governance.md](governance.md). |
 | [Waterdhavian Kontor](../../../20-Factions/waterdhavian-kontor/summary.md) | Home institution. The Splendid Yard in Baldur's Gate is *their* outpost, not the other way around. |
-| [Harpers](../../../20-Factions/harpers/summary.md) | Major hub. Local council of "Wise Owls" — Lord Vescaras Ammakyl (spymaster), Lady Remallia Haventree (cells coordinator). Primary target: Zhentarim. |
+| [Harpers](../../../20-Factions/harpers/summary.md) | Major hub. Local council of "Wise Owls" — [Lord Vescaras Ammakyl](../../../20-Factions/harpers/people/vescaras-ammakyl.md) (spymaster), [Lady Remallia Haventree](../../../20-Factions/harpers/people/remallia-haventree.md) (cells coordinator). Primary target: Zhentarim. |
 
 ## Government and the Veiled
 
 | Faction | Role |
 | --- | --- |
 | [Masked Lords](../../../20-Factions/masked-lords/summary.md) | Anonymous council of ≥12 ruling in disguise; one murdered several others in 1491 DR. **[Corylus Thann](../../../20-Factions/masked-lords/people/corylus-thann.md)** and **[Jelenn Urmbrusk](../../../20-Factions/masked-lords/people/jelenn-urmbrusk.md)** currently blackmailed by [Manshoon](../../../20-Factions/zhentarim/people/manshoon.md). |
-| Open Lord ([Laeral Silverhand](../../../20-Factions/masked-lords/people/laeral-silverhand.md)) | Public executive; magic diminished post-[Sundering](../../../10-Setting/cosmology/sundering.md). |
+| Open Lord ([Laeral Silverhand](../../../20-Factions/masked-lords/people/laeral-silverhand.md)) | Public executive; magic diminished post-[Sundering](../../../10-Setting/cosmology/sundering.md). Supreme commander of the [City Watch](../../../20-Factions/city-watch/summary.md) and [City Guard](../../../20-Factions/city-guard/summary.md). |
 | Blackstaff ([Vajra Safahr](../../../20-Factions/masked-lords/people/vajra-safahr.md)) | Lord Mage; commands **Force Grey**. Estranged from the Open Lord; runs unsanctioned missions. |
+| [City Watch](../../../20-Factions/city-watch/summary.md) | Public-facing police; walking patrols across all wards; outmatched in the Shadow War. |
+| [City Guard](../../../20-Factions/city-guard/summary.md) | Standing military; walls, gates, and harbor wall. Garrisoned at [Castle Waterdeep](castle-ward/castle-waterdeep/README.md). |
 | Magisters | Black-robed judiciary, appointed by the Masked Lords. |
 
 ## Underworld — the Shadow War
@@ -52,7 +54,7 @@ See [character.md](character.md) for the Great Game's tier structure.
 
 | Faction | Role |
 | --- | --- |
-| Bregan D'aerthe | Drow mercenary company under **Jarlaxle Baenre**, fronting as the **Sea Maidens Faire**. Goal: recover Vault-of-Dragons gold to buy [Luskan](../luskan.md) a Lords' Alliance seat. Pragmatist; allies with anyone whose interests align. |
+| [Bregan D'aerthe](../../../20-Factions/bregan-daerthe/summary.md) | Drow mercenary company under **[Jarlaxle Baenre](../../../20-Factions/bregan-daerthe/people/jarlaxle-baenre.md)**, fronting as the **[Sea Maidens Faire](../../../20-Factions/bregan-daerthe/associations/sea-maidens-faire.md)**. Goal: recover [Vault of Dragons](vault-of-dragons.md) gold to buy [Luskan](../luskan.md) a Lords' Alliance seat. Pragmatist; allies with anyone whose interests align. |
 
 ## See also
 

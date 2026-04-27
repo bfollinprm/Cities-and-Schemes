@@ -24,7 +24,7 @@ By **week 7**, Needle is gone. dm-notes commit to a fate: he has been **kidnappe
 
 Public-facing, the Interim Management Board accuses him of fleeing libel charges; the [Harpers](../../harpers/summary.md) sweep [Western Gate](../../western-gate-trading-company/summary.md) warehouses; the [Bibliophile](../../bibliophile/summary.md) corners the resale market on the insurance-fraud edition.
 
-The route in is a three-way standoff at Tumbledown's gates between Tilly Falkenrath ([Harpers](../../harpers/summary.md)), [Silas the Eel](../../river-rats/summary.md) (Guild), and [Old Man Hemlock](../../gravekeepers/summary.md) — the party must mediate to enter. At the climax: choose between **securing the smuggled grain** for Basilisk Gate or **pushing for The Keeper's intel and the Patriar blood-money ledger.** They cannot have both.
+The route in is a three-way standoff at Tumbledown's gates between [Tilly Falkenrath](../../harpers/people/tilly-falkenrath.md) ([Harpers](../../harpers/summary.md)), [Silas the Eel](../../river-rats/summary.md) (Guild), and [Old Man Hemlock](../../gravekeepers/summary.md) — the party must mediate to enter. At the climax: choose between **securing the smuggled grain** for Basilisk Gate or **pushing for The Keeper's intel and the Patriar blood-money ledger.** They cannot have both.
 
 ## Hooks for the party
 

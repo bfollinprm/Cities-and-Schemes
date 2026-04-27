@@ -58,6 +58,9 @@ The **Coast Way** and the **Trade Way** are the great north–south arteries; th
 - [ardeep-forest.md](ardeep-forest.md) — close old forest south of Waterdeep; weirwood circle and Lady of Twilight; an active Feywild crossing.
 - [misty-forest.md](misty-forest.md) — woodland east of Daggerford; Feywild crossing turned uncanny under Far Realm pressure.
 - [neverwinter-wood.md](neverwinter-wood.md) — vast wood east of Neverwinter; opens onto the eladrin city of New Sharandar.
+- [cloud-peaks.md](cloud-peaks.md) — mountain range marking the southern boundary of the Sword Coast.
+- [high-forest.md](high-forest.md) — vast ancient woodland east of the coast; Seelie stronghold and Far Realm canary.
+- [laughing-hollow.md](laughing-hollow.md) — fey-touched glade near Daggerford; pixies and wild elves under an ancient fey prince.
 
 ## Neighbors and adjacent dossiers
 

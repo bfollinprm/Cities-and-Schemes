@@ -6,3 +6,4 @@ Beholder-led criminal empire under Waterdeep — slave trade, Black Lilly addict
 
 - [summary.md](summary.md) — Faction overview: ideology, methods, Shadow War.
 - [people/](people/) — Named figures: xanathar, nihiloor.
+- [associations/](associations/) — Guild assets: black-lilly.

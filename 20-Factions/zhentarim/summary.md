@@ -33,7 +33,7 @@ The local network is overseen by the cunning trader **Roah Moonglow**. The organ
 
 ## At Sword Coast scale
 
-The Black Network's largest line of business is **sea-borne smuggling**. In Luskan it fronts the **Red Dragon Trading Post** and runs the city's biggest gunpowder ring; Zhent cutters work the Sword Coast Run with hidden swivels and multiple flag-sets. Mainland-side, agents ferry contraband across the Chionthar to bypass the Gate's inspectors. Bregan D'aerthe and the Hosttower Brotherhood actively contest Zhent influence in Luskan. See [30-Places/sword-coast/luskan/](../../30-Places/sword-coast/luskan/README.md).
+The Black Network's largest line of business is **sea-borne smuggling**. In Luskan it fronts the **Red Dragon Trading Post** and runs the city's biggest gunpowder ring; Zhent cutters work the Sword Coast Run with hidden swivels and multiple flag-sets. Mainland-side, agents ferry contraband across the Chionthar to bypass the Gate's inspectors. [Bregan D'aerthe](../bregan-daerthe/summary.md) and the Hosttower Brotherhood actively contest Zhent influence in Luskan. See [30-Places/sword-coast/luskan/](../../30-Places/sword-coast/luskan/README.md).
 
 ## See also
 

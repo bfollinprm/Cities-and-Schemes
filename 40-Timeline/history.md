@@ -15,7 +15,7 @@ A **Far Realm incursion** broke through during the [Green Masquerade's](../10-Se
 
 - A **Star Spawn** infiltrated the ball wearing the guise of a guest (one Lord Marlin, a minor noble — found half-eaten of mask and otherwise vanished); attacked a maid in the side hall.
 - The ballroom mirrors briefly showed an alien forest under a bruised purple sky; a telepathic voice spoke a single word: *"Hungry…"*
-- Two infiltrators were revealed by chandelier-magnified noon-light; **Lord Fox**, **Lady Duskrose**, **[Aurelia "Northwind" Thorne](../10-Setting/cosmology/fey-courts/aurelia-thorne.md)**, and a half-elf bard from Evereska held the line.
+- Two infiltrators were revealed by chandelier-magnified noon-light; **Lord Fox**, **[Lady Duskrose](../10-Setting/cosmology/fey-courts/lady-duskrose.md)**, **[Aurelia "Northwind" Thorne](../10-Setting/cosmology/fey-courts/aurelia-thorne.md)**, and a half-elf bard from Evereska held the line.
 - An **eladrin knight in green armor** came through the [Lathander](../10-Setting/cosmology/deities/lathander.md) stained-glass window on a gale of blossoms and sealed the breach. The smaller fleeing forms of the first creature were dispatched in the next room.
 - **Master Aldon Glass** entered the incident in the **Ledger of Favors** as evidence — *not* as a debt, the first such entry in living memory.
 
