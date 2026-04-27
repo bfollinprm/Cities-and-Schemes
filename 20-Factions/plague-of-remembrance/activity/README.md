@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — plant-evidence-of-a-refugee-murder-plot.
 - [week_2/](week_2/) — silence-and-slander.
 - [week_3/](week_3/) — a-new-vector.
+- [week_4/](week_4/) — the-rot-from-within.

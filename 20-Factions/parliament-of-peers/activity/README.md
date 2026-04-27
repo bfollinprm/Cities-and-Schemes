@@ -6,3 +6,4 @@ Ongoing actions, organized by in-game week.
 
 - [week_0/](week_0/) — debate-the-refugee-relief-act.
 - [week_3/](week_3/) — vote-of-no-confidence.
+- [week_4/](week_4/) — a-debate-of-the-deaf.

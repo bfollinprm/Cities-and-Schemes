@@ -22,7 +22,8 @@ Life is a debt to death; murder is the audit. The cult holds that Bhaal's resurr
 
 - Consecration of sewer altars with the blood of "nobodies" — most recently a homeless man taken from a Heapside alley.
 - Public murders staged to frame other factions: Outer-City killings near the Basilisk Gate initially blamed on the Free Traders.
-- Manor-row ambushes against Watch patrols. A recent attempt left a ritual dagger behind — the [Watch](../watch/summary.md)'s first concrete evidence of the cult's resurgence.
+- Manor-row ambushes against Watch patrols. A recent attempt left a ritual dagger behind — the [Watch](../watch/summary.md)'s first concrete evidence of the cult's resurgence; [a second dagger was dropped during a failed Manorborn ambush in week 4](activity/week_4/an-offering-in-the-dark.md).
+- **Hidden sewer temple beneath Tumbledown.** Discovered and logged in week 4 by [the Gravekeepers](../gravekeepers/activity/week_4/the-source-of-the-sickness.md): four sewer altars, the cult's sigil on the keystone. The location is now in three faction registries (Watch, Hellriders, Harpers); the cell does not yet know it has been compromised.
 - Botched murder of a [Flaming Fist](../flaming-fist/summary.md) informant; he survived and reported the attack.
 - Operates from the Undercity sewers; an attempt to relocate the sanctum to **Hamhock's Slaughterhouse** in Sow's Foot was briefly scattered when ritual blood drew a butchers' mob.
 - Routed polluted Chionthar floodwater into the Tumbledown crypts to break the [Gravekeepers](../gravekeepers/summary.md)' wards (the "Corrupted Tide").

@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — organize-a-protest-at-wyrms-crossing.
 - [week_2/](week_2/) — the-interrogation.
 - [week_3/](week_3/) — the-negotiations-price.
+- [week_4/](week_4/) — the-call-to-arms.

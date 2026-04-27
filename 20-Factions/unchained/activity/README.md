@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — begin-investigating-psychic-echoes.
 - [week_2/](week_2/) — a-profitable-exercise.
 - [week_3/](week_3/) — an-honorable-contract.
+- [week_4/](week_4/) — an-honorable-march.

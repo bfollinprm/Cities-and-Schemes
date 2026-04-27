@@ -20,7 +20,7 @@ Clerics, paladins, and lay grave-tenders organized in patrol-teams of five. Heml
 - **Patrols** of Tumbledown and the wider cemetery network — grave robbers, smugglers, and undead.
 - **Cleansing rituals** — a recent attempt was interrupted by a wraith; the Gravekeepers destroyed the creature but lost a key warding stone.
 - **Discreet neutralization** of undead manifestations before they cause public alarm.
-- **Pattern-mapping** of sewer-entrance manifestations led to a hidden Bhaalist temple in the Undercity beneath Tumbledown.
+- **Pattern-mapping** of sewer-entrance manifestations led to [a hidden Bhaalist temple in the Undercity beneath Tumbledown](activity/week_4/the-source-of-the-sickness.md), discovered and logged in week 4 — four sewer altars, the cult's sigil on the keystone. Location filed up to the Watch, the Hellriders, and a Harper contact; no engagement.
 - **Corpse-caravan** — Hemlock moved the cult's stockpile of consecrated dead to the Cliffside Cemetery in silence.
 - **The Cliffside Consecration** — a massive in-progress ritual to create a perimeter of consecrated undead guardians against Bhaalist incursion.
 - A Bhaalist sabotage tainted Hemlock's holy water with necrotic residue, costing weeks of preparation.

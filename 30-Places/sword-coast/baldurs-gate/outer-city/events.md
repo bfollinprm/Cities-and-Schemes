@@ -145,6 +145,36 @@ description: What happened in the [Outer City](README.md) districts by in-game w
 
 - **Gravekeepers map necromantic seepage.** [Old Man Hemlock's](../../../../20-Factions/gravekeepers/people/hemlock.md) keepers cluster recent undead manifestations to Lower City sewer entrances and old Plague-Father lab sites. See [activity](../../../../20-Factions/gravekeepers/activity/week_3/a-pattern-in-the-rot.md).
 
+## Week 4
+
+### Wyrm's Rock
+
+- **Marshal Flint formally welcomes the K'liir contingent.** [Commander K'laar's](../../../../20-Factions/unchained/people/k-laar.md) disciplined githyanki phalanx is welcomed onto the fortress walls in dress regalia; **Wyrm's Rock has changed meaning** — the Fist's old fortress is now the city's load-bearing fear-symbol. See [Flaming Fist activity](../../../../20-Factions/flaming-fist/activity/week_4/an-alliance-of-steel-and-silver.md), [Unchained — An Honorable March](../../../../20-Factions/unchained/activity/week_4/an-honorable-march.md).
+- **Smiths' Company forge-services offer rebuffed.** [Master Tor-keg Silverhand's](../../../../20-Factions/wc-smiths-armorers/people/tor-keg-silverhand.md) discount-services proposal is read as condescension; K'laar dismisses him from the audience hall, and the Smiths land on the githyanki contempt list. See [activity](../../../../20-Factions/wc-smiths-armorers/activity/week_4/an-astral-bargain.md).
+- **Wyrm's Rock interior maps quietly sold to mercenary command.** [Nansi Gretta](../../../../20-Factions/bibliophile/people/nansi-gretta.md) acquires fortress floor plans through a sympathetic Cartographers' clerk and sells the package to the Eastway mercenary commander. See [Bibliophile activity](../../../../20-Factions/bibliophile/activity/week_4/the-price-of-strategy.md), [Cartographers — Playing Both Sides](../../../../20-Factions/wc-cartographers-surveyors/activity/week_4/playing-both-sides.md).
+- **Patriar bloc's Loyalty Fund pays Fist enlisted ranks at the gate.** [Lord Corin Durinbold's](../../../../20-Factions/peerage-of-blood/people/corin-durinbold.md) Heritage-red ribbon "morale bonus" reaches every barracks pouch by Tendays-eve. See [activity](../../../../20-Factions/patriar-heritage-society/activity/week_4/the-loyalty-fund.md).
+
+### Wyrm's Crossing
+
+- **Sodality scrying censers go permanent.** [Lorroakan's](../../../../20-Factions/wc-sorcerous-sodality/people/lorroakan.md) installation upgrades [the week-2 trace-arcane sensors](../../../../20-Factions/wc-sorcerous-sodality/activity/week_2/trace-the-arcane-signature.md) to always-on scrying censers tied to the central registry. See [activity](../../../../20-Factions/wc-sorcerous-sodality/activity/week_4/the-scrying-censors.md).
+- **Githyanki phalanx march, public.** K'laar's contingent crosses the bridge in full astral battle gear from the K'liir camp to Wyrm's Rock. See [activity](../../../../20-Factions/unchained/activity/week_4/an-honorable-march.md).
+
+### New Elturel
+
+- **Hellrider call to arms.** [High Watcher Alena](../../../../20-Factions/hellriders-of-new-elturel/people/high-watcher-alena.md) issues the formal call from the High Rider's Stand parade ground; refugees are organized into militia brigades; [Jaredith](../../../../20-Factions/hellriders-of-new-elturel/people/jaredith-heartsong.md) drills them dawn and dusk; [Lyra Sunstone](../../../../20-Factions/hellriders-of-new-elturel/people/lyra-sunstone.md), restored, signs requisitions for steel. See [activity](../../../../20-Factions/hellriders-of-new-elturel/activity/week_4/the-call-to-arms.md).
+- **Reaper attempt on the Ember at Phoenix Gate fails.** [The Collector's](../../../../20-Factions/takers-of-the-tithe/people/the-collector.md) Reaper is mobbed by Alfira's followers and taken into Hellrider custody alive. See [activity](../../../../20-Factions/takers-of-the-tithe/activity/week_4/the-reapers-gambit.md).
+- **A martyr's sermon at the Phoenix Gate.** [The Ember (Alfira)](../../../../20-Factions/followers-of-the-phoenix/people/the-ember.md) turns the failed assassination into the most-attended sermon of her ministry; Phoenix congregation and Hellrider militia are visibly the same crowd by sundown. See [activity](../../../../20-Factions/followers-of-the-phoenix/activity/week_4/a-martyrs-sermon.md).
+- **Plague of Remembrance turns a Hellrider officer.** [Lady Vhage](../../../../20-Factions/plague-of-remembrance/people/emmeline-vhage.md) recruits a disillusioned officer bitter over [the collapsed citizenship negotiations](../../../../20-Factions/hellriders-of-new-elturel/activity/week_3/the-negotiations-price.md); the cell now has an ear inside the command tent. See [activity](../../../../20-Factions/plague-of-remembrance/activity/week_4/the-rot-from-within.md).
+
+### Rivington
+
+- **Iron Throne front company exposed.** [The Anonymous Throne's](../../../../20-Factions/iron-throne/people/the-anonymous-throne.md) Rivington Recovery Group is leaked to the Baldur's Mouth and outed as a former-Iron-Throne front; both the Fist and the Guild file the address for surveillance. See [activity](../../../../20-Factions/iron-throne/activity/week_4/the-rivington-recovery-group.md).
+- **Waterdhavian Kontor formally closes the party's recruitment file.** [Factor Mornwood](../../../../20-Factions/waterdhavian-kontor/people/elara-mornwood.md) gives up after [last week's failed contact](../../../../20-Factions/waterdhavian-kontor/activity/week_3/an-offer-of-patronage.md); the party returns from the Feywild this week with no Lords' Alliance leverage waiting for them. See [activity](../../../../20-Factions/waterdhavian-kontor/activity/week_4/a-closed-file.md).
+
+### Tumbledown and Floodway
+
+- **Gravekeepers descend into the Bhaalist temple.** [Old Man Hemlock's](../../../../20-Factions/gravekeepers/people/hemlock.md) keepers follow [last week's necromantic-seepage map](../../../../20-Factions/gravekeepers/activity/week_3/a-pattern-in-the-rot.md) into the sewers under Tumbledown and find a hidden Bhaalist temple — four sewer altars, the cult's sigil on the keystone. The location is logged with the Watch, the Hellriders, and a Harper contact. See [Gravekeepers activity](../../../../20-Factions/gravekeepers/activity/week_4/the-source-of-the-sickness.md), [Cult — An Offering in the Dark](../../../../20-Factions/cult-of-the-returning-lord/activity/week_4/an-offering-in-the-dark.md).
+
 ## See also
 
 - [README.md](README.md) — Outer City overview.

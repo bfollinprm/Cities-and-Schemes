@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — blockade-the-basilisk-gate.
 - [week_2/](week_2/) — dig-in-for-the-siege.
 - [week_3/](week_3/) — press-the-advantage.
+- [week_4/](week_4/) — digging-in.

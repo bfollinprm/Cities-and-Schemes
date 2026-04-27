@@ -18,3 +18,4 @@ description: Bidirectional mapping between session number and in-game week.
 | [9](session_9/README.md) | 2 | 2025-09-08 | Mother Nocturne's recruitment; the Ember and Jaredith end the protest; level 4. |
 | [10](session_10/README.md) | 3 | 2025-09-15 | Escape the Fist warrant; the Circus of the Last Days; mirror-tent fey bargains; force the Feywild portal. |
 | [11](session_11/README.md) | 3 | 2025-09-22 | Feywild glade; Lucretius's three riddles; Lyra's memory restored; the Shard of the First Scribe. |
+| _(no session)_ | 4 | _(skipped)_ | Feywild time dilation: party absent from the Material Plane for week 4. See [40-Timeline/week_4/events.md](../40-Timeline/week_4/events.md). |

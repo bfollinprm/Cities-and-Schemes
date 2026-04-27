@@ -8,3 +8,4 @@ Ongoing actions, organized by in-game week.
 - [week_1/](week_1/) — sell-the-hlath-estate-to-an-ally.
 - [week_2/](week_2/) — the-propaganda-war.
 - [week_3/](week_3/) — identify-the-assassins-patron.
+- [week_4/](week_4/) — hostile-takeover.
