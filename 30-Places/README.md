@@ -8,4 +8,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the geographic layout and depth conve
 
 ### Regions
 
-- [sword-coast/](sword-coast/) — The macro-region containing the campaign's primary cities. Currently scaffolded for Waterdeep's Sea Ward; full ingest pending.
+- [sword-coast/](sword-coast/README.md) — Western Faerûn from Waterdeep to the Cloud Peaks; Lords' Alliance core.

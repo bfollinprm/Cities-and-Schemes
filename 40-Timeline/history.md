@@ -3,7 +3,7 @@ name: history
 description: Pre-week-0 dated events. World-visible fidelity only; deeper detail belongs in faction activity/ and place events.md.
 ---
 
-# History
+# History — Pre-Week-0 Events
 
 Dated events that occurred *before* week 0 (indeterminate spring 1502 DR; see [calendar.md](calendar.md)). Listed newest-first.
 
@@ -31,7 +31,30 @@ Titania convened the [Court of Stars](../10-Setting/cosmology/fey-courts/court-o
 
 The bards have begun calling this conclave the **"Conclave of Mirrors,"** for the moment when each court came face-to-face with its rival and saw equally terrified eyes staring back.
 
+## c. 1491 DR — The Shadow War begins
+
+- **The Masked Lord Murders.** A faction inside the [Masked Lords of Waterdeep](../10-Setting/polities/waterdeep-government.md) assassinates nearly half the council in a coup attempt. Plot foiled; council paranoia institutionalized.
+- **The Zhentarim Schism.** A clone of Manshoon arrives in Waterdeep and fractures the Black Network; the **Shadow War** with the Xanathar Guild begins. ([Waterdeep — Factions](../30-Places/sword-coast/waterdeep/factions.md))
+
+## c. 1489 DR — Neverember ousted; Laeral ascends
+
+Open Lord **Dagult Neverember** forced out for corruption; **Laeral Silverhand** reluctantly takes the title at the Masked Lords' request.
+
+## c. 1482–1487 DR — The Second Sundering
+
+Cosmic rebalancing; Mystra withdraws. Laeral Silverhand's Chosen-of-Mystra power is permanently diminished — concealed since.
+
+## Older — Foundational Waterdhavian events
+
+- **1314 DR — The Lords' Alliance founded.** Waterdeep establishes the confederation of northern powers; cements its position as political center of the Sword Coast North.
+- **1273 DR — The Lords' Rule revived.** Lords Baeron and Shilarn Silmaeril restore the Masked Lords system, which has held continuously since.
+- **1256 DR — Guildmasters' Folly.** Ahghairon dies; the Guildmasters seize the city; their corrupt rule is overthrown. Origin of the Lords-vs-Guilds tension.
+- **1248 DR — Nobility formalized.** The Lords grant the eighty-five noble houses the rights to bear arms and maintain private armies up to seventy soldiers.
+- **1032 DR — Ahghairon establishes the Lords' Rule.** Warlord Raurlor proclaims an empire and is slain by the mage Ahghairon, who founds the anonymous Masked Lords council. Foundational political act.
+- **936 DR — Founding of Waterdeep.** Town established; grew from Nimoar's Hold.
+
 ## See also
 
 - [calendar.md](calendar.md) — week-0 anchor and DR conventions.
 - [../10-Setting/cosmology/far-realm.md](../10-Setting/cosmology/far-realm.md) — the threat behind both 1501 events.
+- [../30-Places/sword-coast/waterdeep/history.md](../30-Places/sword-coast/waterdeep/history.md) — Waterdeep-specific city memory.

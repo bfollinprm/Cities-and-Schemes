@@ -40,4 +40,5 @@ The cell uses the [Waterdhavian Kontor](../waterdhavian-kontor/summary.md)'s **S
 ## See also
 
 - ["The Nightingale"](people/the-nightingale.md) — cell leader.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `faction-quests.xlsx`.
+- [Waterdeep — Factions](../../30-Places/sword-coast/waterdeep/factions.md) — the Waterdeep cell's "Wise Owls" (Vescaras Ammakyl, Remallia Haventree) and stance against the Zhentarim.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `faction-quests.xlsx`; `dossier-waterdeep-1502-dr-a-city-of-veiled-threats.docx`.
