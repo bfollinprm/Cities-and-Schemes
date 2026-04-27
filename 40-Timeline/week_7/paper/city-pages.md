@@ -1,0 +1,22 @@
+---
+name: week-7-paper-city-pages
+description: District-by-district reporting from the Restoration Issue.
+---
+
+# City pages — Restoration Issue
+
+- **[Counting House](../../../30-Places/sword-coast/baldurs-gate/lower-city/counting-house.md).** [Master Theronius Goldhand of the Goldsmiths walked outside auditors and Parliamentarians through the city's emergency gold reserves](../../../20-Factions/wc-goldsmiths-jewelers/activity/week_7/the-public-assay.md) in the public reading room. *The vaults were as the Master attested.* Bankruptcy rumors are without foundation.
+- **[Counting House](../../../30-Places/sword-coast/baldurs-gate/lower-city/counting-house.md).** [The Peerage of Coin voted unanimously to expand liveried Sembian guard at every patriar bank and Counting House door](../../../20-Factions/peerage-of-coin/activity/week_7/private-armies.md). *The Fist's resources are needed elsewhere; this paper applauds the Peerage's prudence.*
+- **[Crimson Draughts, Brampton](../../../30-Places/sword-coast/baldurs-gate/lower-city/brampton.md).** [Master Phineas Droog of the Alchemists has restricted his antidote inventory to the Archduke's Sembian quartermasters](../../../20-Factions/wc-alchemists-apothecaries/activity/week_7/the-antidote-monopoly.md) following the discovery of Zhentarim adulterants in unregulated ale. Civilians experiencing symptoms are referred to the Watchful Shield Shrine.
+- **Eastway barracks.** [A small disturbance among contracted Sembian field mercenaries](../../../20-Factions/wc-vintners-brewers/activity/week_7/the-dry-riot.md) — characterized by this paper as a *rogue mercenary outburst* — was attributed to a Vintners' supply gap and resolved within a single evening. The proprietor of the affected establishment has been compensated.
+- **[Basilisk Gate](../../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-bend-market.md).** Free Trader pickets [continue to obstruct the lawful flow of supply](../../../20-Factions/circle-of-the-inner-grove/activity/week_7/vine-barricades.md) into the Outer City; a recent reinforcement of the barricade with druidic flora has rendered the position theatrically picturesque and operationally unhelpful. *The blockade is now a self-imposed siege.*
+- **[Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md).** [Matron Saltwind's Fishmongers' militia continues to patrol the breakwater](../../../20-Factions/wc-fishmongers/activity/week_7/the-harbor-toll.md) and assess a small fee on independent skiffs in support of waterway security. Readers are urged to register their vessels promptly.
+- **[Gray Harbour](../../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md).** Consul Vorlamin Athar of the Amnian Kontor [has published a new river-traffic schedule](../../../20-Factions/amnian-kontor/activity/week_7/consolidate-river-control.md) for shipping above the harbor. The schedule is available at the Gold-Gable Hall by appointment.
+- **[Phoenix Gate, New Elturel](../../../30-Places/sword-coast/baldurs-gate/outer-city/new-elturel.md).** [Construction at the new temple proceeds](../../../20-Factions/followers-of-the-phoenix/activity/week_7/the-saints-respite.md) under the supervision of one Jaredith Heartsong, formerly of the Hellriders. The folk-saint Alfira is reported convalescing privately following an illness.
+- **[High Hall](../../../30-Places/sword-coast/baldurs-gate/upper-city/the-wide.md).** [The Peerage of Blood filed a motion this Twoday](../../../20-Factions/peerage-of-blood/activity/week_7/the-ultimatum-to-the-duke.md) requesting the Archduke's resignation; the motion failed by four votes. *The chamber's calmer hours prevailed.*
+- **[The Wide, Upper City](../../../30-Places/sword-coast/baldurs-gate/upper-city/the-wide.md).** [Factor Elara Mornwood of the Splendid Yard met with High Watcher Alena](../../../20-Factions/waterdhavian-kontor/activity/week_7/the-diplomatic-immunity.md) at the Yard's annexe over the matter of Lords' Alliance grain. The Splendid Yard's diplomatic standing is regrettably exceeding its commercial mandate.
+- **Manorborn.** Trapped within the [interior gate lockdown](../../../20-Factions/watch/activity/week_6/the-gate-lockdown.md), [several minor noble households have filed disorderly-conduct complaints](../../../20-Factions/watch/activity/week_7/the-gilded-cage-riots.md) against the Watch. Negotiations between the householders and the Watch Captain's office continue.
+
+## See also
+
+- [README.md](README.md) — masthead and front page.
