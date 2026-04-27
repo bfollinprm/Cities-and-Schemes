@@ -5,3 +5,4 @@ Semi-secret balance-keepers gathering intelligence and subtly intervening agains
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: the-nightingale.
