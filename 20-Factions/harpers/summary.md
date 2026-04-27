@@ -37,8 +37,12 @@ The cell uses the [Waterdhavian Kontor](../waterdhavian-kontor/summary.md)'s **S
 
 **Hooks.** A planted agent inside the [Worshipful Company of Masons & Sculptors](../wc-masons-sculptors/summary.md) was identified and turned without his knowledge — fed misinformation by Master Borin Stonehand. Randal Evenwood's attempt to flip a clerk inside Archduke Silvershield's organization was a counter-intelligence trap; he is now burned. A back-channel meeting at the Singing Lute to broker compromise between moderates was leaked and published in a rival pamphlet, discrediting the participants.
 
+## At Sword Coast scale
+
+Harper presence is **continuous along the coast** — pigeon and gull post, sympathetic captains, planted navigators. A Harper brokered the Tethyrian privateer arrival at **Asavir's Channel** (1498 DR) that helped the Alliance break Bloodwave. **Ruathym** is the only closed Northlander isle that tolerates known Harpers. A 1501 DR Harper missive flagged unusual tides at the **Purple Rocks** — possibly Ascarle stirring. See [30-Places/sword-coast/ruathym/](../../30-Places/sword-coast/ruathym/README.md) and [30-Places/sword-coast/purple-rocks.md](../../30-Places/sword-coast/purple-rocks.md).
+
 ## See also
 
 - ["The Nightingale"](people/the-nightingale.md) — cell leader.
 - [Waterdeep — Factions](../../30-Places/sword-coast/waterdeep/factions.md) — the Waterdeep cell's "Wise Owls" (Vescaras Ammakyl, Remallia Haventree) and stance against the Zhentarim.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `faction-quests.xlsx`; `dossier-waterdeep-1502-dr-a-city-of-veiled-threats.docx`.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `faction-quests.xlsx`; `dossier-waterdeep-1502-dr-a-city-of-veiled-threats.docx`; `dossier-sea-of-swords.md` (Asavir's Channel; Ruathym; Kraken Society).
