@@ -1,24 +1,39 @@
+---
+name: setting-contributing
+description: Layout convention for the Setting folder.
+---
+
 # Contributing — Setting
 
 The Setting folder holds *evergreen* setting matter — cosmic structure, planar geography, regional concepts, and macro-political bodies — kept distinct from the **physical** geography in `30-Places/` and the **acting** organizations in `20-Factions/`.
 
-## The four splits
+## Layout
 
 ```
 cosmology/      # planar physics, cosmic powers, fey courts, the Weave, the Far Realm
   realms/       # non-Material planes treated as places (Feywild, Shadowfell, etc.)
-regions/        # the *concept* of a region (the Sword Coast as a setting, not a map)
-polities/       # kingdom- and alliance-level powers (Lords' Alliance, Sembia, Amn)
+history/        # dated world-visible events; chronology lives in 40-Timeline
+polities/       # alliance-, kingdom-, and city-government frameworks (Lords' Alliance, Sword Coast Hansa, Worshipful Company system)
+peoples/        # diasporas and demographic groups
+economy/        # cost-of-living and commercial reference
 ```
 
-Only create the subfolders you need; the four are presented together so every new entry has an obvious home.
+Only create the subfolders you need.
 
 ## What goes where
 
-- **cosmology/** — cosmic powers, planar physics, court structures of the immortal/extraplanar. Entities here are *not* factions in the campaign sense; they shape the world but don't usually act on the Sword Coast directly.
+- **cosmology/** — cosmic powers, planar physics, court structures of the immortal/extraplanar. Entities here shape the world but don't usually act on the Sword Coast directly.
 - **cosmology/realms/** — non-Material planes as *settings* (history, climate, who rules, what it costs to enter). If a single site within a realm matters as a *place*, it can also be linked from `30-Places/` once it intersects the Material Plane.
-- **regions/** — the Sword Coast (or another macro-region) as a *concept*: its history, its psyche, its sustained conflicts. Distinct from `30-Places/sword-coast/`, which holds the geography.
-- **polities/** — kingdom-tier powers and city-state governments. Their local embassies and trading houses live in `20-Factions/` (e.g. `amnian-kontor`).
+- **history/** — story-level analysis of dated events (causes, structure, consequences). The chronological index lives in `40-Timeline/`; this folder holds the *story*.
+- **polities/** — institutional frameworks: trade alliances, government systems, guild structures. Their local embassies and trading houses live in `20-Factions/` (e.g. `amnian-kontor`).
+- **peoples/** — diasporas and demographic groups whose identity, history, and politics span beyond a single place.
+- **economy/** — cost-of-living and commercial reference. The thematic *what money does in this world* belongs in `00-Campaign-Frame/`.
+
+## Boundary with neighbors
+
+- **40-Timeline/** owns the canonical chronology and per-week event files. `10-Setting/history/` holds the *story* of an event; `40-Timeline/` holds the *date* and the one-line summary.
+- **30-Places/** owns geography. Setting describes the institution; Places describes the building it occupies.
+- **20-Factions/** owns prose for a faction. Setting describes the *system* a faction belongs to (e.g., the Worshipful Company framework lives here; each WC's character lives in its faction folder).
 
 ## Cross-references
 
