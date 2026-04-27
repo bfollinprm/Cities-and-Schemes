@@ -33,9 +33,10 @@ A four-tier pyramid built on patronage:
 
 **Allies of convenience.** Working relationship with the [Hellriders of New Elturel](../hellriders-of-new-elturel/summary.md). Frequent client of the [Bibliophile](../bibliophile/summary.md). Maintains a smuggling-rivalry détente with the [Chionthar Consortium](../chionthar-consortium/summary.md) on the river.
 
-**Hooks.** Keene has authorized the Guild enforcer Vex to lead a public retaliation raid on the Velvet Hand. The Guild is currently sheltering a disgraced [WC Alchemists](../wc-alchemists-apothecaries/summary.md) apprentice who has offered three rare potion formulas in exchange for protection.
+**Hooks.** Keene has authorized the Guild enforcer Vex to lead a public retaliation raid on the Velvet Hand. The Guild is currently sheltering a disgraced [WC Alchemists](../wc-alchemists-apothecaries/summary.md) apprentice who has offered three rare potion formulas in exchange for protection. In week 1, Keene also dispatched her enforcer **Tusgront** to walk Brampton door-to-door reminding shopkeepers of Guild protection in the wake of the new [Velvet Hand](../zhentarim/activity/week_1/establish-the-velvet-hand-social-club.md) parlor — and a separate operative, [Vex](people/vex.md), began intaking the [party](../party/summary.md) as a deniable freelancer through a Rivington tavern, starting with a "trust-building" job to silence the nativist mason [Gareth](../wc-masons-sculptors/people/gareth.md).
 
 ## See also
 
 - [Astele "Nine-Fingers" Keene](people/astele-keene.md) — Guildmaster.
+- [Vex](people/vex.md) — mid-tier intake operative recruiting freelancers from Rivington.
 - Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `dossier-baldurs-gate-1502-dr-a-city-reborn.md` Chapter 6 ("The Guild Ascendant"); `faction-quests.xlsx`.

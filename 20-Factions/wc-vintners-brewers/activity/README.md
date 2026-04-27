@@ -5,3 +5,4 @@ Ongoing actions, organized by in-game week.
 ## Index
 
 - [week_0/](week_0/) — smash-a-moonshine-operation.
+- [week_1/](week_1/) — bribe-a-peerage-of-coin-member.

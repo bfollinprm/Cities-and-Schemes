@@ -1,9 +1,9 @@
 # Worshipful Company of Fishmongers
 
-Ancient guild controlling [Gray Harbour](../../30-Places/sword-coast/baldurs-gate/lower-city/gray-harbour.md) fishing fleets; food supply leverage.
+Ancient guild controlling Gray Harbour fishing fleets; food supply leverage.
 
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: marga-saltwind.
-- [activity/](activity/) — Ongoing actions by week (week_0).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1).

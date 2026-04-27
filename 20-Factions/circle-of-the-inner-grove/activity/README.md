@@ -5,3 +5,4 @@ Ongoing actions, organized by in-game week.
 ## Index
 
 - [week_0/](week_0/) — perform-a-ritual-of-warding.
+- [week_1/](week_1/) — ruin-a-log-shipment.
