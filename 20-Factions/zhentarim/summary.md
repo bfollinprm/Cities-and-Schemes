@@ -16,3 +16,5 @@ _(stub — fill from `raw-ingest/cloaks-and-conspiracies/factions.docx` and the 
 ## Hooks and Relationships
 
 ## See also
+
+- [Waterdeep — Factions](../../30-Places/sword-coast/waterdeep/factions.md) — the Doom Raiders (Davil Starsong, Skeemo Weirdbottle) vs. Manshoon's clone faction; the Shadow War. *Dossier-specific; consolidate here when the factions.docx pass lands.*

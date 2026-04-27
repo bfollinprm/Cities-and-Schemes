@@ -6,4 +6,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the geographic layout and depth conve
 
 ## Index
 
-_(empty — populate as places are added)_
+### Regions
+
+- [sword-coast/](sword-coast/README.md) — Western Faerûn from Waterdeep to the Cloud Peaks; Lords' Alliance core.
