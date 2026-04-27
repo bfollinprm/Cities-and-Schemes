@@ -99,6 +99,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [The Silent Shroud *(Shar)*](silent-shroud/summary.md) — Sharran cult seeking the lost sanctums of the Lady of Loss beneath the city.
 - [The Takers of the Tithe](takers-of-the-tithe/summary.md) — Reaper-cult assassins claiming master artisans as a 'tithe' to their patron.
 
+### Waterdhavian Guilds and Underworld
+
+- [Fellowship of Carters and Coachmen](fellowship-of-carters-and-coachmen/summary.md) — Waterdhavian cart-and-coach guild; one of two guilds that can halt the city's trade.
+- [Guild of Watermen](guild-of-watermen/summary.md) — Waterdhavian dock-labor guild; the other guild with the strike weapon.
+- [Xanathar Guild](xanathars-guild/summary.md) — Beholder-led criminal empire under Waterdeep; one half of the Shadow War with Manshoon's Zhentarim.
+
 ### Party
 
 - [The Party](party/summary.md) — The player characters.

@@ -32,4 +32,4 @@ The Lords share the field with two other blocs: the **eighty-five noble houses**
 
 ## Faction color (not yet first-class)
 
-Waterdeep-only factions absent from `faction-quests.xlsx`, kept as color until the campaign promotes one: [Xanathar's Guild](../../30-Places/sword-coast/waterdeep/xanathars-guild.md) (beholder-led criminal empire under the city, with a mind-flayer / intellect-devourer spy network), **Bregan D'aerthe** (Jarlaxle Baenre's drow company, fronting as the Sea Maidens Faire), and **House Cassalanter** (Throne-tier noble house, secret Asmodean cult). They drive the [Shadow War](../../30-Places/sword-coast/waterdeep/character.md).
+Waterdeep-only factions absent from `faction-quests.xlsx`, kept as color until the campaign promotes one: [Xanathar's Guild](../../20-Factions/xanathars-guild/summary.md) (beholder-led criminal empire under the city, with a mind-flayer / intellect-devourer spy network), **Bregan D'aerthe** (Jarlaxle Baenre's drow company, fronting as the Sea Maidens Faire), and **House Cassalanter** (Throne-tier noble house, secret Asmodean cult). They drive the [Shadow War](../../30-Places/sword-coast/waterdeep/character.md).

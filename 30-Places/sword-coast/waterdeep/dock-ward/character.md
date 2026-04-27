@@ -6,7 +6,7 @@ type: ward-character
 
 # Dock Ward — Character
 
-The Dock Ward is **Waterdeep's dangerous edge**. It is the oldest, dirtiest ward, the place sailors come ashore and smugglers move cargo, and the place where the **Shadow War** between the [Zhentarim](../../../../20-Factions/zhentarim/summary.md) and the [Xanathar Guild](../xanathars-guild.md) plays out openly. Squalid flophouse cots run **8 cp/night** — shared, unsanitary, with high risk of theft and violence — and a mug of common ale at any tavern is **4 cp**.
+The Dock Ward is **Waterdeep's dangerous edge**. It is the oldest, dirtiest ward, the place sailors come ashore and smugglers move cargo, and the place where the **Shadow War** between the [Zhentarim](../../../../20-Factions/zhentarim/summary.md) and the [Xanathar Guild](../../../../20-Factions/xanathars-guild/summary.md) plays out openly. Squalid flophouse cots run **8 cp/night** — shared, unsanitary, with high risk of theft and violence — and a mug of common ale at any tavern is **4 cp**.
 
 ## Atmosphere
 
@@ -34,4 +34,4 @@ The Dock Ward is also the city's primary **leak channel**. Cargo, people, inform
 ## See also
 
 - [../character.md](../character.md) — Criminal Cancer.
-- [../factions.md](../factions.md) — [Xanathar Guild](../xanathars-guild.md), Zhentarim factions.
+- [../factions.md](../factions.md) — [Xanathar Guild](../../../../20-Factions/xanathars-guild/summary.md), Zhentarim factions.

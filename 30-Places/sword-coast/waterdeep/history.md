@@ -28,7 +28,7 @@ Discrete dated events are listed in [40-Timeline/history.md](../../../40-Timelin
 - **c. 1482–1487 DR — Second Sundering.** Mystra's withdrawal cost Laeral Silverhand the bulk of her Chosen-of-Mystra power. She has concealed it for two decades.
 - **c. 1489 DR — Neverember ousted; Laeral ascends.** The Masked Lords forced Open Lord **Dagult Neverember** out of office for corruption (he had been selling noble titles to wealthy merchants, fueling the *new money / old money* schism), and reluctantly elevated Laeral.
 - **c. 1491 DR — The Masked Lord Murders.** A faction inside the Masked Lords assassinated nearly half the council in an attempted coup. The plot was foiled, but the council has not recovered: paranoia about any new concentration of power, including Laeral's, is institutional now.
-- **c. 1491 DR — The Zhentarim Schism.** A clone of **Manshoon** arrived in Waterdeep, fractured the Black Network (the local [Zhentarim](../../../20-Factions/zhentarim/summary.md) cell), and ignited the **Shadow War** with the [Xanathar Guild](xanathars-guild.md). The war still burns through the Dock and Trades Wards.
+- **c. 1491 DR — The Zhentarim Schism.** A clone of **Manshoon** arrived in Waterdeep, fractured the Black Network (the local [Zhentarim](../../../20-Factions/zhentarim/summary.md) cell), and ignited the **Shadow War** with the [Xanathar Guild](../../../20-Factions/xanathars-guild/summary.md). The war still burns through the Dock and Trades Wards.
 
 ## The present (1502 DR)
 

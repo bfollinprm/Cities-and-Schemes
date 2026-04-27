@@ -6,9 +6,9 @@ All 52 faction stubs have been triaged (issue #44). The folder is empty.
 
 - **6 promoted to new entries:**
   - *Lords' Alliance* → [10-Setting/polities/lords-alliance.md](../../10-Setting/polities/lords-alliance.md).
-  - *Xanathar Guild / Xanathar's Guild* → [30-Places/sword-coast/waterdeep/xanathars-guild.md](../../30-Places/sword-coast/waterdeep/xanathars-guild.md).
-  - *Guild of Watermen* → [30-Places/sword-coast/waterdeep/guild-of-watermen.md](../../30-Places/sword-coast/waterdeep/guild-of-watermen.md).
-  - *Fellowship of Carters and Coachmen* → [30-Places/sword-coast/waterdeep/fellowship-of-carters-and-coachmen.md](../../30-Places/sword-coast/waterdeep/fellowship-of-carters-and-coachmen.md).
+  - *Xanathar Guild / Xanathar's Guild* → [20-Factions/xanathars-guild/summary.md](../../20-Factions/xanathars-guild/summary.md).
+  - *Guild of Watermen* → [20-Factions/guild-of-watermen/summary.md](../../20-Factions/guild-of-watermen/summary.md).
+  - *Fellowship of Carters and Coachmen* → [20-Factions/fellowship-of-carters-and-coachmen/summary.md](../../20-Factions/fellowship-of-carters-and-coachmen/summary.md).
   - *Poisoners' Guild* → [20-Factions/poisoners-guild/summary.md](../../20-Factions/poisoners-guild/summary.md).
   - *Phoenix Pits* → [30-Places/sword-coast/baldurs-gate/outer-city/phoenix-pits.md](../../30-Places/sword-coast/baldurs-gate/outer-city/phoenix-pits.md).
 - **9 merged into existing entries** (references rewired in source prose):

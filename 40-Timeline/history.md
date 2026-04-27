@@ -42,7 +42,7 @@ The bards have begun calling this conclave the **"Conclave of Mirrors,"** for th
 ## c. 1491 DR — The Shadow War begins
 
 - **The Masked Lord Murders.** A faction inside the [Masked Lords of Waterdeep](../10-Setting/polities/waterdeep-government.md) assassinates nearly half the council in a coup attempt. Plot foiled; council paranoia institutionalized.
-- **The Zhentarim Schism.** A clone of Manshoon arrives in Waterdeep and fractures the Black Network (the [Zhentarim](../20-Factions/zhentarim/summary.md)); the **Shadow War** with the [Xanathar Guild](../30-Places/sword-coast/waterdeep/xanathars-guild.md) begins. See [Waterdeep — Factions](../30-Places/sword-coast/waterdeep/factions.md).
+- **The Zhentarim Schism.** A clone of Manshoon arrives in Waterdeep and fractures the Black Network (the [Zhentarim](../20-Factions/zhentarim/summary.md)); the **Shadow War** with the [Xanathar Guild](../20-Factions/xanathars-guild/summary.md) begins. See [Waterdeep — Factions](../30-Places/sword-coast/waterdeep/factions.md).
 
 ## c. 1489 DR — Neverember ousted; Laeral ascends
 

@@ -1,14 +1,13 @@
 ---
 name: fellowship-of-carters-and-coachmen
 description: Waterdhavian guild of cart drivers and coach drivers; controls overland intra-city haulage and can halt trade by stopping the carts.
-type: city-faction
 ---
 
 # The Fellowship of Carters and Coachmen
 
 A **Waterdhavian guild** of cart-drivers, drover-haulers, and coach-drivers — every wheeled load that moves between Trades Ward warehouses and the city gates, every noble carriage rented for the Great Game, every overland cargo run to Daggerford or the High Road forts. Chartered under Guild Law alongside the Worshipful trades.
 
-Counterpart in motion to the [Guild of Watermen](guild-of-watermen.md): the Watermen own the docks, the Fellowship owns the streets between the docks and everywhere else. Together, the two guilds are the dossier's named example of *guilds that can strangle the city through collective action*.
+Counterpart in motion to the [Guild of Watermen](../guild-of-watermen/summary.md): the Watermen own the docks, the Fellowship owns the streets between the docks and everywhere else. Together, the two guilds are the dossier's named example of *guilds that can strangle the city through collective action*.
 
 ## What they do
 
@@ -25,10 +24,10 @@ The Fellowship's strike threat is more *visible* than the Watermen's because it 
 
 - **High Road forts.** Laeral's new line of forts along the High Road needs Fellowship coachmen for routine resupply; the contract terms are a current negotiation.
 - **Artisan drain.** Drovers are quietly leaving south for the post-crisis Baldur's Gate hinterlands work — better wages, worse roads. Senior masters worry; junior masters celebrate the rising rates.
-- **Shadow War.** Cart routes pass through Dock Ward and Trades Ward chokepoints where the [Zhentarim](../../../20-Factions/zhentarim/summary.md) and the [Xanathar Guild](xanathars-guild.md) both want a cut.
+- **Shadow War.** Cart routes pass through Dock Ward and Trades Ward chokepoints where the [Zhentarim](../zhentarim/summary.md) and the [Xanathar Guild](../xanathars-guild/summary.md) both want a cut.
 
 ## See also
 
-- [guild-of-watermen.md](guild-of-watermen.md) — the dock-side counterpart.
-- [governance.md](governance.md) — Guild Law and the strike threat.
-- [trades-ward/character.md](trades-ward/character.md) — the guild's home ward.
+- [Guild of Watermen](../guild-of-watermen/summary.md) — the dock-side counterpart.
+- [Waterdeep — Governance](../../30-Places/sword-coast/waterdeep/governance.md) — Guild Law and the strike threat.
+- [Trades Ward](../../30-Places/sword-coast/waterdeep/trades-ward/character.md) — the guild's home ward.
