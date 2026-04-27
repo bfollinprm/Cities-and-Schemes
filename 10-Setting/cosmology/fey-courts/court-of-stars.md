@@ -13,7 +13,7 @@ The most recent Court of Stars was called in **1501 DR (Year of the Shining Myth
 
 ### Who came
 
-- The **Lords and Ladies of the Summer Court** in their resplendence; Titania presiding, **Lady Shandria of Astrazalian** at her side.
+- The **Lords and Ladies of the [Summer Court](seelie.md)** in their resplendence; Titania presiding, **Lady Shandria of Astrazalian** at her side.
 - The **dour nobles of the Gloaming and Winter courts** — the Queen of Air and Darkness was absent in person (she never leaves her midnight realm) but sent a **cold-eyed eladrin duke** to speak for her. **The Prince of Frost** attended in person.
 - A handful of **Wild Archfey** — proud and unbowed, arriving without heraldry. One ragged, moss-clad figure spoke the warning that has since defined the response: *"It has no name that tongues can safely speak. Name it not, lest it hear. But know… it hungers."*
 

@@ -6,7 +6,7 @@ type: ward
 
 # Dock Ward
 
-The oldest, dirtiest, and most dangerous ward in the city. A riotous, brawling place of smugglers, sailors, and criminals. The Watch patrols in **large, heavily armed groups** here, and for good reason. Primary battleground for the **Shadow War** — both the **Xanathar Guild** and the **Zhentarim** maintain hidden bases, safe houses, and informant networks among the populace.
+The oldest, dirtiest, and most dangerous ward in the city. A riotous, brawling place of smugglers, sailors, and criminals. The Watch patrols in **large, heavily armed groups** here, and for good reason. Primary battleground for the **Shadow War** — both the [Xanathar Guild](../xanathars-guild.md) and the [Zhentarim](../../../../20-Factions/zhentarim/summary.md) maintain hidden bases, safe houses, and informant networks among the populace.
 
 ## Index
 
@@ -15,4 +15,4 @@ The oldest, dirtiest, and most dangerous ward in the city. A riotous, brawling p
 ## See also
 
 - [../character.md](../character.md) — Criminal Cancer.
-- [../factions.md](../factions.md) — Xanathar Guild, Zhentarim factions.
+- [../factions.md](../factions.md) — [Xanathar Guild](../xanathars-guild.md), Zhentarim factions.

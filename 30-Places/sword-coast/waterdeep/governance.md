@@ -6,7 +6,7 @@ type: city-governance
 
 # Waterdeep — Governance (as the city sees it)
 
-The system itself — Open Lord, Masked Lords, Lords' Alliance node — lives in [10-Setting/polities/waterdeep-government.md](../../../10-Setting/polities/waterdeep-government.md). This file is the city's-eye view: the lived institutions a Waterdhavian touches.
+The system itself — Open Lord, Masked Lords, [Lords' Alliance](../../../10-Setting/polities/lords-alliance.md) node — lives in [10-Setting/polities/waterdeep-government.md](../../../10-Setting/polities/waterdeep-government.md). This file is the city's-eye view: the lived institutions a Waterdhavian touches.
 
 ## The Watch and the Guard
 
@@ -34,7 +34,7 @@ A growing reformist political movement, not yet a campaign faction. Argument: se
 
 ## The compromised seats
 
-Two Masked Lords, **Corylus Thann** and **Jelenn Urmbrusk**, are both blackmailed by Manshoon's Zhentarim — financial ruin and a lever, respectively. Manshoon already has votes inside the council, and no one in the council knows which votes those are.
+Two Masked Lords, **Corylus Thann** and **Jelenn Urmbrusk**, are both blackmailed by Manshoon's [Zhentarim](../../../20-Factions/zhentarim/summary.md) — financial ruin and a lever, respectively. Manshoon already has votes inside the council, and no one in the council knows which votes those are.
 
 ## See also
 

@@ -33,7 +33,7 @@ The cell uses the [Waterdhavian Kontor](../waterdhavian-kontor/summary.md)'s **S
 
 **Enemies.** Sworn enemies of the [Zhentarim](../zhentarim/summary.md) and the city's dark cults — [Cult of the Returning Lord](../cult-of-the-returning-lord/summary.md) (Bhaal), [Silent Shroud](../silent-shroud/summary.md) (Shar), and the secret cells under [Conspiracy Cells](../unveiled/summary.md). Wary of [Flaming Fist](../flaming-fist/summary.md) corruption and [Council of Four](../council-of-four/summary.md) overreach.
 
-**Allies of convenience.** Tactical alignment with the [Waterdhavian Kontor](../waterdhavian-kontor/summary.md) and Lords' Alliance interests. May find common cause with the [Circle of the Inner Grove](../circle-of-the-inner-grove/summary.md) on specific issues.
+**Allies of convenience.** Tactical alignment with the [Waterdhavian Kontor](../waterdhavian-kontor/summary.md) and [Lords' Alliance](../../10-Setting/polities/lords-alliance.md) interests. May find common cause with the [Circle of the Inner Grove](../circle-of-the-inner-grove/summary.md) on specific issues.
 
 **Hooks.** A planted agent inside the [Worshipful Company of Masons & Sculptors](../wc-masons-sculptors/summary.md) was identified and turned without his knowledge — fed misinformation by Master Borin Stonehand. Randal Evenwood's attempt to flip a clerk inside Archduke Silvershield's organization was a counter-intelligence trap; he is now burned. A back-channel meeting at the Singing Lute to broker compromise between moderates was leaked and published in a rival pamphlet, discrediting the participants.
 

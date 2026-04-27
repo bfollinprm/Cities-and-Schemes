@@ -12,13 +12,13 @@ Auto-generated proper-noun stubs. Each file is a one-line **stub** for a person,
 ## Counts
 
 - **people:** 238
-- **factions:** 52
+- **factions:** 0 *(triaged — see [factions/README.md](factions/README.md))*
 - **places:** 90
 - **unknown:** 67
 
 ## Subfolders
 
 - [people/](people/) — 238 stubs
-- [factions/](factions/) — 52 stubs
+- [factions/](factions/) — triaged; outcome summary in the folder README
 - [places/](places/) — 90 stubs
 - [unknown/](unknown/) — 67 stubs

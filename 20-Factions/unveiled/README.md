@@ -1,6 +1,6 @@
 # The Unveiled
 
-Conspiracy-paladin cell convinced the Absolute Crisis was a doppelganger false-flag.
+Conspiracy-paladin cell convinced the [Absolute Crisis](../../10-Setting/history/absolute-crisis.md) was a doppelganger false-flag.
 
 ## Index
 

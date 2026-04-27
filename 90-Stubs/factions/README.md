@@ -1,58 +1,16 @@
 # 90-Stubs/factions
 
-52 stub files in this folder. Each one represents a proper noun mentioned in the corpus that has no dedicated entry. Triage per the parent [README](../README.md).
+All 52 faction stubs have been triaged (issue #44). The folder is empty.
 
-## Index
+## Outcome
 
-- [A junior Chionthar Consortium member](a-junior-chionthar-consortium-member.md) — mentioned in 1 file(s)
-- [Absolute Crisis](absolute-crisis.md) — mentioned in 14 file(s)
-- [Aggressive Guild Wardens](aggressive-guild-wardens.md) — mentioned in 1 file(s)
-- [Alliance](alliance.md) — mentioned in 5 file(s)
-- [Black Network](black-network.md) — mentioned in 5 file(s)
-- [Both Harpers and Zhentarim](both-harpers-and-zhentarim.md) — mentioned in 1 file(s)
-- [Chapter](chapter.md) — mentioned in 2 file(s)
-- [Consortium Puff Piece](consortium-puff-piece.md) — mentioned in 2 file(s)
-- [Consortiums and Kontors](consortiums-and-kontors.md) — mentioned in 1 file(s)
-- [Court of Assistants](court-of-assistants.md) — mentioned in 14 file(s)
-- [Doom Raiders](doom-raiders.md) — mentioned in 3 file(s)
-- [Eladrin knights of the Summer Court](eladrin-knights-of-the-summer-court.md) — mentioned in 1 file(s)
-- [Exploiting the Flaming Fist](exploiting-the-flaming-fist.md) — mentioned in 1 file(s)
-- [Faction](faction.md) — mentioned in 55 file(s)
-- [Fellowship of Carters and Coachmen](fellowship-of-carters-and-coachmen.md) — mentioned in 2 file(s)
-- [Following the Council](following-the-council.md) — mentioned in 1 file(s)
-- [Foreign Kontors](foreign-kontors.md) — mentioned in 5 file(s)
-- [Foreign Kontors and Merchant Consortiums](foreign-kontors-and-merchant-consortiums.md) — mentioned in 1 file(s)
-- [Guild Lieutenant](guild-lieutenant.md) — mentioned in 1 file(s)
-- [Guild of Watermen](guild-of-watermen.md) — mentioned in 1 file(s)
-- [Guild Wardens](guild-wardens.md) — mentioned in 5 file(s)
-- [Guild's Lieutenants](guilds-lieutenants.md) — mentioned in 1 file(s)
-- [Konsortiums and Kontors](konsortiums-and-kontors.md) — mentioned in 1 file(s)
-- [Kontors and Consortiums](kontors-and-consortiums.md) — mentioned in 1 file(s)
-- [Lords' Alliance](lords-alliance.md) — mentioned in 13 file(s)
-- [Lords and Ladies of the Summer Court](lords-and-ladies-of-the-summer-court.md) — mentioned in 1 file(s)
-- [Manshoon's Zhentarim](manshoons-zhentarim.md) — mentioned in 6 file(s)
-- [Merchant Consortiums](merchant-consortiums.md) — mentioned in 6 file(s)
-- [Modern Black Network](modern-black-network.md) — mentioned in 1 file(s)
-- [Native Consortiums](native-consortiums.md) — mentioned in 2 file(s)
-- [Other Throne](other-throne.md) — mentioned in 1 file(s)
-- [Phoenix Pits](phoenix-pits.md) — mentioned in 2 file(s)
-- [Poisoners' Guild](poisoners-guild.md) — mentioned in 2 file(s)
-- [Public Factions](public-factions.md) — mentioned in 13 file(s)
-- [Remnant Costers](remnant-costers.md) — mentioned in 1 file(s)
-- [Secret Factions](secret-factions.md) — mentioned in 2 file(s)
-- [Societies](societies.md) — mentioned in 6 file(s)
-- [Sodality Investigators](sodality-investigators.md) — mentioned in 1 file(s)
-- [Summer Court](summer-court.md) — mentioned in 2 file(s)
-- [The Carnival of Whispers' Mister Smiles](the-carnival-of-whispers-mister-smiles.md) — mentioned in 1 file(s)
-- [The Fist's Githyanki](the-fists-githyanki.md) — mentioned in 1 file(s)
-- [The Guild Ascendant](the-guild-ascendant.md) — mentioned in 1 file(s)
-- [The Zhentarim Schism](the-zhentarim-schism.md) — mentioned in 2 file(s)
-- [Titania's Summer Court](titanias-summer-court.md) — mentioned in 1 file(s)
-- [Watch and Guard](watch-and-guard.md) — mentioned in 1 file(s)
-- [Watch Captain](watch-captain.md) — mentioned in 1 file(s)
-- [Whether the Alliance](whether-the-alliance.md) — mentioned in 1 file(s)
-- [Winter Court](winter-court.md) — mentioned in 1 file(s)
-- [Worshipful Companies](worshipful-companies.md) — mentioned in 7 file(s)
-- [Worshipful Company](worshipful-company.md) — mentioned in 4 file(s)
-- [Xanathar Guild](xanathar-guild.md) — mentioned in 7 file(s)
-- [Xanathar's Guild](xanathars-guild.md) — mentioned in 1 file(s)
+- **2 promoted to new entries:**
+  - *Lords' Alliance* → [10-Setting/polities/lords-alliance.md](../../10-Setting/polities/lords-alliance.md).
+  - *Xanathar Guild / Xanathar's Guild* → [30-Places/sword-coast/waterdeep/xanathars-guild.md](../../30-Places/sword-coast/waterdeep/xanathars-guild.md).
+- **9 merged into existing entries** (references rewired in source prose):
+  - *Absolute Crisis* → [10-Setting/history/absolute-crisis.md](../../10-Setting/history/absolute-crisis.md).
+  - *Black Network*, *Manshoon's Zhentarim*, *Doom Raiders*, *The Zhentarim Schism* → [20-Factions/zhentarim/summary.md](../../20-Factions/zhentarim/summary.md) and the city's [Waterdeep Factions table](../../30-Places/sword-coast/waterdeep/factions.md).
+  - *Summer Court*, *Titania's Summer Court*, *Lords and Ladies of the Summer Court*, *Eladrin knights of the Summer Court* → [10-Setting/cosmology/fey-courts/seelie.md](../../10-Setting/cosmology/fey-courts/seelie.md).
+  - *Winter Court* → [10-Setting/cosmology/fey-courts/unseelie.md](../../10-Setting/cosmology/fey-courts/unseelie.md).
+  - *Alliance* → folded into *Lords' Alliance* above.
+- **41 deleted as junk:** common-noun plurals (*Worshipful Companies*, *Foreign Kontors*, *Native Consortiums*, *Merchant Consortiums*, *Public Factions*, *Secret Factions*, *Societies*, *Remnant Costers*), section-header fragments (*Chapter*, *Faction*, *Worshipful Company*, *Court of Assistants*), generic role names (*Guild Wardens*, *Guild Lieutenant*, *Watch Captain*, *Sodality Investigators*), sentence fragments (*A junior Chionthar Consortium member*, *Both Harpers and Zhentarim*, *Following the Council*, *Whether the Alliance*, *Exploiting the Flaming Fist*, *Other Throne*, etc.), and a handful of low-traffic Waterdhavian sub-guilds (*Fellowship of Carters and Coachmen*, *Guild of Watermen*, *Poisoners' Guild*, *Phoenix Pits*) that did not warrant dedicated entries at this pass.

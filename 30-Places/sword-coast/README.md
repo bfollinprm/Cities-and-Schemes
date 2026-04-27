@@ -6,7 +6,7 @@ type: region
 
 # Sword Coast
 
-The western coast of Faerûn from Waterdeep south past Baldur's Gate to the Cloud Peaks, framed seaward by the **Sea of Swords**. Two political facts dominate the region: the **Lords' Alliance**, chaired from Waterdeep, and the informal **Sword Coast Hansa**, anchored on Baldur's Gate. The space between them — Daggerford, Beregost, the Western Heartlands — is where their interests overlap, compete, and trade.
+The western coast of Faerûn from Waterdeep south past Baldur's Gate to the Cloud Peaks, framed seaward by the **Sea of Swords**. Two political facts dominate the region: the [Lords' Alliance](../../10-Setting/polities/lords-alliance.md), chaired from Waterdeep, and the informal [Sword Coast Hansa](../../10-Setting/polities/sword-coast-hansa.md), anchored on Baldur's Gate. The space between them — Daggerford, Beregost, the Western Heartlands — is where their interests overlap, compete, and trade.
 
 The **Coast Way** and the **Trade Way** are the great north–south arteries; the **River Chionthar** drains the midsection to the sea at Baldur's Gate. Both roads and the river are now contested space — see Baldur's Gate's [hinterlands](baldurs-gate/hinterlands/README.md) for the local picture.
 

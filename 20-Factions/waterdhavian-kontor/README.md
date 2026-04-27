@@ -1,6 +1,6 @@
 # Waterdhavian Kontor *(aka The Splendid Yard)*
 
-Lords' Alliance embassy controlling trade in northern goods and magical items; espionage hub.
+[Lords' Alliance](../../10-Setting/polities/lords-alliance.md) embassy controlling trade in northern goods and magical items; espionage hub.
 
 ## Index
 

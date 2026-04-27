@@ -11,7 +11,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Amnian Kontor *(The Gold-Gable Hall)*](amnian-kontor/summary.md) — Slice of a mighty mercantile empire dominating Baldur's Gate through banking, debt, and southern luxuries.
 - [Lantaner Concession *(The Cogwork Quay)*](lantaner-concession/summary.md) — Secretive gnomish enclave with a state-sanctioned monopoly on smokepowder.
 - [Sembian Kontor *(The Iron Ledger)*](sembian-kontor/summary.md) — Ruthlessly utilitarian Sembian trading house brokering bulk goods and mercenary contracts.
-- [Waterdhavian Kontor *(The Splendid Yard)*](waterdhavian-kontor/summary.md) — Lords' Alliance embassy controlling trade in northern goods and magical items; espionage hub.
+- [Waterdhavian Kontor *(The Splendid Yard)*](waterdhavian-kontor/summary.md) — [Lords' Alliance](../10-Setting/polities/lords-alliance.md) embassy controlling trade in northern goods and magical items; espionage hub.
 
 ### Native Consortiums
 
@@ -84,7 +84,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Elturel Remembrance Society](elturel-remembrance-society/summary.md) — Elturian-survivor support group radicalized into hunting 'infernal' Baldurian merchants.
 - [The Purified](purified/summary.md) — Paranoid cell convinced Lantaner gnomes are pacifying the city through clockwork nano-organisms.
 - [Society of Baldurian Integrity](society-of-baldurian-integrity/summary.md) — Cultural-purity zealots warring against 'memetic contamination' from foreign art and architecture.
-- [The Unveiled](unveiled/summary.md) — Conspiracy-paladin cell convinced the Absolute Crisis was a doppelganger false-flag.
+- [The Unveiled](unveiled/summary.md) — Conspiracy-paladin cell convinced the [Absolute Crisis](../10-Setting/history/absolute-crisis.md) was a doppelganger false-flag.
 
 ### Cults
 

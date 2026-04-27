@@ -5,7 +5,7 @@ description: Sophisticated criminal syndicate evolved into the de facto governme
 
 # The Guild
 
-A sophisticated criminal syndicate that, in the decade since the Absolute Crisis, has become the indispensable political machine and de facto government for the Lower and Outer Cities. Run from the shadows by [Guildmaster Astele "Nine-Fingers" Keene](people/astele-keene.md).
+A sophisticated criminal syndicate that, in the decade since the [Absolute Crisis](../../10-Setting/history/absolute-crisis.md), has become the indispensable political machine and de facto government for the Lower and Outer Cities. Run from the shadows by [Guildmaster Astele "Nine-Fingers" Keene](people/astele-keene.md).
 
 ## Ideology
 
