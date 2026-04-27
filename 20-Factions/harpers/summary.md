@@ -44,5 +44,5 @@ Harper presence is **continuous along the coast** — pigeon and gull post, symp
 ## See also
 
 - ["The Nightingale"](people/the-nightingale.md) — cell leader.
-- [Waterdeep — Factions](../../30-Places/sword-coast/waterdeep/factions.md) — the Waterdeep cell's "Wise Owls" (Vescaras Ammakyl, Remallia Haventree) and stance against the Zhentarim.
+- [Waterdeep — Factions](../../30-Places/sword-coast/waterdeep/factions.md) — the Waterdeep cell's "Wise Owls" ([Vescaras Ammakyl](people/vescaras-ammakyl.md), [Remallia Haventree](people/remallia-haventree.md)) and stance against the Zhentarim.
 - Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Societies); `faction-quests.xlsx`; `dossier-waterdeep-1502-dr-a-city-of-veiled-threats.docx`; `dossier-sea-of-swords.md` (Asavir's Channel; Ruathym; Kraken Society).

@@ -10,3 +10,4 @@ Named figures of Waterdeep's anonymous council, plus its historical founders and
 - [vajra-safahr.md](vajra-safahr.md) — Blackstaff, Lord Mage, commander of Force Grey.
 - [corylus-thann.md](corylus-thann.md) — Masked Lord blackmailed by Manshoon.
 - [jelenn-urmbrusk.md](jelenn-urmbrusk.md) — Masked Lord blackmailed by Manshoon.
+- [khelben-arunsun.md](khelben-arunsun.md) — original Blackstaff; the office Vajra Safahr now holds.

@@ -10,9 +10,9 @@ The system itself — Open Lord, Masked Lords, [Lords' Alliance](../../../10-Set
 
 ## The Watch and the Guard
 
-Two parallel forces. The **City Watch** is the public-facing police — diligent, generally respected, walking patrols everywhere except the Field Ward (which they do not enter) and the Dock Ward (where they patrol in heavily armed groups). Ill-equipped to contain the Shadow War, and everyone knows it.
+Two parallel forces. The **[City Watch](../../../20-Factions/city-watch/summary.md)** is the public-facing police — diligent, generally respected, walking patrols everywhere except the Field Ward (which they do not enter) and the Dock Ward (where they patrol in heavily armed groups). Ill-equipped to contain the Shadow War, and everyone knows it.
 
-The **City Guard** is the standing military, garrisoned at Castle Waterdeep; the Open Lord is its supreme commander. They watch the gates and walls. They intervene at the Field Ward only to keep traffic flowing.
+The **[City Guard](../../../20-Factions/city-guard/summary.md)** is the standing military, garrisoned at [Castle Waterdeep](castle-ward/castle-waterdeep/README.md); the Open Lord is its supreme commander. They watch the gates and walls. They intervene at the Field Ward only to keep traffic flowing.
 
 The **Magisters** (black-robed) are appointed by the Masked Lords to interpret and enforce city law. They hold the courts.
 
@@ -22,7 +22,7 @@ In **Castle Ward**: the **Palace of Waterdeep** is the Open Lord's residence and
 
 ## Force Grey
 
-The city's elite reserve — adventurers and high-magic specialists led by the **Blackstaff** ([Vajra Safahr](../../../20-Factions/masked-lords/people/vajra-safahr.md)). Sworn to defend the city. Currently **detached** from the Open Lord's chain of command: Vajra runs sanctioned operations and unsanctioned ones, and Laeral's spies confirm she is doing so deliberately. In a major crisis, Force Grey may or may not answer the Open Lord's call. This is the single most dangerous fact about the city's defenses.
+The city's elite reserve — see [Force Grey](../../../20-Factions/force-grey/summary.md). Adventurers and high-magic specialists led by the **Blackstaff** ([Vajra Safahr](../../../20-Factions/masked-lords/people/vajra-safahr.md)). Sworn to defend the city. Currently **detached** from the Open Lord's chain of command: Vajra runs sanctioned operations and unsanctioned ones, and Laeral's spies confirm she is doing so deliberately. In a major crisis, Force Grey may or may not answer the Open Lord's call. This is the single most dangerous fact about the city's defenses.
 
 ## Guild Law
 

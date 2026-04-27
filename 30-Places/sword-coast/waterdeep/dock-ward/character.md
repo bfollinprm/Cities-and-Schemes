@@ -26,10 +26,10 @@ The Dock Ward is also the city's primary **leak channel**. Cargo, people, inform
 
 ## Who else operates here
 
-- **City Watch** — heavy presence, openly outmatched.
-- **City Guard** — does not police the ward, but maintains the harbor wall and the seaside gates.
-- **Harpers** — informant cells; Vescaras Ammakyl's spymaster network reaches in.
-- **Bregan D'aerthe** — Jarlaxle's Sea Maidens Faire docks here; covert drow ops touch the ward sporadically.
+- **[City Watch](../../../../20-Factions/city-watch/summary.md)** — heavy presence, openly outmatched.
+- **[City Guard](../../../../20-Factions/city-guard/summary.md)** — does not police the ward, but maintains the harbor wall and the seaside gates.
+- **[Harpers](../../../../20-Factions/harpers/summary.md)** — informant cells; [Vescaras Ammakyl's](../../../../20-Factions/harpers/people/vescaras-ammakyl.md) spymaster network reaches in.
+- **[Bregan D'aerthe](../../../../20-Factions/bregan-daerthe/summary.md)** — [Jarlaxle's](../../../../20-Factions/bregan-daerthe/people/jarlaxle-baenre.md) [Sea Maidens Faire](../../../../20-Factions/bregan-daerthe/associations/sea-maidens-faire.md) docks here; covert drow ops touch the ward sporadically.
 
 ## See also
 

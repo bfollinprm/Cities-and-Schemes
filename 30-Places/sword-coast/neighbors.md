@@ -34,7 +34,7 @@ The inland zone: caravan routes east of the **Trade Way** and the **Coast Way**,
 
 ## Below — the Underdark
 
-Mentioned for completeness. The Underdark surfaces at scattered points along the coast — most consequentially under **Luskan** (Ruins of Illusk) and beneath **Waterdeep** (the **Xanathar Guild** and the underbelly of the Shadow War). **Bregan D'aerthe** moves between the Underdark and the surface as a matter of course.
+Mentioned for completeness. The Underdark surfaces at scattered points along the coast — most consequentially under **Luskan** (Ruins of Illusk) and beneath **Waterdeep** (the [Xanathar Guild](../../20-Factions/xanathars-guild/summary.md) and the underbelly of the Shadow War). [Bregan D'aerthe](../../20-Factions/bregan-daerthe/summary.md) moves between the Underdark and the surface as a matter of course.
 
 ## Adjacent dossiers
 

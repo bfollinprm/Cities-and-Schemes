@@ -23,11 +23,11 @@ Baldur's Gate is not in the Lords' Alliance. The Splendid Yard ([Waterdhavian Ko
 
 ## Luskan — the Jarlaxle play
 
-Currently outside the Alliance and notorious for piracy and lawlessness. **Jarlaxle Baenre's** ambition is to recover the [Vault of Dragons](vault-of-dragons.md) gold and use it to buy [Luskan](../luskan/README.md) a legitimate Lords' Alliance seat — which would re-balance the North's voting bloc against rivals like Lord [Neverember](../../../20-Factions/masked-lords/people/dagult-neverember.md) of **Neverwinter**. Whether the Alliance accepts is an open political question; Laeral has not committed.
+Currently outside the Alliance and notorious for piracy and lawlessness. [Jarlaxle Baenre's](../../../20-Factions/bregan-daerthe/people/jarlaxle-baenre.md) ambition is to recover the [Vault of Dragons](vault-of-dragons.md) gold and use it to buy [Luskan](../luskan/README.md) a legitimate Lords' Alliance seat — which would re-balance the North's voting bloc against rivals like Lord [Neverember](../../../20-Factions/masked-lords/people/dagult-neverember.md) of **Neverwinter**. Whether the Alliance accepts is an open political question; Laeral has not committed.
 
 ## Neverwinter — the Neverember problem
 
-Held by **[Dagult Neverember](../../../20-Factions/masked-lords/people/dagult-neverember.md)** since his ouster from Waterdeep in ~1489 DR. He is still a sitting member of the Alliance through Neverwinter, and the bad blood is undisguised. Any Luskan accession would dilute his vote — which is why he opposes it and why Jarlaxle is pursuing it.
+Held by **[Dagult Neverember](../../../20-Factions/masked-lords/people/dagult-neverember.md)** since his ouster from Waterdeep in ~1489 DR. He is still a sitting member of the Alliance through Neverwinter, and the bad blood is undisguised. Any Luskan accession would dilute his vote — which is why he opposes it and why [Jarlaxle](../../../20-Factions/bregan-daerthe/people/jarlaxle-baenre.md) is pursuing it.
 
 ## The Sword Coast generally
 
@@ -35,5 +35,5 @@ For the regional fabric — sea lanes, polities outside the Alliance, demographi
 
 ## See also
 
-- [factions.md](factions.md) — the [Splendid Yard](../../../20-Factions/waterdhavian-kontor/summary.md) / Harpers / Bregan D'aerthe roles in this geography.
+- [factions.md](factions.md) — the [Splendid Yard](../../../20-Factions/waterdhavian-kontor/summary.md) / [Harpers](../../../20-Factions/harpers/summary.md) / [Bregan D'aerthe](../../../20-Factions/bregan-daerthe/summary.md) roles in this geography.
 - [character.md](character.md) — how the artisan drain feels in the Trades Ward.

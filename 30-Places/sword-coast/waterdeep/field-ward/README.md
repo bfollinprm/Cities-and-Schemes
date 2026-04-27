@@ -6,7 +6,7 @@ type: ward
 
 # Field Ward
 
-**Officially, the Field Ward does not exist.** In reality, it is the city's most dangerous and volatile area: an unincorporated slum in the former killing fields between the northern walls, grown from refugee camps and citizens too poor to pay city taxes. Muddy, lawless, no sewer system, no Watch patrols — only the **City Guard** watching from the walls, intervening only to keep traffic flowing through the gates.
+**Officially, the Field Ward does not exist.** In reality, it is the city's most dangerous and volatile area: an unincorporated slum in the former killing fields between the northern walls, grown from refugee camps and citizens too poor to pay city taxes. Muddy, lawless, no sewer system, no [Watch](../../../../20-Factions/city-watch/summary.md) patrols — only the [City Guard](../../../../20-Factions/city-guard/summary.md) watching from the walls, intervening only to keep traffic flowing through the gates.
 
 ## Index
 

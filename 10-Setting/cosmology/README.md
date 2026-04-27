@@ -10,3 +10,4 @@ The cosmic and planar scaffolding of the campaign: the courts of the immortal, t
 - [realms/](realms/) — Non-Material planes treated as places. Currently: the Feywild, plus Avernus and Toril.
 - [sundering.md](sundering.md) — The Second Sundering (c. 1482–1487 DR); cosmic event reshaping the Weave and the planar borders.
 - [vlaakith.md](vlaakith.md) — Lich-queen of the Githyanki Empire; planar antagonist of the Unchained.
+- [prince-orpheus.md](prince-orpheus.md) — Rebel Githyanki prince; the cause for which the Unchained encamp on the Material.

@@ -31,9 +31,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [The Masked Lords](masked-lords/summary.md) — Anonymous magical-helm council ruling Waterdeep since 1032 DR; two seats compromised by Manshoon.
 - [Waterdeep Noble Houses](waterdeep-noble-houses/summary.md) — The eighty-five noble houses; the Great Game; private armies up to seventy soldiers each.
 
-### Watch
+### Watch and Guard
 
-- [The Watch *(Upper City Watch)*](watch/summary.md) — Patriar-funded watch policing the Upper City; chronically stretched thin.
+- [The Watch *(Upper City Watch)*](watch/summary.md) — Patriar-funded watch policing Baldur's Gate's Upper City; chronically stretched thin.
+- [City Watch *(of Waterdeep)*](city-watch/summary.md) — Waterdeep's public-facing police; outmatched in the Shadow War.
+- [City Guard *(of Waterdeep)*](city-guard/summary.md) — Waterdeep's standing military; mans the walls and gates from Castle Waterdeep.
+- [Force Grey](force-grey/summary.md) — Waterdeep's elite reserve of adventurers and high-magic specialists, commanded by the Blackstaff.
 
 ### Worshipful Companies
 
@@ -49,6 +52,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Worshipful Company of Smiths & Armorers](wc-smiths-armorers/summary.md) — Guild forging arms and armor for the city's guards, soldiers, and adventurers.
 - [Sorcerous Sodality *(Sorcerous Sundries)*](wc-sorcerous-sodality/summary.md) — Reformed Sorcerous Sundries; regulates magical goods and licenses public spellcasting.
 - [Worshipful Company of Vintners & Brewers](wc-vintners-brewers/summary.md) — Guild controlling alcohol trade from cheap ale to imported wine; key to social life.
+
+### Wild Cards
+
+- [Bregan D'aerthe](bregan-daerthe/summary.md) — Drow mercenary company under Jarlaxle Baenre, fronting as the Sea Maidens Faire; chasing a Lords' Alliance seat for Luskan.
 
 ### Societies
 
@@ -104,6 +111,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [The Plague of Remembrance](plague-of-remembrance/summary.md) — Xenophobic death cult of Baldurian purists framing Elturian refugees to start a civil war.
 - [The Silent Shroud *(Shar)*](silent-shroud/summary.md) — Sharran cult seeking the lost sanctums of the Lady of Loss beneath the city.
 - [The Takers of the Tithe](takers-of-the-tithe/summary.md) — Reaper-cult assassins claiming master artisans as a 'tithe' to their patron.
+- [The Umberleen Unveiling](umberleen-unveiling/summary.md) — Apocalyptic Umberlee cult on the Baldur's Gate waterfront; standing antagonist of the Fishmongers.
 
 ### Party
 

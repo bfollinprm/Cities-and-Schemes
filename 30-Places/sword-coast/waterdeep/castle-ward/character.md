@@ -10,7 +10,7 @@ The Castle Ward is **where the city presents itself to itself**. The Palace, the
 
 ## Atmosphere
 
-Stately. Stone. Heraldry. Watch patrols are large, uniformed, and visibly drilled. The **City Guard** is stationed at Castle Waterdeep itself, and a citizen running afoul of the law is most likely to be tried by a black-robed **Magister** in this ward. Banners of the [Lords' Alliance](../../../../10-Setting/polities/lords-alliance.md) fly publicly; private bodyguards walk visibly armed. Modest inns charge **5 sp/night** (the **Yawning Portal**'s standing rate) — accessible to a careful adventurer, expensive for a laborer.
+Stately. Stone. Heraldry. [City Watch](../../../../20-Factions/city-watch/summary.md) patrols are large, uniformed, and visibly drilled. The [City Guard](../../../../20-Factions/city-guard/summary.md) is stationed at Castle Waterdeep itself, and a citizen running afoul of the law is most likely to be tried by a black-robed **Magister** in this ward. Banners of the [Lords' Alliance](../../../../10-Setting/polities/lords-alliance.md) fly publicly; private bodyguards walk visibly armed. Modest inns charge **5 sp/night** (the **Yawning Portal**'s standing rate) — accessible to a careful adventurer, expensive for a laborer.
 
 ## What happens here in 1502 DR
 
@@ -20,12 +20,12 @@ Stately. Stone. Heraldry. Watch patrols are large, uniformed, and visibly drille
 
 ## Faction layer
 
-Both [Harpers](../../../../20-Factions/harpers/summary.md) and [Zhentarim](../../../../20-Factions/zhentarim/summary.md) are described as "undoubtedly seeking to place agents and informants" close to the levers of power — that means the Castle Ward. The [Cassalanters](../../../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md) host functions here in their official Throne capacity; [Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) people work the Magisters and the secretariat. Force Grey's headquarters falls under the Blackstaff's authority somewhere within this ward; [Vajra Safahr's](../../../../20-Factions/masked-lords/people/vajra-safahr.md) strained relationship with [Laeral](../../../../20-Factions/masked-lords/people/laeral-silverhand.md) plays out in adjacent rooms of the same building.
+Both [Harpers](../../../../20-Factions/harpers/summary.md) and [Zhentarim](../../../../20-Factions/zhentarim/summary.md) are described as "undoubtedly seeking to place agents and informants" close to the levers of power — that means the Castle Ward. The [Cassalanters](../../../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md) host functions here in their official Throne capacity; [Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) people work the Magisters and the secretariat. [Force Grey's](../../../../20-Factions/force-grey/summary.md) headquarters falls under the Blackstaff's authority somewhere within this ward; [Vajra Safahr's](../../../../20-Factions/masked-lords/people/vajra-safahr.md) strained relationship with [Laeral](../../../../20-Factions/masked-lords/people/laeral-silverhand.md) plays out in adjacent rooms of the same building.
 
 ## Notable locations
 
 - **Palace of Waterdeep** — Open Lord's residence and the public face of government.
-- **Castle Waterdeep** — City Guard's fortress and the military spine of the city.
+- **Castle Waterdeep** — [City Guard's](../../../../20-Factions/city-guard/summary.md) fortress and the military spine of the city.
 - **Yawning Portal** — famed inn whose well descends into [Undermountain](../undermountain.md); the city's most dangerous tourist attraction.
 
 ## See also

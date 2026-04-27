@@ -13,7 +13,7 @@ What ideology survives is institutional inertia: keep the walls manned, the harb
 
 ## Membership
 
-Strict military hierarchy: **Marshal → Blazes → Flames → Manips → Fists** (privates). Morale is low; the force is chronically under-equipped on dwindling tax funding. Ambitious officers — notably **Blaze Liara Portyr** — navigate the political landscape for personal advantage. Headquarters at **[Wyrm's Rock](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-rock.md) Fortress**, an imposing reminder of how far they have fallen.
+Strict military hierarchy: **Marshal → Blazes → Flames → Manips → Fists** (privates). Morale is low; the force is chronically under-equipped on dwindling tax funding. Ambitious officers — notably **[Blaze Liara Portyr](people/liara-portyr.md)** — navigate the political landscape for personal advantage. Headquarters at **[Wyrm's Rock](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-rock.md) Fortress**, an imposing reminder of how far they have fallen.
 
 ## Methods
 

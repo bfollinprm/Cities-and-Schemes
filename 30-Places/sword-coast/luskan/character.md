@@ -45,7 +45,7 @@ Plenty of "black work": guarding a ship full of contraband to Neverwinter; muscl
 
 - Smugglers with serious cargo and the Captain-Court bribery budget.
 - Mercenaries willing to take Brotherhood contracts and survive the consequences.
-- Harpers and Bregan D'aerthe agents working the Kraken Society and Manshoon plays.
+- [Harpers](../../../20-Factions/harpers/summary.md) and [Bregan D'aerthe](../../../20-Factions/bregan-daerthe/summary.md) agents working the Kraken Society and Manshoon plays.
 - Captains running Mirabar ore who can stomach the Open Shore fees.
 
 ## Source

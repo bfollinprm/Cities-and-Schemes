@@ -37,7 +37,7 @@ Greater metropolitan population: in excess of one million; the walled city is fa
 
 ### City-spanning sites
 
-- [vault-of-dragons.md](vault-of-dragons.md) — half-mythic Lords' gold cache; Jarlaxle Baenre's current obsession.
+- [vault-of-dragons.md](vault-of-dragons.md) — half-mythic Lords' gold cache; [Jarlaxle Baenre's](../../../20-Factions/bregan-daerthe/people/jarlaxle-baenre.md) current obsession.
 
 ### See also (people and houses)
 

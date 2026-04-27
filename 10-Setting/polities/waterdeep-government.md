@@ -10,7 +10,7 @@ A **secretive oligarchy** designed by [Ahghairon](../../20-Factions/masked-lords
 
 ## The Open Lord
 
-Single public-facing executive, currently the archmage **[Laeral Silverhand](../../20-Factions/masked-lords/people/laeral-silverhand.md)** (Seven Sisters; Chosen of [Mystra](../cosmology/deities/mystra.md)). On paper, supreme commander of the **City Watch** and **City Guard**, First Ambassador, and Overmaster of the Guilds. In practice constrained: tradition gives the Open Lord's vote less weight in council, since the public role attracts lobbying — reinforced by the corrupt tenure of **[Dagult Neverember](../../20-Factions/masked-lords/people/dagult-neverember.md)**, ousted ~1489 DR. Laeral's magical powers are diminished post–[Second Sundering](../cosmology/sundering.md), a fact she conceals.
+Single public-facing executive, currently the archmage **[Laeral Silverhand](../../20-Factions/masked-lords/people/laeral-silverhand.md)** (Seven Sisters; Chosen of [Mystra](../cosmology/deities/mystra.md)). On paper, supreme commander of the [City Watch](../../20-Factions/city-watch/summary.md) and [City Guard](../../20-Factions/city-guard/summary.md), First Ambassador, and Overmaster of the Guilds. In practice constrained: tradition gives the Open Lord's vote less weight in council, since the public role attracts lobbying — reinforced by the corrupt tenure of **[Dagult Neverember](../../20-Factions/masked-lords/people/dagult-neverember.md)**, ousted ~1489 DR. Laeral's magical powers are diminished post–[Second Sundering](../cosmology/sundering.md), a fact she conceals.
 
 ## The Masked Lords
 
@@ -20,7 +20,7 @@ Two Masked Lords are presently compromised — **[Corylus Thann](../../20-Factio
 
 ## The Blackstaff and Force Grey
 
-The **Blackstaff** is Lord Mage of Waterdeep and commander of **Force Grey**, an elite company held in reserve for threats beyond the Watch. Currently **[Vajra Safahr](../../20-Factions/masked-lords/people/vajra-safahr.md)**, who carries the *Blackstaff* artifact (containing the soul of Khelben Arunsun, Laeral's late husband). Laeral and Vajra are estranged: Laeral covets the artifact and views Vajra as an "insecure child"; Vajra runs unsanctioned Force Grey missions outside Laeral's authority. The chain of command between executive and chief magical defender is effectively broken.
+The **Blackstaff** is Lord Mage of Waterdeep and commander of **[Force Grey](../../20-Factions/force-grey/summary.md)**, an elite company held in reserve for threats beyond the Watch. Currently **[Vajra Safahr](../../20-Factions/masked-lords/people/vajra-safahr.md)**, who carries the *Blackstaff* artifact (containing the soul of [Khelben Arunsun](../../20-Factions/masked-lords/people/khelben-arunsun.md), Laeral's late husband). Laeral and Vajra are estranged: Laeral covets the artifact and views Vajra as an "insecure child"; Vajra runs unsanctioned Force Grey missions outside Laeral's authority. The chain of command between executive and chief magical defender is effectively broken.
 
 ## Lords' Alliance node
 
@@ -32,4 +32,4 @@ The Lords share the field with two other blocs: the **eighty-five noble houses**
 
 ## Faction color (not yet first-class)
 
-Waterdeep-only factions absent from `faction-quests.xlsx`, kept as color until the campaign promotes one: [Xanathar's Guild](../../20-Factions/xanathars-guild/summary.md) (beholder-led criminal empire under the city, with a mind-flayer / intellect-devourer spy network), **Bregan D'aerthe** (Jarlaxle Baenre's drow company, fronting as the Sea Maidens Faire), and **[House Cassalanter](../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md)** (Throne-tier noble house, secret [Asmodean](../cosmology/deities/asmodeus.md) cult). They drive the [Shadow War](../../30-Places/sword-coast/waterdeep/character.md).
+Waterdeep-only factions absent from `faction-quests.xlsx`, kept as color until the campaign promotes one: [Xanathar's Guild](../../20-Factions/xanathars-guild/summary.md) (beholder-led criminal empire under the city, with a mind-flayer / intellect-devourer spy network), [Bregan D'aerthe](../../20-Factions/bregan-daerthe/summary.md) ([Jarlaxle Baenre's](../../20-Factions/bregan-daerthe/people/jarlaxle-baenre.md) drow company, fronting as the [Sea Maidens Faire](../../20-Factions/bregan-daerthe/associations/sea-maidens-faire.md)), and **[House Cassalanter](../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md)** (Throne-tier noble house, secret [Asmodean](../cosmology/deities/asmodeus.md) cult). They drive the [Shadow War](../../30-Places/sword-coast/waterdeep/character.md).
