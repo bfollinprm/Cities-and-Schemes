@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — silence-and-slander.
 - [week_3/](week_3/) — a-new-vector.
 - [week_4/](week_4/) — the-rot-from-within.
+- [week_5/](week_5/) — the-serpents-kiss.

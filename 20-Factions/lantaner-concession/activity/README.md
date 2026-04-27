@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — acquire-arcane-effluent.
 - [week_3/](week_3/) — build-the-prototype.
 - [week_4/](week_4/) — salvage-operation.
+- [week_5/](week_5/) — the-foundry-scavenge.

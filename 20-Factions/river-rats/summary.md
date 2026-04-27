@@ -32,6 +32,8 @@ A loose, tight-knit crew of sewer-divers, fence-runners, and small-boat smuggler
 
 **Hooks.** The smuggling run for the patriar's son **failed** — Flaming Fist patrols ambushed the crew on an anonymous tip. The boy was captured; Silas escaped; the family is now scandalized. A subsequent run for a powerful patriar's wine shipment ran into a **ghoul ambush** in the [Undercellar](../../30-Places/sword-coast/baldurs-gate/undercity/the-undercellar.md), costing half the crew. Conversely, exploiting the Flaming Fist's distraction with the [Wyrm's Crossing](../../30-Places/sword-coast/baldurs-gate/outer-city/wyrms-crossing.md) crisis, the Rats successfully moved a major contraband shipment up the Chionthar — the so-called "Blockade Boom" — netting the Guild a windfall.
 
+**Vex killed; Silas's standing collapses (week 5).** [Silas takes a smokepowder courier contract from an unnamed buyer](activity/week_5/the-smokepowder-run.md) and discovers, in a sewer firefight under Brampton, that the buyer is the [Guild itself](../guild/activity/week_5/prepare-the-retaliation.md) and the cargo is the seized Zhentarim cache. **Vex Corvin is killed in the encounter**; the party intercepts the shipment for the Guild; Silas escapes with no smokepowder, no crew worth the name, and a Guildmaster who has lost an enforcer on his run. **Silas's standing inside the Guild collapses;** the River-Rats are no longer a trusted Guild asset.
+
 ## See also
 
 - [Silas the Eel](people/silas-the-eel.md) — leader.

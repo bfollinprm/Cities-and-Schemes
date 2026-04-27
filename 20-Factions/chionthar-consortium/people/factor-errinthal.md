@@ -13,6 +13,14 @@ Errinthal intercepts the party leaving the High Rider's Stand in [Session 3](../
 
 He does not mention the **second cart**. The propaganda materials Elia stole are, as far as Errinthal knows, still inside the warehouse. They are not. (See [be-co-opted-by-the-chionthar-consortium](../../party/activity/week_1/be-co-opted-by-the-chionthar-consortium.md).)
 
+## The Coster Hall trap (week 5)
+
+When the party walks into Coster Hall in [Session 18](../../../50-Sessions/session_18/player_summary.md) intending to ultimatum him with [Vex's stolen Guild intel](../../party/activity/week_5/kill-vex-and-loot-her-office.md), Errinthal has [Ettvard Needle](../../baldurs-mouth/people/ettvard-needle.md) of the *Baldur's Mouth* already in the office. Before the party can produce a single document, he stands and "thanks" them on the record for volunteering to escort a relief caravan to the Basilisk Gate. **Refusing in front of the press makes them villains.** Kaelan slips a note re: sensitive information; Errinthal answers under his breath: *"a story is nothing without proof."* The party becomes [his smiling escort](../../party/activity/week_5/errinthals-relief-caravan-pr-coup.md) for a luxury caravan that, after Finneas turns it into a free feast at Eastway, becomes the front-page *Baldur's Mouth* PR coup he wanted all along.
+
+## Errinthal's shadow funding (week 5)
+
+Intelligence the party uncovers in [Session 20](../../../50-Sessions/session_20/player_summary.md): Errinthal has been quietly funding ['Mad' Meggan](../../free-traders-of-the-outskirts/people/mad-meggan.md) to keep [the blockade alive indefinitely](../activity/week_5/secure-the-riverward-approaches.md). He doesn't want her to win — he wants stalemate. Every week of dead land trade is another week his river monopoly compounds. Meggan does not yet know the party knows.
+
 ## See also
 
 - [Chionthar Consortium](../summary.md)

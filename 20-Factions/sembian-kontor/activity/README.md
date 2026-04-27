@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — test-the-barricade.
 - [week_3/](week_3/) — the-alternate-route.
 - [week_4/](week_4/) — legitimizing-the-contract.
+- [week_5/](week_5/) — arming-the-aggressors.

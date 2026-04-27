@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — amplify-the-despair.
 - [week_3/](week_3/) — whispers-from-the-stone.
 - [week_4/](week_4/) — the-first-tithe.
+- [week_5/](week_5/) — monitor-the-tithe.

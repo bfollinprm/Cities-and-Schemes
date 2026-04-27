@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — harvest-the-echo.
 - [week_3/](week_3/) — scour-the-slums-for-a-spark.
 - [week_4/](week_4/) — the-sundered-vault.
+- [week_5/](week_5/) — the-psychic-miasma.

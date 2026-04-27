@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — exploit-the-idle.
 - [week_3/](week_3/) — a-port-in-the-storm.
 - [week_4/](week_4/) — a-crane-malfunction.
+- [week_5/](week_5/) — profiting-from-chaos.

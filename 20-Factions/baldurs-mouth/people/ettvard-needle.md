@@ -17,6 +17,7 @@ Lurid and populist. Masthead reads ***"We Hear All, And Print Most of It!"*** He
 - **Refuses to print** when the source is unprovable and the target is well-connected — Mad' Meggan's cultist-captive bombshell, the Harper attempt to leak Archduke dirt.
 - **Smells blood.** When Marshal Flint defied the Archduke, Needle assigned reporters to dig dirt and sell to the highest bidder.
 - **Recruits adventurers as stringers.** *The Siege Edition* enlisted [Kaelan](kaelan.md) to deliver the Consortium insurance-fraud investigation.
+- **Stage management for hire.** In [week 5](../activity/week_5/the-githyanki-garrison.md) Needle co-stages the [Coster Hall ambush](../../party/activity/week_5/errinthals-relief-caravan-pr-coup.md) with [Factor Errinthal](../../chionthar-consortium/people/factor-errinthal.md) — taking notes in the office as the Factor traps the party with a "thank you on the record" for escorting the relief caravan. The next week he gives [Kaelan the press pass / Credential of Balduran](../../party/activity/week_5/install-finneas-as-guild-boss-of-rivington.md) — Needle profits from setting both sides of the same scene.
 
 ## The kidnapping (canonical)
 

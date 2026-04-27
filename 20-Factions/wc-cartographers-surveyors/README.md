@@ -6,4 +6,4 @@ Essential guild whose seal is required on every land deed; closely guarded sewer
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [people/](people/) — Named figures: elias-vancroft.
-- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3, week_4).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2, week_3, week_4, week_5).

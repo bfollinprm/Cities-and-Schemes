@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — a-charity-of-spite.
 - [week_3/](week_3/) — filibuster-the-mercenary-act.
 - [week_4/](week_4/) — the-letter-of-censure.
+- [week_5/](week_5/) — the-propaganda-campaign.

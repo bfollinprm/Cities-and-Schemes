@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — the-grieving-genius.
 - [week_3/](week_3/) — learn-the-muses-song.
 - [week_4/](week_4/) — the-reapers-gambit.
+- [week_5/](week_5/) — silence-the-loose-end.

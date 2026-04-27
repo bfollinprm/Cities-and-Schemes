@@ -9,3 +9,4 @@ Ongoing actions, organized by in-game week.
 - [week_2/](week_2/) — sell-the-solution-to-fear.
 - [week_3/](week_3/) — a-light-in-the-storm.
 - [week_4/](week_4/) — eyes-in-the-dark.
+- [week_5/](week_5/) — severing-ties.

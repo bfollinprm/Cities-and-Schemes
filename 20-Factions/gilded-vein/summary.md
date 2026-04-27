@@ -13,7 +13,7 @@ The Vein worships "Axiom," a personified god of pure, logical commerce. The city
 
 ## Membership
 
-Disenfranchised financial agents, disgraced patriar accountants, and alchemists obsessed with the symbolic power of gold. Recruitment is among the analytically gifted and emotionally hollowed-out. A disgruntled former member recently sold the locations of three primary safehouses to the [Chionthar Consortium](../chionthar-consortium/summary.md), and Consortium thugs raided them — scattering leadership into the Undercity and burning through accumulated funds.
+Disenfranchised financial agents, disgraced patriar accountants, and alchemists obsessed with the symbolic power of gold. Recruitment is among the analytically gifted and emotionally hollowed-out. A disgruntled former member recently sold the locations of three primary safehouses to the [Chionthar Consortium](../chionthar-consortium/summary.md), and Consortium thugs raided them — scattering leadership into the Undercity and burning through accumulated funds. After [the failed go-to-ground order in week 5](activity/week_5/go-to-ground.md), **the cult has no safehouses, no funds, and no leadership in proximity to one another** — Thorne is in flight in a forgotten Undercity vault with a blackened ledger; two senior cell-leaders are dead in their beds.
 
 ## Methods
 
