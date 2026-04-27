@@ -5,3 +5,4 @@ Remnant coster led by the Oberon family; bankrolling adventurers in hopes of res
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: oberon-family.

@@ -5,3 +5,4 @@ Resurgent diabolist secret society recruiting dispossessed patriars in exchange 
 ## Index
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
+- [people/](people/) — Named figures: the-recruiter.
