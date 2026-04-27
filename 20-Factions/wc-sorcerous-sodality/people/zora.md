@@ -17,3 +17,5 @@ A fugitive mage. Subject of an open case file with the [Worshipful Company of So
 
 - [Sorcerous Sodality](../summary.md).
 - [Lorroakan](lorroakan.md).
+- Canonical NPC dossier: [Zora — Plague of Remembrance](../../plague-of-remembrance/people/zora.md).
+- [Sodality — Trace the Arcane Signature (week 2)](../activity/week_2/trace-the-arcane-signature.md).

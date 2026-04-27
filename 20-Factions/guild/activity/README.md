@@ -6,3 +6,4 @@ Ongoing actions, organized by in-game week.
 
 - [week_0/](week_0/) — organize-winter-relief-for-new-elturel.
 - [week_1/](week_1/) — reinforce-bramptons-loyalty.
+- [week_2/](week_2/) — retaliation-on-the-river.

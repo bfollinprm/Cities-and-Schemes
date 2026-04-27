@@ -5,3 +5,4 @@ Named figures.
 ## Index
 
 - [emmeline-vhage.md](emmeline-vhage.md)
+- [zora.md](zora.md)

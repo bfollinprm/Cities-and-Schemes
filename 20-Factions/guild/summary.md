@@ -35,6 +35,8 @@ A four-tier pyramid built on patronage:
 
 **Hooks.** Keene has authorized the Guild enforcer Vex to lead a public retaliation raid on the Velvet Hand. The Guild is currently sheltering a disgraced [WC Alchemists](../wc-alchemists-apothecaries/summary.md) apprentice who has offered three rare potion formulas in exchange for protection. In week 1, Keene also dispatched her enforcer **Tusgront** to walk Brampton door-to-door reminding shopkeepers of Guild protection in the wake of the new [Velvet Hand](../zhentarim/activity/week_1/establish-the-velvet-hand-social-club.md) parlor — and a separate operative, [Vex](people/vex.md), began intaking the [party](../party/summary.md) as a deniable freelancer through a Rivington tavern, starting with a "trust-building" job to silence the nativist mason [Gareth](../wc-masons-sculptors/people/gareth.md).
 
+In **week 2**, after the [party sold the captured cultist to Mad Meggan](../party/activity/week_2/sell-the-cultist-to-mad-meggan.md) and refused to surrender the **Whispering Stone**, Keene authorized [Vex to retrieve the stone by any means necessary](activity/week_2/retaliation-on-the-river.md) — formally ending the temporary alliance — and pivoted Vex toward [One-Eyed Jack](../wharf-rats/people/one-eyed-jack.md) at Gray Harbour as the Guild's new dock-leverage point.
+
 ## See also
 
 - [Astele "Nine-Fingers" Keene](people/astele-keene.md) — Guildmaster.

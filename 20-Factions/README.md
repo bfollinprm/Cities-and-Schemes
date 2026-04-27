@@ -18,18 +18,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Chionthar Consortium](chionthar-consortium/summary.md) — Old-money Baldurian merchant bloc controlling river trade along the Chionthar.
 - [Western Gate Trading Company](western-gate-trading-company/summary.md) — Patriar-backed consortium controlling overland routes and hinterland resources; led by the sitting Archduke.
 
-### Government — Baldur's Gate
+### Government
 
 - [Council of Four](council-of-four/summary.md) — Plutocratic executive branch; a boardroom of capitalists led by the Archduke.
 - [Flaming Fist](flaming-fist/summary.md) — Diminished and corrupt city military and police force, struggling for relevance.
 - [Parliament of Peers](parliament-of-peers/summary.md) — Bicameral legislature comprising the Peerage of Coin and the Peerage of Blood.
 - [Peerage of Blood](peerage-of-blood/summary.md) — Old-money house representing patriar families fighting to preserve traditional rights.
 - [Peerage of Coin](peerage-of-coin/summary.md) — New-money house where corporate entities buy seats and laws are drafted on economic self-interest.
-
-### Government — Waterdeep
-
-- [The Masked Lords](masked-lords/summary.md) — Anonymous magical-helm council ruling Waterdeep since 1032 DR; two seats compromised by Manshoon.
-- [Waterdeep Noble Houses](waterdeep-noble-houses/summary.md) — The eighty-five noble houses; the Great Game; private armies up to seventy soldiers each.
 
 ### Watch
 
@@ -56,8 +51,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 - [Circle of the Inner Grove](circle-of-the-inner-grove/summary.md) — Druidic sect protecting the Chionthar from the city's pollution and industrial expansion.
 - [The Guild](guild/summary.md) — Sophisticated criminal syndicate evolved into the de facto government of the common folk.
 - [The Harpers](harpers/summary.md) — Semi-secret balance-keepers gathering intelligence and subtly intervening against corrupt powers.
-- [Poisoners' Guild](poisoners-guild/summary.md) — Un-chartered black-market mirror to the Worshipful Alchemists; cold-war rival selling what the Company will not.
-- [Xanathar Guild](xanathars-guild/summary.md) — Beholder-led criminal empire under Waterdeep; runs Skullport, Black Lilly, and intellect-devourer puppetry.
 - [Zhentarim *(Black Network)*](zhentarim/summary.md) — Ruthless profit-driven criminal network seeking to supplant the Guild.
 
 ### Smuggler Cells

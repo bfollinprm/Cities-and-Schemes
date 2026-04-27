@@ -6,4 +6,4 @@ Nativist patriar club organizing the Peerage of Blood as a unified voting bloc.
 
 - [summary.md](summary.md) — Faction overview: ideology, membership, methods, hooks.
 - [associations/](associations/) — Items, holdings, vehicles (baldurian-purity-gala, silver-fist-fund).
-- [activity/](activity/) — Ongoing actions by week (week_0, week_1).
+- [activity/](activity/) — Ongoing actions by week (week_0, week_1, week_2).
