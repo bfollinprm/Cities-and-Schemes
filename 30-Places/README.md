@@ -6,4 +6,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the geographic layout and depth conve
 
 ## Index
 
-_(empty — populate as places are added)_
+### Regions
+
+- [sword-coast/](sword-coast/) — The macro-region containing the campaign's primary cities. Currently scaffolded for Waterdeep's Sea Ward; full ingest pending.
