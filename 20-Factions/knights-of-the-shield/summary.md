@@ -22,7 +22,8 @@ The recruiter — referred to in `faction-quests.xlsx` only as **"the Hidden Lor
 - **Failed recruitment of Lord Hlath.** The dispossessed Hlath balked at the infernal oaths and **anonymously tipped off a priest at the [Watchful Shield Shrine](../../30-Places/sword-coast/baldurs-gate/upper-city/watchful-shield-shrine.md)** about the Knights' resurgence.
 - **Failed offers to Marshal Flint, a junior Chionthar Consortium member, and a Guild Ward Boss** — all three reported the encounter up, putting the [Chionthar Consortium](../chionthar-consortium/summary.md) and [Guild](../guild/summary.md) on infernal-influence alert.
 - **Successful pact with a recently-burgled Manorborn noble** — traded "infernal protection" for the family's private journals on Peerage of Blood voting history, then used the blackmail to swing a trade-tariff vote.
-- **The Gilded Extortion.** During the [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) gate lockdown, demanded **infernal soul-coins** from trapped patriars in exchange for "guaranteed" protection from [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) mobs.
+- **The Gilded Extortion.** During the [Upper City](../../30-Places/sword-coast/baldurs-gate/upper-city/README.md) gate lockdown, demanded **infernal soul-coins** from trapped patriars in exchange for "guaranteed" protection from [Lower City](../../30-Places/sword-coast/baldurs-gate/lower-city/README.md) mobs. Billed quarterly to the Counting House under **forged Watch contracts** as a "House Defense Subscription."
+- **Riot suppression as a public-facing service.** When [the Watch lost the Gilded Cage Riots](../watch/activity/week_7/the-gilded-cage-riots.md), Manorborn houses paid the Knights to provide riot suppression — **the Knights' first openly-armed civic role**, displacing the Watch inside its own walls.
 
 ## Hooks and Relationships
 

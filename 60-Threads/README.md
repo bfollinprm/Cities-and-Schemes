@@ -17,3 +17,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for file shape and graduation rules.
 | [The propaganda cart the Consortium does not know it lost](consortium-propaganda-cart.md) | party | chionthar-consortium | open | when Consortium notices, or party publishes |
 | [Errinthal's secret funding of Mad Meggan](errinthal-funds-meggan.md) | party | mad-meggan | open | when party shows the receipts |
 | [The Symbian intellect-devourer offer Bror heard](symbian-intellect-devourer-offer.md) | bror | the-skittering-beetle | open | terms uncertain |
+| [Ettvard Needle in the Tumbledown crypts](ettvard-needle-tumbledown.md) | ettvard-needle | party | open | resolves on rescue |
+| [The Takers' Hunter-Killer cell shadowing the Plowman](takers-hunter-killer-cell.md) | takers-of-the-tithe | party | open | strikes on the next split |
+| [Roah's body-in-the-supply-wagon demonstration to Alena](hellrider-mole-zhent-demo.md) | zhentarim | hellriders-of-new-elturel | open | surfaces on next Stand visit |

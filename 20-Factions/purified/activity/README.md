@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-scapegoats-secret.
 - [week_5/](week_5/) — the-cogwork-detector.
 - [week_6/](week_6/) — the-water-watch.
+- [week_7/](week_7/) — the-cistern-sabotage.

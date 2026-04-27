@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-debt-comes-due.
 - [week_5/](week_5/) — a-feast-of-fear.
 - [week_6/](week_6/) — the-whispering-alley.
+- [week_7/](week_7/) — the-memory-mites-message.

@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-rivington-recovery-group.
 - [week_5/](week_5/) — the-rumor-mill.
 - [week_6/](week_6/) — the-double-cross.
+- [week_7/](week_7/) — the-sabotage-brokerage.

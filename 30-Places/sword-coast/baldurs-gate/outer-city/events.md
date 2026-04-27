@@ -267,6 +267,55 @@ description: What happened in the [Outer City](README.md) districts by in-game w
 
 - **Ettvard Needle missing.** Following [the ransacking of the Baldur's Mouth print shop](../../../../50-Sessions/session_27/player_summary.md), a hidden note in the wreckage hints Ettvard has fled to the dark crypts under Tumbledown on the western bank of [Dusthawk Hill](../lower-city/heapside.md). See [party activity](../../../../20-Factions/party/activity/week_6/split-leads-after-the-counting-house.md).
 
+## Week 7
+
+### Basilisk Gate
+
+- **The Vine Barricades.** [Elder Elion's](../../../../20-Factions/circle-of-the-inner-grove/people/elder-elion.md) druids sing thorny river-cane and razor-vine through the Free-Trader wagon-barricades; the first probing assault loses two scouts and falls back. The Council pivots from breaking the line to **starving the Outer City out**. See [Druid activity](../../../../20-Factions/circle-of-the-inner-grove/activity/week_7/vine-barricades.md).
+- **Smuggling the Crumbs.** [Mad Meggan](../../../../20-Factions/free-traders-of-the-outskirts/people/mad-meggan.md) institutes strict rationing inside the cordon and runs a halfling food-recovery network through forgotten storm-aqueducts under Eastway, surfacing inside Lower City pantries at dawn. The morale shock is huge. See [Free Trader activity](../../../../20-Factions/free-traders-of-the-outskirts/activity/week_7/smuggling-the-crumbs.md).
+- **The Forge Fires.** [Master Tor-keg Silverhand](../../../../20-Factions/wc-smiths-armorers/people/tor-keg-silverhand.md) fires the Smiths' forges day and night; 800 cheap blades move into the city's grey market in four days, sold to whichever faction pays first. Dammon's bespoke forge refuses to participate. See [Smiths activity](../../../../20-Factions/wc-smiths-armorers/activity/week_7/the-forge-fires.md).
+
+### Outer City Roads
+
+- **The Press Blackout.** [Archduke Silvershield](../../../../20-Factions/western-gate-trading-company/people/lyra-silvershield.md) escalates from commercial seizure to **personal food-store confiscation**: Sembian patrols now take the family ham and the harvest jar off any traveller crossing the cordon. Simultaneously locks down Baldur's Mouth printing-press supply. **Empty bellies and an empty press.** See [Western Gate activity](../../../../20-Factions/western-gate-trading-company/activity/week_7/the-press-blackout.md).
+
+### New Elturel
+
+- **The Saint's Respite.** With Alfira convalescing at the Plowman, [Jaredith Heartsong](../../../../20-Factions/hellriders-of-new-elturel/people/jaredith-heartsong.md) presides at the Phoenix Temple Foundation Stone worksite each dawn with a lute on his back. Volunteer enrollment doubles in three days; the temple's stone footprint is fully laid by the seventh day. **The faction is consolidating from a street-cult into a physical institution with permanent roots.** See [Phoenix activity](../../../../20-Factions/followers-of-the-phoenix/activity/week_7/the-saints-respite.md).
+- **The Witch Hunt.** [High Watcher Alena](../../../../20-Factions/hellriders-of-new-elturel/people/high-watcher-alena.md) places the High Rider's Stand on internal lockdown and quietly inquisitions every quartermaster, cook, water-bearer, and stable-boy. Three quartermasters stood down; one cook held; one stable-boy disappears overnight. By week's end Roah Moonglow's interrogators have abducted the actual mole — a cook Alena had cleared — and left his body in a Hellrider supply wagon. See [Hellriders activity](../../../../20-Factions/hellriders-of-new-elturel/activity/week_7/the-witch-hunt.md), [Zhentarim Mole Hunt](../../../../20-Factions/zhentarim/activity/week_7/the-mole-hunt.md).
+
+### Wyrm's Crossing / Wyrm's Rock
+
+- **The Astral Quarantine.** [Commander K'laar](../../../../20-Factions/unchained/people/k-laar.md) orders an absolute psychic ward around Wyrm's Rock; anyone crossing without authorization is physically repelled. Foot-traffic over the bridge drops two-thirds in three days. The Council's first written inquiry goes unanswered. **The Unchained have asserted sovereignty over Baldurian infrastructure.** See [Unchained activity](../../../../20-Factions/unchained/activity/week_7/the-astral-quarantine.md).
+
+### Tanneries
+
+- **The Tannery Expansion.** [Goodman Borlu](../../../../20-Factions/wc-butchers-tanners/people/borlu.md) arms the Butchers with cleavers and short axes and dumps daily Tannery waste **directly into the Chionthar** in defiance of every standing law; the river runs blood-color along the Lower City bank. A standing ten-gold bounty on any druid identified at the perimeter. See [Butchers activity](../../../../20-Factions/wc-butchers-tanners/activity/week_7/the-tannery-expansion.md).
+
+### Sow's Foot / Hamhock's Slaughterhouse
+
+- **Blood in the Slaughterhouse.** The Bhaalist remnant from Dusthawk Hill re-coalesces in the cellar beneath [Hamhock's](../../../../20-Factions/guild/people/belvin-soot-hamhock.md) and begins **mass ritual murder of Sow's Foot residents** folded into the slaughterhouse's evening kill-stream so the blood-trace reads as cattle. Working under the city's protectors' noses. See [Cult of the Returning Lord activity](../../../../20-Factions/cult-of-the-returning-lord/activity/week_7/blood-in-the-slaughterhouse.md).
+
+### Sow & Piglet (Outer City)
+
+- **The Refugee Riot.** [Lady Vhage's](../../../../20-Factions/plague-of-remembrance/people/emmeline-vhage.md) cultists, dressed in counterfeit Flaming Fist armor, attack a refugee bread-line at sundown of the fifth day. Eleven refugees killed, thirty wounded. The morning *Baldur's Mouth* runs it as the "Sow & Piglet Refugee Riot" with no mention of Fist-uniform attackers. **Civil war is one provocation closer.** See [Plague activity](../../../../20-Factions/plague-of-remembrance/activity/week_7/the-refugee-riot.md).
+
+### Tumbledown
+
+- **The Cliffside Consecration.** [Old Man Hemlock](../../../../20-Factions/gravekeepers/people/hemlock.md) opens a four-night ritual to ring Cliffside in publicly-blessed undead guardians, aimed at a Bhaalist threat that has *already moved* to Sow's Foot. Tumbledown's perimeter patrols are heavier than at any point this year. See [Gravekeepers activity](../../../../20-Factions/gravekeepers/activity/week_7/the-cliffside-consecration.md).
+- **Search for the Quill.** [The Nightingale's](../../../../20-Factions/harpers/people/the-nightingale.md) Harper cells confirm someone is buying Ettvard Needle's distinctive paper stock in bulk through Western Gate fronts; no body, no Ettvard. See [Harpers activity](../../../../20-Factions/harpers/activity/week_7/find-the-quill.md).
+- **The party crosses Eastway and reaches Tumbledown's edge.** Carrying Phineas Droog's Guild coin and the name of [Garrett "Grit" Fallow](../../../../20-Factions/guild/people/garrett-grit-fallow.md), a gravedigger on Nine-Fingers Keene's quiet retainer. They clock a five-strong gravedigger patrol in the next yard. See [Session 28](../../../../50-Sessions/session_28/player_summary.md), [party activity](../../../../20-Factions/party/activity/week_7/cross-the-eastway-blockade-to-tumbledown.md).
+
+### Rivington
+
+- **The Cistern Sabotage.** [Glim-Glim's](../../../../20-Factions/purified/people/glim-glim.md) Purified cells dump caustic acid into the Rivington cisterns; one cell reaches the secondary cistern and dumps two of three barrels. **Southern Rivington loses fresh water for at least a tenday.** Free Trader water-rationing tightens by half. See [Purified activity](../../../../20-Factions/purified/activity/week_7/the-cistern-sabotage.md).
+- **The Auditor's Revenge.** [The Collector](../../../../20-Factions/takers-of-the-tithe/people/the-collector.md) dispatches a Hunter-Killer cell of three Bhaalist assassins into Rivington with explicit orders to find and kill the party in revenge for [Singa](../../../../20-Factions/takers-of-the-tithe/people/singa.md). The cell sets up at an abandoned tannery shed and shadows the Plowman. **The party is being hunted and does not know it.** See [Takers activity](../../../../20-Factions/takers-of-the-tithe/activity/week_7/the-auditors-revenge.md).
+- **The Magical Dragnet.** Sodality censers light up the Outer City; six honest hedge-casters fined for the Hands-of-the-Absolute lattice harmonics they cannot triangulate. The Sodality alienates every honest small caster in Rivington in a single tenday. See [Sodality activity](../../../../20-Factions/wc-sorcerous-sodality/activity/week_7/the-magical-dragnet.md).
+
+### Eastway (Outer City barracks)
+
+- **Council raid against the buffer.** [Archduke Silvershield](../../../../20-Factions/western-gate-trading-company/people/lyra-silvershield.md) orders a Sembian night-raid that burns three Free-Trader food caches and three "Guild ward" warehouses in the Rivington-Eastway corridor; the morning paper frames the burned caches as Guild contraband. Eastway tempers move from hungry to incandescent overnight — exactly the tinder Vhage's [Refugee Riot](../../../../20-Factions/plague-of-remembrance/activity/week_7/the-refugee-riot.md) needs. See [Council activity](../../../../20-Factions/council-of-four/activity/week_7/break-the-buffer.md).
+
 ## See also
 
 - [README.md](README.md) — Outer City overview.

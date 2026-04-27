@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — a-political-hedge.
 - [week_5/](week_5/) — an-alliance-of-stone-and-blood.
 - [week_6/](week_6/) — the-labor-strike.
+- [week_7/](week_7/) — the-sabotaged-foundations.

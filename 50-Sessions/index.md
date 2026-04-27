@@ -35,3 +35,4 @@ description: Bidirectional mapping between session number and in-game week.
 | [25](session_25/README.md) | 6 | 2025-12-29 | Alfira abducted; the Four Cairns of Dusthawk Hill; the Skittering Beetle's debt-trades. |
 | [26](session_26/README.md) | 6 | 2026-01-05 | Battle at the Counting House; Singa killed; Alfira revived; Tithe Ledger surrendered to the Beetle. |
 | [27](session_27/README.md) | 6 | 2026-01-12 | Aftermath; Alfira at the Plowman; Jaredith stays in New Elturel; Bror owes the Night Mother a sentient source; Ettvard Needle is missing. |
+| [28](session_28/README.md) | 7 | 2026-01-19 | The post-Needle Mouth at the Plowman; Dammon's gauntlets and Karlach's iron in Spark's cloak; Phineas Droog's Guild coin; Eastway crossing; the Gravekeeper patrol at Tumbledown's edge. |

@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — digging-in.
 - [week_5/](week_5/) — heed-the-ultimatum.
 - [week_6/](week_6/) — rationing-the-hope.
+- [week_7/](week_7/) — smuggling-the-crumbs.

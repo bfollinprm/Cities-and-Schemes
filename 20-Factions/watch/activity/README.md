@@ -10,3 +10,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-manorborn-burglaries.
 - [week_5/](week_5/) — the-plea-for-reinforcements.
 - [week_6/](week_6/) — the-gate-lockdown.
+- [week_7/](week_7/) — the-gilded-cage-riots.

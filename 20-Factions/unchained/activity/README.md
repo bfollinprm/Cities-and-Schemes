@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — an-honorable-march.
 - [week_5/](week_5/) — establish-the-perimeter.
 - [week_6/](week_6/) — the-psionic-sweep.
+- [week_7/](week_7/) — the-astral-quarantine.

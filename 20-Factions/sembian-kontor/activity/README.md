@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — legitimizing-the-contract.
 - [week_5/](week_5/) — arming-the-aggressors.
 - [week_6/](week_6/) — the-price-of-steel.
+- [week_7/](week_7/) — the-starvation-premium.

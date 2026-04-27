@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-pier-side-war.
 - [week_5/](week_5/) — licking-their-wounds.
 - [week_6/](week_6/) — the-counter-punch.
+- [week_7/](week_7/) — the-sewer-skirmish.

@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — hostile-takeover.
 - [week_5/](week_5/) — retaliatory-asset-seizure.
 - [week_6/](week_6/) — the-hostile-takeover.
+- [week_7/](week_7/) — consolidate-river-control.

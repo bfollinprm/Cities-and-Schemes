@@ -22,6 +22,9 @@ Asset ledger. Time-anchored maturities live in [`60-Threads/`](../../60-Threads/
 - [Credential of Balduran](../../60-Threads/credential-old-company.md) — Kaelan's *Baldur's Mouth* press credential, granted by [Ettvard Needle](../baldurs-mouth/people/ettvard-needle.md) (acquired week 5)
 - [Whispering Stone](../../60-Threads/whispering-stone-needle-network.md) — now passively listening to Ettvard Needle's eavesdropping network (rewired week 5)
 - Soul-Trapping Polearm — recovered from Singa's cell at the Counting House summit (acquired week 6)
+- Dwarven unarmed-strike gauntlets (+1 to hit) — Dammon's gift to Bror at his New Elturel forge ([visit-dammons-forge.md](activity/week_7/visit-dammons-forge.md), acquired week 7)
+- Phineas Droog's Guild coin — pass into the Tumbledown inner crypts via [Garrett "Grit" Fallow](../guild/people/garrett-grit-fallow.md) without questions ([cross-the-eastway-blockade-to-tumbledown.md](activity/week_7/cross-the-eastway-blockade-to-tumbledown.md), acquired week 7)
+- Knowledge that Spark's cloak is forged from **Karlach's discarded original-heart infernal iron** — confirmed by Dammon's forge-prong test ([visit-dammons-forge.md](activity/week_7/visit-dammons-forge.md), acquired week 7)
 
 ## Debts owed to the party
 

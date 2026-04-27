@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — a-favor-for-a-friend.
 - [week_5/](week_5/) — the-smokepowder-run.
 - [week_6/](week_6/) — the-river-retrieval.
+- [week_7/](week_7/) — the-desperate-dive.

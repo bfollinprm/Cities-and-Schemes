@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-smokepowder-plot.
 - [week_5/](week_5/) — the-financial-front.
 - [week_6/](week_6/) — the-ledger-logic.
+- [week_7/](week_7/) — the-mole-hunt.

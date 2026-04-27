@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — the-sundered-vault.
 - [week_5/](week_5/) — the-psychic-miasma.
 - [week_6/](week_6/) — the-silent-scream.
+- [week_7/](week_7/) — the-resonance-chamber.

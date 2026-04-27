@@ -11,3 +11,4 @@ Ongoing actions, organized by in-game week.
 - [week_4/](week_4/) — eyes-in-the-dark.
 - [week_5/](week_5/) — severing-ties.
 - [week_6/](week_6/) — the-dark-streets.
+- [week_7/](week_7/) — the-guided-darkness.
