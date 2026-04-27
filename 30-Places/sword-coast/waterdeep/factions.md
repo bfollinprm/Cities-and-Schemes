@@ -37,14 +37,14 @@ Cross-link table only. Faction prose lives in [`20-Factions/`](../../../20-Facti
 
 | House | Tier | Notable |
 | --- | --- | --- |
-| [Cassalanter](noble-houses/cassalanter.md) | Throne | Banking; **secretly worships [Asmodeus](../../../10-Setting/cosmology/deities/asmodeus.md)**. |
-| [Amcathra](noble-houses/amcathra.md) | Throne | Politics, fine wine, sword-smithing. |
-| [Tesper](noble-houses/tesper.md) | Throne | Martial spectacle, public duels. |
-| [Adarbrent](noble-houses/adarbrent.md) | Court | Shipping and exploration. |
-| [Thann](noble-houses/thann.md) | Court | *[Corylus Thann](../../../20-Factions/masked-lords/people/corylus-thann.md) blackmailed by [Manshoon](../../../20-Factions/zhentarim/people/manshoon.md).* |
-| [Urmbrusk](noble-houses/urmbrusk.md) | Court | *[Jelenn Urmbrusk](../../../20-Factions/masked-lords/people/jelenn-urmbrusk.md) blackmailed by Manshoon.* |
-| [Agundar](noble-houses/agundar.md) | Court | Mercenary house. |
-| [Husteem](noble-houses/husteem.md) / [Maerklos](noble-houses/maerklos.md) / Zun | Dregs | Scorned for scandal, miscalculation, or rejection of the Game. |
+| [Cassalanter](../../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md) | Throne | Banking; **secretly worships [Asmodeus](../../../10-Setting/cosmology/deities/asmodeus.md)**. |
+| [Amcathra](../../../20-Factions/waterdeep-noble-houses/associations/house-amcathra.md) | Throne | Politics, fine wine, sword-smithing. |
+| [Tesper](../../../20-Factions/waterdeep-noble-houses/associations/house-tesper.md) | Throne | Martial spectacle, public duels. |
+| [Adarbrent](../../../20-Factions/waterdeep-noble-houses/associations/house-adarbrent.md) | Court | Shipping and exploration. |
+| [Thann](../../../20-Factions/waterdeep-noble-houses/associations/house-thann.md) | Court | *[Corylus Thann](../../../20-Factions/masked-lords/people/corylus-thann.md) blackmailed by [Manshoon](../../../20-Factions/zhentarim/people/manshoon.md).* |
+| [Urmbrusk](../../../20-Factions/waterdeep-noble-houses/associations/house-urmbrusk.md) | Court | *[Jelenn Urmbrusk](../../../20-Factions/masked-lords/people/jelenn-urmbrusk.md) blackmailed by Manshoon.* |
+| [Agundar](../../../20-Factions/waterdeep-noble-houses/associations/house-agundar.md) | Court | Mercenary house. |
+| [Husteem](../../../20-Factions/waterdeep-noble-houses/associations/house-husteem.md) / [Maerklos](../../../20-Factions/waterdeep-noble-houses/associations/house-maerklos.md) / Zun | Dregs | Scorned for scandal, miscalculation, or rejection of the Game. |
 
 See [character.md](character.md) for the Great Game's tier structure.
 

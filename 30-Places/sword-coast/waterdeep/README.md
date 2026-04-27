@@ -35,9 +35,10 @@ Greater metropolitan population: in excess of one million; the walled city is fa
 - [undermountain.md](undermountain.md) — The megadungeon below; entered through the Yawning Portal.
 - [skullport.md](skullport.md) — Subterranean port; Xanathar territory; slave market.
 
-### People and houses
+### See also (people and houses)
 
-- [noble-houses/](noble-houses/README.md) — The named families of the Great Game (Cassalanter, Amcathra, Tesper, Adarbrent, Thann, Urmbrusk, Agundar, Husteem, Maerklos).
+- [Waterdeep noble houses](../../../20-Factions/waterdeep-noble-houses/summary.md) — the named families of the Great Game (faction-side: Cassalanter, Amcathra, Tesper, Adarbrent, Thann, Urmbrusk, Agundar, Husteem, Maerklos).
+- [Masked Lords](../../../20-Factions/masked-lords/summary.md) — the anonymous council and its named members.
 
 ## See also
 

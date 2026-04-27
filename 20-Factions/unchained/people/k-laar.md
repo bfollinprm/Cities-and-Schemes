@@ -5,7 +5,7 @@ description: Pragmatic Githyanki commander leading the Unchained encampment in t
 
 # Commander K'laar, the Unshackled
 
-Pragmatic Githyanki commander of the [Unchained](../summary.md) and founder of the **K'liir** in Baldur's Gate. A loyalist to Prince Orpheus who chose, after the [Netherbrain](../../hands-of-the-absolute/associations/netherbrain.md)'s defeat, to gather strength here rather than rejoin the fragmented rebellion above the Astral Sea.
+Pragmatic Githyanki commander of the [Unchained](../summary.md) and founder of the **K'liir** in Baldur's Gate. A loyalist to Prince Orpheus who chose, after the [Netherbrain](../../../10-Setting/history/absolute-crisis.md)'s defeat, to gather strength here rather than rejoin the fragmented rebellion above the Astral Sea.
 
 ## Manifesto
 

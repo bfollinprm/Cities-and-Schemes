@@ -17,6 +17,8 @@ Their philanthropy is part of the cover. So is the public face of the family at 
 
 ## See also
 
-- [../character.md](../character.md) — Great Game tiers.
-- [../factions.md](../factions.md) — house cross-link table.
-- [../sea-ward/character.md](../sea-ward/character.md) — Sea Ward old-money culture.
+- [../summary.md](../summary.md) — the Great Game and the noble-house tier system.
+- [../../../30-Places/sword-coast/waterdeep/character.md](../../../30-Places/sword-coast/waterdeep/character.md) — Great Game in the city's lived feel.
+- [../../../30-Places/sword-coast/waterdeep/factions.md](../../../30-Places/sword-coast/waterdeep/factions.md) — house cross-link table.
+- [../../../30-Places/sword-coast/waterdeep/sea-ward/character.md](../../../30-Places/sword-coast/waterdeep/sea-ward/character.md) — Sea Ward old-money culture.
+- [Asmodeus](../../../10-Setting/cosmology/deities/asmodeus.md).

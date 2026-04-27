@@ -5,7 +5,7 @@ description: Masked Lord of Waterdeep — head of House Thann; blackmailed by Ma
 
 # Corylus Thann
 
-Head of [House Thann](../../../30-Places/sword-coast/waterdeep/noble-houses/thann.md) — Court-tier, vintners — and one of the Masked Lords currently sitting under a magical helm at council sessions.
+Head of [House Thann](../../waterdeep-noble-houses/associations/house-thann.md) — Court-tier, vintners — and one of the Masked Lords currently sitting under a magical helm at council sessions.
 
 ## Compromised
 
@@ -15,6 +15,6 @@ The other Masked Lords do not know which seats are compromised. Neither does [La
 
 ## See also
 
-- [House Thann](../../../30-Places/sword-coast/waterdeep/noble-houses/thann.md).
+- [House Thann](../../waterdeep-noble-houses/associations/house-thann.md).
 - [The Masked Lords](../summary.md).
 - [Manshoon](../../zhentarim/people/manshoon.md).

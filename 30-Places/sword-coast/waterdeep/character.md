@@ -25,9 +25,9 @@ The dossier reads the city as the unstable resolution of four intersecting fract
 
 The eighty-five noble houses play a perpetual social-status contest known as the **Great Game** — lavish parties, strategic marriages, commercial ventures, cutting insults during the social season. House standing translates directly into influence. Tiers, top to bottom: **The Throne** (top 2–5 houses), **The Court** (10–20 schemers), **The Body** (the unremarkable majority), **The Dregs** (publicly scorned). A second axis runs through it: *pro-aristocracy* (power as birthright) vs. *pro-plutocracy* (power as wealth) — exacerbated by Neverember's practice of selling noble titles to wealthy merchants.
 
-**Throne (1502 DR):** [House Cassalanter](noble-houses/cassalanter.md) (banking, secret [Asmodeans](../../../10-Setting/cosmology/deities/asmodeus.md)), [House Amcathra](noble-houses/amcathra.md) (politics, fine wine), [House Tesper](noble-houses/tesper.md) (martial spectacle).
-**Court:** [Adarbrent](noble-houses/adarbrent.md) (shipping), [Thann](noble-houses/thann.md) (vintners, *blackmailed by [Manshoon](../../../20-Factions/zhentarim/people/manshoon.md)*), [Urmbrusk](noble-houses/urmbrusk.md) (money-lending, *blackmailed*), [Agundar](noble-houses/agundar.md) (mercenary).
-**Dregs:** [Husteem](noble-houses/husteem.md) (caravans), [Maerklos](noble-houses/maerklos.md) (mercenary), Zun (prospecting).
+**Throne (1502 DR):** [House Cassalanter](../../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md) (banking, secret [Asmodeans](../../../10-Setting/cosmology/deities/asmodeus.md)), [House Amcathra](../../../20-Factions/waterdeep-noble-houses/associations/house-amcathra.md) (politics, fine wine), [House Tesper](../../../20-Factions/waterdeep-noble-houses/associations/house-tesper.md) (martial spectacle).
+**Court:** [Adarbrent](../../../20-Factions/waterdeep-noble-houses/associations/house-adarbrent.md) (shipping), [Thann](../../../20-Factions/waterdeep-noble-houses/associations/house-thann.md) (vintners, *blackmailed by [Manshoon](../../../20-Factions/zhentarim/people/manshoon.md)*), [Urmbrusk](../../../20-Factions/waterdeep-noble-houses/associations/house-urmbrusk.md) (money-lending, *blackmailed*), [Agundar](../../../20-Factions/waterdeep-noble-houses/associations/house-agundar.md) (mercenary).
+**Dregs:** [Husteem](../../../20-Factions/waterdeep-noble-houses/associations/house-husteem.md) (caravans), [Maerklos](../../../20-Factions/waterdeep-noble-houses/associations/house-maerklos.md) (mercenary), Zun (prospecting).
 
 ## The artisan drain
 
@@ -38,4 +38,4 @@ A new economic pressure: skilled artisans — masons, shipwrights, smiths — ar
 - [factions.md](factions.md) — cross-link table.
 - [governance.md](governance.md) — Watch, Guard, Magisters, Force Grey.
 - [history.md](history.md) — the modern wounds.
-- [noble-houses/](noble-houses/README.md) — the named families of the Great Game.
+- [Waterdeep noble houses](../../../20-Factions/waterdeep-noble-houses/summary.md) — the named families of the Great Game.

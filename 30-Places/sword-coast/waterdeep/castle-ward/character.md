@@ -20,7 +20,7 @@ Stately. Stone. Heraldry. Watch patrols are large, uniformed, and visibly drille
 
 ## Faction layer
 
-Both **Harpers** and **Zhentarim** are described as "undoubtedly seeking to place agents and informants" close to the levers of power — that means the Castle Ward. The [Cassalanters](../noble-houses/cassalanter.md) host functions here in their official Throne capacity; [Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) people work the Magisters and the secretariat. Force Grey's headquarters falls under the Blackstaff's authority somewhere within this ward; [Vajra Safahr's](../../../../20-Factions/masked-lords/people/vajra-safahr.md) strained relationship with [Laeral](../../../../20-Factions/masked-lords/people/laeral-silverhand.md) plays out in adjacent rooms of the same building.
+Both **Harpers** and **Zhentarim** are described as "undoubtedly seeking to place agents and informants" close to the levers of power — that means the Castle Ward. The [Cassalanters](../../../../20-Factions/waterdeep-noble-houses/associations/house-cassalanter.md) host functions here in their official Throne capacity; [Manshoon's](../../../../20-Factions/zhentarim/people/manshoon.md) people work the Magisters and the secretariat. Force Grey's headquarters falls under the Blackstaff's authority somewhere within this ward; [Vajra Safahr's](../../../../20-Factions/masked-lords/people/vajra-safahr.md) strained relationship with [Laeral](../../../../20-Factions/masked-lords/people/laeral-silverhand.md) plays out in adjacent rooms of the same building.
 
 ## Notable locations
 

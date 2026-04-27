@@ -9,7 +9,7 @@ A former refugee who survived the chaos of the nautiloid attack by hiding in the
 
 ## Conspiracy theory
 
-Xylia believes mind flayers and the [Netherbrain](../../hands-of-the-absolute/associations/netherbrain.md) were merely props — illusions or bio-engineered weapons. The real masterminds, in her telling, are a secret society of doppelgangers and elder warlocks who have replaced key city leaders. Their goal: manufacture a crisis so terrifying that the people would *beg* for salvation, willingly accepting the "Great Bargain" and the erosion of their freedoms.
+Xylia believes mind flayers and the [Netherbrain](../../../10-Setting/history/absolute-crisis.md) were merely props — illusions or bio-engineered weapons. The real masterminds, in her telling, are a secret society of doppelgangers and elder warlocks who have replaced key city leaders. Their goal: manufacture a crisis so terrifying that the people would *beg* for salvation, willingly accepting the "Great Bargain" and the erosion of their freedoms.
 
 In her reading:
 

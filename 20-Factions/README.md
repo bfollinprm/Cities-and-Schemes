@@ -29,6 +29,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the per-faction file layout and slug 
 ### Government — Waterdeep
 
 - [The Masked Lords](masked-lords/summary.md) — Anonymous magical-helm council ruling Waterdeep since 1032 DR; two seats compromised by Manshoon.
+- [Waterdeep Noble Houses](waterdeep-noble-houses/summary.md) — The eighty-five noble houses; the Great Game; private armies up to seventy soldiers each.
 
 ### Watch
 

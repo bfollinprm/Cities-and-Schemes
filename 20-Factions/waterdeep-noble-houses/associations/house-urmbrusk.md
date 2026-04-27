@@ -14,6 +14,8 @@ A Court house whose profits rotate through the city's noble debt and whose seat 
 
 ## See also
 
-- [../character.md](../character.md) — Great Game tiers.
-- [../factions.md](../factions.md) — house cross-link table.
-- [../../../../10-Setting/polities/waterdeep-government.md](../../../../10-Setting/polities/waterdeep-government.md) — Masked Lords.
+- [../summary.md](../summary.md) — the Great Game and the noble-house tier system.
+- [../../../30-Places/sword-coast/waterdeep/character.md](../../../30-Places/sword-coast/waterdeep/character.md) — Great Game in the city's lived feel.
+- [../../../30-Places/sword-coast/waterdeep/factions.md](../../../30-Places/sword-coast/waterdeep/factions.md) — house cross-link table.
+- [The Masked Lords](../../masked-lords/summary.md) and [Jelenn Urmbrusk](../../masked-lords/people/jelenn-urmbrusk.md).
+- [Manshoon](../../zhentarim/people/manshoon.md).

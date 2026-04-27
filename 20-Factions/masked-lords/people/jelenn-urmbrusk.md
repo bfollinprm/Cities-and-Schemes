@@ -5,7 +5,7 @@ description: Masked Lord of Waterdeep — head of House Urmbrusk; blackmailed by
 
 # Jelenn Urmbrusk
 
-Head of [House Urmbrusk](../../../30-Places/sword-coast/waterdeep/noble-houses/urmbrusk.md) — Court-tier, money-lending — and a sitting Masked Lord. Compromised.
+Head of [House Urmbrusk](../../waterdeep-noble-houses/associations/house-urmbrusk.md) — Court-tier, money-lending — and a sitting Masked Lord. Compromised.
 
 ## Compromised
 
@@ -15,6 +15,6 @@ The arrangement is the spine of Manshoon's Waterdeep play: he does not need to a
 
 ## See also
 
-- [House Urmbrusk](../../../30-Places/sword-coast/waterdeep/noble-houses/urmbrusk.md).
+- [House Urmbrusk](../../waterdeep-noble-houses/associations/house-urmbrusk.md).
 - [The Masked Lords](../summary.md).
 - [Manshoon](../../zhentarim/people/manshoon.md).

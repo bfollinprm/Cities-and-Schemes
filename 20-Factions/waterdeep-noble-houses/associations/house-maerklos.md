@@ -15,5 +15,6 @@ The dossier groups Maerklos with **Husteem** and **Zun** as the city's three Dre
 
 ## See also
 
-- [../character.md](../character.md) — Great Game tiers.
-- [../factions.md](../factions.md) — house cross-link table.
+- [../summary.md](../summary.md) — the Great Game and the noble-house tier system.
+- [../../../30-Places/sword-coast/waterdeep/character.md](../../../30-Places/sword-coast/waterdeep/character.md) — Great Game in the city's lived feel.
+- [../../../30-Places/sword-coast/waterdeep/factions.md](../../../30-Places/sword-coast/waterdeep/factions.md) — house cross-link table.
