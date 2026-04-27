@@ -29,4 +29,7 @@ A bloc of established, "old-money" Baldurian merchant families whose fortunes ar
 ## See also
 
 - [Master Joric the Stout](people/joric-the-stout.md) — leader.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Native Consortiums).
+- [Lower Chionthar](../../30-Places/sword-coast/baldurs-gate/hinterlands/river-chionthar-lower/README.md) — the Consortium's primary operating environment and the river it has helped to ruin.
+- [Trade Way (local stretch)](../../30-Places/sword-coast/baldurs-gate/hinterlands/trade-way/README.md) — fortified river trading posts capture trade off the road.
+- [Beregost](../../30-Places/sword-coast/beregost/README.md) — effectively a Consortium client town.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx` (Public Factions › Native Consortiums); `raw-ingest/cloaks-and-conspiracies/the-hinterlands-of-baldurs-gate-a-dossier.docx` (Parts I, III, IV, V).

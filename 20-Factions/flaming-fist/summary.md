@@ -34,4 +34,5 @@ Recent shakedowns at **Wyrm's Crossing** under Manip Jerrol have backfired — M
 ## See also
 
 - [Marshal Valerius Flint](people/valerius-flint.md) — current Marshal.
-- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dossier-baldurs-gate-…` Chapter 5.
+- [Hinterlands of Baldur's Gate](../../30-Places/sword-coast/baldurs-gate/hinterlands/README.md) — the lands beyond the Fist's effective writ; Wyrm's Crossing is the last point of city authority.
+- Source: `raw-ingest/cloaks-and-conspiracies/factions.docx`; `dossier-baldurs-gate-…` Chapter 5; `raw-ingest/cloaks-and-conspiracies/the-hinterlands-of-baldurs-gate-a-dossier.docx` (Parts I and V).

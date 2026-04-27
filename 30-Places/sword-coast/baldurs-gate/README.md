@@ -24,6 +24,10 @@ The city has three walled tiers and a buried fourth:
 - [outer-city/](outer-city/README.md) — unwalled boroughs across the river and along the trade roads; New Elturel, Rivington, Wyrm's Crossing, the K'liir, more.
 - [undercity/](undercity/README.md) — the sewer labyrinth and the Undercellar smugglers' market beneath the Wide.
 
+## Hinterlands
+
+- [hinterlands/](hinterlands/README.md) — the surrounding lands the city depends on: Cloakwood, the Wood of Sharp Teeth's western edge, the lower Chionthar, the local stretches of the Coast Way and Trade Way, and the Friendly Arm.
+
 ## Key gates
 
 - **Baldur's Gate (Old Wall)** — namesake arch dividing Upper from Lower City; 5 cp passage fee, Watch-controlled.
