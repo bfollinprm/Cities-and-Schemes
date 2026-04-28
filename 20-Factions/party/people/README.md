@@ -6,5 +6,6 @@ Named figures.
 
 - [bror.md](bror.md)
 - [elia-thorne.md](elia-thorne.md)
+- [finn.md](finn.md)
 - [kaelan.md](kaelan.md)
 - [spark.md](spark.md)

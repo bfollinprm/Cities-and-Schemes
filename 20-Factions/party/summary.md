@@ -13,14 +13,15 @@ There is no shared creed. Each member's reasons for adventuring point in a diffe
 
 ## Membership
 
-Four PCs. Each gets a page under [`people/`](people/) with the source-specified stats, backstory, and faction ties:
+Five PCs. Each gets a page under [`people/`](people/) with the source-specified stats, backstory, and faction ties:
 
 - [Bror "The Shadow Stone"](people/bror.md) — Mountain Dwarf monk, Sharran observer.
 - [Spark](people/spark.md) — Zariel Tiefling barbarian, Followers of the Phoenix.
 - [Elia Thorne](people/elia-thorne.md) — Half-Elf warlock, Great Old One pact.
 - [Kaelan of Beregost](people/kaelan.md) — Human Life Cleric of Lathander, raising coin for his home town.
+- [Finn](people/finn.md) — Tiefling street-orphan from New Elturel, ward of High Watcher Alena, joined the party in week 1 after the Plague-Father's lab.
 
-NPC allies who travel with the party (e.g. Finn of New Elturel, Jaredith Heartsong) are recorded under their faction or location pages, not under `party/people/`.
+NPC allies who travel with the party (e.g. Jaredith Heartsong) are recorded under their faction or location pages, not under `party/people/`.
 
 ## Methods
 
