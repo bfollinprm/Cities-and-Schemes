@@ -21,7 +21,7 @@ Week 5 ends with the party halfway-installed in Rivington, Kaelan press-credenti
 ## See also
 
 - [Sessions 20–21](../../../../50-Sessions/session_20/player_summary.md)
-- [Finneas Kaller](../../../hellriders-of-new-elturel/people/finn.md)
+- [Finneas Kaller](../../../guild/people/finneas-kaller.md)
 - [Kaelan of Beregost](../../people/kaelan.md)
 - [Simbar](../../../guild/people/simbar.md)
 - [Glass Malakor](../../../guild/people/glass-malakor.md)
