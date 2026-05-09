@@ -1,0 +1,8 @@
+---
+name: week-0-hidden-fronts-leave-first-traces
+description: The Cult of the Returning Lord consecrates a Bhaalist sewer altar with a kidnapped man's blood.
+---
+
+## Hidden fronts leave first traces
+
+The [Cult of the Returning Lord](../../../20-Factions/cult-of-the-returning-lord/summary.md) consecrates a Bhaalist sewer altar with a kidnapped man's blood. The [Hands of the Absolute](../../../20-Factions/hands-of-the-absolute/summary.md) reach for the Echo and touch a feral psychic entity that kills one cultist and breaks another. The [Gravekeepers'](../../../20-Factions/gravekeepers/summary.md) Tumbledown cleansing ends with a shattered warding stone. The [Purified](../../../20-Factions/purified/summary.md), [Silent Shroud](../../../20-Factions/silent-shroud/summary.md), [Carnival of Whispers](../../../20-Factions/carnival-of-whispers/summary.md), [Takers of the Tithe](../../../20-Factions/takers-of-the-tithe/summary.md) and [Gilded Vein](../../../20-Factions/gilded-vein/summary.md) bungle their openings and burn operatives. The [Knights of the Shield](../../../20-Factions/knights-of-the-shield/summary.md) approach Lord Hlath; he refuses and tips the [Watchful Shield Shrine](../../../30-Places/sword-coast/baldurs-gate/upper-city/watchful-shield-shrine.md). The [Followers of the Phoenix](../../../20-Factions/followers-of-the-phoenix/summary.md) hold their first public sermon under [the Ember](../../../20-Factions/followers-of-the-phoenix/people/the-ember.md). The [Harpers](../../../20-Factions/harpers/summary.md) plant a now-misled agent in the Masons; a Lantaner apprentice walks a smokepowder schematic out to the Smiths.

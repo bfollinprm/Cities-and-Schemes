@@ -20,4 +20,4 @@ The morning *Baldur's Mouth* runs the brawl as a **Coin-versus-Blood culture war
 - [Lord Corin Durinbold](../../../peerage-of-blood/people/corin-durinbold.md)
 - [Parliament of Peers — The Private Caucus (week 6)](../../activity/week_6/the-private-caucus.md)
 - [Knights of the Shield — The Gilded Extortion](../../../knights-of-the-shield/activity/week_7/the-gilded-extortion.md)
-- [Lower City — events](../../../../30-Places/sword-coast/baldurs-gate/lower-city/events.md)
+- [Lower City — events](../../../../30-Places/sword-coast/baldurs-gate/lower-city/events/week_7/README.md)

@@ -19,4 +19,4 @@ The defense fails on its own terms. The men hold the perimeter long enough to ev
 - [WC Butchers & Tanners](../../summary.md)
 - [Goodman Borlu, 'the Cleaver'](../../people/borlu.md)
 - [Circle of the Inner Grove — The Source of the Rot](../../../circle-of-the-inner-grove/activity/week_6/the-source-of-the-rot.md)
-- [Outer City — Tanneries](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events.md)
+- [Outer City — Tanneries](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events/week_6/README.md)

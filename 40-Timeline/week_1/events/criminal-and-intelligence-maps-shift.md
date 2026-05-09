@@ -1,0 +1,8 @@
+---
+name: week-1-criminal-and-intelligence-maps-shift
+description: The Zhentarim seat the Velvet Hand parlor across from the ashes of the tavern they burned in week 0; the Guild answers with Tusgront's door-to-door tour of Brampton.
+---
+
+## Criminal and intelligence maps shift
+
+The [Zhentarim](../../../20-Factions/zhentarim/activity/week_1/establish-the-velvet-hand-social-club.md) seat the **Velvet Hand** parlor across from the ashes of the tavern they burned in week 0; the [Guild](../../../20-Factions/guild/activity/week_1/reinforce-bramptons-loyalty.md) answers with [Tusgront's](../../../20-Factions/guild/summary.md) door-to-door tour of [Brampton](../../../30-Places/sword-coast/baldurs-gate/lower-city/brampton.md). The [River-Rats'](../../../20-Factions/river-rats/activity/week_1/smuggle-a-person-past-the-gates.md) people-smuggling run is busted on a tip. The [Wharf Rats'](../../../20-Factions/wharf-rats/activity/week_1/misdirect-a-shipment-of-weapons.md) Fist-crossbow misdirection collapses on heightened security. The [Bibliophile](../../../20-Factions/bibliophile/activity/week_1/acquire-and-sell-shipping-manifests.md) cannot acquire the Chionthar manifests. The [Sembian Kontor](../../../20-Factions/sembian-kontor/activity/week_1/recruit-a-new-information-asset.md) seats a new asset inside the Fist barracks at Wyrm's Rock; the [Harpers'](../../../20-Factions/harpers/activity/week_1/investigate-the-masons-sabotage.md) Basilisk-Gate forensics are blocked by Mason Wardens; the [Watchful Shield Shrine](../../../20-Factions/peerage-of-blood/people/lord-hlath.md) is tipped about Hlath after the failed oath.

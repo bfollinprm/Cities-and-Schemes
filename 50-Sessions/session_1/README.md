@@ -18,4 +18,4 @@ description: Session 1 — Coast Way roadblock, Rivington plague, the Wyrm's Cro
 
 - [player_summary.md](player_summary.md)
 - [gm_summary.md](gm_summary.md)
-- [40-Timeline/week_1/events.md](../../40-Timeline/week_1/events.md)
+- [40-Timeline/week_1/events/](../../40-Timeline/week_1/events/README.md)

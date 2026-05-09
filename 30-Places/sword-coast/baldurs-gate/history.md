@@ -5,7 +5,7 @@ description: Compact city-specific history; full setting timeline lives in 40-Ti
 
 # History
 
-City-specific notes only. Region-wide events live in [10-Setting/history/](../../../10-Setting/history/); the dated chronology lives in [40-Timeline/history.md](../../../40-Timeline/history.md).
+City-specific notes only. Region-wide events live in [10-Setting/history/](../../../10-Setting/history/); the dated chronology lives in [40-Timeline/history/README.md](../../../40-Timeline/history/README.md).
 
 ## Founding
 
@@ -37,6 +37,6 @@ See [10-Setting/history/decade-of-reconstruction.md](../../../10-Setting/history
 
 ## Where to read the rest
 
-- [40-Timeline/history.md](../../../40-Timeline/history.md) — every dated event in chronological order.
+- [40-Timeline/history/README.md](../../../40-Timeline/history/README.md) — every dated event in chronological order.
 - [10-Setting/history/great-bargain.md](../../../10-Setting/history/great-bargain.md) — the post-crisis charter.
 - [10-Setting/history/1497-reformation.md](../../../10-Setting/history/1497-reformation.md) — Parliament restructure.

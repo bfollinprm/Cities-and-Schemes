@@ -21,4 +21,4 @@ The rationing holds because it is *visibly fair*. Meggan eats the same ladle of 
 - [Western Gate — The Starvation Siege](../../../western-gate-trading-company/activity/week_6/the-starvation-siege.md)
 - [Hellriders — The Shield Wall](../../../hellriders-of-new-elturel/activity/week_6/the-shield-wall.md)
 - [Free Traders — Heed the Ultimatum (week 5)](../../../free-traders-of-the-outskirts/activity/week_5/heed-the-ultimatum.md)
-- [Outer City — Basilisk Gate](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events.md)
+- [Outer City — Basilisk Gate](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events/week_6/README.md)

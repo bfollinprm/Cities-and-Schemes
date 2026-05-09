@@ -17,4 +17,4 @@ A god of *renewal* sits oddly in a city built on concealment and old wounds. The
 ## See also
 
 - [30-Places/sword-coast/waterdeep/sea-ward/dweomerheart-hall.md](../../../30-Places/sword-coast/waterdeep/sea-ward/dweomerheart-hall.md) — the stained-glass window.
-- [40-Timeline/history.md](../../../40-Timeline/history.md).
+- [40-Timeline/history/README.md](../../../40-Timeline/history/README.md).

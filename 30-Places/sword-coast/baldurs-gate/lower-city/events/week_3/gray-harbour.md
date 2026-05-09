@@ -1,0 +1,11 @@
+---
+name: lower-city-week-3-gray-harbour
+description: lower city — Week 3 — Gray Harbour. Wharf Rats' "solidarity tax" broken in a pier-side brawl.
+---
+
+## Gray Harbour
+
+- **Wharf Rats' "solidarity tax" broken in a pier-side brawl.** [One-Eyed Jack's](../../../../../../20-Factions/wharf-rats/people/one-eyed-jack.md) attempt to convert [last week's labor win](../../../../../../20-Factions/wharf-rats/activity/week_2/the-sympathy-squeeze.md) into open extortion is broken when [Factor Errinthal](../../../../../../20-Factions/chionthar-consortium/people/factor-errinthal.md) hires a [Zhent muscle squad](../../../../../../20-Factions/zhentarim/activity/week_3/an-offer-you-cant-refuse.md) through Roah Moonglow. The Guild's hold over the Consortium docks shatters; **Zhentarim sellswords are now visibly working Consortium pay**. See [activity](../../../../../../20-Factions/wharf-rats/activity/week_3/the-solidarity-tax.md).
+- **Chionthar Consortium hardens warehouse security.** [Errinthal](../../../../../../20-Factions/chionthar-consortium/people/factor-errinthal.md) hires Guild-adjacent enforcers for the Gray Harbour warehouses; opens an internal investigation into [the Vein-framed factor murder](../../../../../../20-Factions/gilded-vein/activity/week_3/twist-the-knife.md) that mistakenly identifies Amn as responsible. See [activity](../../../../../../20-Factions/chionthar-consortium/activity/week_3/secure-the-front-lines.md).
+- **Shipwrights' premium-mooring play collapses.** [Master Tallowshand's](../../../../../../20-Factions/wc-shipwrights-calkers/people/helma-tallowshand.md) "secure berth" pricing is cratered when the [Sembian](../../../../../../20-Factions/sembian-kontor/activity/week_3/the-alternate-route.md) and [Chionthar](../../../../../../20-Factions/chionthar-consortium/activity/week_3/secure-the-front-lines.md) consortia coordinate a sharp price-cut; her berths sit empty. See [activity](../../../../../../20-Factions/wc-shipwrights-calkers/activity/week_3/a-port-in-the-storm.md).
+- **Fishmongers' daily Free Trader runs leave the harbor at cost.** Marga's salted-fish run becomes the Outer City's preferred supplier through the siege. See [activity](../../../../../../20-Factions/wc-fishmongers/activity/week_3/feed-the-blockade.md).

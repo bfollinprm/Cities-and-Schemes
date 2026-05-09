@@ -21,4 +21,4 @@ The conversations are opaque to outsiders but the body-language at the front gat
 - [Waterdhavian Kontor — The Diplomatic Immunity (week 6)](../../activity/week_6/the-diplomatic-immunity.md)
 - [Hellriders of New Elturel — The Witch Hunt](../../../hellriders-of-new-elturel/activity/week_7/the-witch-hunt.md)
 - [Sembian Kontor — The Starvation Premium](../../../sembian-kontor/activity/week_7/the-starvation-premium.md)
-- [Upper City — events](../../../../30-Places/sword-coast/baldurs-gate/upper-city/events.md)
+- [Upper City — events](../../../../30-Places/sword-coast/baldurs-gate/upper-city/events/week_7/README.md)

@@ -1,0 +1,12 @@
+---
+name: lower-city-week-5-eastway
+description: lower city — Week 5 — Eastway. Smokepowder mines buried under the Sembian advance routes.
+---
+
+## Eastway
+
+- **Smokepowder mines buried under the Sembian advance routes.** Coerced by [kompromat from Vex's office](../../../../../../20-Factions/party/activity/week_5/kill-vex-and-loot-her-office.md), Eastway Ward Boss [Farlin](../../../../../../20-Factions/guild/people/farlin.md) plants a third of the Guild's intercepted smokepowder cache as defensive mines on the routes the Sembian mercenaries would use to attack the Basilisk Gate. **The Eastway is now a minefield under foot.** See [Mine Eastway and detonate the Velvet Hand (party)](../../../../../../20-Factions/party/activity/week_5/mine-eastway-and-detonate-the-velvet-hand.md).
+- **Sembian Kontor pivots to logistics.** [Bursar Ironhand's](../../../../../../20-Factions/sembian-kontor/people/korgan-ironhand.md) wagons run a steady supply train from the Iron Ledger to the Eastway barracks — weapons, armor, provisions for the coming attack. See [activity](../../../../../../20-Factions/sembian-kontor/activity/week_5/arming-the-aggressors.md).
+- **Vintners' camp shipment poisoned by Zhentarim.** [Master Quickfoot's](../../../../../../20-Factions/wc-vintners-brewers/people/belba-quickfoot.md) shipment is intercepted in the sewers and poisoned; mercenaries fall ill, the Archduke's commander cancels the contract, the Vintners lose a fortune. See [activity](../../../../../../20-Factions/wc-vintners-brewers/activity/week_5/securing-the-supply-line.md).
+- **Bibliophile's mercenary-camp infiltrators broken.** [Nansi Gretta's](../../../../../../20-Factions/bibliophile/people/nansi-gretta.md) agents are caught and fed disinformation by Commander Valerius's lieutenants — her dossier is now actively misleading her buyers. See [activity](../../../../../../20-Factions/bibliophile/activity/week_5/the-warlords-dossier.md).
+- **Free feast at the Basilisk Gate.** Errinthal's relief caravan, escorted by the party under duress, is halted at the gate by a Free Trader lieutenant; [Finneas turns the standoff into a public feast](../../../../../../20-Factions/party/activity/week_5/errinthals-relief-caravan-pr-coup.md) for Eastway and Rivington families. The Consortium banks the *Baldur's Mouth* PR; the party banks the goodwill. See [Chionthar Consortium activity](../../../../../../20-Factions/chionthar-consortium/activity/week_5/secure-the-riverward-approaches.md).

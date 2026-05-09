@@ -21,7 +21,7 @@ The mirrors are particularly suspect: during the breach they showed a forest of 
 
 ## Wards (post-incident)
 
-After the [Night of the Howling Masks](../../../../40-Timeline/history.md), the Masquerade vowed never to host a gathering here again without:
+After the [Night of the Howling Masks](../../../../40-Timeline/history/1501-dr.md), the Masquerade vowed never to host a gathering here again without:
 
 - Triple-layer wards.
 - Cold-iron bell screening of every guest.
@@ -32,5 +32,5 @@ Whether the hall is still in service to the society as of 1502 DR is not recorde
 ## Related
 
 - The faction: [Green Masquerade](../../../../10-Setting/cosmology/fey-courts/green-masquerade.md).
-- The event: [Night of the Howling Masks](../../../../40-Timeline/history.md), 1501 DR.
+- The event: [Night of the Howling Masks](../../../../40-Timeline/history/1501-dr.md), 1501 DR.
 - The threat: [Far Realm](../../../../10-Setting/cosmology/far-realm.md).

@@ -23,4 +23,4 @@ The cost drains the city's coffers — the Council has to draw against [the Coun
 - [Peerage of Coin — The Private Security](../../../peerage-of-coin/activity/week_6/the-private-security.md)
 - [Sembian Kontor — Arming the Aggressors (week 5)](../../activity/week_5/arming-the-aggressors.md)
 - [Harpers — The Supply Sabotage](../../../harpers/activity/week_6/the-supply-sabotage.md)
-- [Lower City — Iron Ledger](../../../../30-Places/sword-coast/baldurs-gate/lower-city/events.md)
+- [Lower City — Iron Ledger](../../../../30-Places/sword-coast/baldurs-gate/lower-city/events/week_6/README.md)

@@ -22,4 +22,4 @@ Front two: **silence the Mouth**. Silvershield uses her Western Gate cargo chann
 - [Baldur's Mouth — The Puppet Press](../../../baldurs-mouth/activity/week_7/the-puppet-press.md)
 - [Peerage of Blood — The Ultimatum to the Duke](../../../peerage-of-blood/activity/week_7/the-ultimatum-to-the-duke.md)
 - [Free Traders — Smuggling the Crumbs](../../../free-traders-of-the-outskirts/activity/week_7/smuggling-the-crumbs.md)
-- [Outer City — events](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events.md)
+- [Outer City — events](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events/week_7/README.md)

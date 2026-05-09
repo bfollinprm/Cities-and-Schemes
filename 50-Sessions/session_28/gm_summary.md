@@ -7,13 +7,10 @@ description: GM summary for session 28 — opening week 7 with the post-Needle p
 
 ## Incident 1: The Press Has Flipped
 
-- **Location:** [The Weary Plowman](../../30-Places/sword-coast/baldurs-gate/outer-city/rivington.md), Rivington.
-- **Primary factions:** [Baldur's Mouth](../../20-Factions/baldurs-mouth/summary.md), [Western Gate Trading Company](../../20-Factions/western-gate-trading-company/summary.md), [Plague of Remembrance](../../20-Factions/plague-of-remembrance/summary.md), [Unveiled](../../20-Factions/unveiled/summary.md).
-- **Antagonist objective.** [Archduke Silvershield's Press Blackout](../../20-Factions/western-gate-trading-company/activity/week_7/the-press-blackout.md) becomes operational. The morning paper is now her voice.
-- **Player perception.** The new front page is the *demonstration* of how thoroughly the cult-of-Bhaal disinformation operation now interlocks with patriar political control. The party reads it as a single piece of evidence; that's correct.
-- **Stakes.** Until [Ettvard Needle](../../20-Factions/baldurs-mouth/people/ettvard-needle.md) is recovered alive, every public-facing description of the party's victory at Dusthawk Hill will be filtered through Consortium-aligned editors. The [Unveiled's prison-break propaganda](../../20-Factions/unveiled/activity/week_7/the-prison-break-propaganda.md) is one example of how badly the narrative can drift.
+The morning paper is now Silvershield's voice. Until [Ettvard](../../20-Factions/baldurs-mouth/people/ettvard-needle.md) is recovered, every public-facing description of the party's victory will run through Consortium-aligned editors. See [incident-1-press-flipped.md](incident-1-press-flipped.md).
 
 ## Incident 2: Dammon's Reveal
+
 
 - **Location:** Dammon's forge, [New Elturel](../../30-Places/sword-coast/baldurs-gate/outer-city/new-elturel.md).
 - **Primary factions:** [Worshipful Company of Smiths & Armorers](../../20-Factions/wc-smiths-armorers/summary.md), [Followers of the Phoenix](../../20-Factions/followers-of-the-phoenix/summary.md).
@@ -23,12 +20,14 @@ description: GM summary for session 28 — opening week 7 with the post-Needle p
 
 ## Incident 3: Phineas Droog and the Guild Coin
 
+
 - **Location:** [Crimson Draughts](../../30-Places/sword-coast/baldurs-gate/lower-city/brampton.md), Brampton.
 - **Primary factions:** [Worshipful Company of Alchemists & Apothecaries](../../20-Factions/wc-alchemists-apothecaries/summary.md), [The Guild](../../20-Factions/guild/summary.md), [Gravekeepers](../../20-Factions/gravekeepers/summary.md).
 - **Droog's calculus.** The [Antidote Monopoly](../../20-Factions/wc-alchemists-apothecaries/activity/week_7/the-antidote-monopoly.md) is too profitable to break for the party; he refuses Kaelan and softens the no with a Guild coin. The coin is a *cheap* gift from his end (one of several he holds from Nine-Fingers's standing arrangement) and a meaningful one for the party.
 - **The Tumbledown infiltration.** [Garrett "Grit" Fallow](../../20-Factions/guild/people/garrett-grit-fallow.md) is the chosen path. Hemlock does not know Grit is on the Guild's payroll. If the party plays the coin clean, they have a free pass into the inner crypts; if they play it loud, they could expose Grit and shatter the Guild's eyes inside the order.
 
 ## Incident 4: The Eastway Crossing and Tumbledown's Edge
+
 
 - **Location:** [Eastway gate](../../30-Places/sword-coast/baldurs-gate/lower-city/eastway.md); Tumbledown perimeter.
 - **Primary factions:** [Gravekeepers](../../20-Factions/gravekeepers/summary.md), [Worshipful Company of Vintners & Brewers](../../20-Factions/wc-vintners-brewers/summary.md), Sembian gate detail.
@@ -37,6 +36,7 @@ description: GM summary for session 28 — opening week 7 with the post-Needle p
 - **Cliffhanger.** Session ends with the patrol decision deferred to session 29.
 
 ## See also
+
 
 - [player_summary.md](player_summary.md)
 - [Party — Visit Dammon's Forge](../../20-Factions/party/activity/week_7/visit-dammons-forge.md)

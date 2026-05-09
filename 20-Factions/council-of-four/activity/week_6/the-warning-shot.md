@@ -22,4 +22,4 @@ The shots fall on a [Hellrider-trained shield wall](../../../hellriders-of-new-e
 - [Sembian Kontor — The Price of Steel](../../../sembian-kontor/activity/week_6/the-price-of-steel.md)
 - [Peerage of Blood — The Petition of Grievances](../../../peerage-of-blood/activity/week_6/the-petition-of-grievances.md)
 - [Baldur's Mouth — The Siege Edition](../../../baldurs-mouth/activity/week_6/the-siege-edition.md)
-- [Outer City — Basilisk Gate](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events.md)
+- [Outer City — Basilisk Gate](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events/week_6/README.md)

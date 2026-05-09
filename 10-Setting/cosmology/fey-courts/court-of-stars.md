@@ -36,7 +36,7 @@ For the Sword Coast in 1502 DR, the practical aftershocks are:
 
 - The Harpers received an unsigned letter in flowing script: *"Watch the stars and the spaces between."*
 - The Emerald Enclave's High Forest druids reported an unseasonable Midsummer frost — the Prince of Frost's coded signal.
-- The [Green Masquerade](green-masquerade.md) was tipped off and went on heightened alert — an alert that paid off at the [Night of the Howling Masks](../../../40-Timeline/history.md).
+- The [Green Masquerade](green-masquerade.md) was tipped off and went on heightened alert — an alert that paid off at the [Night of the Howling Masks](../../../40-Timeline/history/1501-dr.md).
 
 ## Old prophecy
 

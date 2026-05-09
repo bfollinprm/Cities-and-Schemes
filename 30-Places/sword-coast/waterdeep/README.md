@@ -18,7 +18,7 @@ Greater metropolitan population: in excess of one million; the walled city is fa
 - [governance.md](governance.md) — Open Lord, Masked Lords, Watch and Guard *as the city sees them*.
 - [factions.md](factions.md) — Cross-link table to factions active in the city.
 - [neighbors.md](neighbors.md) — Sword Coast peer cities and the southern rivalry with Baldur's Gate.
-- [history.md](history.md) — Waterdeep-specific city memory; dated events in [40-Timeline/history.md](../../../40-Timeline/history.md).
+- [history.md](history.md) — Waterdeep-specific city memory; dated events in [40-Timeline/history/README.md](../../../40-Timeline/history/README.md).
 
 ### Wards
 

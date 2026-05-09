@@ -21,4 +21,4 @@ The shuffle works. By Tendays-end the Fist's dragnet has lost the trail entirely
 - [Unveiled — The Great Escape (week 5)](../../activity/week_5/the-great-escape.md)
 - [Plague of Remembrance — The False Flag](../../../plague-of-remembrance/activity/week_6/the-false-flag.md)
 - [Flaming Fist — The Officer's Dilemma](../../../flaming-fist/activity/week_6/the-officers-dilemma.md)
-- [Undercity — events](../../../../30-Places/sword-coast/baldurs-gate/undercity/events.md)
+- [Undercity — events](../../../../30-Places/sword-coast/baldurs-gate/undercity/events/week_6.md)

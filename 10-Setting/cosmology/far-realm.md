@@ -22,7 +22,7 @@ After the [Court of Stars](fey-courts/court-of-stars.md) convened in 1501 DR ove
 - A pixie in the Laughing Hollow with tentacles where its wings should be.
 - A petrified unicorn in the High Forest, branded with circular aberrant marks.
 - The Moonwell of Sarifal blackened for one night.
-- A **Star Spawn** infiltrating a Green Masquerade ball in Waterdeep — see the [Night of the Howling Masks](../../40-Timeline/history.md).
+- A **Star Spawn** infiltrating a Green Masquerade ball in Waterdeep — see the [Night of the Howling Masks](../../40-Timeline/history/README.md).
 
 ## What works against it
 
@@ -39,4 +39,4 @@ After the [Court of Stars](fey-courts/court-of-stars.md) convened in 1501 DR ove
 
 - [fey-courts/court-of-stars.md](fey-courts/court-of-stars.md) — the 1501 conclave called *because* of this.
 - [fey-courts/green-masquerade.md](fey-courts/green-masquerade.md) — the mortal society on the front line.
-- [40-Timeline/history.md](../../40-Timeline/history.md) — dated incursion events.
+- [40-Timeline/history/README.md](../../40-Timeline/history/README.md) — dated incursion events.

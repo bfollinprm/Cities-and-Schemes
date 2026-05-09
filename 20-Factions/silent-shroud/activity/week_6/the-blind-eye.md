@@ -23,4 +23,4 @@ She also notes a Gravekeeper apprentice moving a cart through Tumbledown at the 
 - [Silent Shroud — Monitor the Tithe (week 5)](../../activity/week_5/monitor-the-tithe.md)
 - [Gravekeepers — The Corpse Caravan](../../../gravekeepers/activity/week_6/the-corpse-caravan.md)
 - [WC Sorcerous Sodality — The System Reboot](../../../wc-sorcerous-sodality/activity/week_6/the-system-reboot.md)
-- [Upper City — events](../../../../30-Places/sword-coast/baldurs-gate/upper-city/events.md)
+- [Upper City — events](../../../../30-Places/sword-coast/baldurs-gate/upper-city/events/week_6.md)

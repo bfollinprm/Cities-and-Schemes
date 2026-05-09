@@ -16,4 +16,4 @@ For most surface campaign purposes, "Toril" is shorthand for "the Material" — 
 
 - [feywild.md](feywild.md) — the twin plane.
 - [10-Setting/cosmology/deities/mystra.md](../deities/mystra.md) — Weave / Sundering context.
-- [40-Timeline/history.md](../../../40-Timeline/history.md) — Spellplague, Sundering.
+- [40-Timeline/history/README.md](../../../40-Timeline/history/README.md) — Spellplague, Sundering.

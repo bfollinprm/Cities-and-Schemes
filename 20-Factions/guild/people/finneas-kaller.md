@@ -19,7 +19,7 @@ He absorbed Vex's former inner circle — [Glass Malakor](glass-malakor.md), [Ru
 
 ## Standing with the party
 
-Listed in [`leverage.md`](../../party/leverage.md) as an **ally on call**: he runs Rivington Guild ops the party can draw on; the standing cost is staying useful to him. [Nine-Fingers Keene's verdict on the Vex killing](../../../60-Threads/nine-fingers-vex-verdict.md) is still pending, and Finneas's installation is the load-bearing argument keeping that verdict from coming due.
+Listed in [`leverage.md`](../../party/leverage/README.md) as an **ally on call**: he runs Rivington Guild ops the party can draw on; the standing cost is staying useful to him. [Nine-Fingers Keene's verdict on the Vex killing](../../../60-Threads/nine-fingers-vex-verdict.md) is still pending, and Finneas's installation is the load-bearing argument keeping that verdict from coming due.
 
 ## See also
 

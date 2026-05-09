@@ -22,4 +22,4 @@ The cruelty is working. Outer City families that were one bad week from rationin
 - [Free Traders — Rationing the Hope](../../../free-traders-of-the-outskirts/activity/week_6/rationing-the-hope.md)
 - [Hellriders — The Shield Wall](../../../hellriders-of-new-elturel/activity/week_6/the-shield-wall.md)
 - [Baldur's Mouth — The Siege Edition](../../../baldurs-mouth/activity/week_6/the-siege-edition.md)
-- [Outer City — Basilisk Gate](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events.md)
+- [Outer City — Basilisk Gate](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events/week_6/README.md)

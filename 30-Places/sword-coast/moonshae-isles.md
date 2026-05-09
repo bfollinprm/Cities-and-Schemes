@@ -35,7 +35,7 @@ Currents and named hazards (Northern Drift, Alaron Counter, Devil's Glass, Moonf
 
 - **1492–1494** — Storm Maiden rises; Sarifal's moonwells deepen their silence.
 - **1496** — Callidyrr's coin thins; reavers test every cove.
-- **1498** — Mainland fleets break the big pirate banners (see [40-Timeline/history.md](../../40-Timeline/history.md) on Asavir's Channel); small Northlander flags multiply.
+- **1498** — Mainland fleets break the big pirate banners (see [40-Timeline/history/1492-1502-dr.md](../../40-Timeline/history/1492-1502-dr.md) on Asavir's Channel); small Northlander flags multiply.
 - **1500** — A night of three moons seen over Gwynneth by twenty crews. All swore never to speak of it; all did.
 - **1502** — Pox in Snowdown's barracks; reavers raiding with storm at their backs; a green flame in a well near Maerwatch.
 

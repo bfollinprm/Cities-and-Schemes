@@ -21,4 +21,4 @@ The petition is theatre and Durinbold knows it — the Council will not honor it
 - [Council of Four — The Warning Shot](../../../council-of-four/activity/week_6/the-warning-shot.md)
 - [Patriar Heritage Society — The Officers' Mess](../../../patriar-heritage-society/activity/week_6/the-officers-mess.md)
 - [Peerage of Blood — The Propaganda Campaign (week 5)](../../activity/week_5/the-propaganda-campaign.md)
-- [Upper City — High Hall](../../../../30-Places/sword-coast/baldurs-gate/upper-city/events.md)
+- [Upper City — High Hall](../../../../30-Places/sword-coast/baldurs-gate/upper-city/events/week_6.md)

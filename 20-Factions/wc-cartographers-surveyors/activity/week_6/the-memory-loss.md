@@ -21,4 +21,4 @@ The ritual fails. The cleric's working strikes the K'liir mind-wipe like a spell
 - [Cartographers — Mapping the Battlefield (week 5)](../../activity/week_5/mapping-the-battlefield.md)
 - [The Unchained — The Psionic Sweep](../../../unchained/activity/week_6/the-psionic-sweep.md)
 - [WC Sorcerous Sodality — The System Reboot](../../../wc-sorcerous-sodality/activity/week_6/the-system-reboot.md)
-- [Upper City — Cartographers' Guildhall](../../../../30-Places/sword-coast/baldurs-gate/upper-city/events.md)
+- [Upper City — Cartographers' Guildhall](../../../../30-Places/sword-coast/baldurs-gate/upper-city/events/week_6.md)

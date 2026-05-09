@@ -40,5 +40,5 @@ By sundown the answer had been given. ['Mad' Meggan rolled wagons into a second 
 
 ## See also
 
-- [events.md](events.md)
+- [events.md](events/README.md)
 - [calendar.md](../calendar.md)
