@@ -1,32 +1,30 @@
 # 90-Stubs/people
 
-All 238 person/place/concept stubs in this folder have been triaged.
+The 238 person/place/concept stubs that originally lived here have been triaged and the folder cleared. This README records the outcome at a summary level; per-stub forensics live in `git log`.
 
 ## Outcome
 
 Of the 238 stubs:
 
-- **~155 deleted as junk / sentence-fragment / common-noun / title-stub.** Examples: `an-npc`, `any-npc`, `any-luskan`, `archduke`, `archduke-of-baldurs-gate`, `archduke-silvershield`, `the-dm`, `until-the-dm`, `confirmed-the-knights`, `defend-marshal-flint`, `defense-of-marshal-flint`, `read-the-ledger`, `recover-the-ledger`, `endorse-the-sembian`, `glorify-the-archduke`, `scavenge-the-scraps`, `narrative-correction`, `officers-dilemma`, `oath-of-conspiracy`, `the-call`, `the-double-cross`, `silencing-ritual`, `failed-hlath`, `failed-ritual-of-warding`, `flints-githyanki`, `pragmatic-githyanki`, `dispossessed-patriar`, `dr-masked-lord`, `traditionalist-ahghaironians`, `chosen-of-mystra`, `crown-of-the-north`, `material-plane`, `dale-reckoning`, `deep-speech`, `sylvan-and-deep-speech`, `baeron-and-shilarn-silmaeril`, `baldurian-and-elturian`, `calimshan-and-tethyr`, `gloaming-and-winter`, `seasonal-lords-and-ladies`, `revelers-masked`, `lady-of-springs-veil-and-lord-of-summer`, `winter-masquer`, `tree-of-stars`, `the-ledger-of-favors`, `lady-vhages-plague-of-remembrance`, `four-dukes`, `forge-of-the-nine`, `stormshore-armoury`, `sows-foot`, `old-wall`, `the-captains`, `the-faithful`, `the-sachems`, `the-marshal`, `the-magisters`, `the-press`, `the-crown`, `the-keeper`, `the-body`, `the-dregs`, `the-conspiracists`, `umberleen-unveiling` (later promoted, see below), `chief-artificer`, `lord-mage`, `open-lord`, `consul-athar`, `bursar-korgan-ironhand` (covered by korgan-ironhand), `nine-hells` (covered by avernus.md), and more.
-
-- **~62 deleted as duplicate of an existing entry; references rewired in pre-existing prose.** Notable examples: `dagult-neverember`, `corylus-thann`, `jelenn-urmbrusk`, `vajra-safahr`, `laeral-silverhand`, `aurelia-northwind-thorne`, `jarlaxle-baenre`, `archduke-lyra-silvershield` / `matron-lyra-silvershield`, `bregan-daerthe`, `commander-klaar` / `klaar`, `kliir`, `lord-hlath`, `lord-fox-of-secomber`, `lord-larethian`, `lady-shandria-of-astrazalian`, `the-huntsman`, `wild-hunt`, `lady-of-twilight`, `mister-smiles`, `seven-sisters`, `khelben-arunsun` (now promoted, see below), `lyra-sunstone`, `aldon-glass`, `prince-of-frost`, `green-glade`, `bhephels-bottles`, `singing-lute`, `danthelons-dancing-axe`, `marshal-flint` / `marshal-valerius-flint`, `manip-jerrol`, `goodman-borlu`, `consul-vorlamin-athar`, `chief-artificer-glim`, `factor-elara-mornwood`, `master-joric-the-stout`, `master-helma-tallowshand`, `factor-errinthal`, `master-borin-stonehand`, `randal-evenwood`, `lady-emmeline-vhage`, `vex-corvin`, `davil-starsong`, `skeemo-weirdbottle`, `fingers-keene`, `meloon-wardragon`, `silent-choir`, `the-decade-of-reconstruction`, `the-masked-lord-murders`, `warlord-raurlor`, `nimoars-hold`, `second-sundering`, `queen-vlaakith`, `velvet-hand`, `howling-masks`, `new-sharandar`, `the-moonwell-of-sarifal`, `crystal-fens-of-murmurond`, `high-riders-stand`, `githyanki-garrison`, `tskva`, `seatower-of-balduran`, `compromised-masons`, `burned-harper`, `new-brampton`, `rivington-and-blackgate`, `watchful-shield`, `emerald-regent`, `lady-foxglove`, `the-regent`, `open-hand`, `whispering-stones`, `whispering-stones-presence`, `coin-swords`, `iron-guard`, `griffin-guard`, `the-wardens`.
-
-- **15 promoted to new entries:**
-  - *Lord Vescaras Ammakyl* → [20-Factions/harpers/people/vescaras-ammakyl.md](../../20-Factions/harpers/people/vescaras-ammakyl.md).
-  - *Lady Remallia Haventree* → [20-Factions/harpers/people/remallia-haventree.md](../../20-Factions/harpers/people/remallia-haventree.md).
-  - *Tilly Falkenrath* → [20-Factions/harpers/people/tilly-falkenrath.md](../../20-Factions/harpers/people/tilly-falkenrath.md).
-  - *Blaze Liara Portyr* → [20-Factions/flaming-fist/people/liara-portyr.md](../../20-Factions/flaming-fist/people/liara-portyr.md).
-  - *Khelben Arunsun* → [20-Factions/masked-lords/people/khelben-arunsun.md](../../20-Factions/masked-lords/people/khelben-arunsun.md).
-  - *Lady Duskrose* → [10-Setting/cosmology/fey-courts/lady-duskrose.md](../../10-Setting/cosmology/fey-courts/lady-duskrose.md).
-  - *Queen of Air and Darkness* → [10-Setting/cosmology/fey-courts/queen-of-air-and-darkness.md](../../10-Setting/cosmology/fey-courts/queen-of-air-and-darkness.md).
-  - *Prince Orpheus* → [10-Setting/cosmology/prince-orpheus.md](../../10-Setting/cosmology/prince-orpheus.md).
-  - *Lady of Loss / Shar* → [10-Setting/cosmology/deities/shar.md](../../10-Setting/cosmology/deities/shar.md).
-  - *Cloud Peaks* → [30-Places/sword-coast/cloud-peaks.md](../../30-Places/sword-coast/cloud-peaks.md).
-  - *High Forest* → [30-Places/sword-coast/high-forest.md](../../30-Places/sword-coast/high-forest.md).
-  - *Laughing Hollow* → [30-Places/sword-coast/laughing-hollow.md](../../30-Places/sword-coast/laughing-hollow.md).
-  - *Force Grey* → [20-Factions/force-grey/](../../20-Factions/force-grey/) — promoted to full faction with summary.
-  - *Black Lilly* → [20-Factions/xanathars-guild/associations/black-lilly.md](../../20-Factions/xanathars-guild/associations/black-lilly.md).
-  - *Umberleen Unveiling* → [20-Factions/umberleen-unveiling/](../../20-Factions/umberleen-unveiling/) — promoted to full faction with summary.
+- **~155 deleted** as junk, sentence-fragment, common-noun, or title-stub (e.g. `archduke`, `the-dm`, `the-call`, `material-plane`, `four-dukes`).
+- **~62 deleted** as duplicates of existing entries; references rewired in pre-existing prose (e.g. `dagult-neverember`, `laeral-silverhand`, `factor-errinthal`, `whispering-stones`).
+- **15 promoted** to full entries:
+  - *Lord Vescaras Ammakyl* → [harpers/people/vescaras-ammakyl.md](../../20-Factions/harpers/people/vescaras-ammakyl.md).
+  - *Lady Remallia Haventree* → [harpers/people/remallia-haventree.md](../../20-Factions/harpers/people/remallia-haventree.md).
+  - *Tilly Falkenrath* → [harpers/people/tilly-falkenrath.md](../../20-Factions/harpers/people/tilly-falkenrath.md).
+  - *Blaze Liara Portyr* → [flaming-fist/people/liara-portyr.md](../../20-Factions/flaming-fist/people/liara-portyr.md).
+  - *Khelben Arunsun* → [masked-lords/people/khelben-arunsun.md](../../20-Factions/masked-lords/people/khelben-arunsun.md).
+  - *Lady Duskrose* → [cosmology/fey-courts/lady-duskrose.md](../../10-Setting/cosmology/fey-courts/lady-duskrose.md).
+  - *Queen of Air and Darkness* → [cosmology/fey-courts/queen-of-air-and-darkness.md](../../10-Setting/cosmology/fey-courts/queen-of-air-and-darkness.md).
+  - *Prince Orpheus* → [cosmology/prince-orpheus.md](../../10-Setting/cosmology/prince-orpheus.md).
+  - *Lady of Loss / Shar* → [cosmology/deities/shar.md](../../10-Setting/cosmology/deities/shar.md).
+  - *Cloud Peaks* → [sword-coast/cloud-peaks.md](../../30-Places/sword-coast/cloud-peaks.md).
+  - *High Forest* → [sword-coast/high-forest.md](../../30-Places/sword-coast/high-forest.md).
+  - *Laughing Hollow* → [sword-coast/laughing-hollow.md](../../30-Places/sword-coast/laughing-hollow.md).
+  - *Force Grey* → [force-grey/](../../20-Factions/force-grey/) — promoted to full faction with summary.
+  - *Black Lilly* → [xanathars-guild/associations/black-lilly.md](../../20-Factions/xanathars-guild/associations/black-lilly.md).
+  - *Umberleen Unveiling* → [umberleen-unveiling/](../../20-Factions/umberleen-unveiling/) — promoted to full faction with summary.
 
 ## Inbound link rewiring
 
-Every prose mention of a name that had a stub here now points at its new home: Harper "Wise Owls" entries in [waterdeep/factions.md](../../30-Places/sword-coast/waterdeep/factions.md), [dock-ward/character.md](../../30-Places/sword-coast/waterdeep/dock-ward/character.md), and [harpers/summary.md](../../20-Factions/harpers/summary.md); Liara Portyr in [flaming-fist/summary.md](../../20-Factions/flaming-fist/summary.md), [valerius-flint.md](../../20-Factions/flaming-fist/people/valerius-flint.md), [mad-meggan.md](../../20-Factions/free-traders-of-the-outskirts/people/mad-meggan.md), and [outer-city/events.md](../../30-Places/sword-coast/baldurs-gate/outer-city/events.md); Tilly Falkenrath in [ettvard-needle.md](../../20-Factions/baldurs-mouth/people/ettvard-needle.md) and [hemlock.md](../../20-Factions/gravekeepers/people/hemlock.md); Lady Duskrose in [unseelie.md](../../10-Setting/cosmology/fey-courts/unseelie.md), [green-masquerade.md](../../10-Setting/cosmology/fey-courts/green-masquerade.md), [aurelia-thorne.md](../../10-Setting/cosmology/fey-courts/aurelia-thorne.md), and [40-Timeline/history.md](../../40-Timeline/history.md); Force Grey in [waterdeep-government.md](../../10-Setting/polities/waterdeep-government.md), [governance.md](../../30-Places/sword-coast/waterdeep/governance.md), [castle-ward/character.md](../../30-Places/sword-coast/waterdeep/castle-ward/character.md), [city-watch/summary.md](../../20-Factions/city-watch/summary.md), [city-guard/summary.md](../../20-Factions/city-guard/summary.md), and [xanathars-guild/summary.md](../../20-Factions/xanathars-guild/summary.md); Khelben Arunsun in [waterdeep-government.md](../../10-Setting/polities/waterdeep-government.md); Black Lilly link to its association page in [xanathars-guild/summary.md](../../20-Factions/xanathars-guild/summary.md). Parent README indexes updated for [20-Factions](../../20-Factions/README.md), [30-Places/sword-coast](../../30-Places/sword-coast/README.md), [cosmology](../../10-Setting/cosmology/README.md), [cosmology/fey-courts](../../10-Setting/cosmology/fey-courts/README.md), [cosmology/deities](../../10-Setting/cosmology/deities/README.md), [harpers/people](../../20-Factions/harpers/people/README.md), [flaming-fist/people](../../20-Factions/flaming-fist/people/README.md), [masked-lords/people](../../20-Factions/masked-lords/people/README.md), and [xanathars-guild](../../20-Factions/xanathars-guild/README.md).
+All prose references to deleted or promoted stubs were rewired to their new homes. Parent indexes refreshed for [20-Factions](../../20-Factions/README.md), [30-Places/sword-coast](../../30-Places/sword-coast/README.md), [10-Setting/cosmology](../../10-Setting/cosmology/README.md), and the affected faction `people/` indexes.

@@ -20,4 +20,4 @@ The first probing assault by [the Archduke's mercenaries](../../../western-gate-
 - [Elder Elion](../../people/elder-elion.md)
 - [Free Traders of the Outskirts — Smuggling the Crumbs](../../../free-traders-of-the-outskirts/activity/week_7/smuggling-the-crumbs.md)
 - [Western Gate Trading Company — The Press Blackout](../../../western-gate-trading-company/activity/week_7/the-press-blackout.md)
-- [Outer City — events](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events.md)
+- [Outer City — events](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events/week_7/README.md)

@@ -1,0 +1,11 @@
+---
+name: undercity-week-7
+description: undercity — Week 7 fallout. The Prison Break Propaganda.
+---
+
+## Week 7
+
+- **The Prison Break Propaganda.** [Xylia's](../../../../../20-Factions/unveiled/people/xylia.md) runners distribute pamphlets through every Lower City alley and Sow's Foot doss-house claiming the recent Bhaalist murders are a false flag orchestrated by the Archduke to justify martial law. Internally consistent and almost entirely wrong, but in a Lower City that has watched the *Mouth* go silent and the Council fire on its own civilians, it lands. **The Unveiled tripled its quiet membership in Brampton.** See [Unveiled activity](../../../../../20-Factions/unveiled/activity/week_7/the-prison-break-propaganda.md).
+- **The Digital Purge in the Guildhall.** [Nine-Fingers Keene](../../../../../20-Factions/guild/people/astele-keene.md) launches the systematic Lower City hunt for Pell Marrowfax's Zhent ledger-clerk co-conspirators from the Undercity Guildhall. Three dead in alleys; one dead at his desk with no visible wound. See [Guild activity](../../../../../20-Factions/guild/activity/week_7/the-digital-purge.md).
+- **The Wharf Rats take four sewer junctions under Gray Harbour.** [One-Eyed Jack's](../../../../../20-Factions/wharf-rats/people/one-eyed-jack.md) crew win a running, hours-long battle against a Zhent retaliation squad in the storm-drains under Gray Harbour. They end the week controlling four key drainage junctions, including a cistern overflow that opens directly into the [Counting House subbasement](../../lower-city/counting-house.md). See [Wharf Rats activity](../../../../../20-Factions/wharf-rats/activity/week_7/the-sewer-skirmish.md).
+- **The Hands' resonance lattice leaks into the storm-drains.** [The Voice in the Choir's](../../../../../20-Factions/hands-of-the-absolute/people/the-voice.md) larger psionic chamber leaks waking nightmares into Heapside above and into the surrounding storm-drains below. Bror's Whispering Stone hums when he steps near a Heapside drain. The party detours to the surface route. See [Hands activity](../../../../../20-Factions/hands-of-the-absolute/activity/week_7/the-resonance-chamber.md), [Session 28](../../../../../50-Sessions/session_28/player_summary.md).

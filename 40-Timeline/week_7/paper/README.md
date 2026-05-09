@@ -25,5 +25,5 @@ description: Baldur's Mouth issue for week 7 — the first issue under the Inter
 
 ## See also
 
-- [../events.md](../events.md)
+- [../events.md](../events/README.md)
 - [../../calendar.md](../../calendar.md)

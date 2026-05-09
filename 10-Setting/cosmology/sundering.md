@@ -22,5 +22,5 @@ It is the boundary between the world that was and the world that is. The Hellrid
 - [Mystra](deities/mystra.md).
 - [Laeral Silverhand](../../20-Factions/masked-lords/people/laeral-silverhand.md).
 - [Feywild](realms/feywild.md) · [Toril](realms/toril.md).
-- [40-Timeline/history.md](../../40-Timeline/history.md).
+- [40-Timeline/history/c-1482-1487-dr.md](../../40-Timeline/history/c-1482-1487-dr.md).
 - [30-Places/sword-coast/waterdeep/history.md](../../30-Places/sword-coast/waterdeep/history.md).

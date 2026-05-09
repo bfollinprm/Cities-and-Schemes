@@ -1,0 +1,12 @@
+---
+name: lower-city-week-6-heapside
+description: lower city — Week 6 — Heapside. The Baldur's Mouth Siege Edition.
+---
+
+## Heapside
+
+- **The Baldur's Mouth Siege Edition.** [Editor Ettvard Needle](../../../../../../20-Factions/baldurs-mouth/people/ettvard-needle.md) runs starving-children sketches on the front page and Kaelan's *Insurance Scam* exposé inside; the print run sells out three times. See [Baldur's Mouth activity](../../../../../../20-Factions/baldurs-mouth/activity/week_6/the-siege-edition.md).
+- **The Hands of the Absolute's botched transfusion.** A kidnapped psi-sensitive dies on the slab; the city-wide psionic shockwave is detected by the K'liir, the Sodality, and the Whispering Stone. The cult is psychically blind, deaf, and tagged. See [Hands activity](../../../../../../20-Factions/hands-of-the-absolute/activity/week_6/the-silent-scream.md).
+- **The Baldur's Mouth print shop ransacked.** [Ettvard Needle](../../../../../../20-Factions/baldurs-mouth/people/ettvard-needle.md) is missing; a hidden note hints he has fled to the crypts under Tumbledown. **The Mouth's editorial line is one week from a pro-Consortium pivot.** See [Session 27](../../../../../../50-Sessions/session_27/player_summary.md), [party activity](../../../../../../20-Factions/party/activity/week_6/split-leads-after-the-counting-house.md).
+- **Storm Dusthawk Hill.** The party ascends the north face of the Hill under the captured Spotter's guidance, navigates the [Four Cairns and the Skittering Beetle's debt-trades](../../../../../../20-Factions/takers-of-the-tithe/people/the-skittering-beetle.md), kills [Singa](../../../../../../20-Factions/takers-of-the-tithe/people/singa.md) at the summit Counting House, surrenders the **Tithe Ledger** to the Beetle, and revives [Alfira](../../../../../../20-Factions/followers-of-the-phoenix/people/the-ember.md) with a diamond from the obsidian pit. The Bhaalist cell on the Hill is broken. See [Sessions 25–26](../../../../../../50-Sessions/session_25/player_summary.md), [party activity](../../../../../../20-Factions/party/activity/week_6/storm-dusthawk-hill.md).
+- **The Gravekeepers' silent corpse caravan.** [Old Man Hemlock](../../../../../../20-Factions/gravekeepers/people/hemlock.md) moves the order's stockpile of consecrated corpses from Tumbledown to a deeper vault in Cliffside Cemetery in absolute silence. See [Gravekeepers activity](../../../../../../20-Factions/gravekeepers/activity/week_6/the-corpse-caravan.md).

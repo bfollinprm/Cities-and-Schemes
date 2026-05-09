@@ -18,7 +18,7 @@ A Waterdhavian faction with no Baldurian cell; mentioned alongside [Bregan D'aer
 
 ## Hooks and Relationships
 
-**Enemies.** Direct shooting war with [Manshoon's Zhentarim](../zhentarim/summary.md) — the **Shadow War** that began with the **Zhentarim Schism** c. 1491 DR (see [40-Timeline/history.md](../../40-Timeline/history.md)). Each side wants control of Waterdeep's underworld; Manshoon wants the Open Lord's chair, the Xanathar wants citizens hooked, papered, and watched.
+**Enemies.** Direct shooting war with [Manshoon's Zhentarim](../zhentarim/summary.md) — the **Shadow War** that began with the **Zhentarim Schism** c. 1491 DR (see [40-Timeline/history/c-1491-dr.md](../../40-Timeline/history/c-1491-dr.md)). Each side wants control of Waterdeep's underworld; Manshoon wants the Open Lord's chair, the Xanathar wants citizens hooked, papered, and watched.
 
 **Subordinated by.** The reformer-Zhentarim **Doom Raiders** (Davil Starsong, Skeemo Weirdbottle) prefer to outmaneuver rather than confront the Guild and have so far avoided open conflict.
 

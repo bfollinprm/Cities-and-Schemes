@@ -20,4 +20,4 @@ The expansion is openly retaliatory: Borlu wants [the Inner Grove Druids](../../
 - [Goodman Borlu](../../people/borlu.md)
 - [Butchers & Tanners — The Tannery Defense (week 6)](../../activity/week_6/the-tannery-defense.md)
 - [Circle of the Inner Grove — Vine Barricades](../../../circle-of-the-inner-grove/activity/week_7/vine-barricades.md)
-- [Outer City — events](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events.md)
+- [Outer City — events](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events/week_7/README.md)

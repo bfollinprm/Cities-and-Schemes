@@ -21,4 +21,4 @@ In reality the iron is for the Smiths' own forges. With the siege threatening to
 - [WC Smiths — An Appeal to the Old Guard (week 5)](../../activity/week_5/an-appeal-to-the-old-guard.md)
 - [Lantaner Concession — The Prototype Assembly](../../../lantaner-concession/activity/week_6/the-prototype-assembly.md)
 - [Hellriders — The Shield Wall](../../../hellriders-of-new-elturel/activity/week_6/the-shield-wall.md)
-- [Outer City — Basilisk Gate](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events.md)
+- [Outer City — Basilisk Gate](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events/week_6/README.md)

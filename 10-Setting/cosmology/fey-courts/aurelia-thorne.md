@@ -15,4 +15,4 @@ A recent Reveler in the [Green Masquerade](green-masquerade.md). Mask-name **Nor
 ## See also
 
 - [The Green Masquerade](green-masquerade.md).
-- [40-Timeline/history.md](../../../40-Timeline/history.md) — Night of the Howling Masks.
+- [40-Timeline/history/1501-dr.md](../../../40-Timeline/history/1501-dr.md) — Night of the Howling Masks.

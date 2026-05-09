@@ -1,0 +1,16 @@
+---
+name: party-recent-activity
+description: Party — week-by-week prose recap from week 2 onward. Per-action canon lives in ../activity/week_N/.
+---
+
+# Party — Recent Activity
+
+Week-by-week prose recap. Authoritative per-action canon lives in [`../activity/`](../activity/).
+
+## Weeks
+
+- [Week 2](week_2.md) — In week 2 the party sold the captured cultist to 'Mad' Meggan for 6,000 gp at the Basilisk Gate siege, openly…
+- [Week 3](week_3.md) — In week 3 the party evades the Fist warrant at the Weary Plowman with Lena's help and walks the Circus of the Last…
+- [Week 7](week_7.md) — In week 7 the party opens the tenday at the Plowman reading the new (post-Needle) Baldur's Mouth — visibly…
+- [Week 6](week_6.md) — In week 6 the party reads the Baldur's Mouth Siege Edition with Kaelan's Insurance Scam exposé folded inside, Spark…
+- [Week 5](week_5.md) — In week 5 the party buys three Candlekeep-key books at the Pilgrim's Parchment, kills Vex in a warehouse ambush in…

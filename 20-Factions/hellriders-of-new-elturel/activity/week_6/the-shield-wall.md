@@ -21,4 +21,4 @@ The transformation is visible from the [Outer City roads](../../../western-gate-
 - [Free Traders — Rationing the Hope](../../../free-traders-of-the-outskirts/activity/week_6/rationing-the-hope.md)
 - [Hellriders — The Elturgard Alliance (week 5)](../../activity/week_5/the-elturgard-alliance.md)
 - [Council of Four — The Warning Shot](../../../council-of-four/activity/week_6/the-warning-shot.md)
-- [Outer City — Basilisk Gate](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events.md)
+- [Outer City — Basilisk Gate](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events/week_6/README.md)

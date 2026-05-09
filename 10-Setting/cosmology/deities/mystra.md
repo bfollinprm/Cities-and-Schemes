@@ -15,6 +15,6 @@ Goddess of magic. Patron of the Weave. Source of the Chosen-of-Mystra power that
 
 ## See also
 
-- [40-Timeline/history.md](../../../40-Timeline/history.md) — Second Sundering entries.
+- [40-Timeline/history/c-1482-1487-dr.md](../../../40-Timeline/history/c-1482-1487-dr.md) — Second Sundering entries.
 - [10-Setting/cosmology/realms/feywild.md](../realms/feywild.md) — post-Sundering crossings.
 - [Laeral Silverhand](../../../20-Factions/masked-lords/people/laeral-silverhand.md) — the personal cost.

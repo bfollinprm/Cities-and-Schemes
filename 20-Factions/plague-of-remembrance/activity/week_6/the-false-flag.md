@@ -22,4 +22,4 @@ The bait works. By morning the Baldur's Mouth has the story (sketched, not stage
 - [Plague of Remembrance — The Serpent's Kiss (week 5)](../../activity/week_5/the-serpents-kiss.md)
 - [Flaming Fist — The Officer's Dilemma](../../../flaming-fist/activity/week_6/the-officers-dilemma.md)
 - [Baldur's Mouth — The Siege Edition](../../../baldurs-mouth/activity/week_6/the-siege-edition.md)
-- [Outer City — events](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events.md)
+- [Outer City — events](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events/week_6/README.md)

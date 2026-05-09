@@ -29,5 +29,5 @@ Spark's speech turned the protest from anger to opening; the medicine cart rolle
 ## See also
 
 - [gm_summary.md](gm_summary.md)
-- [Faction activity — week 1](../../40-Timeline/week_1/events.md)
+- [Faction activity — week 1](../../40-Timeline/week_1/events/README.md)
 - [Party activity — week 1](../../20-Factions/party/activity/week_1/)

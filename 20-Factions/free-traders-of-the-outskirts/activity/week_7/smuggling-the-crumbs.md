@@ -20,4 +20,4 @@ A halfling raiding cell threads forgotten storm-aqueducts under [Eastway](../../
 - ['Mad' Meggan](../../people/mad-meggan.md)
 - [Circle of the Inner Grove — Vine Barricades](../../../circle-of-the-inner-grove/activity/week_7/vine-barricades.md)
 - [Western Gate Trading Company — The Press Blackout](../../../western-gate-trading-company/activity/week_7/the-press-blackout.md)
-- [Outer City — events](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events.md)
+- [Outer City — events](../../../../30-Places/sword-coast/baldurs-gate/outer-city/events/week_7/README.md)

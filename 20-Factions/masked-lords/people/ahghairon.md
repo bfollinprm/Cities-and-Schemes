@@ -18,4 +18,4 @@ Every argument about the legitimacy of the Masked Lords passes through Ahghairon
 - [The Masked Lords](../summary.md).
 - [30-Places/sword-coast/waterdeep/history.md](../../../30-Places/sword-coast/waterdeep/history.md) — founding myths.
 - [10-Setting/polities/waterdeep-government.md](../../../10-Setting/polities/waterdeep-government.md).
-- [40-Timeline/history.md](../../../40-Timeline/history.md) — 1032 DR and 1256 DR entries.
+- [40-Timeline/history/older.md](../../../40-Timeline/history/older.md) — 1032 DR and 1256 DR entries.

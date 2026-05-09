@@ -20,4 +20,4 @@ By the fifth day the Lower City retail price of copper has dropped 18% against s
 - [Valerius Thorne](../../people/valerius-thorne.md)
 - [Gilded Vein — The Liquidated Assets (week 6)](../../activity/week_6/the-liquidated-assets.md)
 - [Goldsmiths — The Public Assay](../../../wc-goldsmiths-jewelers/activity/week_7/the-public-assay.md)
-- [Lower City — events](../../../../30-Places/sword-coast/baldurs-gate/lower-city/events.md)
+- [Lower City — events](../../../../30-Places/sword-coast/baldurs-gate/lower-city/events/week_7/README.md)

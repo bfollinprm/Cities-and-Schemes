@@ -45,5 +45,5 @@ description: Baldur's Mouth issue for week 6 — public-facing reporting only. T
 
 ## See also
 
-- [events.md](events.md)
+- [events.md](events/README.md)
 - [calendar.md](../calendar.md)

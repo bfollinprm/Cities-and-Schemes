@@ -1,0 +1,15 @@
+---
+name: week-1-from-pc-actions
+description: The party arrives in Rivington this week and immediately becomes load-bearing on the Wyrm's Crossing crisis.
+---
+
+## From PC actions
+
+The party arrives in [Rivington](../../../30-Places/sword-coast/baldurs-gate/outer-city/rivington.md) this week and immediately becomes load-bearing on the Wyrm's Crossing crisis.
+
+- **Sessions 1–2.** They [defuse a Zhentarim toll](../../../20-Factions/party/activity/week_1/pay-the-zhentarim-toll-on-the-coast-way.md) on the Coast Way (and clock Guild operatives watching from cover), then [heist the Open Hand medicine cart](../../../20-Factions/party/activity/week_1/heist-the-rivington-medicine-cart.md) out of a Chionthar warehouse in [Little Calimshan](../../../30-Places/sword-coast/baldurs-gate/outer-city/little-calimshan.md), with Elia stealing a second cart of anti-Amnian propaganda. Spark [brokers a corridor through the Hellrider protest](../../../20-Factions/party/activity/week_1/broker-the-medicine-corridor-at-wyrms-crossing.md) and the medicine reaches the temple.
+- **Session 2.** [Vex](../../../20-Factions/guild/people/vex.md) of the Guild [hires the party](../../../20-Factions/party/activity/week_1/take-the-vex-job-shadow-gareth.md) for a "trust-building" silencing of the loud-mouth mason [Gareth](../../../20-Factions/wc-masons-sculptors/people/gareth.md); Bror tails Gareth home.
+- **Session 3.** [Alena](../../../20-Factions/hellriders-of-new-elturel/people/high-watcher-alena.md) [tasks the party](../../../20-Factions/party/activity/week_1/accept-the-jaredith-mission-from-alena.md) with turning her radicalized lieutenant [Jaredith Heartsong](../../../20-Factions/hellriders-of-new-elturel/people/jaredith-heartsong.md) off the Phoenix Pits' violent line; Spark talks her into granting the [Followers of the Phoenix](../../../20-Factions/followers-of-the-phoenix/summary.md) **official representation in New Elturel's council and land for a temple**. [Factor Errinthal](../../../20-Factions/chionthar-consortium/people/factor-errinthal.md) [co-opts the party](../../../20-Factions/party/activity/week_1/be-co-opted-by-the-chionthar-consortium.md) over the medicine cart and never thinks to ask after the second cart.
+- **Sessions 4–5.** The party [tracks the Sewer Plague](../../../20-Factions/party/activity/week_1/track-the-sewer-plague-to-the-worm-spit.md) to the Worm Spit, survives an Otyugh, and [destroys the Plague-Father's laboratory](../../../20-Factions/party/activity/week_1/destroy-the-plague-fathers-laboratory.md) — a Plague of Remembrance alchemical cell with a **cracked-vial** sigil and Nightmare-Root reagents implicating a Hands-of-the-Absolute supply chain. They hand the captured cultist and the orphan [Finn](../../../20-Factions/hellriders-of-new-elturel/people/finn.md) to Alena, long-rest, and reach **level 3**.
+
+The party leaves week 1 publicly in Consortium employ, privately in Hellrider trust, on retainer with the Guild, and in possession of three pieces of leverage no faction yet knows they hold: the propaganda cart, the cracked-vial sigil, and a captive Plague-of-Remembrance cultist breathing inside Alena's stockade.

@@ -22,4 +22,4 @@ The audit recovers nothing of the stolen ledger access, because it is too late: 
 - [Zhentarim — The Ledger Logic](../../../zhentarim/activity/week_6/the-ledger-logic.md)
 - [Zhentarim — The Financial Front (week 5)](../../../zhentarim/activity/week_5/the-financial-front.md)
 - [Party — Install Finneas as Guild boss of Rivington (week 5)](../../../party/activity/week_5/install-finneas-as-guild-boss-of-rivington.md)
-- [Undercity — events](../../../../30-Places/sword-coast/baldurs-gate/undercity/events.md)
+- [Undercity — events](../../../../30-Places/sword-coast/baldurs-gate/undercity/events/week_6.md)

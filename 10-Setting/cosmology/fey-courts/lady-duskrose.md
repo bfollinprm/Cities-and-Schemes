@@ -20,4 +20,4 @@ Duskrose was on the line with [Lord Fox of Secomber](seelie.md), [Aurelia "North
 - [The Green Masquerade](green-masquerade.md).
 - [The Unseelie Court](unseelie.md).
 - [Aurelia "Northwind" Thorne](aurelia-thorne.md).
-- [40-Timeline/history.md](../../../40-Timeline/history.md) — Night of the Howling Masks.
+- [40-Timeline/history/1501-dr.md](../../../40-Timeline/history/1501-dr.md) — Night of the Howling Masks.

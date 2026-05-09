@@ -21,4 +21,4 @@ The pamphlets cite the *Tragus Ballus* killing the Unveiled has long held to be 
 - [Unveiled — The Safehouse Shuffle (week 6)](../../activity/week_6/the-safehouse-shuffle.md)
 - [Western Gate Trading Company — The Press Blackout](../../../western-gate-trading-company/activity/week_7/the-press-blackout.md)
 - [Lower City — Brampton](../../../../30-Places/sword-coast/baldurs-gate/lower-city/brampton.md)
-- [Undercity — events](../../../../30-Places/sword-coast/baldurs-gate/undercity/events.md)
+- [Undercity — events](../../../../30-Places/sword-coast/baldurs-gate/undercity/events/week_7.md)

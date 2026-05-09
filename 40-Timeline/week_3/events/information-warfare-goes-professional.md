@@ -1,0 +1,10 @@
+---
+name: week-3-information-warfare-goes-professional
+description: Editor Needle puts the Baldur's Mouth on Marshal Flint and prices the dirt by who will pay to bury it.
+---
+
+## Information warfare goes professional
+
+[Editor Needle](../../../20-Factions/baldurs-mouth/activity/week_3/the-price-of-insubordination.md) puts the *Baldur's Mouth* on Marshal Flint and prices the dirt by who will pay to bury it. [The Bibliophile](../../../20-Factions/bibliophile/activity/week_3/the-price-of-treason.md) compiles a leverage dossier on the Marshal's *officers* — names, debts, families — for a multi-faction auction. [The Cartographers](../../../20-Factions/wc-cartographers-surveyors/activity/week_3/chart-the-chaos.md) draw assault and defense maps of both fortifications and offer them simultaneously to the Archduke's mercenaries and to Mad Meggan. [The Harpers](../../../20-Factions/harpers/activity/week_3/find-a-new-inlet.md) try to seat a clerk in the Archduke's Bloomridge Park Manor household, walk into a counter-intelligence trap, and lose [Randal Evenwood](../../../20-Factions/harpers/summary.md) as a usable agent. [The Mercers](../../../20-Factions/wc-mercers-clothiers/activity/week_3/the-color-of-authority.md) put Peerage-of-Blood colors on Fist officer parade uniforms before the Fist's officers will admit they have shifted political alignment. [The Chandlers](../../../20-Factions/wc-chandlers-lamplighters/activity/week_3/a-light-in-the-storm.md) light Norchapel and quietly run the lamplighter intelligence subscription.
+
+[The Waterdhavian Kontor](../../../20-Factions/waterdhavian-kontor/activity/week_3/an-offer-of-patronage.md), reading [last week's Bibliophile dossier on the party](../../../20-Factions/bibliophile/activity/week_2/intelligence-for-sale.md), dispatches an agent to make them an offer of patronage — Lords' Alliance influence to clear the Fist warrants in exchange for a long-term retainer. The agent does not find them. The party is currently inside a Feywild pocket dimension.

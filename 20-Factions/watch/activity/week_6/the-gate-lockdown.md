@@ -20,4 +20,4 @@ The lockdown effectively isolates the patriars from the rest of the city. Trade 
 - [Peerage of Coin — The Private Security](../../../peerage-of-coin/activity/week_6/the-private-security.md)
 - [Watch — The Plea for Reinforcements (week 5)](../../activity/week_5/the-plea-for-reinforcements.md)
 - [Society of Baldurian Integrity — The Art Vandal](../../../society-of-baldurian-integrity/activity/week_6/the-art-vandal.md)
-- [Upper City — events](../../../../30-Places/sword-coast/baldurs-gate/upper-city/events.md)
+- [Upper City — events](../../../../30-Places/sword-coast/baldurs-gate/upper-city/events/week_6.md)
